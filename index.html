@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#07194a">
+<title>التحيات والتعارف — نص واستماع</title>
+<style>
+:root {
+  --navy:#07194a;
+  --navy-2:#0d2f72;
+  --blue:#1a69ba;
+  --orange:#ff6b00;
+  --paper:#ffffff;
+  --bg:#f3f7fb;
+  --ink:#0d2246;
+  --muted:#60718d;
+  --line:#dfe8f2;
+  --green:#2f7d32;
+  --green-soft:#f1f8f1;
+  --blue-soft:#eef6ff;
+  --shadow:0 20px 55px rgba(25,61,111,.12);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  min-height:100vh;
+  font-family:"Segoe UI",Tahoma,Arial,sans-serif;
+  color:var(--ink);
+  background:
+    radial-gradient(circle at 8% 5%,rgba(26,105,186,.09),transparent 25%),
+    radial-gradient(circle at 94% 8%,rgba(255,107,0,.08),transparent 23%),
+    var(--bg);
+}
+button{font:inherit}
+.wrapper{width:min(1200px,94vw);margin:24px auto 110px}
+.hero{padding:46px 34px;border-radius:32px;color:#fff;text-align:center;background:linear-gradient(135deg,var(--navy),var(--navy-2));box-shadow:0 28px 85px rgba(7,25,74,.22)}
+.hero .small{display:inline-block;padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.14);color:#d8e7fb;font-weight:800}
+.hero h1{margin-top:20px;font-size:clamp(2.6rem,6vw,5.7rem);line-height:1.08}
+.hero h1 span{color:#ff8738}
+.hero h2{direction:ltr;margin-top:8px;color:#ff8738;font-size:clamp(1.7rem,3.2vw,3rem)}
+.hero p{max-width:760px;margin:20px auto 0;color:#d3e1f4;line-height:1.9;font-size:1.08rem}
+.hero-actions{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-top:26px}
+.hero-actions button{border:0;border-radius:16px;padding:13px 20px;cursor:pointer;font-weight:900}
+.primary{background:linear-gradient(135deg,var(--orange),#ff8c3a);color:#fff}
+.secondary{background:rgba(255,255,255,.1);color:#fff;border:1px solid rgba(255,255,255,.16)!important}
+.section{margin-top:26px;padding:30px;background:#fff;border-radius:28px;box-shadow:var(--shadow)}
+.section-head{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;padding-bottom:18px;margin-bottom:22px;border-bottom:1px solid var(--line)}
+.section-head h3{color:var(--navy);font-size:clamp(1.7rem,3vw,2.5rem)}
+.section-head p{max-width:650px;color:var(--muted);line-height:1.75}
+.phrase-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.phrase-card{display:grid;grid-template-columns:52px 1fr auto;align-items:center;gap:14px;width:100%;padding:22px;min-height:165px;border:1px solid var(--line);border-radius:20px;background:#fff;text-align:right;cursor:pointer;transition:.2s ease}
+.phrase-card:hover{transform:translateY(-3px);border-color:#a9ccef;box-shadow:0 12px 28px rgba(26,105,186,.1)}
+.phrase-card.active{border-color:var(--orange);box-shadow:0 0 0 4px rgba(255,107,0,.09)}
+.number{width:48px;height:48px;display:grid;place-items:center;border-radius:15px;background:var(--navy);color:#fff;font-weight:900}
+.texts .en{direction:ltr;display:block;text-align:left;color:var(--navy);font-size:clamp(2rem,3.4vw,2.7rem);line-height:1.22;font-weight:900}
+.texts .ar{display:block;margin-top:10px;padding:7px 11px;color:#31496f;background:#fff7ef;border-right:4px solid var(--orange);border-radius:10px;font-size:1.42rem;font-weight:800;line-height:1.6}
+.listen{padding:8px 12px;border-radius:12px;color:#fff;background:var(--orange);font-size:.86rem;font-weight:900}
+.dialogue-list{display:grid;gap:10px}
+.dialogue-row{display:grid;grid-template-columns:44px 80px 1fr auto;align-items:center;gap:14px;width:100%;padding:20px 16px;min-height:145px;border:1px solid var(--line);border-radius:18px;background:#fff;text-align:right;cursor:pointer;transition:.2s ease}
+.dialogue-row:hover{transform:translateX(-3px)}
+.dialogue-row.active{box-shadow:0 0 0 4px rgba(26,105,186,.08)}
+.dialogue-row.khalid{border-right:5px solid var(--green);background:linear-gradient(90deg,#fff,var(--green-soft))}
+.dialogue-row.ali{border-right:5px solid var(--blue);background:linear-gradient(90deg,#fff,var(--blue-soft))}
+.step{width:38px;height:38px;display:grid;place-items:center;border-radius:50%;background:var(--navy);color:#fff;font-weight:900}
+.speaker{color:var(--navy);font-weight:900;font-size:1.05rem}
+.dialogue-text .en{direction:ltr;display:block;text-align:left;color:var(--navy);font-size:clamp(1.65rem,2.7vw,2.15rem);line-height:1.3;font-weight:900}
+.dialogue-text .ar{display:block;margin-top:8px;padding:6px 10px;color:#405575;background:rgba(255,255,255,.72);border-radius:10px;font-size:1.25rem;font-weight:800;line-height:1.55}
+.quote{margin-top:26px;padding:24px;border-radius:22px;color:#fff;text-align:center;background:linear-gradient(135deg,var(--navy),var(--navy-2));font-size:1.18rem;font-weight:900}
+.quote span{color:#ff8738}
+.player{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);width:min(900px,calc(100vw - 20px));display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:11px 13px;border-radius:20px;background:rgba(7,25,74,.95);color:#fff;box-shadow:0 20px 60px rgba(0,0,0,.3);backdrop-filter:blur(14px);z-index:100}
+.player button{border:0;border-radius:14px;padding:12px 16px;background:var(--orange);color:#fff;font-weight:900;cursor:pointer}
+.player-text strong{direction:ltr;display:block;text-align:left;font-size:1.5rem;line-height:1.3;font-weight:900}
+.player-text span{display:block;margin-top:5px;color:#d7e3f4;font-size:1.02rem;font-weight:700;line-height:1.45}
+.player-count{color:#c8d8ee;white-space:nowrap}
+@media(max-width:760px){.wrapper{width:94vw;margin-top:12px}.hero{padding:32px 18px}.section{padding:22px 14px}.section-head{display:block}.section-head p{margin-top:8px}.phrase-grid{grid-template-columns:1fr}.phrase-card{grid-template-columns:44px 1fr auto;padding:14px}.dialogue-row{grid-template-columns:38px 62px 1fr;padding:13px 10px}.dialogue-row .listen{display:none}.texts .en{font-size:1.85rem}.texts .ar{font-size:1.18rem}.dialogue-text .en{font-size:1.5rem}.dialogue-text .ar{font-size:1.08rem}.player-text strong{font-size:1.22rem}.player-text span{font-size:.92rem}.player{grid-template-columns:auto 1fr}.player-count{display:none}}
+</style>
+</head>
+<body>
+<main class="wrapper">
+  <section class="hero">
+    <span class="small">الملحق الرابع — بوابة البداية في الإنجليزية | نسخة التوازن الصحيح — مع تصحيح عرض العربية</span>
+    <h1>التحيات <span>والتعارف</span></h1>
+    <h2>Greetings &amp; Introductions</h2>
+    <p>درس نصي تفاعلي يركز على القراءة والاستماع والتكرار، من دون صور أو عناصر قد تشتت المتعلم.</p>
+    <div class="hero-actions">
+      <button class="primary" id="playDialogue">تشغيل الحوار كاملًا</button>
+      <button class="secondary" onclick="document.getElementById('phrases').scrollIntoView()">ابدأ بالعبارات</button>
+    </div>
+  </section>
+  <section class="section" id="phrases">
+    <div class="section-head"><h3>العبارات الأساسية</h3><p>اضغط على أي عبارة لسماع النطق الإنجليزي بوضوح، ثم كررها بصوت مرتفع.</p></div>
+    <div class="phrase-grid">
+      <button class="phrase-card" data-en="Peace be upon you." data-ar="السلام عليكم."><span class="number">01</span><span class="texts"><strong class="en">Peace be upon you.</strong><span class="ar">السلام عليكم.</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="And peace be upon you." data-ar="وعليكم السلام."><span class="number">02</span><span class="texts"><strong class="en">And peace be upon you.</strong><span class="ar">وعليكم السلام.</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="What's your name?" data-ar="ما اسمك؟"><span class="number">03</span><span class="texts"><strong class="en">What's your name?</strong><span class="ar">ما اسمك؟</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="My name is ..." data-ar="اسمي ..."><span class="number">04</span><span class="texts"><strong class="en">My name is ...</strong><span class="ar">اسمي ...</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="Nice to meet you." data-ar="تشرفت بمقابلتك."><span class="number">05</span><span class="texts"><strong class="en">Nice to meet you.</strong><span class="ar">تشرفت بمقابلتك.</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="Nice to meet you too. What's your name?" data-ar="تشرفت بمقابلتك أيضًا. ما اسمك؟"><span class="number">06</span><span class="texts"><strong class="en">Nice to meet you too. What's your name?</strong><span class="ar">تشرفت بمقابلتك أيضًا. ما اسمك؟</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="How are you?" data-ar="كيف حالك؟"><span class="number">07</span><span class="texts"><strong class="en">How are you?</strong><span class="ar">كيف حالك؟</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="I'm fine, thank you." data-ar="أنا بخير، شكرًا."><span class="number">08</span><span class="texts"><strong class="en">I'm fine, thank you.</strong><span class="ar">أنا بخير، شكرًا.</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="Where are you from?" data-ar="من أين أنت؟"><span class="number">09</span><span class="texts"><strong class="en">Where are you from?</strong><span class="ar">من أين أنت؟</span></span><span class="listen">استمع</span></button>
+      <button class="phrase-card" data-en="I'm from ..." data-ar="أنا من ..."><span class="number">10</span><span class="texts"><strong class="en">I'm from ...</strong><span class="ar">أنا من ...</span></span><span class="listen">استمع</span></button>
+    </div>
+  </section>
+  <section class="section" id="dialogue">
+    <div class="section-head"><h3>حوار خالد وعلي</h3><p>استمع إلى كل جملة منفردة، أو شغّل الحوار كاملًا بالترتيب من البداية إلى النهاية.</p></div>
+    <div class="dialogue-list">
+      <button class="dialogue-row khalid" data-index="0"><span class="step">1</span><span class="speaker">خالد</span><span class="dialogue-text"><strong class="en">Peace be upon you.</strong><span class="ar">السلام عليكم.</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row ali" data-index="1"><span class="step">2</span><span class="speaker">علي</span><span class="dialogue-text"><strong class="en">And peace be upon you.</strong><span class="ar">وعليكم السلام.</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row khalid" data-index="2"><span class="step">3</span><span class="speaker">خالد</span><span class="dialogue-text"><strong class="en">What's your name?</strong><span class="ar">ما اسمك؟</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row ali" data-index="3"><span class="step">4</span><span class="speaker">علي</span><span class="dialogue-text"><strong class="en">My name is Ali.</strong><span class="ar">اسمي علي.</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row khalid" data-index="4"><span class="step">5</span><span class="speaker">خالد</span><span class="dialogue-text"><strong class="en">Nice to meet you, Ali.</strong><span class="ar">تشرفت بمقابلتك يا علي.</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row ali" data-index="5"><span class="step">6</span><span class="speaker">علي</span><span class="dialogue-text"><strong class="en">Nice to meet you too. What's your name?</strong><span class="ar">تشرفت بمقابلتك أيضًا. ما اسمك؟</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row khalid" data-index="6"><span class="step">7</span><span class="speaker">خالد</span><span class="dialogue-text"><strong class="en">My name is Khalid.</strong><span class="ar">اسمي خالد.</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row ali" data-index="7"><span class="step">8</span><span class="speaker">علي</span><span class="dialogue-text"><strong class="en">Where are you from?</strong><span class="ar">من أين أنت؟</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row khalid" data-index="8"><span class="step">9</span><span class="speaker">خالد</span><span class="dialogue-text"><strong class="en">I'm from Saudi Arabia. How about you?</strong><span class="ar">أنا من السعودية، وأنت؟</span></span><span class="listen">استمع</span></button>
+      <button class="dialogue-row ali" data-index="9"><span class="step">10</span><span class="speaker">علي</span><span class="dialogue-text"><strong class="en">I'm from Yemen.</strong><span class="ar">أنا من اليمن.</span></span><span class="listen">استمع</span></button>
+    </div>
+  </section>
+  <div class="quote">كل خبير كان مبتدئًا ذات يوم... <span>ابدأ بخطوة صغيرة، وتواصل بثقة كل يوم.</span></div>
+</main>
+<div class="player"><button id="repeatBtn">استمع</button><div class="player-text"><strong id="playerEn">Choose any phrase</strong><span id="playerAr">اختر أي عبارة للاستماع إليها</span></div><div class="player-count" id="playerCount">—</div></div>
+<script>
+const dialogue=[{"speaker":"خالد","ar":"السلام عليكم.","en":"Peace be upon you."},{"speaker":"علي","ar":"وعليكم السلام.","en":"And peace be upon you."},{"speaker":"خالد","ar":"ما اسمك؟","en":"What's your name?"},{"speaker":"علي","ar":"اسمي علي.","en":"My name is Ali."},{"speaker":"خالد","ar":"تشرفت بمقابلتك يا علي.","en":"Nice to meet you, Ali."},{"speaker":"علي","ar":"تشرفت بمقابلتك أيضًا. ما اسمك؟","en":"Nice to meet you too. What's your name?"},{"speaker":"خالد","ar":"اسمي خالد.","en":"My name is Khalid."},{"speaker":"علي","ar":"من أين أنت؟","en":"Where are you from?"},{"speaker":"خالد","ar":"أنا من السعودية، وأنت؟","en":"I'm from Saudi Arabia. How about you?"},{"speaker":"علي","ar":"أنا من اليمن.","en":"I'm from Yemen."}];
+const phraseCards=[...document.querySelectorAll('.phrase-card')];const dialogueRows=[...document.querySelectorAll('.dialogue-row')];const playerEn=document.getElementById('playerEn');const playerAr=document.getElementById('playerAr');const playerCount=document.getElementById('playerCount');const playDialogueBtn=document.getElementById('playDialogue');let currentText='';let playing=false;
+function speak(text,done){speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='en-US';u.rate=.82;u.pitch=1.02;u.onend=()=>done&&done();u.onerror=()=>done&&done();speechSynthesis.speak(u)}
+function setPlayer(en,ar,count){currentText=en;playerEn.textContent=en;playerAr.textContent=ar;playerCount.textContent=count||'جاهز'}
+phraseCards.forEach((card,index)=>card.addEventListener('click',()=>{playing=false;phraseCards.forEach(c=>c.classList.remove('active'));dialogueRows.forEach(r=>r.classList.remove('active'));card.classList.add('active');const en=card.dataset.en;const ar=card.dataset.ar;setPlayer(en,ar,`${index+1} / ${phraseCards.length}`);speak(en)}));
+dialogueRows.forEach((row,index)=>row.addEventListener('click',()=>{playing=false;phraseCards.forEach(c=>c.classList.remove('active'));dialogueRows.forEach(r=>r.classList.remove('active'));row.classList.add('active');const item=dialogue[index];setPlayer(item.en,item.ar,`${index+1} / ${dialogue.length}`);speak(item.en)}));
+playDialogueBtn.addEventListener('click',()=>{if(playing){playing=false;speechSynthesis.cancel();playDialogueBtn.textContent='تشغيل الحوار كاملًا';return}playing=true;playDialogueBtn.textContent='إيقاف الحوار';document.getElementById('dialogue').scrollIntoView({behavior:'smooth'});let i=0;function nextLine(){if(!playing||i>=dialogue.length){playing=false;playDialogueBtn.textContent='تشغيل الحوار كاملًا';return}const item=dialogue[i];dialogueRows.forEach((r,j)=>r.classList.toggle('active',j===i));phraseCards.forEach(c=>c.classList.remove('active'));setPlayer(item.en,item.ar,`${i+1} / ${dialogue.length}`);speak(item.en,()=>{i++;setTimeout(nextLine,450)})}nextLine()});
+document.getElementById('repeatBtn').addEventListener('click',()=>{if(currentText)speak(currentText)});
+</script>
+</body>
+</html>
