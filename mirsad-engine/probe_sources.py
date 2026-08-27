@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+# Isolated Mirsad backend connectivity probe. It never writes production news.json.
 import json
 import sys
 import time
@@ -97,8 +98,6 @@ def main() -> int:
         f.write("\n")
 
     print(f"MIRSAD_PROBE_SUMMARY success={success} failed={len(results)-success}")
-    # The probe is useful even if some companies reject automation.
-    # Fail only when fewer than four independent official sources are reachable.
     return 0 if success >= 4 else 2
 
 
