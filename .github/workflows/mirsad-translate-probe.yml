@@ -1,0 +1,27 @@
+name: Mirsad Offline Arabic Translation Probe
+
+on:
+  push:
+    branches: ["mirsad-engine-v2"]
+    paths:
+      - "mirsad-engine/translate_probe.py"
+      - "mirsad-engine/requirements.txt"
+      - ".github/workflows/mirsad-translate-probe.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r mirsad-engine/requirements.txt
+      - name: Test offline English to Arabic translation
+        run: python mirsad-engine/translate_probe.py
