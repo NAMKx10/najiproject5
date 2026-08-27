@@ -1,0 +1,53 @@
+name: Mirsad Engine Build Test
+
+on:
+  push:
+    branches: ["mirsad-engine-v2"]
+    paths:
+      - "mirsad-engine/mirsad_engine.py"
+      - "mirsad-engine/requirements.txt"
+      - ".github/workflows/mirsad-engine-build-test.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-live-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: mirsad-engine/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r mirsad-engine/requirements.txt
+
+      - name: Build live Mirsad news snapshot
+        run: python mirsad-engine/mirsad_engine.py
+
+      - name: Validate JSON schema essentials
+        run: |
+          python - <<'PY'
+          import json
+          p=json.load(open('mirsad-engine/live-news-test.json',encoding='utf-8'))
+          assert p['schemaVersion'] >= 3
+          assert p['sourcePolicy'] == 'official-only'
+          assert len(p['items']) >= 8
+          assert all(x.get('verified') is True and x.get('source','').startswith('http') for x in p['items'])
+          print('VALIDATION_OK', len(p['items']), p.get('newestPublishedAt'))
+          PY
+
+      - name: Upload test snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: mirsad-live-news-test
+          path: mirsad-engine/live-news-test.json
+          retention-days: 7
