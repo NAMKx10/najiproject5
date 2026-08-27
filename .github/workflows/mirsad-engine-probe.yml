@@ -1,0 +1,42 @@
+name: Mirsad Engine Probe
+
+on:
+  push:
+    branches: ["mirsad-engine-v2"]
+    paths:
+      - "mirsad-engine/**"
+      - ".github/workflows/mirsad-engine-probe.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: mirsad-engine/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r mirsad-engine/requirements.txt
+
+      - name: Probe official Mirsad sources
+        run: python mirsad-engine/probe_sources.py
+
+      - name: Upload probe report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mirsad-engine-probe-report
+          path: mirsad-engine/probe-result.json
+          if-no-files-found: warn
+          retention-days: 7
