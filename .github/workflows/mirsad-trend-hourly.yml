@@ -1,0 +1,63 @@
+name: Mirsad Trend Hourly Feed
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/mirsad-trend-hourly.yml"
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Checkout isolated Mirsad engine branch
+        uses: actions/checkout@v4
+        with:
+          ref: mirsad-engine-v2
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: mirsad-engine/requirements.txt
+
+      - name: Install engine dependencies
+        run: pip install -r mirsad-engine/requirements.txt
+
+      - name: Build current Arabic official-news feed
+        run: python mirsad-engine/mirsad_production.py
+
+      - name: Validate current feed
+        run: |
+          python - <<'PY'
+          import json,re
+          p=json.load(open('mirsad-engine/news.json',encoding='utf-8'))
+          assert p.get('engine') == 'mirsad-github-v2'
+          assert p.get('sourcePolicy') == 'official-only'
+          assert len(p.get('items',[])) >= 8
+          ar=re.compile(r'[\u0600-\u06ff]')
+          assert all(ar.search(x.get('title','')) and ar.search(x.get('summary','')) for x in p['items'])
+          assert all(x.get('verified') is True and x.get('source','').startswith('http') for x in p['items'])
+          print('MIRSAD_FEED_VALID',len(p['items']),p.get('newestPublishedAt'))
+          PY
+
+      - name: Publish feed to isolated branch
+        run: |
+          git config user.name "Mirsad Automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add mirsad-engine/news.json
+          if git diff --cached --quiet; then
+            echo "Feed content unchanged."
+          else
+            git commit -m "Mirsad: update live Arabic news feed"
+            git push origin HEAD:mirsad-engine-v2
+          fi
