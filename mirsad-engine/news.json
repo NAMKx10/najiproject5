@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-27T21:32:42.759258+00:00",
-  "checkedAt": "2026-08-27T21:32:42.759258+00:00",
-  "newestPublishedAt": "2026-08-27T18:36:08+00:00",
+  "updatedAt": "2026-08-28T06:06:17.159679+00:00",
+  "checkedAt": "2026-08-28T06:06:17.159679+00:00",
+  "newestPublishedAt": "2026-08-27T23:04:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,27 @@
     }
   ],
   "items": [
+    {
+      "id": "b14625001c65ae55edb4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء سير عمل إبداعي للوكلاء مع Amazon Quick and fal",
+      "titleOriginal": "Build agentic creative workflows with Amazon Quick and fal",
+      "dateLabel": "27 أغسطس 2026",
+      "dateISO": "2026-08-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "تنتج الفرق الإبداعية المزيد من الأصول أكثر من أي وقت مضى، ولكن الأدوات المجزأة والسياق اليدوي ينقلان الإنتاج البطيء. يوضح هذا المنشور كيفية بناء حزام عامل قابل لإعادة الاستخدام باستخدام",
+      "summaryOriginal": "Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build agentic creative workflows with Amazon Quick and fal"
+    },
     {
       "id": "e7b1cced6d298e16900a",
       "company": "Amazon",
@@ -364,27 +385,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Preparing data for supervised fine-tuning Part 1: Formatting and quality"
-    },
-    {
-      "id": "b928bf3de26b719457b4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ربط Amazon Bedrock AgentCore بقواعد المعرفة عبر الحسابات",
-      "titleOriginal": "Connect Amazon Bedrock AgentCore to cross-account knowledge bases",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعلم كيف يمكن لوكلاء Amazon Bedrock AgentCore في حساب واحد توليد إجابات من قاعدة معارف Amazon Bedrock المدعومة من Amazon Redshift Serverless في حساب آخر",
-      "summaryOriginal": "Learn how Amazon Bedrock AgentCore agents in one account can generate answers from an Amazon Bedrock knowledge base backed by Amazon Redshift Serverless in another account, without copying source data. This post covers the architecture, security boundary, and two orchestration models: a code-based Strands agent and a declarative AgentCore harness.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Connect Amazon Bedrock AgentCore to cross-account knowledge bases"
     },
     {
       "id": "73f5435f3f8bbf89e908",
