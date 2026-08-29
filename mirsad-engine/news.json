@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-29T09:01:43.453373+00:00",
-  "checkedAt": "2026-08-29T09:01:43.453373+00:00",
+  "updatedAt": "2026-08-29T11:39:52.218439+00:00",
+  "checkedAt": "2026-08-29T11:39:52.218439+00:00",
   "newestPublishedAt": "2026-08-28T19:31:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -89,6 +89,16 @@
       "ok": true,
       "items": 10,
       "error": null
+    },
+    {
+      "company": "Google Apps Script",
+      "kind": "collector",
+      "ok": false,
+      "items": 0,
+      "accepted": 0,
+      "duplicates": 0,
+      "rejectedNonOfficial": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://script.google.com/macros/s/AKfycbxki3NpmfgEYFGEFPtbGmgkaIONegqw6ng5l2SNMQVs_5qWXlD-JbNz6FUkJoL5IOwBAw/exec"
     }
   ],
   "items": [
@@ -111,7 +121,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Batch write and discover records in Amazon SageMaker Feature Store"
+      "searchAliases": "Amazon Batch write and discover records in Amazon SageMaker Feature Store",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "5968b0f0ed9c9be62583",
@@ -132,7 +146,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Decathlon runs demand forecasting at scale with Chronos-2"
+      "searchAliases": "Amazon How Decathlon runs demand forecasting at scale with Chronos-2",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "88faca503e5b73620673",
@@ -153,7 +171,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components"
+      "searchAliases": "Amazon Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "0800406a6118c6eec343",
@@ -174,7 +196,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX"
+      "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "53517f118e7a0b48e186",
@@ -195,7 +221,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups"
+      "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "90a610e48d460b39066a",
@@ -216,7 +246,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language"
+      "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "b14625001c65ae55edb4",
@@ -237,7 +271,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build agentic creative workflows with Amazon Quick and fal"
+      "searchAliases": "Amazon Build agentic creative workflows with Amazon Quick and fal",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "e7b1cced6d298e16900a",
@@ -258,7 +296,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India"
+      "searchAliases": "Amazon Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "7a03b012ba51e728eca6",
@@ -279,7 +321,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics"
+      "searchAliases": "Amazon Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "ee832dbeddf813774d37",
@@ -300,7 +346,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2"
+      "searchAliases": "Amazon Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "d3ff904f39acb85b4355",
@@ -321,7 +371,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
+      "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "d97b437e78c634e4cea7",
@@ -342,7 +396,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+      "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "9df7ca430bcdbb8d9ff4",
@@ -363,7 +421,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil"
+      "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "4d5bef2a1cab923659c5",
@@ -384,7 +446,11 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     },
     {
       "id": "d49f96bfc424a0625c42",
@@ -405,7 +471,12 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations"
+      "searchAliases": "Amazon Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "collectors": [
+        "github-direct"
+      ],
+      "collector": "github-direct"
     }
-  ]
+  ],
+  "collectorMode": "hybrid-direct+google-apps-script"
 }
