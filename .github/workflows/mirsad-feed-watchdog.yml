@@ -1,0 +1,61 @@
+name: Mirsad Feed Watchdog
+
+on:
+  schedule:
+    - cron: "3,13,23,33,43,53 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: mirsad-feed-watchdog
+  cancel-in-progress: true
+
+jobs:
+  check-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Check engine heartbeat and recover if stale
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          RAW_URL="https://raw.githubusercontent.com/${REPO}/mirsad-engine-v2/mirsad-engine/news.json?ts=$(date +%s)"
+          TMP_FILE="$(mktemp)"
+
+          if ! curl -fsSL --retry 2 --connect-timeout 10 --max-time 25 "$RAW_URL" -o "$TMP_FILE"; then
+            echo "Feed could not be read. Dispatching fast recovery scan."
+            gh workflow run mirsad-trend-hourly.yml --repo "$REPO" --ref main
+            exit 0
+          fi
+
+          AGE_SECONDS="$(python - "$TMP_FILE" <<'PY'
+          import json,sys
+          from datetime import datetime,timezone
+
+          with open(sys.argv[1],encoding='utf-8') as f:
+              data=json.load(f)
+          stamp=data.get('checkedAt') or data.get('updatedAt')
+          if not stamp:
+              print(999999)
+              raise SystemExit
+          dt=datetime.fromisoformat(stamp.replace('Z','+00:00'))
+          if dt.tzinfo is None:
+              dt=dt.replace(tzinfo=timezone.utc)
+          age=max(0,int((datetime.now(timezone.utc)-dt.astimezone(timezone.utc)).total_seconds()))
+          print(age)
+          PY
+          )"
+
+          echo "Feed age: ${AGE_SECONDS}s"
+
+          if [ "$AGE_SECONDS" -gt 2700 ]; then
+            echo "Feed is older than 45 minutes. Dispatching fast recovery scan."
+            gh workflow run mirsad-trend-hourly.yml --repo "$REPO" --ref main
+          else
+            echo "Feed heartbeat is healthy. No recovery needed."
+          fi
