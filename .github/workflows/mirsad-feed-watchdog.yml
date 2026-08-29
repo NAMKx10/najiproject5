@@ -1,6 +1,10 @@
 name: Mirsad Feed Watchdog
 
 on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/mirsad-feed-watchdog.yml"
   schedule:
     - cron: "3,13,23,33,43,53 * * * *"
   workflow_dispatch:
