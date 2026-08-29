@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-29T11:48:57.509583+00:00",
-  "checkedAt": "2026-08-29T11:48:57.509583+00:00",
+  "updatedAt": "2026-08-29T11:51:24.128311+00:00",
+  "checkedAt": "2026-08-29T11:51:24.128311+00:00",
   "newestPublishedAt": "2026-08-28T19:31:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,11 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Batch write and discover records in Amazon SageMaker Feature Store",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon Batch write and discover records in Amazon SageMaker Feature Store"
     },
     {
       "id": "5968b0f0ed9c9be62583",
@@ -136,11 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Decathlon runs demand forecasting at scale with Chronos-2",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon How Decathlon runs demand forecasting at scale with Chronos-2"
     },
     {
       "id": "88faca503e5b73620673",
@@ -161,11 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components"
     },
     {
       "id": "0800406a6118c6eec343",
@@ -186,11 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX"
     },
     {
       "id": "53517f118e7a0b48e186",
@@ -211,11 +195,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups"
     },
     {
       "id": "90a610e48d460b39066a",
@@ -236,11 +216,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language"
     },
     {
       "id": "b14625001c65ae55edb4",
@@ -261,11 +237,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build agentic creative workflows with Amazon Quick and fal",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon Build agentic creative workflows with Amazon Quick and fal"
     },
     {
       "id": "e7b1cced6d298e16900a",
@@ -286,11 +258,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India"
     },
     {
       "id": "7a03b012ba51e728eca6",
@@ -311,11 +279,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics"
     },
     {
       "id": "ee832dbeddf813774d37",
@@ -336,11 +300,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "Amazon Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2"
     },
     {
       "id": "d3ff904f39acb85b4355",
@@ -361,11 +321,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
     },
     {
       "id": "d97b437e78c634e4cea7",
@@ -386,11 +342,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
     },
     {
       "id": "9df7ca430bcdbb8d9ff4",
@@ -411,65 +363,51 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil",
-      "collectors": [
-        "github-direct"
-      ],
-      "collector": "github-direct"
+      "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil"
     },
     {
-      "id": "bfb633b845f62c20d7c2",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "كيف حولت GoDaddy تحليلاتها مع Amazon Quick",
-      "titleOriginal": "How GoDaddy transformed its analytics with Amazon Quick",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "business",
-      "importance": 82,
-      "summary": "في هذا المنشور، ستتعرف على كيفية انتقال GoDaddy من أداة ذكاء الأعمال القديمة (BI) إلى Amazon Quick. كان هذا تحولًا لمدة عامين أدى إلى",
-      "summaryOriginal": "In this post, you will learn how GoDaddy migrated from their legacy business intelligence (BI) tool to Amazon Quick. This was a two-year transformation that delivered results across every dimension of the business: 15,000 hours saved annually, 50% reduction in dashboard count, rendering times cut to under 5 seconds, and AI-powered self-service analytics now accessible to every employee.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-godaddy-transformed-its-analytics-with-amazon-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How GoDaddy transformed its analytics with Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-26T16:51:53+00:00"
-    },
-    {
-      "id": "942d7fbd852309998063",
-      "company": "Amazon",
-      "logoText": "AWS",
+      "id": "4d5bef2a1cab923659c5",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "مستجد تقني",
-      "title": "جدولة مواعيد ناتيرا الذكية مع Amazon Bedrock AgentCore",
-      "titleOriginal": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
+      "title": "توسع NVIDIA NVLink Fusion مع ذاكرة NVHBM مخصصة عالية النطاق الترددي",
+      "titleOriginal": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
       "dateLabel": "26 أغسطس 2026",
       "dateISO": "2026-08-26",
       "category": "tools",
       "importance": 78,
-      "summary": "تعرف على كيفية قيام ناتيرا ببناء وكيل صوتي آلي على Amazon Bedrock AgentCore يتيح للمرضى حجز مواعيد البضع الوريدي المتنقل من خلال محادثة طبيعية. المنشور",
-      "summaryOriginal": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation. The post covers the dual-WebSocket bridge, event-driven latency masking, and progressive-trust authentication behind 100% tool-calling accuracy and sub-7-second latency.",
+      "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
+      "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/nateras-intelligent-appointment-scheduling-with-amazon-bedrock-agentcore/",
+      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
+    },
+    {
+      "id": "d49f96bfc424a0625c42",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقييم أي إطار عمل للوكيل باستخدام تقييمات Amazon Bedrock AgentCore",
+      "titleOriginal": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "تفصل تقييمات Amazon Bedrock AgentCore تقييم الوكيل عن الإطار الذي تبني عليه. طالما أن وكيلك يصدر القياس عن بعد OpenTelemetry، يمكن للخدمة تسجيل",
+      "summaryOriginal": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the OpenAI Agents SDK, Google ADK, the Claude Agent SDK, or Strands Agents. This post explains how the framework-agnostic contract works.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-26T16:36:35+00:00"
+      "searchAliases": "Amazon Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastFastCheckAt": "2026-08-29T11:48:57.509583+00:00"
+  "lastDeepCheckAt": "2026-08-29T11:51:24.128311+00:00"
 }
