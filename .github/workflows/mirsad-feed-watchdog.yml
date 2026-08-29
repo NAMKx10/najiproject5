@@ -6,7 +6,7 @@ on:
     paths:
       - ".github/workflows/mirsad-feed-watchdog.yml"
   schedule:
-    - cron: "3,13,23,33,43,53 * * * *"
+    - cron: "2-59/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -57,8 +57,8 @@ jobs:
 
           echo "Feed age: ${AGE_SECONDS}s"
 
-          if [ "$AGE_SECONDS" -gt 2700 ]; then
-            echo "Feed is older than 45 minutes. Dispatching fast recovery scan."
+          if [ "$AGE_SECONDS" -gt 720 ]; then
+            echo "Feed is older than 12 minutes. Dispatching fast recovery scan."
             gh workflow run mirsad-trend-hourly.yml --repo "$REPO" --ref main
           else
             echo "Feed heartbeat is healthy. No recovery needed."
