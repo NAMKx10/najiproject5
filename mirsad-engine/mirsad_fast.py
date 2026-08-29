@@ -12,6 +12,7 @@ import mirsad_production as production
 OUTPUT = Path("mirsad-engine/news.json")
 MAX_FINAL_ITEMS = 15
 MAX_AGE_DAYS = 35
+MAX_NEW_CANDIDATES = 6
 
 
 def canonical_url(url: str) -> str:
@@ -27,6 +28,10 @@ def item_time(item: dict) -> datetime:
     value = item.get("publishedAt") or item.get("dateISO")
     parsed = base.parse_date(value)
     return parsed or datetime(1970, 1, 1, tzinfo=timezone.utc)
+
+
+def raw_time(raw: dict) -> datetime:
+    return raw.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 
 def main() -> int:
@@ -46,9 +51,10 @@ def main() -> int:
     }
 
     feed_reports = []
-    additions = []
+    raw_candidates = []
     duplicates = 0
 
+    # Fetch all lightweight official feeds first. Do not translate anything yet.
     for cfg in base.FEEDS:
         rows, err = base.collect_feed(cfg)
         feed_reports.append({
@@ -68,14 +74,22 @@ def main() -> int:
             if url in existing_by_url:
                 duplicates += 1
                 continue
+            raw["url"] = url
+            raw_candidates.append(raw)
 
-            item = production.make_item(raw)
-            item["collector"] = "github-fast"
-            item["collectors"] = ["github-fast"]
-            if published:
-                item["publishedAt"] = published.isoformat()
-            additions.append(item)
-            existing_by_url[url] = item
+    # Only the newest unseen candidates can possibly enter the compact 15-item feed.
+    raw_candidates.sort(key=raw_time, reverse=True)
+    raw_candidates = raw_candidates[:MAX_NEW_CANDIDATES]
+
+    additions = []
+    for raw in raw_candidates:
+        item = production.make_item(raw)
+        item["collector"] = "github-fast"
+        item["collectors"] = ["github-fast"]
+        published = raw.get("published")
+        if published:
+            item["publishedAt"] = published.isoformat()
+        additions.append(item)
 
     # Keep the last deep-scan health for HTML sources, replace only feed status.
     old_health = [
@@ -109,7 +123,8 @@ def main() -> int:
     OUTPUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
         f"MIRSAD_FAST_OK sources={sum(1 for r in feed_reports if r['ok'])} "
-        f"added={len(additions)} duplicates={duplicates} final={len(combined)}",
+        f"candidates={len(raw_candidates)} added={len(additions)} "
+        f"duplicates={duplicates} final={len(combined)}",
         flush=True,
     )
     return 0
