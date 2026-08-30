@@ -39,23 +39,24 @@ jobs:
       - name: Install engine dependencies
         run: pip install -r mirsad-engine/requirements.txt
 
-      - name: Collect independent trend signals
-        run: python mirsad-engine/trends_engine.py
+      - name: Collect balanced independent trend signals
+        run: python mirsad-engine/trends_live.py
 
       - name: Validate trend feed
         run: |
           python - <<'PY'
           import json
+          from collections import Counter
           p=json.load(open('mirsad-engine/trends.json',encoding='utf-8'))
           assert p.get('engine') == 'mirsad-trends-v1'
           assert p.get('sourcePolicy') == 'independent-trend-signals'
           items=p.get('items',[])
           assert len(items) >= 12
-          platforms={x.get('sourcePlatform') for x in items}
-          assert len(platforms) >= 2
+          counts=Counter(x.get('sourcePlatform') for x in items)
+          assert len(counts) >= 2
           assert all(0 <= int(x.get('strengthScore',-1)) <= 100 for x in items)
           assert all(str(x.get('url','')).startswith('http') for x in items)
-          print('MIRSAD_TREND_FEED_VALID',len(items),sorted(platforms))
+          print('MIRSAD_TREND_FEED_VALID',len(items),dict(counts))
           PY
 
       - name: Publish trend feed to isolated branch
