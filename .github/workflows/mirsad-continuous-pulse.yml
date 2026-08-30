@@ -1,4 +1,4 @@
-name: Mirsad Continuous News Pulse
+name: Mirsad Continuous Data Pulse
 
 on:
   push:
@@ -15,7 +15,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: mirsad-continuous-news-pulse
+  group: mirsad-continuous-data-pulse
   cancel-in-progress: true
 
 jobs:
@@ -23,18 +23,23 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 65
     steps:
-      - name: Keep fast collector awake every five minutes
+      - name: Keep news and trend collectors awake every five minutes
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
         run: |
           set -u
-          echo "Mirsad continuous pulse started at $(date -u +%FT%TZ)"
+          echo "Mirsad continuous data pulse started at $(date -u +%FT%TZ)"
 
           for i in $(seq 1 12); do
             echo "Pulse $i/12 at $(date -u +%FT%TZ)"
+
             if ! gh workflow run mirsad-trend-hourly.yml --repo "$REPO" --ref main; then
-              echo "Dispatch failed on pulse $i; watchdog and cron remain as fallbacks."
+              echo "News dispatch failed on pulse $i; cron and watchdog remain fallbacks."
+            fi
+
+            if ! gh workflow run mirsad-trends-live.yml --repo "$REPO" --ref main; then
+              echo "Trend dispatch failed on pulse $i; its cron remains a fallback."
             fi
 
             if [ "$i" -lt 12 ]; then
