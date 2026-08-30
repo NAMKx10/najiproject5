@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-30T01:23:35.881347+00:00",
-  "checkedAt": "2026-08-30T01:23:35.881347+00:00",
+  "updatedAt": "2026-08-30T01:24:00.478710+00:00",
+  "checkedAt": "2026-08-30T01:24:00.478710+00:00",
   "newestPublishedAt": "2026-08-29T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -387,33 +387,33 @@
       "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil"
     },
     {
-      "id": "75fd8ef2d7e266302d7d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقييم أي إطار عمل للوكيل باستخدام تقييمات Amazon Bedrock AgentCore",
-      "titleOriginal": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "id": "2f15d4c8aac72d1c5d43",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "توسع NVIDIA NVLink Fusion مع ذاكرة NVHBM مخصصة عالية النطاق الترددي",
+      "titleOriginal": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
       "dateLabel": "26 أغسطس 2026",
       "dateISO": "2026-08-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "تفصل تقييمات Amazon Bedrock AgentCore تقييم الوكيل عن الإطار الذي تبني عليه. طالما أن وكيلك يصدر القياس عن بعد OpenTelemetry، يمكن للخدمة تسجيل",
-      "summaryOriginal": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the service can score it, whether you use LangGraph, LlamaIndex, the OpenAI Agents SDK, Google ADK, the Claude Agent SDK, or Strands Agents. This post explains how the framework-agnostic contract works.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
+      "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-08-26T19:13:35+00:00"
+      "publishedAt": "2026-08-26T21:05:30+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-29T23:24:26.777786+00:00",
-  "lastFastCheckAt": "2026-08-30T01:23:35.881347+00:00"
+  "lastFastCheckAt": "2026-08-30T01:24:00.478710+00:00"
 }
