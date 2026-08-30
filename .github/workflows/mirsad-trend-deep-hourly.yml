@@ -37,6 +37,8 @@ jobs:
       - name: Install engine dependencies
         run: pip install -r mirsad-engine/requirements.txt
 
+      # The deep pass rebuilds the richer backend inventory; the app can still
+      # display only a few highlights on its home screen.
       - name: Deep scan all official sources
         run: python mirsad-engine/mirsad_production.py
 
