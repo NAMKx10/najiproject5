@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-30T20:19:33.379261+00:00",
-  "checkedAt": "2026-08-30T20:19:33.379261+00:00",
+  "updatedAt": "2026-08-30T20:24:36.807471+00:00",
+  "checkedAt": "2026-08-30T20:24:36.807471+00:00",
   "newestPublishedAt": "2026-08-29T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -618,6 +618,32 @@
       "searchAliases": "xAI Grok Bot is now included with more plans"
     },
     {
+      "id": "fb6615779c1e53ac4e06",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الجرانيت 4.2 LLMs: كيف يتم بناؤها",
+      "titleOriginal": "Granite 4.2 LLMs: How They're Built",
+      "dateLabel": "25 أغسطس 2026",
+      "dateISO": "2026-08-25",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-25T15:14:14+00:00"
+    },
+    {
       "id": "899aa55e9ed0c4a35cbd",
       "company": "Apple",
       "logoText": "",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T07:05:00+00:00"
-    },
-    {
-      "id": "30aa69bebc0ccf5bfada",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تظهر نتائج Jalapeño الأولى السرعة والكفاءة الرائدة في الصناعة في استدلال الذكاء الاصطناعي",
-      "titleOriginal": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "Jalapeño هي شريحة استدلال مخصصة من OpenAI توفر استدلالًا أسرع وأكثر كفاءة في استخدام الطاقة للذكاء الاصطناعي، مع إنتاجية أعلى ووقت استجابة أقل للنماذج الحديثة.",
-      "summaryOriginal": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/jalapeno-first-results",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-30T20:05:40.132985+00:00",
-  "lastFastCheckAt": "2026-08-30T20:19:33.379261+00:00"
+  "lastFastCheckAt": "2026-08-30T20:24:36.807471+00:00"
 }
