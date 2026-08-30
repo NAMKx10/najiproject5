@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-30T06:58:16.582040+00:00",
-  "checkedAt": "2026-08-30T06:58:16.582040+00:00",
+  "updatedAt": "2026-08-30T07:27:07.864986+00:00",
+  "checkedAt": "2026-08-30T07:27:07.864986+00:00",
   "newestPublishedAt": "2026-08-29T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -387,7 +387,7 @@
       "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil"
     },
     {
-      "id": "2f15d4c8aac72d1c5d43",
+      "id": "4d5bef2a1cab923659c5",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -400,20 +400,14 @@
       "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
       "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory",
+      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-26T21:05:30+00:00"
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-08-30T01:41:39.237942+00:00",
-  "lastFastCheckAt": "2026-08-30T06:58:16.582040+00:00"
+  "lastDeepCheckAt": "2026-08-30T07:27:07.864986+00:00"
 }
