@@ -10,9 +10,9 @@ import mirsad_engine as base
 import mirsad_production as production
 
 OUTPUT = Path("mirsad-engine/news.json")
-MAX_FINAL_ITEMS = 15
+MAX_FINAL_ITEMS = 30
 MAX_AGE_DAYS = 35
-MAX_NEW_CANDIDATES = 6
+MAX_NEW_CANDIDATES = 10
 
 
 def canonical_url(url: str) -> str:
@@ -77,7 +77,7 @@ def main() -> int:
             raw["url"] = url
             raw_candidates.append(raw)
 
-    # Only the newest unseen candidates can possibly enter the compact 15-item feed.
+    # Only the newest unseen candidates can enter the richer 30-item feed.
     raw_candidates.sort(key=raw_time, reverse=True)
     raw_candidates = raw_candidates[:MAX_NEW_CANDIDATES]
 
