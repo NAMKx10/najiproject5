@@ -16,8 +16,8 @@ OUTPUT = Path("mirsad-engine/news.json")
 TMP_OUTPUT = Path("mirsad-engine/live-news-test.json")
 AR_RE = re.compile(r"[\u0600-\u06ff]")
 
-# A compact feed is deliberate: it keeps the app fast and the translation quota stable.
-base.MAX_FINAL_ITEMS = 15
+# Keep a richer backend inventory while the app itself still shows only highlights.
+base.MAX_FINAL_ITEMS = 30
 base.MAX_AGE_DAYS = 35
 base.FRESHNESS_GUARD_DAYS = 10
 
