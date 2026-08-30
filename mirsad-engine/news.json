@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-30T13:18:29.644708+00:00",
-  "checkedAt": "2026-08-30T13:18:29.644708+00:00",
+  "updatedAt": "2026-08-30T13:23:02.910409+00:00",
+  "checkedAt": "2026-08-30T13:23:02.910409+00:00",
   "newestPublishedAt": "2026-08-29T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -618,6 +618,58 @@
       "searchAliases": "xAI Grok Bot is now included with more plans"
     },
     {
+      "id": "6b0aad99771439c7a76c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "الكومة الكاملة وراء الذكاء الوفير",
+      "titleOriginal": "The full stack behind abundant intelligence",
+      "dateLabel": "25 أغسطس 2026",
+      "dateISO": "2026-08-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشرح سارة فراير، المديرة المالية لشركة OpenAI، كيف أن التقدم عبر الرقائق والحوسبة والنماذج والمنتجات مركب لتقديم ذكاء أكثر فائدة على نطاق أوسع وبتكلفة أقل.",
+      "summaryOriginal": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The full stack behind abundant intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-25T07:05:00+00:00"
+    },
+    {
+      "id": "30aa69bebc0ccf5bfada",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تظهر نتائج Jalapeño الأولى السرعة والكفاءة الرائدة في الصناعة في استدلال الذكاء الاصطناعي",
+      "titleOriginal": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "dateLabel": "25 أغسطس 2026",
+      "dateISO": "2026-08-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "Jalapeño هي شريحة استدلال مخصصة من OpenAI توفر استدلالًا أسرع وأكثر كفاءة في استخدام الطاقة للذكاء الاصطناعي، مع إنتاجية أعلى ووقت استجابة أقل للنماذج الحديثة.",
+      "summaryOriginal": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/jalapeno-first-results",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-25T07:00:00+00:00"
+    },
+    {
       "id": "fb6615779c1e53ac4e06",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -679,50 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Cohere The State of Sovereign AI Adoption (Research) | Cohere"
-    },
-    {
-      "id": "f99011cf05f8a2443fd0",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم Apple M6 و M5 Ultra لقفزة كبيرة في الأداء وحوسبة الذكاء الاصطناعي",
-      "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "طرحت شركة آبل هاتف M6 في ماك ميني الجديد و M5 Ultra في ماك ستوديو الجديد، مما يوفر قفزة استثنائية في الأداء وقدرات الذكاء الاصطناعي.",
-      "summaryOriginal": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute"
-    },
-    {
-      "id": "46ab67b6efca5b83562e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الشفاء المدرك للتكميم: نموذج مضغوط رباعي البت يتفوق على النسخة الأصلية كاملة الدقة",
-      "titleOriginal": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-08-30T13:18:29.644708+00:00"
+  "lastDeepCheckAt": "2026-08-30T13:18:29.644708+00:00",
+  "lastFastCheckAt": "2026-08-30T13:23:02.910409+00:00"
 }
