@@ -1,0 +1,52 @@
+name: Mirsad Continuous News Pulse
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/mirsad-continuous-pulse.yml"
+  schedule:
+    # Fallback starter only. Once a pulse is alive it chains itself.
+    - cron: "11 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: mirsad-continuous-news-pulse
+  cancel-in-progress: true
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 65
+    steps:
+      - name: Keep fast collector awake every five minutes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -u
+          echo "Mirsad continuous pulse started at $(date -u +%FT%TZ)"
+
+          for i in $(seq 1 12); do
+            echo "Pulse $i/12 at $(date -u +%FT%TZ)"
+            if ! gh workflow run mirsad-trend-hourly.yml --repo "$REPO" --ref main; then
+              echo "Dispatch failed on pulse $i; watchdog and cron remain as fallbacks."
+            fi
+
+            if [ "$i" -lt 12 ]; then
+              sleep 300
+            fi
+          done
+
+      - name: Chain the next pulse window
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          echo "Starting next pulse window..."
+          gh workflow run mirsad-continuous-pulse.yml --repo "$REPO" --ref main || true
