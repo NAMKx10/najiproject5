@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T15:10:44.122142+00:00",
-  "checkedAt": "2026-08-31T15:10:44.122142+00:00",
+  "updatedAt": "2026-08-31T15:15:26.508232+00:00",
+  "checkedAt": "2026-08-31T15:15:26.508232+00:00",
   "newestPublishedAt": "2026-08-31T04:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -639,6 +639,32 @@
       "searchAliases": "xAI Grok Bot is now included with more plans"
     },
     {
+      "id": "6c12dfa8deeff02c5d09",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "تقدم Apple M6 و M5 Ultra لقفزة كبيرة في الأداء وحوسبة الذكاء الاصطناعي",
+      "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "dateLabel": "25 أغسطس 2026",
+      "dateISO": "2026-08-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "طرحت شركة آبل هاتف M6 في ماك ميني الجديد و M5 Ultra في ماك ستوديو الجديد، مما يوفر قفزة استثنائية في الأداء وقدرات الذكاء الاصطناعي.",
+      "summaryOriginal": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-25T12:58:13.056000+00:00"
+    },
+    {
       "id": "46ab67b6efca5b83562e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built"
-    },
-    {
-      "id": "fab15c8164809d74885f",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم Apple Mac Studio الجديد مع M5 Max و M5 Ultra",
-      "titleOriginal": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Apple عن Mac Studio الجديد، الذي يضم M5 Max و M5 Ultra الجديد كليًا، مما يوفر قفزة هائلة في أداء الذكاء الاصطناعي ورسومات أسرع.",
-      "summaryOriginal": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple introduces new Mac Studio with M5 Max and M5 Ultra"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T15:06:46.032707+00:00",
-  "lastFastCheckAt": "2026-08-31T15:10:44.122142+00:00"
+  "lastFastCheckAt": "2026-08-31T15:15:26.508232+00:00"
 }
