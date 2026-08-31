@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T15:20:30.876406+00:00",
-  "checkedAt": "2026-08-31T15:20:30.876406+00:00",
+  "updatedAt": "2026-08-31T15:25:35.693824+00:00",
+  "checkedAt": "2026-08-31T15:25:35.693824+00:00",
   "newestPublishedAt": "2026-08-31T04:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -639,6 +639,32 @@
       "searchAliases": "xAI Grok Bot is now included with more plans"
     },
     {
+      "id": "fb6615779c1e53ac4e06",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الجرانيت 4.2 LLMs: كيف يتم بناؤها",
+      "titleOriginal": "Granite 4.2 LLMs: How They're Built",
+      "dateLabel": "25 أغسطس 2026",
+      "dateISO": "2026-08-25",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-25T15:14:14+00:00"
+    },
+    {
       "id": "899aa55e9ed0c4a35cbd",
       "company": "Apple",
       "logoText": "",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T11:39:24+00:00"
-    },
-    {
-      "id": "6b0aad99771439c7a76c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الكومة الكاملة وراء الذكاء الوفير",
-      "titleOriginal": "The full stack behind abundant intelligence",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشرح سارة فراير، المديرة المالية لشركة OpenAI، كيف أن التقدم عبر الرقائق والحوسبة والنماذج والمنتجات مركب لتقديم ذكاء أكثر فائدة على نطاق أوسع وبتكلفة أقل.",
-      "summaryOriginal": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The full stack behind abundant intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T07:05:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T15:06:46.032707+00:00",
-  "lastFastCheckAt": "2026-08-31T15:20:30.876406+00:00"
+  "lastFastCheckAt": "2026-08-31T15:25:35.693824+00:00"
 }
