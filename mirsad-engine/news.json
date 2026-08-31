@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T18:53:27.382140+00:00",
-  "checkedAt": "2026-08-31T18:53:27.382140+00:00",
-  "newestPublishedAt": "2026-08-31T04:00:00+00:00",
+  "updatedAt": "2026-08-31T18:58:32.475083+00:00",
+  "checkedAt": "2026-08-31T18:58:32.475083+00:00",
+  "newestPublishedAt": "2026-08-31T18:56:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ea27cd4e7b1fc026d949",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "بناء تطبيقات دردشة متعددة الوكلاء على بيانات المؤسسة باستخدام قاعدة المعرفة المدارة من Amazon Bedrock",
+      "titleOriginal": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+      "dateLabel": "31 أغسطس 2026",
+      "dateISO": "2026-08-31",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية إنشاء تطبيق دردشة مستند وكيل متعدد المستأجرين على قاعدة المعارف المدارة من Amazon Bedrock، حيث يقوم المستخدمون بتحميل المستندات ويسألون على الفور",
+      "summaryOriginal": "Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and retrieval flows, the asynchronous indexing lifecycle, per-user data isolation, and best practices for operating the solution at scale.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-31T18:56:12+00:00"
+    },
     {
       "id": "94e957d0fd96c70c7db6",
       "company": "OpenAI",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T12:58:13.056000+00:00"
-    },
-    {
-      "id": "46ab67b6efca5b83562e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الشفاء المدرك للتكميم: نموذج مضغوط رباعي البت يتفوق على النسخة الأصلية كاملة الدقة",
-      "titleOriginal": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T11:39:24+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T15:06:46.032707+00:00",
-  "lastFastCheckAt": "2026-08-31T18:53:27.382140+00:00"
+  "lastFastCheckAt": "2026-08-31T18:58:32.475083+00:00"
 }
