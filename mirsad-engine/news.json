@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T13:57:39.018695+00:00",
-  "checkedAt": "2026-08-31T13:57:39.018695+00:00",
-  "newestPublishedAt": "2026-08-29T00:00:00+00:00",
+  "updatedAt": "2026-08-31T14:02:43.477325+00:00",
+  "checkedAt": "2026-08-31T14:02:43.477325+00:00",
+  "newestPublishedAt": "2026-08-31T04:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "94e957d0fd96c70c7db6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "علامة بارزة في توسيع نطاق الوصول إلى الذكاء الاصطناعي",
+      "titleOriginal": "A milestone in expanding access to AI",
+      "dateLabel": "31 أغسطس 2026",
+      "dateISO": "2026-08-31",
+      "category": "models",
+      "importance": 92,
+      "summary": "تصل إعلانات ChatGPT إلى 1 $ في معدل تشغيل الإيرادات السنوية وتتوسع على مستوى العالم، مما يدعم الوصول الأوسع إلى من خلال خيارات مجانية وبأسعار معقولة.",
+      "summaryOriginal": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI A milestone in expanding access to AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-31T04:00:00+00:00"
+    },
     {
       "id": "bf7de9ae6ebd6abecdb6",
       "company": "xAI",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T11:39:24+00:00"
-    },
-    {
-      "id": "6b0aad99771439c7a76c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الكومة الكاملة وراء الذكاء الوفير",
-      "titleOriginal": "The full stack behind abundant intelligence",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشرح سارة فراير، المديرة المالية لشركة OpenAI، كيف أن التقدم عبر الرقائق والحوسبة والنماذج والمنتجات مركب لتقديم ذكاء أكثر فائدة على نطاق أوسع وبتكلفة أقل.",
-      "summaryOriginal": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The full stack behind abundant intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T07:05:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T07:02:58.394058+00:00",
-  "lastFastCheckAt": "2026-08-31T13:57:39.018695+00:00"
+  "lastFastCheckAt": "2026-08-31T14:02:43.477325+00:00"
 }
