@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T19:49:15.514507+00:00",
-  "checkedAt": "2026-08-31T19:49:15.514507+00:00",
-  "newestPublishedAt": "2026-08-31T19:18:09+00:00",
+  "updatedAt": "2026-08-31T19:54:19.449510+00:00",
+  "checkedAt": "2026-08-31T19:54:19.449510+00:00",
+  "newestPublishedAt": "2026-08-31T19:50:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b0df6dfcd7c2eeb8e479",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "AWS معترف بها كشركة رائدة في The Forrester Wave: AI Infrastructure Solutions، الربع الرابع 2025",
+      "titleOriginal": "AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+      "dateLabel": "31 أغسطس 2026",
+      "dateISO": "2026-08-31",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يسعدنا أن نشارك أن AWS قد تم الاعتراف بها كشركة رائدة في The Forrester Wave: AI Infrastructure Solutions، الربع الرابع من عام 2025. في هذا التقييم لـ 13 مزودًا، تلقت AWS",
+      "summaryOriginal": "We're excited to share that AWS has been recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025. In this evaluation of 13 providers, AWS received the highest score in the Strategy category.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-31T19:50:12+00:00"
+    },
     {
       "id": "6ca4162118200efef67e",
       "company": "Amazon",
@@ -715,35 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok Bot is now included with more plans"
-    },
-    {
-      "id": "fb6615779c1e53ac4e06",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "الجرانيت 4.2 LLMs: كيف يتم بناؤها",
-      "titleOriginal": "Granite 4.2 LLMs: How They're Built",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T15:14:14+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T15:06:46.032707+00:00",
-  "lastFastCheckAt": "2026-08-31T19:49:15.514507+00:00"
+  "lastFastCheckAt": "2026-08-31T19:54:19.449510+00:00"
 }
