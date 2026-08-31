@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T23:22:01.638995+00:00",
-  "checkedAt": "2026-08-31T23:22:01.638995+00:00",
+  "updatedAt": "2026-08-31T23:27:04.797728+00:00",
+  "checkedAt": "2026-08-31T23:27:04.797728+00:00",
   "newestPublishedAt": "2026-08-31T22:47:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-31T22:47:53+00:00"
+    },
+    {
+      "id": "418f93c8c5130e76cf59",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "Polimill تبني الجيل التالي من البنية التحتية العامة للذكاء الاصطناعي في اليابان",
+      "titleOriginal": "Polimill builds Japan's next-generation public AI infrastructure",
+      "dateLabel": "31 أغسطس 2026",
+      "dateISO": "2026-08-31",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Polimill نماذج OpenAI GPT و Codex لمساعدة البلديات على البحث عن المعرفة الإدارية واستخدامها مع تسريع التطوير.",
+      "summaryOriginal": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/polimill",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Polimill builds Japan's next-generation public AI infrastructure",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-31T07:00:00+00:00"
     },
     {
       "id": "c595f835476d81b85227",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T13:00:23.969000+00:00"
-    },
-    {
-      "id": "6c12dfa8deeff02c5d09",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم Apple M6 و M5 Ultra لقفزة كبيرة في الأداء وحوسبة الذكاء الاصطناعي",
-      "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "طرحت شركة آبل هاتف M6 في ماك ميني الجديد و M5 Ultra في ماك ستوديو الجديد، مما يوفر قفزة استثنائية في الأداء وقدرات الذكاء الاصطناعي.",
-      "summaryOriginal": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T12:58:13.056000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T20:50:34.209946+00:00",
-  "lastFastCheckAt": "2026-08-31T23:22:01.638995+00:00"
+  "lastFastCheckAt": "2026-08-31T23:27:04.797728+00:00"
 }
