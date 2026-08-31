@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-08-31T22:46:45.955509+00:00",
-  "checkedAt": "2026-08-31T22:46:45.955509+00:00",
-  "newestPublishedAt": "2026-08-31T19:50:12+00:00",
+  "updatedAt": "2026-08-31T22:51:45.841548+00:00",
+  "checkedAt": "2026-08-31T22:51:45.841548+00:00",
+  "newestPublishedAt": "2026-08-31T22:47:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3d4eae537157aa513f50",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "قم بتوصيل خادم MCP المستضاف من AgentCore Runtime بخادم Amazon Quick",
+      "titleOriginal": "Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+      "dateLabel": "31 أغسطس 2026",
+      "dateISO": "2026-08-31",
+      "category": "business",
+      "importance": 82,
+      "summary": "في هذا المنشور، ستتعلم كيفية نشر واستضافة خادم MCP الخاص بك في AgentCore Runtime ودمجه مع Amazon Quick، إلى جانب المتطلبات الأساسية. مع هذا الرهان",
+      "summaryOriginal": "In this post, you will learn how to deploy and host your MCP server in AgentCore Runtime and integrate it with Amazon Quick, along with the prerequisites. With this pattern, you promote reusability and avoid duplication of AI tools, so clients can reuse commonly used tools and agents exposed through an MCP server instead of authoring them from scratch again. Your customers get a way to use your product inside Amazon Quick (chat agents and workflows) without building custom connectors for every use case.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Connect an AgentCore Runtime hosted MCP server to Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-31T22:47:53+00:00"
+    },
     {
       "id": "c595f835476d81b85227",
       "company": "Amazon",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T12:58:13.056000+00:00"
-    },
-    {
-      "id": "46ab67b6efca5b83562e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الشفاء المدرك للتكميم: نموذج مضغوط رباعي البت يتفوق على النسخة الأصلية كاملة الدقة",
-      "titleOriginal": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T11:39:24+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-08-31T20:50:34.209946+00:00",
-  "lastFastCheckAt": "2026-08-31T22:46:45.955509+00:00"
+  "lastFastCheckAt": "2026-08-31T22:51:45.841548+00:00"
 }
