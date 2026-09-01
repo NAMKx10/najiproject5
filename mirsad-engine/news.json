@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T16:02:10.716868+00:00",
-  "checkedAt": "2026-09-01T16:02:10.716868+00:00",
-  "newestPublishedAt": "2026-09-01T15:50:00+00:00",
+  "updatedAt": "2026-09-01T16:07:13.132300+00:00",
+  "checkedAt": "2026-09-01T16:07:13.132300+00:00",
+  "newestPublishedAt": "2026-09-01T16:03:41+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "7c725740a376ebb98562",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Amazon",
+      "titleOriginal": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "نظرًا لأن مقاييس تبني الذكاء الاصطناعي التوليدية، تصبح حوكمة التكاليف تحديًا كبيرًا. تعرف على كيفية قيام Jamf ببناء فرض الإنفاق في الوقت الفعلي لكل مستخدم على Amazon Bedrock باستخدام IAM Custome",
+      "summaryOriginal": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view, and a serverless AWS Lambda loop that applies tiered model limits in near-real-time without disrupting active sessions.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T16:03:41+00:00"
+    },
+    {
+      "id": "081dc2ad165815a69c79",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "تأمين أمازون سريع من نقطة الرعاية إلى الإنتاج: العوامل والتدفقات والمساحات",
+      "titleOriginal": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "policy",
+      "importance": 88,
+      "summary": "غالبًا ما تتوقف مشاريع إثبات المفهوم السريع من أمازون عندما تقوم فرق الأمن بمراجعة خطة الإنتاج. يتطرق هذا المنشور إلى تصميم لوحات المعلومات والمساحات وقواعد المعرفة،",
+      "summaryOriginal": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that hold as you scale: dataset shaping, agent isolation, document classification, and approval gates.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T16:02:22+00:00"
+    },
     {
       "id": "41db95530e315b061d92",
       "company": "Amazon",
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Hugging Face incident and the road ahead"
-    },
-    {
-      "id": "1dc171f4297f59139cb7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تدريب وصقل نماذج التضمين متعدد المتجهات مع محولات الجمل",
-      "titleOriginal": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
-    },
-    {
-      "id": "c148da87d1bb1455285b",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "تم تضمين Grok Bot الآن مع المزيد من الخطط",
-      "titleOriginal": "Grok Bot is now included with more plans",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "Grok Bot متاح الآن لخطط SuperGrok وCursor Pro وجميع خطط Cursor Teams.",
-      "summaryOriginal": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-bot-more-plans",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok Bot is now included with more plans"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T15:12:16.356565+00:00",
-  "lastFastCheckAt": "2026-09-01T16:02:10.716868+00:00"
+  "lastFastCheckAt": "2026-09-01T16:07:13.132300+00:00"
 }
