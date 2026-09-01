@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T20:07:37.475238+00:00",
-  "checkedAt": "2026-09-01T20:07:37.475238+00:00",
+  "updatedAt": "2026-09-01T20:12:53.386004+00:00",
+  "checkedAt": "2026-09-01T20:12:53.386004+00:00",
   "newestPublishedAt": "2026-09-01T19:12:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-01T19:12:43+00:00"
+    },
+    {
+      "id": "d11bf9e51ec885c32e6f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
+      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
+      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/path-to-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T13:00:00+00:00"
     },
     {
       "id": "7429c9bb59d3313c8eee",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok Bot is now included with more plans"
-    },
-    {
-      "id": "3a712699f1b936501028",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "Grok 4.6 على مسبك مايكروسوفت",
-      "titleOriginal": "Grok 4.6 on Microsoft Foundry",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "Grok 4.6 متاح الآن عبر Microsoft Foundry.",
-      "summaryOriginal": "Grok 4.6 is now available via Microsoft Foundry.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok 4.6 on Microsoft Foundry"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T18:32:07.580296+00:00",
-  "lastFastCheckAt": "2026-09-01T20:07:37.475238+00:00"
+  "lastFastCheckAt": "2026-09-01T20:12:53.386004+00:00"
 }
