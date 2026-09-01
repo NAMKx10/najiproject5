@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T16:17:19.333935+00:00",
-  "checkedAt": "2026-09-01T16:17:19.333935+00:00",
-  "newestPublishedAt": "2026-09-01T16:03:41+00:00",
+  "updatedAt": "2026-09-01T16:22:36.896640+00:00",
+  "checkedAt": "2026-09-01T16:22:36.896640+00:00",
+  "newestPublishedAt": "2026-09-01T16:17:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "96e95df657333047a207",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "من النظرية إلى التسليم: كيف رفعت أتوس مهارات 400 مهندس في الذكاء الاصطناعي الوكيل",
+      "titleOriginal": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "business",
+      "importance": 82,
+      "summary": "عندما شرعت شركة أتوس في الارتقاء بمهارات 400 مهندس في مجال الذكاء الاصطناعي الوكيل، كان التعلم العملي هو العنصر المفقود. على مدى ثلاثة أيام، بنى المهندسون أنظمة متعددة الوكلاء على AWS throug",
+      "summaryOriginal": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos chose the format, what engineers built and learned, and what other enterprises should consider.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T16:17:54+00:00"
+    },
     {
       "id": "7c725740a376ebb98562",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Learning never stops: How AI makes learning continuous"
-    },
-    {
-      "id": "33708150fa80f2494a22",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "حادث الوجه المعانق والطريق إلى الأمام",
-      "titleOriginal": "The Hugging Face incident and the road ahead",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشارك OpenAI النتائج المستخلصة من حادث أمان Huging Face والخطوات التي نتخذها لتعزيز أمان نموذج الذكاء الاصطناعي ومراقبته ومواءمته.",
-      "summaryOriginal": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Hugging Face incident and the road ahead"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T15:12:16.356565+00:00",
-  "lastFastCheckAt": "2026-09-01T16:17:19.333935+00:00"
+  "lastFastCheckAt": "2026-09-01T16:22:36.896640+00:00"
 }
