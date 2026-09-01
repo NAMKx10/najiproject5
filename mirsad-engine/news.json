@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T21:36:56.662464+00:00",
-  "checkedAt": "2026-09-01T21:36:56.662464+00:00",
-  "newestPublishedAt": "2026-09-01T21:19:20+00:00",
+  "updatedAt": "2026-09-01T21:41:54.466023+00:00",
+  "checkedAt": "2026-09-01T21:41:54.466023+00:00",
+  "newestPublishedAt": "2026-09-01T21:39:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cd3fba0327ce9aa6d69c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "BenchMIRT: ما هي معايير LLM التي تقيس بالفعل ؟",
+      "titleOriginal": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/benchmirt",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T21:39:07+00:00"
+    },
     {
       "id": "94ce502ad4ba6334c01b",
       "company": "NVIDIA",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok Bot is now included with more plans"
-    },
-    {
-      "id": "3a712699f1b936501028",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "Grok 4.6 على مسبك مايكروسوفت",
-      "titleOriginal": "Grok 4.6 on Microsoft Foundry",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "Grok 4.6 متاح الآن عبر Microsoft Foundry.",
-      "summaryOriginal": "Grok 4.6 is now available via Microsoft Foundry.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok 4.6 on Microsoft Foundry"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T21:21:33.662889+00:00",
-  "lastFastCheckAt": "2026-09-01T21:36:56.662464+00:00"
+  "lastFastCheckAt": "2026-09-01T21:41:54.466023+00:00"
 }
