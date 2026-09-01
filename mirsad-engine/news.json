@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T19:11:47.908489+00:00",
-  "checkedAt": "2026-09-01T19:11:47.908489+00:00",
-  "newestPublishedAt": "2026-09-01T17:00:00+00:00",
+  "updatedAt": "2026-09-01T19:17:05.236390+00:00",
+  "checkedAt": "2026-09-01T19:17:05.236390+00:00",
+  "newestPublishedAt": "2026-09-01T19:12:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3ca9b613cd9052038a6e",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم كلود فابل 5.1 على AWS",
+      "titleOriginal": "Introducing Claude Fable 5.1 on AWS",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "كلود فابل 5.1 متاح الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. يغطي هذا المنشور تحسينات Claude Fable 5.1، وضمانات حدود المؤسسة لـ k",
+      "summaryOriginal": "Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safeguards for keeping your data in a cloud environment you control, and how to start building with the model on Amazon Bedrock.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Claude Fable 5.1 on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T19:12:43+00:00"
+    },
     {
       "id": "7429c9bb59d3313c8eee",
       "company": "OpenAI",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok 4.6 on Microsoft Foundry"
-    },
-    {
-      "id": "fb6615779c1e53ac4e06",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "الجرانيت 4.2 LLMs: كيف يتم بناؤها",
-      "titleOriginal": "Granite 4.2 LLMs: How They're Built",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T15:14:14+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T18:32:07.580296+00:00",
-  "lastFastCheckAt": "2026-09-01T19:11:47.908489+00:00"
+  "lastFastCheckAt": "2026-09-01T19:17:05.236390+00:00"
 }
