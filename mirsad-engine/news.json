@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T18:31:17.821529+00:00",
-  "checkedAt": "2026-09-01T18:31:17.821529+00:00",
+  "updatedAt": "2026-09-01T18:32:07.580296+00:00",
+  "checkedAt": "2026-09-01T18:32:07.580296+00:00",
   "newestPublishedAt": "2026-09-01T17:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,15 +111,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T17:00:00+00:00"
+      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability"
     },
     {
-      "id": "96e95df657333047a207",
+      "id": "678baa047417b65952ec",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -132,20 +127,15 @@
       "summary": "عندما شرعت شركة أتوس في الارتقاء بمهارات 400 مهندس في مجال الذكاء الاصطناعي الوكيل، كان التعلم العملي هو العنصر المفقود. على مدى ثلاثة أيام، بنى المهندسون أنظمة متعددة الوكلاء على AWS throug",
       "summaryOriginal": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on AWS through an AI League event. This post explains why Atos chose the format, what engineers built and learned, and what other enterprises should consider.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T16:17:54+00:00"
+      "searchAliases": "Amazon From theory to delivery: How Atos upskilled 400 engineers in agentic AI"
     },
     {
-      "id": "7c725740a376ebb98562",
+      "id": "89757c0695ba7c826422",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "نظرًا لأن مقاييس تبني الذكاء الاصطناعي التوليدية، تصبح حوكمة التكاليف تحديًا كبيرًا. تعرف على كيفية قيام Jamf ببناء فرض الإنفاق في الوقت الفعلي لكل مستخدم على Amazon Bedrock باستخدام IAM Custome",
       "summaryOriginal": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using IAM Customer Managed Policies, an Amazon Athena cost view, and a serverless AWS Lambda loop that applies tiered model limits in near-real-time without disrupting active sessions.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T16:03:41+00:00"
+      "searchAliases": "Amazon Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock"
     },
     {
-      "id": "081dc2ad165815a69c79",
+      "id": "f60eb022247d102ed126",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -184,20 +169,15 @@
       "summary": "غالبًا ما تتوقف مشاريع إثبات المفهوم السريع من أمازون عندما تقوم فرق الأمن بمراجعة خطة الإنتاج. يتطرق هذا المنشور إلى تصميم لوحات المعلومات والمساحات وقواعد المعرفة،",
       "summaryOriginal": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that hold as you scale: dataset shaping, agent isolation, document classification, and approval gates.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T16:02:22+00:00"
+      "searchAliases": "Amazon Securing Amazon Quick from POC to production: Agents, Flows, and Spaces"
     },
     {
-      "id": "41db95530e315b061d92",
+      "id": "4fe4b14a72e9f89b20e1",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -210,20 +190,15 @@
       "summary": "بنيت t54 x402 - secure، وهي طبقة ثقة على مدفوعات Amazon Bedrock AgentCore التي تسجل كل نقطة نهاية قبل أن يدفعها وكيل مستقل. انظر كيف ميزانيات الدورة، الاعتمادات",
       "summaryOriginal": "t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have governed more than 20 million agent-initiated transactions with no human in the loop.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How t54 built a trust layer with Amazon Bedrock AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T15:50:00+00:00"
+      "searchAliases": "Amazon How t54 built a trust layer with Amazon Bedrock AgentCore payments"
     },
     {
-      "id": "dac138fe8e5d1ea020a4",
+      "id": "3923957bba71cf4874e2",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -236,20 +211,15 @@
       "summary": "تعرف على كيفية قيام ZS ببناء منصة Amazon SageMaker معززة بالأمان والتي توازن بين مرونة المطور والحوكمة على مستوى الرعاية الصحية، وتخدم أكثر من 1000 مستخدم نشط يوميًا",
       "summaryOriginal": "Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T15:47:00+00:00"
+      "searchAliases": "Amazon How ZS democratized secure ad-hoc analytics with Amazon SageMaker"
     },
     {
-      "id": "74be800edfe558efabdd",
+      "id": "aa105828be0cdd95cd23",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -262,17 +232,12 @@
       "summary": "Boomi Scribe هو وكيل مدعوم بالذكاء الاصطناعي على AWS يقوم تلقائيًا بإنشاء وثائق لسير عمل تكامل المؤسسة. تعلم كيف تستخدم Boomi Amazon Bedrock وAmazon Sa",
       "summaryOriginal": "Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS Lambda to parse integration DAGs, generate detailed documentation, and compare component versions at scale.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Boomi Scribe streamlines documentation using AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T15:45:36+00:00"
+      "searchAliases": "Amazon How Boomi Scribe streamlines documentation using AWS"
     },
     {
       "id": "2e897ca46e8e5d2c74ce",
@@ -293,12 +258,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T12:00:00+00:00"
+      "searchAliases": "OpenAI Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
     },
     {
       "id": "2625d757d7869411f358",
@@ -320,6 +280,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
+    },
+    {
+      "id": "b96bced0ead22c666361",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "أمان وسياسات",
+      "title": "الأمن البيولوجي على الحدود",
+      "titleOriginal": "Biosecurity at the frontier",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "policy",
+      "importance": 88,
+      "summary": "قام LatchBio بتقييم أداء Grok في مراقبة الأمن البيولوجي والمهام البيولوجية العدائية. وجدوا أن Grok 4.6 يكتشف ويرفض الاستفسارات الخطيرة بشكل أكبر",
+      "summaryOriginal": "LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/biosafety-at-the-frontier",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Biosecurity at the frontier"
     },
     {
       "id": "94d425df38aae85fc1d2",
@@ -406,27 +387,6 @@
       "searchAliases": "Amazon Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation"
     },
     {
-      "id": "0b84981bd14d6839468a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "بناء تطبيقات دردشة متعددة الوكلاء على بيانات المؤسسة باستخدام قاعدة المعرفة المدارة من Amazon Bedrock",
-      "titleOriginal": "Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base",
-      "dateLabel": "31 أغسطس 2026",
-      "dateISO": "2026-08-31",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعرف على كيفية إنشاء تطبيق دردشة مستند وكيل متعدد المستأجرين على قاعدة المعارف المدارة من Amazon Bedrock، حيث يقوم المستخدمون بتحميل المستندات ويسألون على الفور",
-      "summaryOriginal": "Learn how to build a multi-tenant agentic document chat application on Amazon Bedrock Managed Knowledge Base, where users upload documents and immediately ask grounded questions. This post covers the ingestion and retrieval flows, the asynchronous indexing lifecycle, per-user data isolation, and best practices for operating the solution at scale.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base"
-    },
-    {
       "id": "3bf62839202cdfaae276",
       "company": "OpenAI",
       "logoText": "AI",
@@ -511,69 +471,6 @@
       "searchAliases": "xAI Grok Bot now works with X"
     },
     {
-      "id": "bd4dd48ddda627e54650",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كتابة السجلات واكتشافها دفعة واحدة في متجر Amazon SageMaker Feature Store",
-      "titleOriginal": "Batch write and discover records in Amazon SageMaker Feature Store",
-      "dateLabel": "28 أغسطس 2026",
-      "dateISO": "2026-08-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يدعم Amazon SageMaker Feature Store الآن اثنين من واجهات برمجة التطبيقات الجديدة: BatchWriteRecord يكتب ما يصل إلى 25 سجلًا عبر مجموعات ميزات متعددة في مكالمة واحدة، وعداد ListRecords",
-      "summaryOriginal": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListRecords enumerates record identifiers within a feature group. In this post, we walk through each API with code examples you can use to get started.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Batch write and discover records in Amazon SageMaker Feature Store"
-    },
-    {
-      "id": "5968b0f0ed9c9be62583",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف تدير Decathlon التنبؤ بالطلب على نطاق واسع مع Chronos -2",
-      "titleOriginal": "How Decathlon runs demand forecasting at scale with Chronos-2",
-      "dateLabel": "28 أغسطس 2026",
-      "dateISO": "2026-08-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تتوقع Decathlon، وهي واحدة من أكبر تجار التجزئة للسلع الرياضية في العالم، الطلب الأسبوعي على عشرات الآلاف من المنتجات عبر قارات متعددة. تعرف على كيفية نشرهم",
-      "summaryOriginal": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how they deployed Chronos-2 on AWS to improve forecast accuracy by 11-15 points while cutting operational complexity and running weekly inference for about $0.03 on CPU-only instances.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-decathlon-runs-demand-forecasting-at-scale-with-chronos-2/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Decathlon runs demand forecasting at scale with Chronos-2"
-    },
-    {
-      "id": "88faca503e5b73620673",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "نشر الحمل: كيف قابلت Salesforce Multi - AZ HA مع مكونات استدلال SageMaker",
-      "titleOriginal": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
-      "dateLabel": "28 أغسطس 2026",
-      "dateISO": "2026-08-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية استخدام Salesforce لموضع مكونات استدلال Amazon SageMaker AI (معلمة SchedulingConfig) لتوزيع نسخ النموذج عبر مناطق التوافر المتعددة",
-      "summaryOriginal": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availability Zones, meeting their Multi-AZ high availability compliance requirements without sacrificing the cost efficiency of multi-model co-hosting.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components"
-    },
-    {
       "id": "0800406a6118c6eec343",
       "company": "OpenAI",
       "logoText": "AI",
@@ -635,48 +532,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language"
-    },
-    {
-      "id": "b14625001c65ae55edb4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء سير عمل إبداعي للوكلاء مع Amazon Quick and fal",
-      "titleOriginal": "Build agentic creative workflows with Amazon Quick and fal",
-      "dateLabel": "27 أغسطس 2026",
-      "dateISO": "2026-08-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تنتج الفرق الإبداعية المزيد من الأصول أكثر من أي وقت مضى، ولكن الأدوات المجزأة والسياق اليدوي ينقلان الإنتاج البطيء. يوضح هذا المنشور كيفية بناء حزام عامل قابل لإعادة الاستخدام باستخدام",
-      "summaryOriginal": "Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent harness with Amazon Quick and fal, connected through the Model Context Protocol (MCP), using two hands-on workflows: an eight-panel storyboard and a music-video concept prototype.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build agentic creative workflows with Amazon Quick and fal"
-    },
-    {
-      "id": "e7b1cced6d298e16900a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم نماذج OpenAI على Amazon Bedrock للاستدلال داخل البلد في الهند",
-      "titleOriginal": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
-      "dateLabel": "27 أغسطس 2026",
-      "dateISO": "2026-08-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تدعم Amazon Bedrock الآن نماذج OpenAI GPT-5.6، Terra و Luna، في الهند مع استدلال جغرافي عبر المنطقة في الهند. إذا كان لديك متطلبات معالجة البيانات المحلية",
-      "summaryOriginal": "Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing requirements, you can now use these models at scale while Amazon Bedrock keeps inference requests and data within India.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-openai-models-on-amazon-bedrock-for-in-country-inferencing-in-india/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India"
     },
     {
       "id": "d3ff904f39acb85b4355",
@@ -742,7 +597,7 @@
       "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil"
     },
     {
-      "id": "2f15d4c8aac72d1c5d43",
+      "id": "4d5bef2a1cab923659c5",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -755,20 +610,119 @@
       "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
       "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory",
+      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-26T21:05:30+00:00"
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
+    },
+    {
+      "id": "73f5435f3f8bbf89e908",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "جلب ChatGPT للمعلمين إلى المزيد من المناطق التعليمية في الولايات المتحدة",
+      "titleOriginal": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوسع ChatGPT for Teachers ليشمل 55 نظامًا مدرسيًا في الولايات المتحدة، مما يوفر أدوات الذكاء الاصطناعي الآمنة والتدريب والدعم لأكثر من 100000 من المعلمين والموظفين.",
+      "summaryOriginal": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Bringing ChatGPT for Teachers to more U.S. school districts"
+    },
+    {
+      "id": "1dc171f4297f59139cb7",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تدريب وصقل نماذج التضمين متعدد المتجهات مع محولات الجمل",
+      "titleOriginal": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
+    },
+    {
+      "id": "c148da87d1bb1455285b",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "مستجد تقني",
+      "title": "تم تضمين Grok Bot الآن مع المزيد من الخطط",
+      "titleOriginal": "Grok Bot is now included with more plans",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "Grok Bot متاح الآن لخطط SuperGrok وCursor Pro وجميع خطط Cursor Teams.",
+      "summaryOriginal": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/grok-bot-more-plans",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Grok Bot is now included with more plans"
+    },
+    {
+      "id": "3a712699f1b936501028",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "مستجد تقني",
+      "title": "Grok 4.6 على مسبك مايكروسوفت",
+      "titleOriginal": "Grok 4.6 on Microsoft Foundry",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "Grok 4.6 متاح الآن عبر Microsoft Foundry.",
+      "summaryOriginal": "Grok 4.6 is now available via Microsoft Foundry.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/grok-4-6-microsoft-foundry",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Grok 4.6 on Microsoft Foundry"
+    },
+    {
+      "id": "fb6615779c1e53ac4e06",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الجرانيت 4.2 LLMs: كيف يتم بناؤها",
+      "titleOriginal": "Granite 4.2 LLMs: How They're Built",
+      "dateLabel": "25 أغسطس 2026",
+      "dateISO": "2026-08-25",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-01T15:12:16.356565+00:00",
-  "lastFastCheckAt": "2026-09-01T18:31:17.821529+00:00"
+  "lastDeepCheckAt": "2026-09-01T18:32:07.580296+00:00"
 }
