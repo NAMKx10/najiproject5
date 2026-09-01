@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T15:46:58.326437+00:00",
-  "checkedAt": "2026-09-01T15:46:58.326437+00:00",
-  "newestPublishedAt": "2026-09-01T15:45:36+00:00",
+  "updatedAt": "2026-09-01T15:52:07.130244+00:00",
+  "checkedAt": "2026-09-01T15:52:07.130244+00:00",
+  "newestPublishedAt": "2026-09-01T15:50:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "41db95530e315b061d92",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف قامت t54 ببناء طبقة ثقة مع مدفوعات Amazon Bedrock AgentCore",
+      "titleOriginal": "How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "tools",
+      "importance": 78,
+      "summary": "بنيت t54 x402 - secure، وهي طبقة ثقة على مدفوعات Amazon Bedrock AgentCore التي تسجل كل نقطة نهاية قبل أن يدفعها وكيل مستقل. انظر كيف ميزانيات الدورة، الاعتمادات",
+      "summaryOriginal": "t54 built x402-secure, a trust layer on Amazon Bedrock AgentCore payments that scores every endpoint before an autonomous agent pays it. See how session budgets, credential isolation, and a deterministic trust gate have governed more than 20 million agent-initiated transactions with no human in the loop.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How t54 built a trust layer with Amazon Bedrock AgentCore payments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T15:50:00+00:00"
+    },
+    {
+      "id": "dac138fe8e5d1ea020a4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "كيف قامت ZS بإضفاء الطابع الديمقراطي على التحليلات المخصصة الآمنة باستخدام Amazon SageMaker",
+      "titleOriginal": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرف على كيفية قيام ZS ببناء منصة Amazon SageMaker معززة بالأمان والتي توازن بين مرونة المطور والحوكمة على مستوى الرعاية الصحية، وتخدم أكثر من 1000 مستخدم نشط يوميًا",
+      "summaryOriginal": "Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T15:47:00+00:00"
+    },
     {
       "id": "74be800edfe558efabdd",
       "company": "Amazon",
@@ -684,56 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok Bot is now included with more plans"
-    },
-    {
-      "id": "3a712699f1b936501028",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "Grok 4.6 على مسبك مايكروسوفت",
-      "titleOriginal": "Grok 4.6 on Microsoft Foundry",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "Grok 4.6 متاح الآن عبر Microsoft Foundry.",
-      "summaryOriginal": "Grok 4.6 is now available via Microsoft Foundry.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-4-6-microsoft-foundry",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok 4.6 on Microsoft Foundry"
-    },
-    {
-      "id": "fb6615779c1e53ac4e06",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "الجرانيت 4.2 LLMs: كيف يتم بناؤها",
-      "titleOriginal": "Granite 4.2 LLMs: How They're Built",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite 4.2 LLMs: How They're Built",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T15:14:14+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T15:12:16.356565+00:00",
-  "lastFastCheckAt": "2026-09-01T15:46:58.326437+00:00"
+  "lastFastCheckAt": "2026-09-01T15:52:07.130244+00:00"
 }
