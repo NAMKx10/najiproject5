@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T15:41:52.725552+00:00",
-  "checkedAt": "2026-09-01T15:41:52.725552+00:00",
-  "newestPublishedAt": "2026-09-01T00:00:00+00:00",
+  "updatedAt": "2026-09-01T15:46:58.326437+00:00",
+  "checkedAt": "2026-09-01T15:46:58.326437+00:00",
+  "newestPublishedAt": "2026-09-01T15:45:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "74be800edfe558efabdd",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف يبسط Boomi Scribe الوثائق باستخدام AWS",
+      "titleOriginal": "How Boomi Scribe streamlines documentation using AWS",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "business",
+      "importance": 82,
+      "summary": "Boomi Scribe هو وكيل مدعوم بالذكاء الاصطناعي على AWS يقوم تلقائيًا بإنشاء وثائق لسير عمل تكامل المؤسسة. تعلم كيف تستخدم Boomi Amazon Bedrock وAmazon Sa",
+      "summaryOriginal": "Boomi Scribe is an AI-powered agent on AWS that automatically generates documentation for enterprise integration workflows. Learn how Boomi uses Amazon Bedrock, Amazon SageMaker AI, Amazon S3, Amazon DynamoDB, and AWS Lambda to parse integration DAGs, generate detailed documentation, and compare component versions at scale.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-boomi-scribe-streamlines-documentation-using-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Boomi Scribe streamlines documentation using AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T15:45:36+00:00"
+    },
     {
       "id": "2625d757d7869411f358",
       "company": "Hugging Face",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T15:14:14+00:00"
-    },
-    {
-      "id": "899aa55e9ed0c4a35cbd",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم Apple Mac Studio الجديد مع M5 Max و M5 Ultra",
-      "titleOriginal": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Apple عن Mac Studio الجديد، الذي يضم M5 Max و M5 Ultra الجديد كليًا، مما يوفر قفزة هائلة في أداء الذكاء الاصطناعي ورسومات أسرع.",
-      "summaryOriginal": "Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T13:00:23.969000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T15:12:16.356565+00:00",
-  "lastFastCheckAt": "2026-09-01T15:41:52.725552+00:00"
+  "lastFastCheckAt": "2026-09-01T15:46:58.326437+00:00"
 }
