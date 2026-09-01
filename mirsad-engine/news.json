@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-01T05:21:20.655598+00:00",
-  "checkedAt": "2026-09-01T05:21:20.655598+00:00",
+  "updatedAt": "2026-09-01T05:26:19.783681+00:00",
+  "checkedAt": "2026-09-01T05:26:19.783681+00:00",
   "newestPublishedAt": "2026-08-31T22:47:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3bf62839202cdfaae276",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "تدعم OpenAI مشروع قانون كاليفورنيا لتعزيز سلامة الذكاء الاصطناعي للشباب",
+      "titleOriginal": "OpenAI supports California’s bill to advance youth AI safety",
+      "dateLabel": "31 أغسطس 2026",
+      "dateISO": "2026-08-31",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تدعم OpenAI California SB 1119، وتقدم ضمانات قوية ومناسبة للعمر للذكاء الاصطناعي للمراهقين مع الحفاظ على فرص التعلم والإبداع والاستكشاف.",
+      "summaryOriginal": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI supports California’s bill to advance youth AI safety",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-08-31T07:00:00+00:00"
+    },
     {
       "id": "94d425df38aae85fc1d2",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-08-25T13:00:23.969000+00:00"
-    },
-    {
-      "id": "6c12dfa8deeff02c5d09",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم Apple M6 و M5 Ultra لقفزة كبيرة في الأداء وحوسبة الذكاء الاصطناعي",
-      "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "dateLabel": "25 أغسطس 2026",
-      "dateISO": "2026-08-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "طرحت شركة آبل هاتف M6 في ماك ميني الجديد و M5 Ultra في ماك ستوديو الجديد، مما يوفر قفزة استثنائية في الأداء وقدرات الذكاء الاصطناعي.",
-      "summaryOriginal": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-25T12:58:13.056000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-01T00:37:26.373707+00:00",
-  "lastFastCheckAt": "2026-09-01T05:21:20.655598+00:00"
+  "lastFastCheckAt": "2026-09-01T05:26:19.783681+00:00"
 }
