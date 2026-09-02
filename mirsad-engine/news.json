@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T06:23:05.614570+00:00",
-  "checkedAt": "2026-09-02T06:23:05.614570+00:00",
+  "updatedAt": "2026-09-02T06:26:17.076093+00:00",
+  "checkedAt": "2026-09-02T06:26:17.076093+00:00",
   "newestPublishedAt": "2026-09-02T06:00:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "7dd49c676016b6f94e78",
+      "id": "bd09c35864519acd3ed8",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أمان وسياسات",
@@ -106,17 +106,12 @@
       "summary": "مع دخولنا العصر التالي، ما هو المقياس المحدد لتقدمنا ؟ لكل صناعة كلمة تشكل طريقة تفكيرها. بالنسبة للطيارين، إنها السلامة. بالنسبة لشركات التأمين، أنا",
       "summaryOriginal": "As we enter the next era, what will be the defining measure of our progress? Every industry has a word that shapes how it thinks. For pilots, it’s safety. For insurers, it’s risk. For the semiconductor industry, it’s yield. Yield does not ask how elegant the solution is, how many years it took or what... The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog .",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence",
+      "source": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T06:00:02+00:00"
+      "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
       "id": "cd3fba0327ce9aa6d69c",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-02T01:25:58.204070+00:00",
-  "lastFastCheckAt": "2026-09-02T06:23:05.614570+00:00"
+  "lastDeepCheckAt": "2026-09-02T06:26:17.076093+00:00"
 }
