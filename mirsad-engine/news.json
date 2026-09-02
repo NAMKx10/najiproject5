@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T01:24:42.935757+00:00",
-  "checkedAt": "2026-09-02T01:24:42.935757+00:00",
+  "updatedAt": "2026-09-02T01:25:58.204070+00:00",
+  "checkedAt": "2026-09-02T01:25:58.204070+00:00",
   "newestPublishedAt": "2026-09-01T21:39:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,32 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "06b72deba036706f4b94",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تحكم شركة المحاماة Gilbert + Tobin وتقيس الذكاء الاصطناعي مع OpenAI",
-      "titleOriginal": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "انظر كيف يجمع جيلبرت + توبين بين الالتزام بقيادة الرئيس التنفيذي والحوكمة الصارمة والمساءلة البشرية لتوسيع نطاق ChatGPT Enterprise و Codex عبر الشركة.",
-      "summaryOriginal": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gilbert-tobin",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T01:00:00+00:00"
-    },
     {
       "id": "cd3fba0327ce9aa6d69c",
       "company": "Hugging Face",
@@ -369,6 +343,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
+    },
+    {
+      "id": "06b72deba036706f4b94",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تحكم شركة المحاماة Gilbert + Tobin وتقيس الذكاء الاصطناعي مع OpenAI",
+      "titleOriginal": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "انظر كيف يجمع جيلبرت + توبين بين الالتزام بقيادة الرئيس التنفيذي والحوكمة الصارمة والمساءلة البشرية لتوسيع نطاق ChatGPT Enterprise و Codex عبر الشركة.",
+      "summaryOriginal": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/gilbert-tobin",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How law firm Gilbert + Tobin governs and scales AI with OpenAI"
     },
     {
       "id": "2625d757d7869411f358",
@@ -665,27 +660,6 @@
       "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
     },
     {
-      "id": "9df7ca430bcdbb8d9ff4",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "توسيع وجود OpenAI في البرازيل",
-      "titleOriginal": "Expanding OpenAI’s presence in Brazil",
-      "dateLabel": "27 أغسطس 2026",
-      "dateISO": "2026-08-27",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعمل OpenAI على توسيع وجودها في البرازيل، وتعميق المشاركة مع المطورين والشركات والمجتمعات لدعم تبني الذكاء الاصطناعي في جميع أنحاء البلاد.",
-      "summaryOriginal": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Expanding OpenAI’s presence in Brazil"
-    },
-    {
       "id": "4d5bef2a1cab923659c5",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -726,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
+    },
+    {
+      "id": "c148da87d1bb1455285b",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "مستجد تقني",
+      "title": "تم تضمين Grok Bot الآن مع المزيد من الخطط",
+      "titleOriginal": "Grok Bot is now included with more plans",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "Grok Bot متاح الآن لخطط SuperGrok وCursor Pro وجميع خطط Cursor Teams.",
+      "summaryOriginal": "Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/grok-bot-more-plans",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Grok Bot is now included with more plans"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-01T23:34:30.781073+00:00",
-  "lastFastCheckAt": "2026-09-02T01:24:42.935757+00:00"
+  "lastDeepCheckAt": "2026-09-02T01:25:58.204070+00:00"
 }
