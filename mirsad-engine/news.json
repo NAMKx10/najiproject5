@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T18:17:57.247009+00:00",
-  "checkedAt": "2026-09-02T18:17:57.247009+00:00",
-  "newestPublishedAt": "2026-09-02T18:14:17+00:00",
+  "updatedAt": "2026-09-02T18:23:01.312083+00:00",
+  "checkedAt": "2026-09-02T18:23:01.312083+00:00",
+  "newestPublishedAt": "2026-09-02T18:21:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "bab67a54d5eaeb02097f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف يكتشف فريق AWS فشل محتوى لوحة المعلومات على نطاق واسع باستخدام Amazon Bedrock",
+      "titleOriginal": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "business",
+      "importance": 82,
+      "summary": "يمكن أن تفشل لوحات معلومات ذكاء الأعمال بصمت، حيث تظهر بيانات فارغة أو قديمة أو خاطئة حتى عندما يبلغ كل مراقب للبنية التحتية بصحة جيدة. تعرف على كيفية بناء فريق AWS",
+      "summaryOriginal": "Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered content validation solution on Amazon Bedrock that scans hundreds of dashboards and alerts owners, cutting mean time to detection from days to under an hour.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T18:21:20+00:00"
+    },
+    {
+      "id": "c215b128686e207f76fb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "من التعليمات البرمجية إلى الرسوم البيانية: وثائق بنية الوكيل مع Amazon Bedrock AgentCore",
+      "titleOriginal": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية قيام وسيط عالمي بين الوكلاء ببناء خط أنابيب توثيق هندسي آلي على Amazon Bedrock AgentCore الذي يحلل قواعد رمز .NET، وينشئ architec",
+      "summaryOriginal": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable documentation through Amazon Bedrock Knowledge Bases and AWS CodePipeline.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T18:18:47+00:00"
+    },
     {
       "id": "9b71430301ecd35461fd",
       "company": "Amazon",
@@ -684,51 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language"
-    },
-    {
-      "id": "d3ff904f39acb85b4355",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "تسليم VERA: يتم الآن شحن أول وحدة معالجة مركزية من NVIDIA تم تصميمها للوكلاء",
-      "titleOriginal": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "dateLabel": "27 أغسطس 2026",
-      "dateISO": "2026-08-27",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يقوم نائب رئيس NVIDIA في Hyperscale و HPC Ian Buck بتسليم أنظمة وحدة المعالجة المركزية VERA يدويًا عبر النظام البيئي للذكاء الاصطناعي حيث تبدأ VERA الشحن على نطاق واسع.",
-      "summaryOriginal": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
-    },
-    {
-      "id": "d97b437e78c634e4cea7",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "إجابات أفضل، تفكير أوسع: ما يكتسبه الطلاب من ChatGPT وتدريب التفكير النقدي",
-      "titleOriginal": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "dateLabel": "27 أغسطس 2026",
-      "dateISO": "2026-08-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تفحص دراسة عشوائية لأكثر من 1000 طالب ChatGPT والتفكير النقدي والأصالة وأداء الطلاب في مهمة جامعية في العالم الحقيقي.",
-      "summaryOriginal": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-02T15:20:57.363789+00:00",
-  "lastFastCheckAt": "2026-09-02T18:17:57.247009+00:00"
+  "lastFastCheckAt": "2026-09-02T18:23:01.312083+00:00"
 }
