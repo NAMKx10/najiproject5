@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T21:49:25.355323+00:00",
-  "checkedAt": "2026-09-02T21:49:25.355323+00:00",
+  "updatedAt": "2026-09-02T21:50:25.796185+00:00",
+  "checkedAt": "2026-09-02T21:50:25.796185+00:00",
   "newestPublishedAt": "2026-09-02T21:22:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,12 +93,12 @@
   ],
   "items": [
     {
-      "id": "179b685e54d013a3de3c",
+      "id": "b885ae096e5c7bb3b004",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
-      "title": "الوصول إلى نماذج OpenAI GPT-5.6 على Amazon Bedrock من أستراليا مع الاستدلال العالمي عبر المنطقة",
-      "titleOriginal": "Accessing OpenAI GPT-5.6 models on Amazon Bedrock from Australia with global cross-Region inference",
+      "title": "الوصول إلى نماذج OpenAI على Amazon Bedrock من أستراليا مع الاستدلال العالمي عبر المنطقة",
+      "titleOriginal": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
       "dateLabel": "2 سبتمبر 2026",
       "dateISO": "2026-09-02",
       "category": "models",
@@ -106,17 +106,12 @@
       "summary": "يمكن للفرق الأسترالية الآن الوصول إلى نماذج OpenAI GPT-5.6 Sol و Terra و Luna على Amazon Bedrock مع الاستدلال العالمي عبر المنطقة من آسيا والمحيط الهادئ (سيدني) وآسيا Pa",
       "summaryOriginal": "Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to invoke the models, use prompt caching, set up Codex with OpenID Connect authentication, and monitor usage with Amazon CloudWatch.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Accessing OpenAI GPT-5.6 models on Amazon Bedrock from Australia with global cross-Region inference",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T21:22:05+00:00"
+      "searchAliases": "Amazon Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
     },
     {
       "id": "85b9394af55da7677efc",
@@ -413,27 +408,6 @@
       "searchAliases": "Amazon How t54 built a trust layer with Amazon Bedrock AgentCore payments"
     },
     {
-      "id": "3923957bba71cf4874e2",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "كيف قامت ZS بإضفاء الطابع الديمقراطي على التحليلات المخصصة الآمنة باستخدام Amazon SageMaker",
-      "titleOriginal": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرف على كيفية قيام ZS ببناء منصة Amazon SageMaker معززة بالأمان والتي توازن بين مرونة المطور والحوكمة على مستوى الرعاية الصحية، وتخدم أكثر من 1000 مستخدم نشط يوميًا",
-      "summaryOriginal": "Learn how ZS built a security-hardened Amazon SageMaker platform that balances developer agility with healthcare-grade governance, serving 1,000+ daily active users across 200+ SageMaker domains.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-zs-democratized-secure-ad-hoc-analytics-with-amazon-sagemaker/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How ZS democratized secure ad-hoc analytics with Amazon SageMaker"
-    },
-    {
       "id": "d11bf9e51ec885c32e6f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -726,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+    },
+    {
+      "id": "4d5bef2a1cab923659c5",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "توسع NVIDIA NVLink Fusion مع ذاكرة NVHBM مخصصة عالية النطاق الترددي",
+      "titleOriginal": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
+      "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-02T18:57:42.377104+00:00",
-  "lastFastCheckAt": "2026-09-02T21:49:25.355323+00:00"
+  "lastDeepCheckAt": "2026-09-02T21:50:25.796185+00:00"
 }
