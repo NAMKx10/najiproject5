@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T13:45:35.651535+00:00",
-  "checkedAt": "2026-09-02T13:45:35.651535+00:00",
-  "newestPublishedAt": "2026-09-02T06:00:02+00:00",
+  "updatedAt": "2026-09-02T13:55:18.859450+00:00",
+  "checkedAt": "2026-09-02T13:55:18.859450+00:00",
+  "newestPublishedAt": "2026-09-02T13:49:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0b2ddc2bc43c5f17e654",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "الذكاء في الوقت الحقيقي مع نماذج السلاسل الزمنية من IBM على كونفلوينت",
+      "titleOriginal": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T13:49:14+00:00"
+    },
     {
       "id": "bd09c35864519acd3ed8",
       "company": "Microsoft",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
-    },
-    {
-      "id": "1dc171f4297f59139cb7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تدريب وصقل نماذج التضمين متعدد المتجهات مع محولات الجمل",
-      "titleOriginal": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-02T11:44:31.410774+00:00",
-  "lastFastCheckAt": "2026-09-02T13:45:35.651535+00:00"
+  "lastFastCheckAt": "2026-09-02T13:55:18.859450+00:00"
 }
