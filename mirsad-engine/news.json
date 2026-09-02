@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T18:23:01.312083+00:00",
-  "checkedAt": "2026-09-02T18:23:01.312083+00:00",
-  "newestPublishedAt": "2026-09-02T18:21:20+00:00",
+  "updatedAt": "2026-09-02T18:28:01.125274+00:00",
+  "checkedAt": "2026-09-02T18:28:01.125274+00:00",
+  "newestPublishedAt": "2026-09-02T18:26:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6fc9447bf53a1efa3b14",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تحديث وتوسيع نطاق عمليات الدعم باستخدام الذكاء الاصطناعي التوليدي على AWS",
+      "titleOriginal": "Modernizing and scaling support operations with generative AI on AWS",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية بناء منصة عمليات دعم قائمة على الذكاء الاصطناعي على AWS والتي تحول مقاطع الفيديو التدريبية إلى إجراءات تشغيل موحدة منظمة، وتطبق الاسترجاع - الجيل المعزز على",
+      "summaryOriginal": "Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Modernizing and scaling support operations with generative AI on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T18:26:35+00:00"
+    },
     {
       "id": "bab67a54d5eaeb02097f",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups"
-    },
-    {
-      "id": "90a610e48d460b39066a",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "لوحة المتصدرين المفتوحة لـ ASR تضيف أول لغة عالمية لها في الجنوب",
-      "titleOriginal": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "dateLabel": "28 أغسطس 2026",
-      "dateISO": "2026-08-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face The Open ASR Leaderboard Adds Its First Global South Language"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-02T15:20:57.363789+00:00",
-  "lastFastCheckAt": "2026-09-02T18:23:01.312083+00:00"
+  "lastFastCheckAt": "2026-09-02T18:28:01.125274+00:00"
 }
