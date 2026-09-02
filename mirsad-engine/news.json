@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-02T18:12:40.062724+00:00",
-  "checkedAt": "2026-09-02T18:12:40.062724+00:00",
-  "newestPublishedAt": "2026-09-02T13:49:14+00:00",
+  "updatedAt": "2026-09-02T18:17:57.247009+00:00",
+  "checkedAt": "2026-09-02T18:17:57.247009+00:00",
+  "newestPublishedAt": "2026-09-02T18:14:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9b71430301ecd35461fd",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "الثالوث: تخطيط الانتقال المدعوم بالذكاء الاصطناعي للطلاب ذوي الإعاقة",
+      "titleOriginal": "Trinity: Agentic AI-powered transition planning for students with disabilities",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية قيام الشركات الناشئة الجامعية وشريكها في AWS g/d/n/a Trinity، وهو حل للذكاء الاصطناعي للمحادثة للطلاب ذوي الإعاقة، بتحويله إلى بنية متعددة الوكلاء بدون خادم",
+      "summaryOriginal": "Learn how University Startups and its AWS partner g/d/n/a scaled Trinity, a conversational AI solution for students with disabilities, into a serverless multi-agent architecture on Amazon Bedrock that produces IDEA-aligned transition plans for school districts across the US.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/trinity-agentic-ai-powered-transition-planning-for-students-with-disabilities",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Trinity: Agentic AI-powered transition planning for students with disabilities",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T18:14:17+00:00"
+    },
     {
       "id": "0b2ddc2bc43c5f17e654",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
-    },
-    {
-      "id": "4d5bef2a1cab923659c5",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "توسع NVIDIA NVLink Fusion مع ذاكرة NVHBM مخصصة عالية النطاق الترددي",
-      "titleOriginal": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
-      "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-02T15:20:57.363789+00:00",
-  "lastFastCheckAt": "2026-09-02T18:12:40.062724+00:00"
+  "lastFastCheckAt": "2026-09-02T18:17:57.247009+00:00"
 }
