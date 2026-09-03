@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T13:09:08.741454+00:00",
-  "checkedAt": "2026-09-03T13:09:08.741454+00:00",
-  "newestPublishedAt": "2026-09-03T13:00:35+00:00",
+  "updatedAt": "2026-09-03T13:14:09.451337+00:00",
+  "checkedAt": "2026-09-03T13:14:09.451337+00:00",
+  "newestPublishedAt": "2026-09-03T13:13:48+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b12421c17bf90ca7e54c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "*NeoMME*: وحدة ترميز فعالة متعددة الوسائط ومتعددة اللغات",
+      "titleOriginal": "*NeoMME*: an efficient Multimodal-native and Multilingual Encoder",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Hcompany/neomme",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face *NeoMME*: an efficient Multimodal-native and Multilingual Encoder",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T13:13:48+00:00"
+    },
     {
       "id": "47e308c50c6592f66822",
       "company": "NVIDIA",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI A milestone in expanding access to AI"
-    },
-    {
-      "id": "bf7de9ae6ebd6abecdb6",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "تعمل Grok Bot الآن مع X",
-      "titleOriginal": "Grok Bot now works with X",
-      "dateLabel": "29 أغسطس 2026",
-      "dateISO": "2026-08-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "لدى Grok Bot الآن تكامل أكثر إحكامًا مع X.",
-      "summaryOriginal": "Grok Bot now has a tighter integration with X.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-bot-and-x",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok Bot now works with X"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T09:51:50.694014+00:00",
-  "lastFastCheckAt": "2026-09-03T13:09:08.741454+00:00"
+  "lastFastCheckAt": "2026-09-03T13:14:09.451337+00:00"
 }
