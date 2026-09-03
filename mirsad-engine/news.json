@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T12:08:04.205358+00:00",
-  "checkedAt": "2026-09-03T12:08:04.205358+00:00",
-  "newestPublishedAt": "2026-09-03T00:00:00+00:00",
+  "updatedAt": "2026-09-03T12:13:16.156424+00:00",
+  "checkedAt": "2026-09-03T12:13:16.156424+00:00",
+  "newestPublishedAt": "2026-09-03T11:59:49+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f6982bbc569233cb2c6d",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "NVIDIA لاكتساب وجه المعانقة",
+      "titleOriginal": "NVIDIA to Acquire Hugging Face",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
+      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T11:59:49+00:00"
+    },
     {
       "id": "25fd94d0c188e424d8ee",
       "company": "Hugging Face",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX"
-    },
-    {
-      "id": "53517f118e7a0b48e186",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "دعم الجيل القادم من الشركات الناشئة في مجال الذكاء الاصطناعي في تايلاند",
-      "titleOriginal": "Supporting Thailand’s next generation of AI startups",
-      "dateLabel": "28 أغسطس 2026",
-      "dateISO": "2026-08-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطلق OpenAI و MHESI التايلاندية مسرعًا لمدة ثمانية أسابيع يساعد 10 شركات ناشئة في مجال الصحة والعافية والتعليم على تحويل نماذج الذكاء الاصطناعي إلى منتجات موثوقة.",
-      "summaryOriginal": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T09:51:50.694014+00:00",
-  "lastFastCheckAt": "2026-09-03T12:08:04.205358+00:00"
+  "lastFastCheckAt": "2026-09-03T12:13:16.156424+00:00"
 }
