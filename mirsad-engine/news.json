@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T16:06:42.797252+00:00",
-  "checkedAt": "2026-09-03T16:06:42.797252+00:00",
-  "newestPublishedAt": "2026-09-03T16:01:56+00:00",
+  "updatedAt": "2026-09-03T16:11:46.058743+00:00",
+  "checkedAt": "2026-09-03T16:11:46.058743+00:00",
+  "newestPublishedAt": "2026-09-03T16:10:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "a624cf8dcb59aca19566",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إعداد OpenAI ChatGPT Codex مع LiteLLM على Amazon ECS و Amazon Bedrock",
+      "titleOriginal": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "نشر بوابة LiteLLM التي يديرها العملاء على Amazon ECS مع AWS Fargate، وتوصيلها بنموذج OpenAI على Amazon Bedrock، وتكوين Codex لتوجيه الطلبات من خلال",
+      "summaryOriginal": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped identities, budgets, rate limits, and telemetry. We also compare direct IAM Identity Center access and a managed Portkey deployment.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T16:10:39+00:00"
+    },
+    {
+      "id": "1a883323128ea9c7bff3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "أفضل الممارسات لبناء أتمتة الوكلاء باستخدام Amazon Quick Automate",
+      "titleOriginal": "Best practices for building agentic automations with Amazon Quick Automate",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعلم أفضل الممارسات لبناء أتمتة العمليات التجارية القائمة على الوكيل مع Amazon Quick Automate: اختيار العملية الصحيحة، وتصميم العمر المركّز",
+      "summaryOriginal": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps, applying human-in-the-loop review, and building in evaluation and observability.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Best practices for building agentic automations with Amazon Quick Automate",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T16:08:28+00:00"
+    },
     {
       "id": "0c52b83a42c5944e8ae3",
       "company": "Amazon",
@@ -684,51 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Biosecurity at the frontier"
-    },
-    {
-      "id": "3bf62839202cdfaae276",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "تدعم OpenAI مشروع قانون كاليفورنيا لتعزيز سلامة الذكاء الاصطناعي للشباب",
-      "titleOriginal": "OpenAI supports California’s bill to advance youth AI safety",
-      "dateLabel": "31 أغسطس 2026",
-      "dateISO": "2026-08-31",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تدعم OpenAI California SB 1119، وتقدم ضمانات قوية ومناسبة للعمر للذكاء الاصطناعي للمراهقين مع الحفاظ على فرص التعلم والإبداع والاستكشاف.",
-      "summaryOriginal": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI supports California’s bill to advance youth AI safety"
-    },
-    {
-      "id": "418f93c8c5130e76cf59",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "Polimill تبني الجيل التالي من البنية التحتية العامة للذكاء الاصطناعي في اليابان",
-      "titleOriginal": "Polimill builds Japan's next-generation public AI infrastructure",
-      "dateLabel": "31 أغسطس 2026",
-      "dateISO": "2026-08-31",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم Polimill نماذج OpenAI GPT و Codex لمساعدة البلديات على البحث عن المعرفة الإدارية واستخدامها مع تسريع التطوير.",
-      "summaryOriginal": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/polimill",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Polimill builds Japan's next-generation public AI infrastructure"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T14:35:41.785922+00:00",
-  "lastFastCheckAt": "2026-09-03T16:06:42.797252+00:00"
+  "lastFastCheckAt": "2026-09-03T16:11:46.058743+00:00"
 }
