@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T21:06:23.912131+00:00",
-  "checkedAt": "2026-09-03T21:06:23.912131+00:00",
+  "updatedAt": "2026-09-03T21:11:29.641132+00:00",
+  "checkedAt": "2026-09-03T21:11:29.641132+00:00",
   "newestPublishedAt": "2026-09-03T16:16:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -618,6 +618,32 @@
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
+      "id": "2e897ca46e8e5d2c74ce",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يمكن لمؤسسات الرعاية الصحية الآن ربط السجل الصحي الإلكتروني وبيانات الصناعة الإضافية بـ ChatGPT",
+      "titleOriginal": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمكن لـ ChatGPT الآن الاتصال ببيانات الرعاية الصحية الموثوقة، مما يساعد الأطباء على الوصول بأمان إلى سياق المريض والبحث الطبي والمزيد.",
+      "summaryOriginal": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T12:00:00+00:00"
+    },
+    {
       "id": "06b72deba036706f4b94",
       "company": "OpenAI",
       "logoText": "AI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability"
-    },
-    {
-      "id": "d11bf9e51ec885c32e6f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
-      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
-      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/path-to-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T21:03:32.521009+00:00",
-  "lastFastCheckAt": "2026-09-03T21:06:23.912131+00:00"
+  "lastFastCheckAt": "2026-09-03T21:11:29.641132+00:00"
 }
