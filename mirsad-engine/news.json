@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T14:35:09.489273+00:00",
-  "checkedAt": "2026-09-03T14:35:09.489273+00:00",
+  "updatedAt": "2026-09-03T14:35:41.785922+00:00",
+  "checkedAt": "2026-09-03T14:35:41.785922+00:00",
   "newestPublishedAt": "2026-09-03T13:13:48+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,12 +93,12 @@
   ],
   "items": [
     {
-      "id": "b12421c17bf90ca7e54c",
+      "id": "2b53cd0773d861e20d0d",
       "company": "Hugging Face",
       "logoText": "HF",
       "type": "مستجد تقني",
-      "title": "*NeoMME*: وحدة ترميز فعالة متعددة الوسائط ومتعددة اللغات",
-      "titleOriginal": "*NeoMME*: an efficient Multimodal-native and Multilingual Encoder",
+      "title": "NeoMME: برنامج ترميز فعال متعدد الوسائط ومتعدد اللغات",
+      "titleOriginal": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "dateLabel": "3 سبتمبر 2026",
       "dateISO": "2026-09-03",
       "category": "tools",
@@ -111,41 +111,31 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face *NeoMME*: an efficient Multimodal-native and Multilingual Encoder",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:13:48+00:00"
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder"
     },
     {
-      "id": "47e308c50c6592f66822",
+      "id": "6ceb18534c477c4a2d00",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
-      "title": "\"NBA 2K27\" مع NVIDIA DLSS 5 تتصدر 26 لعبة جديدة قادمة إلى GeForce الآن",
-      "titleOriginal": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "title": "\"NBA 2K27\" مع NVIDIA DLSS 5 تتصدر 28 لعبة جديدة قادمة إلى GeForce الآن",
+      "titleOriginal": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
       "dateLabel": "3 سبتمبر 2026",
       "dateISO": "2026-09-03",
       "category": "tools",
       "importance": 78,
-      "summary": "سبتمبر هنا مع 26 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
-      "summaryOriginal": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "summary": "سبتمبر هنا مع 28 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
+      "summaryOriginal": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:00:35+00:00"
+      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
     },
     {
-      "id": "f6982bbc569233cb2c6d",
+      "id": "bc64f88e1b353e5659af",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -158,17 +148,54 @@
       "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
       "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T11:59:49+00:00"
+      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
+    },
+    {
+      "id": "4e3ff960e422a6244ce0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
+      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
+    },
+    {
+      "id": "a5059c1bf0edd101daee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
+      "titleOriginal": "Give Your Coding Agents a Memory You Own",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/funes",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
     },
     {
       "id": "25fd94d0c188e424d8ee",
@@ -190,58 +217,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
-    },
-    {
-      "id": "a5059c1bf0edd101daee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
-      "titleOriginal": "Give Your Coding Agents a Memory You Own",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/funes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T00:00:00+00:00"
-    },
-    {
-      "id": "4e3ff960e422a6244ce0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
-      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T00:00:00+00:00"
     },
     {
       "id": "b885ae096e5c7bb3b004",
@@ -749,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-03T09:51:50.694014+00:00",
-  "lastFastCheckAt": "2026-09-03T14:35:09.489273+00:00"
+  "lastDeepCheckAt": "2026-09-03T14:35:41.785922+00:00"
 }
