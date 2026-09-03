@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T12:58:44.275571+00:00",
-  "checkedAt": "2026-09-03T12:58:44.275571+00:00",
-  "newestPublishedAt": "2026-09-03T11:59:49+00:00",
+  "updatedAt": "2026-09-03T13:03:46.648007+00:00",
+  "checkedAt": "2026-09-03T13:03:46.648007+00:00",
+  "newestPublishedAt": "2026-09-03T13:00:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "47e308c50c6592f66822",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "\"NBA 2K27\" مع NVIDIA DLSS 5 تتصدر 26 لعبة جديدة قادمة إلى GeForce الآن",
+      "titleOriginal": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "سبتمبر هنا مع 26 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
+      "summaryOriginal": "September is here with 26 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T13:00:35+00:00"
+    },
     {
       "id": "f6982bbc569233cb2c6d",
       "company": "NVIDIA",
@@ -715,35 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok Bot now works with X"
-    },
-    {
-      "id": "0800406a6118c6eec343",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "قرارنا بشأن المؤشر بعد استحواذ سبيس إكس عليه",
-      "titleOriginal": "Our decision on Cursor following its acquisition by SpaceX",
-      "dateLabel": "28 أغسطس 2026",
-      "dateISO": "2026-08-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "قرارنا بإنهاء عقدنا الذي يوفر نماذج OpenAI إلى Cursor بعد استحواذ SpaceX عليها.",
-      "summaryOriginal": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-08-28T06:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T09:51:50.694014+00:00",
-  "lastFastCheckAt": "2026-09-03T12:58:44.275571+00:00"
+  "lastFastCheckAt": "2026-09-03T13:03:46.648007+00:00"
 }
