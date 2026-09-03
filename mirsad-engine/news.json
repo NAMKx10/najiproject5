@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T12:18:16.011091+00:00",
-  "checkedAt": "2026-09-03T12:18:16.011091+00:00",
+  "updatedAt": "2026-09-03T12:23:28.820437+00:00",
+  "checkedAt": "2026-09-03T12:23:28.820437+00:00",
   "newestPublishedAt": "2026-09-03T11:59:49+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -717,33 +717,33 @@
       "searchAliases": "xAI Grok Bot now works with X"
     },
     {
-      "id": "53517f118e7a0b48e186",
+      "id": "0800406a6118c6eec343",
       "company": "OpenAI",
       "logoText": "AI",
       "type": "إطلاق أو تحديث",
-      "title": "دعم الجيل القادم من الشركات الناشئة في مجال الذكاء الاصطناعي في تايلاند",
-      "titleOriginal": "Supporting Thailand’s next generation of AI startups",
+      "title": "قرارنا بشأن المؤشر بعد استحواذ سبيس إكس عليه",
+      "titleOriginal": "Our decision on Cursor following its acquisition by SpaceX",
       "dateLabel": "28 أغسطس 2026",
       "dateISO": "2026-08-28",
       "category": "models",
       "importance": 92,
-      "summary": "تطلق OpenAI و MHESI التايلاندية مسرعًا لمدة ثمانية أسابيع يساعد 10 شركات ناشئة في مجال الصحة والعافية والتعليم على تحويل نماذج الذكاء الاصطناعي إلى منتجات موثوقة.",
-      "summaryOriginal": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "summary": "قرارنا بإنهاء عقدنا الذي يوفر نماذج OpenAI إلى Cursor بعد استحواذ SpaceX عليها.",
+      "summaryOriginal": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Supporting Thailand’s next generation of AI startups",
+      "searchAliases": "OpenAI Our decision on Cursor following its acquisition by SpaceX",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-08-28T02:00:00+00:00"
+      "publishedAt": "2026-08-28T06:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T09:51:50.694014+00:00",
-  "lastFastCheckAt": "2026-09-03T12:18:16.011091+00:00"
+  "lastFastCheckAt": "2026-09-03T12:23:28.820437+00:00"
 }
