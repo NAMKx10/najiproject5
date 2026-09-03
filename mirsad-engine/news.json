@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T09:50:53.352778+00:00",
-  "checkedAt": "2026-09-03T09:50:53.352778+00:00",
+  "updatedAt": "2026-09-03T09:51:50.694014+00:00",
+  "checkedAt": "2026-09-03T09:51:50.694014+00:00",
   "newestPublishedAt": "2026-09-03T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T00:00:00+00:00"
+      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
     },
     {
       "id": "b885ae096e5c7bb3b004",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-03T05:07:23.379053+00:00",
-  "lastFastCheckAt": "2026-09-03T09:50:53.352778+00:00"
+  "lastDeepCheckAt": "2026-09-03T09:51:50.694014+00:00"
 }
