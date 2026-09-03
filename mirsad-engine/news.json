@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T07:58:57.431515+00:00",
-  "checkedAt": "2026-09-03T07:58:57.431515+00:00",
-  "newestPublishedAt": "2026-09-02T21:22:05+00:00",
+  "updatedAt": "2026-09-03T08:03:46.349767+00:00",
+  "checkedAt": "2026-09-03T08:03:46.349767+00:00",
+  "newestPublishedAt": "2026-09-03T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "25fd94d0c188e424d8ee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تدريب نموذج ترميز لطلاء الألوان المائية باستخدام TRL و OpenEnv",
+      "titleOriginal": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/train-to-paint-with-code",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T00:00:00+00:00"
+    },
     {
       "id": "b885ae096e5c7bb3b004",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
-    },
-    {
-      "id": "4d5bef2a1cab923659c5",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "توسع NVIDIA NVLink Fusion مع ذاكرة NVHBM مخصصة عالية النطاق الترددي",
-      "titleOriginal": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "dateLabel": "26 أغسطس 2026",
-      "dateISO": "2026-08-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
-      "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T05:07:23.379053+00:00",
-  "lastFastCheckAt": "2026-09-03T07:58:57.431515+00:00"
+  "lastFastCheckAt": "2026-09-03T08:03:46.349767+00:00"
 }
