@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T00:14:58.877132+00:00",
-  "checkedAt": "2026-09-03T00:14:58.877132+00:00",
+  "updatedAt": "2026-09-03T00:17:21.024188+00:00",
+  "checkedAt": "2026-09-03T00:17:21.024188+00:00",
   "newestPublishedAt": "2026-09-02T21:22:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,32 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "ee4e7bef0feb3427770c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "حولت ATV Big Air Tour 3 أيام من العمل إلى 3 ساعات مع ChatGPT",
-      "titleOriginal": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم ATV Big Air Tour ChatGPT Work لتسريع التسويق والترويج والمزيد. حتى أنها حولت صور البضائع إلى موقع ويب للمخزون في 15 دقيقة.",
-      "summaryOriginal": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/atv-big-air-tour",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T12:00:00+00:00"
-    },
     {
       "id": "b885ae096e5c7bb3b004",
       "company": "Amazon",
@@ -243,6 +217,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent"
+    },
+    {
+      "id": "ee4e7bef0feb3427770c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "حولت ATV Big Air Tour 3 أيام من العمل إلى 3 ساعات مع ChatGPT",
+      "titleOriginal": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم ATV Big Air Tour ChatGPT Work لتسريع التسويق والترويج والمزيد. حتى أنها حولت صور البضائع إلى موقع ويب للمخزون في 15 دقيقة.",
+      "summaryOriginal": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/atv-big-air-tour",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT"
     },
     {
       "id": "bd09c35864519acd3ed8",
@@ -707,28 +702,27 @@
       "searchAliases": "NVIDIA Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now"
     },
     {
-      "id": "d97b437e78c634e4cea7",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "إجابات أفضل، تفكير أوسع: ما يكتسبه الطلاب من ChatGPT وتدريب التفكير النقدي",
-      "titleOriginal": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "dateLabel": "27 أغسطس 2026",
-      "dateISO": "2026-08-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تفحص دراسة عشوائية لأكثر من 1000 طالب ChatGPT والتفكير النقدي والأصالة وأداء الطلاب في مهمة جامعية في العالم الحقيقي.",
-      "summaryOriginal": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "sourceLabel": "OpenAI",
+      "id": "4d5bef2a1cab923659c5",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "توسع NVIDIA NVLink Fusion مع ذاكرة NVHBM مخصصة عالية النطاق الترددي",
+      "titleOriginal": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+      "dateLabel": "26 أغسطس 2026",
+      "dateISO": "2026-08-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تضع الموجة التالية من الذكاء الاصطناعي مطالب جديدة على البنية التحتية. مع تحول وكلاء الذكاء الاصطناعي وأعباء العمل التي تبلغ تريليون معلمة إلى الاتجاه السائد، يعتمد أداء البنية التحتية للذكاء الاصطناعي",
+      "summaryOriginal": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+      "searchAliases": "NVIDIA NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-02T21:50:25.796185+00:00",
-  "lastFastCheckAt": "2026-09-03T00:14:58.877132+00:00"
+  "lastDeepCheckAt": "2026-09-03T00:17:21.024188+00:00"
 }
