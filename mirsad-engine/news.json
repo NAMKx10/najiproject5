@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T16:21:52.080950+00:00",
-  "checkedAt": "2026-09-03T16:21:52.080950+00:00",
+  "updatedAt": "2026-09-03T16:24:47.176181+00:00",
+  "checkedAt": "2026-09-03T16:24:47.176181+00:00",
   "newestPublishedAt": "2026-09-03T16:16:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -569,6 +569,32 @@
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
+      "id": "d11bf9e51ec885c32e6f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
+      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
+      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/path-to-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T13:00:00+00:00"
+    },
+    {
       "id": "2e897ca46e8e5d2c74ce",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock"
-    },
-    {
-      "id": "f60eb022247d102ed126",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "تأمين أمازون سريع من نقطة الرعاية إلى الإنتاج: العوامل والتدفقات والمساحات",
-      "titleOriginal": "Securing Amazon Quick from POC to production: Agents, Flows, and Spaces",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "policy",
-      "importance": 88,
-      "summary": "غالبًا ما تتوقف مشاريع إثبات المفهوم السريع من أمازون عندما تقوم فرق الأمن بمراجعة خطة الإنتاج. يتطرق هذا المنشور إلى تصميم لوحات المعلومات والمساحات وقواعد المعرفة،",
-      "summaryOriginal": "Amazon Quick proof-of-concept projects often stall when security teams review the production plan. This post walks through designing dashboards, Spaces, knowledge bases, agents, and Flows with security controls that hold as you scale: dataset shaping, agent isolation, document classification, and approval gates.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Securing Amazon Quick from POC to production: Agents, Flows, and Spaces"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T14:35:41.785922+00:00",
-  "lastFastCheckAt": "2026-09-03T16:21:52.080950+00:00"
+  "lastFastCheckAt": "2026-09-03T16:24:47.176181+00:00"
 }
