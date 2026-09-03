@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T20:40:59.472421+00:00",
-  "checkedAt": "2026-09-03T20:40:59.472421+00:00",
+  "updatedAt": "2026-09-03T20:45:58.746001+00:00",
+  "checkedAt": "2026-09-03T20:45:58.746001+00:00",
   "newestPublishedAt": "2026-09-03T16:16:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ea433d1b708893c278d9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "فجر للمدافعين عن الخطوط الأمامية: 1 مليار $ لحماية الخدمات الأساسية",
+      "titleOriginal": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI Daybreak للمدافعين عن الخطوط الأمامية. يوسع التزام بقيمة $ الوصول إلى الذكاء الإصطناعي السيبراني، والتدريب، ودعم الخدمات الأساسية.",
+      "summaryOriginal": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Daybreak for Frontline Defenders: $1B to protect essential services",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T13:15:00+00:00"
+    },
     {
       "id": "426e2db1cee5e13fc84f",
       "company": "OpenAI",
@@ -439,6 +465,32 @@
       "searchAliases": "xAI Designing Grok Bot for a world of persistent agents"
     },
     {
+      "id": "7d7c06a109c8d85a31a3",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نظرة عامة على السلامة: GPT -6 ASTRA",
+      "titleOriginal": "Safety overview: GPT-6 Astra",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "GPT -6 ASTRA هو نموذجنا الأكثر قدرة على الانتشار على نطاق واسع وأول من يصل إلى المستوى الحرج لقدرة الأمن السيبراني بموجب إطار التأهب الخاص بنا.",
+      "summaryOriginal": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Safety overview: GPT-6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T00:00:00+00:00"
+    },
+    {
       "id": "b885ae096e5c7bb3b004",
       "company": "Amazon",
       "logoText": "AWS",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
-    },
-    {
-      "id": "06b72deba036706f4b94",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تحكم شركة المحاماة Gilbert + Tobin وتقيس الذكاء الاصطناعي مع OpenAI",
-      "titleOriginal": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "انظر كيف يجمع جيلبرت + توبين بين الالتزام بقيادة الرئيس التنفيذي والحوكمة الصارمة والمساءلة البشرية لتوسيع نطاق ChatGPT Enterprise و Codex عبر الشركة.",
-      "summaryOriginal": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gilbert-tobin",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How law firm Gilbert + Tobin governs and scales AI with OpenAI"
-    },
-    {
-      "id": "2625d757d7869411f358",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم @huggingface/kernels: أكثر من 200 نواة WebGPU للذكاء الاصطناعي المحلي",
-      "titleOriginal": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/webgpu-kernels",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T18:05:45.066532+00:00",
-  "lastFastCheckAt": "2026-09-03T20:40:59.472421+00:00"
+  "lastFastCheckAt": "2026-09-03T20:45:58.746001+00:00"
 }
