@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T21:11:29.641132+00:00",
-  "checkedAt": "2026-09-03T21:11:29.641132+00:00",
+  "updatedAt": "2026-09-03T21:16:29.045821+00:00",
+  "checkedAt": "2026-09-03T21:16:29.045821+00:00",
   "newestPublishedAt": "2026-09-03T16:16:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -618,6 +618,32 @@
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
+      "id": "d11bf9e51ec885c32e6f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
+      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
+      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/path-to-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T13:00:00+00:00"
+    },
+    {
       "id": "2e897ca46e8e5d2c74ce",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
-    },
-    {
-      "id": "7429c9bb59d3313c8eee",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تحول الشركات الأصلية للذكاء الاصطناعي سير العمل إلى قدرة تشغيلية",
-      "titleOriginal": "How AI-native companies turn workflows into operating capability",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "business",
-      "importance": 82,
-      "summary": "تستخدم مختبرات Basis و Clay و Exa Labs وكلاء الذكاء الاصطناعي لتحسين التأهيل وإدارة الحسابات وتكامل المطورين. تعرف على ما يمكن لقادة المؤسسات تطبيقه.",
-      "summaryOriginal": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/ai-native-company-workflows",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T21:03:32.521009+00:00",
-  "lastFastCheckAt": "2026-09-03T21:11:29.641132+00:00"
+  "lastFastCheckAt": "2026-09-03T21:16:29.045821+00:00"
 }
