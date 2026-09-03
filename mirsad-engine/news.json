@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-03T16:01:43.713885+00:00",
-  "checkedAt": "2026-09-03T16:01:43.713885+00:00",
-  "newestPublishedAt": "2026-09-03T13:13:48+00:00",
+  "updatedAt": "2026-09-03T16:06:42.797252+00:00",
+  "checkedAt": "2026-09-03T16:06:42.797252+00:00",
+  "newestPublishedAt": "2026-09-03T16:01:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0c52b83a42c5944e8ae3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تضمين مرئيات البصر السريع باستخدام مصادقة مستخدم Cognito",
+      "titleOriginal": "Embed Quick Sight visuals using Cognito user authentication",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية تضمين صور Amazon Quick Sight الفردية في تطبيق React مع التحكم في الوصول لكل مستخدم. تستخدم هذه الجولة مصادقة Amazon Cognito و",
+      "summaryOriginal": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Embed Quick Sight visuals using Cognito user authentication",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T16:01:56+00:00"
+    },
     {
       "id": "2b53cd0773d861e20d0d",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Polimill builds Japan's next-generation public AI infrastructure"
-    },
-    {
-      "id": "94e957d0fd96c70c7db6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "علامة بارزة في توسيع نطاق الوصول إلى الذكاء الاصطناعي",
-      "titleOriginal": "A milestone in expanding access to AI",
-      "dateLabel": "31 أغسطس 2026",
-      "dateISO": "2026-08-31",
-      "category": "models",
-      "importance": 92,
-      "summary": "تصل إعلانات ChatGPT إلى 1 $ في معدل تشغيل الإيرادات السنوية وتتوسع على مستوى العالم، مما يدعم الوصول الأوسع إلى من خلال خيارات مجانية وبأسعار معقولة.",
-      "summaryOriginal": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI A milestone in expanding access to AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-03T14:35:41.785922+00:00",
-  "lastFastCheckAt": "2026-09-03T16:01:43.713885+00:00"
+  "lastFastCheckAt": "2026-09-03T16:06:42.797252+00:00"
 }
