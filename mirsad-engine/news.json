@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T17:32:00.914572+00:00",
-  "checkedAt": "2026-09-04T17:32:00.914572+00:00",
+  "updatedAt": "2026-09-04T17:37:02.414108+00:00",
+  "checkedAt": "2026-09-04T17:37:02.414108+00:00",
   "newestPublishedAt": "2026-09-04T17:20:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -622,6 +622,32 @@
       "searchAliases": "xAI Designing Grok Bot for a world of persistent agents"
     },
     {
+      "id": "0b2ddc2bc43c5f17e654",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "الذكاء في الوقت الحقيقي مع نماذج السلاسل الزمنية من IBM على كونفلوينت",
+      "titleOriginal": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T13:49:14+00:00"
+    },
+    {
       "id": "ee4e7bef0feb3427770c",
       "company": "OpenAI",
       "logoText": "AI",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How an AWS team detects dashboard content failures at scale using Amazon Bedrock"
-    },
-    {
-      "id": "a21b0d62915cd156bb44",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "من التعليمات البرمجية إلى الرسوم البيانية: وثائق بنية الوكيل مع Amazon Bedrock AgentCore",
-      "titleOriginal": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية قيام وسيط عالمي بين الوكلاء ببناء خط أنابيب توثيق هندسي آلي على Amazon Bedrock AgentCore الذي يحلل قواعد رمز .NET، وينشئ architec",
-      "summaryOriginal": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generates architecture diagrams, and maintains searchable documentation through Amazon Bedrock Knowledge Bases and AWS CodePipeline.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-code-to-diagrams-agentic-architecture-documentation-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-04T15:08:44.090366+00:00",
-  "lastFastCheckAt": "2026-09-04T17:32:00.914572+00:00"
+  "lastFastCheckAt": "2026-09-04T17:37:02.414108+00:00"
 }
