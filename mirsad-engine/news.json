@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T06:32:36.161763+00:00",
-  "checkedAt": "2026-09-04T06:32:36.161763+00:00",
+  "updatedAt": "2026-09-04T06:34:07.413820+00:00",
+  "checkedAt": "2026-09-04T06:34:07.413820+00:00",
   "newestPublishedAt": "2026-09-03T16:16:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -639,6 +639,58 @@
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
+      "id": "2e897ca46e8e5d2c74ce",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يمكن لمؤسسات الرعاية الصحية الآن ربط السجل الصحي الإلكتروني وبيانات الصناعة الإضافية بـ ChatGPT",
+      "titleOriginal": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمكن لـ ChatGPT الآن الاتصال ببيانات الرعاية الصحية الموثوقة، مما يساعد الأطباء على الوصول بأمان إلى سياق المريض والبحث الطبي والمزيد.",
+      "summaryOriginal": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T12:00:00+00:00"
+    },
+    {
+      "id": "06b72deba036706f4b94",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تحكم شركة المحاماة Gilbert + Tobin وتقيس الذكاء الاصطناعي مع OpenAI",
+      "titleOriginal": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "انظر كيف يجمع جيلبرت + توبين بين الالتزام بقيادة الرئيس التنفيذي والحوكمة الصارمة والمساءلة البشرية لتوسيع نطاق ChatGPT Enterprise و Codex عبر الشركة.",
+      "summaryOriginal": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/gilbert-tobin",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-01T01:00:00+00:00"
+    },
+    {
       "id": "cd3fba0327ce9aa6d69c",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -679,50 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
-    },
-    {
-      "id": "7429c9bb59d3313c8eee",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تحول الشركات الأصلية للذكاء الاصطناعي سير العمل إلى قدرة تشغيلية",
-      "titleOriginal": "How AI-native companies turn workflows into operating capability",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "business",
-      "importance": 82,
-      "summary": "تستخدم مختبرات Basis و Clay و Exa Labs وكلاء الذكاء الاصطناعي لتحسين التأهيل وإدارة الحسابات وتكامل المطورين. تعرف على ما يمكن لقادة المؤسسات تطبيقه.",
-      "summaryOriginal": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/ai-native-company-workflows",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability"
-    },
-    {
-      "id": "d11bf9e51ec885c32e6f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
-      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
-      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/path-to-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-04T06:32:36.161763+00:00"
+  "lastDeepCheckAt": "2026-09-04T06:32:36.161763+00:00",
+  "lastFastCheckAt": "2026-09-04T06:34:07.413820+00:00"
 }
