@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T23:01:39.644383+00:00",
-  "checkedAt": "2026-09-04T23:01:39.644383+00:00",
+  "updatedAt": "2026-09-04T23:03:28.786311+00:00",
+  "checkedAt": "2026-09-04T23:03:28.786311+00:00",
   "newestPublishedAt": "2026-09-04T21:45:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "933d31233efdaa1ab667",
+      "id": "c7583833da4126da67e4",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,17 +106,12 @@
       "summary": "تعرف على كيفية نشر مساعد طلب WhatsApp متعدد الوسائط الذي يأخذ طلبات العملاء من خلال الرسائل النصية والملاحظات الصوتية والمكالمات الصوتية في الوقت الفعلي على رقم عمل واحد،",
       "summaryOriginal": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-04T21:45:52+00:00"
+      "searchAliases": "Amazon Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
     },
     {
       "id": "2e44746abf50b01a1e25",
@@ -327,27 +322,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock"
-    },
-    {
-      "id": "07baa61043419d7e2484",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "أفضل الممارسات لبناء أتمتة الوكلاء باستخدام Amazon Quick Automate",
-      "titleOriginal": "Best practices for building agentic automations with Amazon Quick Automate",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعلم أفضل الممارسات لبناء أتمتة العمليات التجارية القائمة على الوكيل مع Amazon Quick Automate: اختيار العملية الصحيحة، وتصميم العمر المركّز",
-      "summaryOriginal": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps, applying human-in-the-loop review, and building in evaluation and observability.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Best practices for building agentic automations with Amazon Quick Automate"
     },
     {
       "id": "3a5da9f663b4c289e137",
@@ -704,15 +678,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:39:07+00:00"
+      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?"
     },
     {
-      "id": "94ce502ad4ba6334c01b",
+      "id": "9edbea7d510035febed2",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أمان وسياسات",
@@ -725,20 +694,35 @@
       "summary": "أخبر جنسن هوانغ حشدًا في CrowdStrike's Fal.Con 2026 في لاس فيغاس يوم الثلاثاء: \"نحن عند نقطة انعطاف في الأمن السيبراني\". أصبحت الهجمات مؤتمتة الآن. الدفاع",
       "summaryOriginal": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:19:20+00:00"
+      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
+    },
+    {
+      "id": "7429c9bb59d3313c8eee",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "كيف تحول الشركات الأصلية للذكاء الاصطناعي سير العمل إلى قدرة تشغيلية",
+      "titleOriginal": "How AI-native companies turn workflows into operating capability",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "business",
+      "importance": 82,
+      "summary": "تستخدم مختبرات Basis و Clay و Exa Labs وكلاء الذكاء الاصطناعي لتحسين التأهيل وإدارة الحسابات وتكامل المطورين. تعرف على ما يمكن لقادة المؤسسات تطبيقه.",
+      "summaryOriginal": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/ai-native-company-workflows",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-04T21:03:07.359103+00:00",
-  "lastFastCheckAt": "2026-09-04T23:01:39.644383+00:00"
+  "lastDeepCheckAt": "2026-09-04T23:03:28.786311+00:00"
 }
