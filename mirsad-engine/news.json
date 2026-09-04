@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T17:21:56.987490+00:00",
-  "checkedAt": "2026-09-04T17:21:56.987490+00:00",
+  "updatedAt": "2026-09-04T17:27:11.798734+00:00",
+  "checkedAt": "2026-09-04T17:27:11.798734+00:00",
   "newestPublishedAt": "2026-09-04T17:20:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -622,6 +622,32 @@
       "searchAliases": "xAI Designing Grok Bot for a world of persistent agents"
     },
     {
+      "id": "7dd49c676016b6f94e78",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "أمان وسياسات",
+      "title": "ضرورة العائد: تحويل البنية التحتية للذكاء الاصطناعي إلى ذكاء مفيد",
+      "titleOriginal": "The yield imperative: Turning AI infrastructure into useful intelligence",
+      "dateLabel": "2 سبتمبر 2026",
+      "dateISO": "2026-09-02",
+      "category": "policy",
+      "importance": 88,
+      "summary": "مع دخولنا العصر التالي، ما هو المقياس المحدد لتقدمنا ؟ لكل صناعة كلمة تشكل طريقة تفكيرها. بالنسبة للطيارين، إنها السلامة. بالنسبة لشركات التأمين، أنا",
+      "summaryOriginal": "As we enter the next era, what will be the defining measure of our progress? Every industry has a word that shapes how it thinks. For pilots, it’s safety. For insurers, it’s risk. For the semiconductor industry, it’s yield. Yield does not ask how elegant the solution is, how many years it took or what... The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog .",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-02T06:00:02+00:00"
+    },
+    {
       "id": "b885ae096e5c7bb3b004",
       "company": "Amazon",
       "logoText": "AWS",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent"
-    },
-    {
-      "id": "ee4e7bef0feb3427770c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "حولت ATV Big Air Tour 3 أيام من العمل إلى 3 ساعات مع ChatGPT",
-      "titleOriginal": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم ATV Big Air Tour ChatGPT Work لتسريع التسويق والترويج والمزيد. حتى أنها حولت صور البضائع إلى موقع ويب للمخزون في 15 دقيقة.",
-      "summaryOriginal": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/atv-big-air-tour",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-04T15:08:44.090366+00:00",
-  "lastFastCheckAt": "2026-09-04T17:21:56.987490+00:00"
+  "lastFastCheckAt": "2026-09-04T17:27:11.798734+00:00"
 }
