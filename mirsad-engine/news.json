@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T16:11:12.593684+00:00",
-  "checkedAt": "2026-09-04T16:11:12.593684+00:00",
-  "newestPublishedAt": "2026-09-04T16:08:10+00:00",
+  "updatedAt": "2026-09-04T16:16:31.276235+00:00",
+  "checkedAt": "2026-09-04T16:16:31.276235+00:00",
+  "newestPublishedAt": "2026-09-04T16:16:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "84785b1fe6997a860942",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء مصنع نموذج للذكاء الاصطناعي المادي باستخدام NVIDIA Cosmos 3 على SageMaker HyperPod",
+      "titleOriginal": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+      "dateLabel": "4 سبتمبر 2026",
+      "dateISO": "2026-09-04",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتطلب بناء نظام ذكاء اصطناعي مادي خط أنابيب مستمر، وليس وظيفة تدريب واحدة. يوضح هذا المنشور كيفية تشغيل مصنع النماذج هذا (توليد البيانات الاصطناعية، ما بعد التدريب",
+      "summaryOriginal": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-04T16:16:00+00:00"
+    },
+    {
+      "id": "595988a5fedde9461cda",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "قم بتشغيل عمليات Amazon SageMaker HyperPod التي يحركها الوكيل باستخدام InstantStart",
+      "titleOriginal": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      "dateLabel": "4 سبتمبر 2026",
+      "dateISO": "2026-09-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "HyperPod InstantStart هو مستوى تحكم مفتوح المصدر يتكون من تنسيق Amazon EKS مع القدرات المدارة من Amazon SageMaker HyperPod. إنه يقود سام",
+      "summaryOriginal": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, and storage into dependable, agent-driven infrastructure.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-04T16:12:17+00:00"
+    },
     {
       "id": "d951599b86cb773856d1",
       "company": "Amazon",
@@ -689,61 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
-    },
-    {
-      "id": "cd3fba0327ce9aa6d69c",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "BenchMIRT: ما هي معايير LLM التي تقيس بالفعل ؟",
-      "titleOriginal": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/benchmirt",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:39:07+00:00"
-    },
-    {
-      "id": "94ce502ad4ba6334c01b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "تعزز NVIDIA و CrowdStrike حدود الأمن السيبراني للوكلاء",
-      "titleOriginal": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أخبر جنسن هوانغ حشدًا في CrowdStrike's Fal.Con 2026 في لاس فيغاس يوم الثلاثاء: \"نحن عند نقطة انعطاف في الأمن السيبراني\". أصبحت الهجمات مؤتمتة الآن. الدفاع",
-      "summaryOriginal": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:19:20+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-04T15:08:44.090366+00:00",
-  "lastFastCheckAt": "2026-09-04T16:11:12.593684+00:00"
+  "lastFastCheckAt": "2026-09-04T16:16:31.276235+00:00"
 }
