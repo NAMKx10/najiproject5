@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T16:05:59.541572+00:00",
-  "checkedAt": "2026-09-04T16:05:59.541572+00:00",
-  "newestPublishedAt": "2026-09-03T16:16:28+00:00",
+  "updatedAt": "2026-09-04T16:11:12.593684+00:00",
+  "checkedAt": "2026-09-04T16:11:12.593684+00:00",
+  "newestPublishedAt": "2026-09-04T16:08:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "d951599b86cb773856d1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "تخصيص قاعدة معارفك على Amazon Bedrock للمستندات الكبيرة والمعقدة باستخدام Amazon Textract",
+      "titleOriginal": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+      "dateLabel": "4 سبتمبر 2026",
+      "dateISO": "2026-09-04",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعلم كيفية تخصيص قاعدة معارف Amazon Bedrock للمستندات الكبيرة والمعقدة من خلال الجمع بين استخراج النص عالي الدقة من Amazon Textract مع",
+      "summaryOriginal": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to ingest and preprocess PDFs and images, then query utility bills at scale for faster, more accurate customer interactions.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-04T16:08:10+00:00"
+    },
+    {
+      "id": "27875c89c20747a8d8b2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "كيف بنت إنتويت مساعدًا للتعافي من الكوارث مع أمازون بيدروك",
+      "titleOriginal": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+      "dateLabel": "4 سبتمبر 2026",
+      "dateISO": "2026-09-04",
+      "category": "policy",
+      "importance": 88,
+      "summary": "من الصعب التعافي من الكوارث على نطاق واسع. تعرف على كيفية قيام Intuit ببناء EWOK Agent، وهو مساعد وكيل للتعافي من الكوارث على Amazon Bedrock يتيح للمهندسين تحت الطلب تشغيل الإنتاج",
+      "summaryOriginal": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-04T16:06:01+00:00"
+    },
     {
       "id": "7dbb37ec3c291650f954",
       "company": "Amazon",
@@ -689,61 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-01T21:19:20+00:00"
-    },
-    {
-      "id": "7429c9bb59d3313c8eee",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تحول الشركات الأصلية للذكاء الاصطناعي سير العمل إلى قدرة تشغيلية",
-      "titleOriginal": "How AI-native companies turn workflows into operating capability",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "business",
-      "importance": 82,
-      "summary": "تستخدم مختبرات Basis و Clay و Exa Labs وكلاء الذكاء الاصطناعي لتحسين التأهيل وإدارة الحسابات وتكامل المطورين. تعرف على ما يمكن لقادة المؤسسات تطبيقه.",
-      "summaryOriginal": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/ai-native-company-workflows",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T17:00:00+00:00"
-    },
-    {
-      "id": "d11bf9e51ec885c32e6f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
-      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
-      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/path-to-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T13:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-04T15:08:44.090366+00:00",
-  "lastFastCheckAt": "2026-09-04T16:05:59.541572+00:00"
+  "lastFastCheckAt": "2026-09-04T16:11:12.593684+00:00"
 }
