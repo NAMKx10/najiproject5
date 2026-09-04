@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T18:22:37.376488+00:00",
-  "checkedAt": "2026-09-04T18:22:37.376488+00:00",
+  "updatedAt": "2026-09-04T18:25:15.332218+00:00",
+  "checkedAt": "2026-09-04T18:25:15.332218+00:00",
   "newestPublishedAt": "2026-09-04T17:20:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "5affce2c94902361362d",
+      "id": "2e44746abf50b01a1e25",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +106,15 @@
       "summary": "يتراكم لدى وكلاء الذكاء الاصطناعي منذ فترة طويلة ذكريات عفا عليها الزمن تقلل من الجودة وتخلق مخاطر الامتثال. تعلم كيفية تصميم سياسات دورة حياة الذاكرة لـ Amazon Bedrock Agen",
       "summaryOriginal": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK stack.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory",
+      "source": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Designing lifecycle policies for AgentCore memory",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-04T17:20:04+00:00"
+      "searchAliases": "Amazon Designing lifecycle policies for AgentCore memory"
     },
     {
-      "id": "84785b1fe6997a860942",
+      "id": "8ae27468bd8076f2ce80",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "يتطلب بناء نظام ذكاء اصطناعي مادي خط أنابيب مستمر، وليس وظيفة تدريب واحدة. يوضح هذا المنشور كيفية تشغيل مصنع النماذج هذا (توليد البيانات الاصطناعية، ما بعد التدريب",
       "summaryOriginal": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-04T16:16:00+00:00"
+      "searchAliases": "Amazon Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod"
     },
     {
-      "id": "595988a5fedde9461cda",
+      "id": "fa1d51c4c32f3906e379",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,20 +148,15 @@
       "summary": "HyperPod InstantStart هو مستوى تحكم مفتوح المصدر يتكون من تنسيق Amazon EKS مع القدرات المدارة من Amazon SageMaker HyperPod. إنه يقود سام",
       "summaryOriginal": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, and storage into dependable, agent-driven infrastructure.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-04T16:12:17+00:00"
+      "searchAliases": "Amazon Run agent-driven Amazon SageMaker HyperPod operations with InstantStart"
     },
     {
-      "id": "d951599b86cb773856d1",
+      "id": "c6345f43a36a5c4dbd86",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -184,20 +169,15 @@
       "summary": "تعلم كيفية تخصيص قاعدة معارف Amazon Bedrock للمستندات الكبيرة والمعقدة من خلال الجمع بين استخراج النص عالي الدقة من Amazon Textract مع",
       "summaryOriginal": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to ingest and preprocess PDFs and images, then query utility bills at scale for faster, more accurate customer interactions.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract",
+      "source": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-04T16:08:10+00:00"
+      "searchAliases": "Amazon Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract"
     },
     {
-      "id": "27875c89c20747a8d8b2",
+      "id": "2be0feef2d448252f88d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -210,17 +190,12 @@
       "summary": "من الصعب التعافي من الكوارث على نطاق واسع. تعرف على كيفية قيام Intuit ببناء EWOK Agent، وهو مساعد وكيل للتعافي من الكوارث على Amazon Bedrock يتيح للمهندسين تحت الطلب تشغيل الإنتاج",
       "summaryOriginal": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-04T16:06:01+00:00"
+      "searchAliases": "Amazon How Intuit built an agentic disaster recovery assistant with Amazon Bedrock"
     },
     {
       "id": "7dbb37ec3c291650f954",
@@ -326,27 +301,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Best practices for building agentic automations with Amazon Quick Automate"
-    },
-    {
-      "id": "e1a7f2aafa61e7a64ecf",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تضمين مرئيات البصر السريع باستخدام مصادقة مستخدم Cognito",
-      "titleOriginal": "Embed Quick Sight visuals using Cognito user authentication",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية تضمين صور Amazon Quick Sight الفردية في تطبيق React مع التحكم في الوصول لكل مستخدم. تستخدم هذه الجولة مصادقة Amazon Cognito و",
-      "summaryOriginal": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Embed Quick Sight visuals using Cognito user authentication"
     },
     {
       "id": "3a5da9f663b4c289e137",
@@ -640,12 +594,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T13:49:14+00:00"
+      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent"
     },
     {
       "id": "ee4e7bef0feb3427770c",
@@ -666,15 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T12:00:00+00:00"
+      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT"
     },
     {
-      "id": "7dd49c676016b6f94e78",
+      "id": "bd09c35864519acd3ed8",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أمان وسياسات",
@@ -687,83 +631,98 @@
       "summary": "مع دخولنا العصر التالي، ما هو المقياس المحدد لتقدمنا ؟ لكل صناعة كلمة تشكل طريقة تفكيرها. بالنسبة للطيارين، إنها السلامة. بالنسبة لشركات التأمين، أنا",
       "summaryOriginal": "As we enter the next era, what will be the defining measure of our progress? Every industry has a word that shapes how it thinks. For pilots, it’s safety. For insurers, it’s risk. For the semiconductor industry, it’s yield. Yield does not ask how elegant the solution is, how many years it took or what... The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog .",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence",
+      "source": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T06:00:02+00:00"
+      "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
-      "id": "b885ae096e5c7bb3b004",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الوصول إلى نماذج OpenAI على Amazon Bedrock من أستراليا مع الاستدلال العالمي عبر المنطقة",
-      "titleOriginal": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "يمكن للفرق الأسترالية الآن الوصول إلى نماذج OpenAI GPT-5.6 Sol و Terra و Luna على Amazon Bedrock مع الاستدلال العالمي عبر المنطقة من آسيا والمحيط الهادئ (سيدني) وآسيا Pa",
-      "summaryOriginal": "Australian teams can now access OpenAI GPT-5.6 Sol, Terra, and Luna models on Amazon Bedrock with global cross-Region inference from the Asia Pacific (Sydney) and Asia Pacific (Melbourne) Regions. This post shows how to invoke the models, use prompt caching, set up Codex with OpenID Connect authentication, and monitor usage with Amazon CloudWatch.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-5-6-models-on-amazon-bedrock-from-australia-with-global-cross-region-inference/",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "id": "cd3fba0327ce9aa6d69c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "BenchMIRT: ما هي معايير LLM التي تقيس بالفعل ؟",
+      "titleOriginal": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/benchmirt",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
+      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?"
     },
     {
-      "id": "85b9394af55da7677efc",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تحديث وتوسيع نطاق عمليات الدعم باستخدام الذكاء الاصطناعي التوليدي على AWS",
-      "titleOriginal": "Modernizing and scaling support operations with generative AI on AWS",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية بناء منصة عمليات دعم قائمة على الذكاء الاصطناعي على AWS والتي تحول مقاطع الفيديو التدريبية إلى إجراءات تشغيل موحدة منظمة، وتطبق الاسترجاع - الجيل المعزز على",
-      "summaryOriginal": "Learn how to build a generative AI-based support operations platform on AWS that converts training videos into structured SOPs, applies Retrieval-Augmented Generation to guide ticket resolution, and uses machine learning to predict SLA risk and prioritize work.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/modernizing-and-scaling-support-operations-with-generative-ai-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "id": "9edbea7d510035febed2",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أمان وسياسات",
+      "title": "تعزز NVIDIA و CrowdStrike حدود الأمن السيبراني للوكلاء",
+      "titleOriginal": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "policy",
+      "importance": 88,
+      "summary": "أخبر جنسن هوانغ حشدًا في CrowdStrike's Fal.Con 2026 في لاس فيغاس يوم الثلاثاء: \"نحن عند نقطة انعطاف في الأمن السيبراني\". أصبحت الهجمات مؤتمتة الآن. الدفاع",
+      "summaryOriginal": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Modernizing and scaling support operations with generative AI on AWS"
+      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
     },
     {
-      "id": "742320f311321a0d8e0d",
-      "company": "Amazon",
-      "logoText": "AWS",
+      "id": "7429c9bb59d3313c8eee",
+      "company": "OpenAI",
+      "logoText": "AI",
       "type": "أعمال وشراكات",
-      "title": "كيف يكتشف فريق AWS فشل محتوى لوحة المعلومات على نطاق واسع باستخدام Amazon Bedrock",
-      "titleOriginal": "How an AWS team detects dashboard content failures at scale using Amazon Bedrock",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
+      "title": "كيف تحول الشركات الأصلية للذكاء الاصطناعي سير العمل إلى قدرة تشغيلية",
+      "titleOriginal": "How AI-native companies turn workflows into operating capability",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
       "category": "business",
       "importance": 82,
-      "summary": "يمكن أن تفشل لوحات معلومات ذكاء الأعمال بصمت، حيث تظهر بيانات فارغة أو قديمة أو خاطئة حتى عندما يبلغ كل مراقب للبنية التحتية بصحة جيدة. تعرف على كيفية بناء فريق AWS",
-      "summaryOriginal": "Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS team built an automated, AI-powered content validation solution on Amazon Bedrock that scans hundreds of dashboards and alerts owners, cutting mean time to detection from days to under an hour.",
+      "summary": "تستخدم مختبرات Basis و Clay و Exa Labs وكلاء الذكاء الاصطناعي لتحسين التأهيل وإدارة الحسابات وتكامل المطورين. تعرف على ما يمكن لقادة المؤسسات تطبيقه.",
+      "summaryOriginal": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-an-aws-team-detects-dashboard-content-failures-at-scale-using-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "source": "https://openai.com/index/ai-native-company-workflows",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How an AWS team detects dashboard content failures at scale using Amazon Bedrock"
+      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability"
+    },
+    {
+      "id": "d11bf9e51ec885c32e6f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "المسار إلى أسترا: القدرات الحاسمة والضمانات الحدودية",
+      "titleOriginal": "Path to Astra: critical capabilities and frontier safeguards",
+      "dateLabel": "1 سبتمبر 2026",
+      "dateISO": "2026-09-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "ASTRA هو أول نموذج OpenAI يفي بعتبة قدرة الأمن السيبراني الحرجة بموجب إطار التأهب، مع ضمانات أقوى للإصدار.",
+      "summaryOriginal": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/path-to-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Path to Astra: critical capabilities and frontier safeguards"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-04T15:08:44.090366+00:00",
-  "lastFastCheckAt": "2026-09-04T18:22:37.376488+00:00"
+  "lastDeepCheckAt": "2026-09-04T18:25:15.332218+00:00"
 }
