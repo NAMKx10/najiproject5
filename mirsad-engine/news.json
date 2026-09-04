@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T07:50:23.828001+00:00",
-  "checkedAt": "2026-09-04T07:50:23.828001+00:00",
+  "updatedAt": "2026-09-04T07:55:21.778836+00:00",
+  "checkedAt": "2026-09-04T07:55:21.778836+00:00",
   "newestPublishedAt": "2026-09-03T16:16:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -9,9 +9,9 @@
     {
       "company": "OpenAI",
       "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=25)"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "company": "Microsoft",
@@ -745,5 +745,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-04T06:32:36.161763+00:00",
-  "lastFastCheckAt": "2026-09-04T07:50:23.828001+00:00"
+  "lastFastCheckAt": "2026-09-04T07:55:21.778836+00:00"
 }
