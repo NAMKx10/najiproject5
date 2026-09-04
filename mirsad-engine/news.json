@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-04T21:41:13.944410+00:00",
-  "checkedAt": "2026-09-04T21:41:13.944410+00:00",
-  "newestPublishedAt": "2026-09-04T17:20:04+00:00",
+  "updatedAt": "2026-09-04T21:46:14.997035+00:00",
+  "checkedAt": "2026-09-04T21:46:14.997035+00:00",
+  "newestPublishedAt": "2026-09-04T21:45:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "933d31233efdaa1ab667",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "نشر مساعد طلب WhatsApp متعدد الوسائط مع Amazon Bedrock AgentCore",
+      "titleOriginal": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+      "dateLabel": "4 سبتمبر 2026",
+      "dateISO": "2026-09-04",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية نشر مساعد طلب WhatsApp متعدد الوسائط الذي يأخذ طلبات العملاء من خلال الرسائل النصية والملاحظات الصوتية والمكالمات الصوتية في الوقت الفعلي على رقم عمل واحد،",
+      "summaryOriginal": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-04T21:45:52+00:00"
+    },
     {
       "id": "2e44746abf50b01a1e25",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-01T21:19:20+00:00"
-    },
-    {
-      "id": "7429c9bb59d3313c8eee",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تحول الشركات الأصلية للذكاء الاصطناعي سير العمل إلى قدرة تشغيلية",
-      "titleOriginal": "How AI-native companies turn workflows into operating capability",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "business",
-      "importance": 82,
-      "summary": "تستخدم مختبرات Basis و Clay و Exa Labs وكلاء الذكاء الاصطناعي لتحسين التأهيل وإدارة الحسابات وتكامل المطورين. تعرف على ما يمكن لقادة المؤسسات تطبيقه.",
-      "summaryOriginal": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/ai-native-company-workflows",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How AI-native companies turn workflows into operating capability",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-04T21:03:07.359103+00:00",
-  "lastFastCheckAt": "2026-09-04T21:41:13.944410+00:00"
+  "lastFastCheckAt": "2026-09-04T21:46:14.997035+00:00"
 }
