@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-05T22:20:05.467313+00:00",
-  "checkedAt": "2026-09-05T22:20:05.467313+00:00",
+  "updatedAt": "2026-09-05T22:20:36.092462+00:00",
+  "checkedAt": "2026-09-05T22:20:36.092462+00:00",
   "newestPublishedAt": "2026-09-04T21:45:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -699,15 +699,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:39:07+00:00"
+      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?"
     },
     {
-      "id": "94ce502ad4ba6334c01b",
+      "id": "9edbea7d510035febed2",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أمان وسياسات",
@@ -720,20 +715,14 @@
       "summary": "أخبر جنسن هوانغ حشدًا في CrowdStrike's Fal.Con 2026 في لاس فيغاس يوم الثلاثاء: \"نحن عند نقطة انعطاف في الأمن السيبراني\". أصبحت الهجمات مؤتمتة الآن. الدفاع",
       "summaryOriginal": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
+      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:19:20+00:00"
+      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-05T20:43:27.833188+00:00",
-  "lastFastCheckAt": "2026-09-05T22:20:05.467313+00:00"
+  "lastDeepCheckAt": "2026-09-05T22:20:36.092462+00:00"
 }
