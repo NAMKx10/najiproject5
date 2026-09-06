@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-06T00:54:07.793261+00:00",
-  "checkedAt": "2026-09-06T00:54:07.793261+00:00",
+  "updatedAt": "2026-09-06T00:59:19.046065+00:00",
+  "checkedAt": "2026-09-06T00:59:19.046065+00:00",
   "newestPublishedAt": "2026-09-04T21:45:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -30,9 +30,9 @@
     {
       "company": "Amazon",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "company": "Apple",
@@ -735,5 +735,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-06T00:13:22.411290+00:00",
-  "lastFastCheckAt": "2026-09-06T00:54:07.793261+00:00"
+  "lastFastCheckAt": "2026-09-06T00:59:19.046065+00:00"
 }
