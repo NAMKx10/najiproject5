@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-06T16:22:56.920657+00:00",
-  "checkedAt": "2026-09-06T16:22:56.920657+00:00",
+  "updatedAt": "2026-09-06T16:27:58.339864+00:00",
+  "checkedAt": "2026-09-06T16:27:58.339864+00:00",
   "newestPublishedAt": "2026-09-06T08:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -702,33 +702,33 @@
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
     },
     {
-      "id": "94ce502ad4ba6334c01b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "تعزز NVIDIA و CrowdStrike حدود الأمن السيبراني للوكلاء",
-      "titleOriginal": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "id": "cd3fba0327ce9aa6d69c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "BenchMIRT: ما هي معايير LLM التي تقيس بالفعل ؟",
+      "titleOriginal": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "dateLabel": "1 سبتمبر 2026",
       "dateISO": "2026-09-01",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أخبر جنسن هوانغ حشدًا في CrowdStrike's Fal.Con 2026 في لاس فيغاس يوم الثلاثاء: \"نحن عند نقطة انعطاف في الأمن السيبراني\". أصبحت الهجمات مؤتمتة الآن. الدفاع",
-      "summaryOriginal": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-      "sourceLabel": "NVIDIA Blog",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/benchmirt",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-09-01T21:19:20+00:00"
+      "publishedAt": "2026-09-01T21:39:07+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-06T16:18:24.775535+00:00",
-  "lastFastCheckAt": "2026-09-06T16:22:56.920657+00:00"
+  "lastFastCheckAt": "2026-09-06T16:27:58.339864+00:00"
 }
