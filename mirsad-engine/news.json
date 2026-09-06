@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-06T16:17:55.028167+00:00",
-  "checkedAt": "2026-09-06T16:17:55.028167+00:00",
+  "updatedAt": "2026-09-06T16:18:24.775535+00:00",
+  "checkedAt": "2026-09-06T16:18:24.775535+00:00",
   "newestPublishedAt": "2026-09-06T08:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Research acceleration: The view inside OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-06T08:00:00+00:00"
+      "searchAliases": "OpenAI Research acceleration: The view inside OpenAI"
     },
     {
       "id": "c7583833da4126da67e4",
@@ -725,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:39:07+00:00"
+      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-06T12:53:37.373520+00:00",
-  "lastFastCheckAt": "2026-09-06T16:17:55.028167+00:00"
+  "lastDeepCheckAt": "2026-09-06T16:18:24.775535+00:00"
 }
