@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-06T18:37:46.534950+00:00",
-  "checkedAt": "2026-09-06T18:37:46.534950+00:00",
+  "updatedAt": "2026-09-06T18:38:52.626296+00:00",
+  "checkedAt": "2026-09-06T18:38:52.626296+00:00",
   "newestPublishedAt": "2026-09-06T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI An Alien Mind",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-06T09:00:00+00:00"
+      "searchAliases": "OpenAI An Alien Mind"
     },
     {
       "id": "9906fb483199361c86cc",
@@ -455,27 +450,6 @@
       "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
     },
     {
-      "id": "426e2db1cee5e13fc84f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقوم Playco Cut بإصلاح 50 ٪ من ألعاب النماذج الأولية باستخدام GPT -6 Astra",
-      "titleOriginal": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "باستخدام GPT -6 Astra، قامت Playco ببناء ثلاثة نماذج أولية للألعاب تحت عنوان من أساس صندوق رمادي واحد وأبلغت عن إصلاحات يدوية أقل بنسبة 50 ٪ من النموذج السابق.",
-      "summaryOriginal": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
-    },
-    {
       "id": "2a5c058481f32b15ac62",
       "company": "OpenAI",
       "logoText": "AI",
@@ -495,6 +469,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Legora reviewed 41 documents in minutes with GPT-6 Astra"
+    },
+    {
+      "id": "426e2db1cee5e13fc84f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم Playco Cut بإصلاح 50 ٪ من ألعاب النماذج الأولية باستخدام GPT -6 Astra",
+      "titleOriginal": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "باستخدام GPT -6 Astra، قامت Playco ببناء ثلاثة نماذج أولية للألعاب تحت عنوان من أساس صندوق رمادي واحد وأبلغت عن إصلاحات يدوية أقل بنسبة 50 ٪ من النموذج السابق.",
+      "summaryOriginal": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
     },
     {
       "id": "bc64f88e1b353e5659af",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-06T16:18:24.775535+00:00",
-  "lastFastCheckAt": "2026-09-06T18:37:46.534950+00:00"
+  "lastDeepCheckAt": "2026-09-06T18:38:52.626296+00:00"
 }
