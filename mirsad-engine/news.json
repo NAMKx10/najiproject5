@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-06T15:59:17.678271+00:00",
-  "checkedAt": "2026-09-06T15:59:17.678271+00:00",
-  "newestPublishedAt": "2026-09-04T21:45:52+00:00",
+  "updatedAt": "2026-09-06T16:02:42.922720+00:00",
+  "checkedAt": "2026-09-06T16:02:42.922720+00:00",
+  "newestPublishedAt": "2026-09-06T08:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9906fb483199361c86cc",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "تسريع البحث: المنظر داخل OpenAI",
+      "titleOriginal": "Research acceleration: The view inside OpenAI",
+      "dateLabel": "6 سبتمبر 2026",
+      "dateISO": "2026-09-06",
+      "category": "research",
+      "importance": 86,
+      "summary": "داخل OpenAI، يعيد وكلاء الترميز تشكيل أبحاث الذكاء الاصطناعي. استكشف البيانات المبكرة حول استخدام الوكيل وسرعة التجربة وتعقيد المهمة وتسريع البحث.",
+      "summaryOriginal": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Research acceleration: The view inside OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-06T08:00:00+00:00"
+    },
     {
       "id": "c7583833da4126da67e4",
       "company": "Amazon",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-01T21:39:07+00:00"
-    },
-    {
-      "id": "94ce502ad4ba6334c01b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "تعزز NVIDIA و CrowdStrike حدود الأمن السيبراني للوكلاء",
-      "titleOriginal": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أخبر جنسن هوانغ حشدًا في CrowdStrike's Fal.Con 2026 في لاس فيغاس يوم الثلاثاء: \"نحن عند نقطة انعطاف في الأمن السيبراني\". أصبحت الهجمات مؤتمتة الآن. الدفاع",
-      "summaryOriginal": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:19:20+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-06T12:53:37.373520+00:00",
-  "lastFastCheckAt": "2026-09-06T15:59:17.678271+00:00"
+  "lastFastCheckAt": "2026-09-06T16:02:42.922720+00:00"
 }
