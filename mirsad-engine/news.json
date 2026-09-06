@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-06T16:58:23.032960+00:00",
-  "checkedAt": "2026-09-06T16:58:23.032960+00:00",
-  "newestPublishedAt": "2026-09-06T08:00:00+00:00",
+  "updatedAt": "2026-09-06T17:01:43.974232+00:00",
+  "checkedAt": "2026-09-06T17:01:43.974232+00:00",
+  "newestPublishedAt": "2026-09-06T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "57983ca02e217a1d0724",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "غَرُبَ",
+      "titleOriginal": "An Alien Mind",
+      "dateLabel": "6 سبتمبر 2026",
+      "dateISO": "2026-09-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يفكر جاكوب باتشوكي في الذكاء الاصطناعي المتزايد القدرة والتحدي المتمثل في الحفاظ على اتساقه. ويدعو إلى ضمانات أقوى وتنسيق دولي.",
+      "summaryOriginal": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/an-alien-mind",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI An Alien Mind",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-06T09:00:00+00:00"
+    },
     {
       "id": "9906fb483199361c86cc",
       "company": "OpenAI",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft The yield imperative: Turning AI infrastructure into useful intelligence"
-    },
-    {
-      "id": "cd3fba0327ce9aa6d69c",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "BenchMIRT: ما هي معايير LLM التي تقيس بالفعل ؟",
-      "titleOriginal": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "dateLabel": "1 سبتمبر 2026",
-      "dateISO": "2026-09-01",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/benchmirt",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face BenchMIRT: What are LLM benchmarks actually measuring?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-01T21:39:07+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-06T16:18:24.775535+00:00",
-  "lastFastCheckAt": "2026-09-06T16:58:23.032960+00:00"
+  "lastFastCheckAt": "2026-09-06T17:01:43.974232+00:00"
 }
