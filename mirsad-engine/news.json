@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T11:41:15.337743+00:00",
-  "checkedAt": "2026-09-08T11:41:15.337743+00:00",
+  "updatedAt": "2026-09-08T11:45:16.929377+00:00",
+  "checkedAt": "2026-09-08T11:45:16.929377+00:00",
   "newestPublishedAt": "2026-09-07T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -208,7 +208,7 @@
       "dateISO": "2026-09-04",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "يتطلب بناء نظام ذكاء اصطناعي مادي خط أنابيب مستمر، وليس وظيفة تدريب واحدة. يوضح هذا المنشور كيفية تشغيل مصنع النماذج هذا (توليد البيانات الاصطناعية، ما بعد التدريب",
       "summaryOriginal": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
@@ -271,7 +271,7 @@
       "dateISO": "2026-09-04",
       "category": "policy",
       "importance": 88,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "من الصعب التعافي من الكوارث على نطاق واسع. تعرف على كيفية قيام Intuit ببناء EWOK Agent، وهو مساعد وكيل للتعافي من الكوارث على Amazon Bedrock يتيح للمهندسين تحت الطلب تشغيل الإنتاج",
       "summaryOriginal": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
@@ -334,7 +334,7 @@
       "dateISO": "2026-09-03",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "الوكيل الذي يعمل في دفتر ملاحظات ليس وكيلًا في الإنتاج. يمر هذا المنشور عبر ترحيل وكيل دعم عملاء LangGraph إلى Amazon Bedrock AgentCore في ثانيتين",
       "summaryOriginal": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to model-driven planning on Strands Agents, retiring operational burdens along the way.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
@@ -376,7 +376,7 @@
       "dateISO": "2026-09-03",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "نشر بوابة LiteLLM التي يديرها العملاء على Amazon ECS مع AWS Fargate، وتوصيلها بنموذج OpenAI على Amazon Bedrock، وتكوين Codex لتوجيه الطلبات من خلال",
       "summaryOriginal": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped identities, budgets, rate limits, and telemetry. We also compare direct IAM Identity Center access and a managed Portkey deployment.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
@@ -523,7 +523,7 @@
       "dateISO": "2026-09-03",
       "category": "tools",
       "importance": 78,
-      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
       "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
@@ -649,7 +649,7 @@
       "dateISO": "2026-09-03",
       "category": "business",
       "importance": 82,
-      "summary": "أعلنت xAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
       "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://x.ai/news/grok-bot-for-enterprise",
@@ -699,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T13:49:14+00:00"
+      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent"
     },
     {
       "id": "ee4e7bef0feb3427770c",
@@ -725,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T12:00:00+00:00"
+      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-08T06:33:03.929538+00:00",
-  "lastFastCheckAt": "2026-09-08T11:41:15.337743+00:00"
+  "lastDeepCheckAt": "2026-09-08T11:45:16.929377+00:00"
 }
