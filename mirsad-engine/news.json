@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T16:08:38.691877+00:00",
-  "checkedAt": "2026-09-08T16:08:38.691877+00:00",
-  "newestPublishedAt": "2026-09-08T14:23:07+00:00",
+  "updatedAt": "2026-09-08T16:13:45.048301+00:00",
+  "checkedAt": "2026-09-08T16:13:45.048301+00:00",
+  "newestPublishedAt": "2026-09-08T16:11:11+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1bb4635f7e8e37de4026",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف قام DiDi ببناء مركز اتصال ذكي QA مع Amazon Bedrock",
+      "titleOriginal": "How DiDi built intelligent contact center QA with Amazon Bedrock",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "business",
+      "importance": 82,
+      "summary": "قام DiDi ببناء نظام شفاف ومملوك ذاتيًا لضمان جودة مركز الاتصال (QA) على Amazon Bedrock، ليحل محل أداة طرف ثالث غير شفافة. دقة التحقق من النية",
+      "summaryOriginal": "DiDi built a transparent, self-owned contact center quality assurance (QA) system on Amazon Bedrock, replacing an opaque third-party tool. Intent verification accuracy rose from 38% to 86%, compliance scoring topped 90%, and Voice of Customer trend analysis dropped from hours to minutes across Spanish and Portuguese support.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How DiDi built intelligent contact center QA with Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T16:11:11+00:00"
+    },
     {
       "id": "2e5536c1e895a5c91332",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
-    },
-    {
-      "id": "a4ed1ac9e61bddc0adba",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "مستجد جديد من xAI",
-      "titleOriginal": "Grok Bot for Enterprise",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
-      "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-for-enterprise",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok Bot for Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T16:08:38.691877+00:00"
+  "lastFastCheckAt": "2026-09-08T16:13:45.048301+00:00"
 }
