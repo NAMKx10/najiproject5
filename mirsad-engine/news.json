@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T18:25:45.931721+00:00",
-  "checkedAt": "2026-09-08T18:25:45.931721+00:00",
-  "newestPublishedAt": "2026-09-08T17:03:50+00:00",
+  "updatedAt": "2026-09-08T18:30:50.005626+00:00",
+  "checkedAt": "2026-09-08T18:30:50.005626+00:00",
+  "newestPublishedAt": "2026-09-08T18:29:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9693c2bce4281508cadf",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "يقدم متجر Amazon SageMaker Feature Store UpdateRecord للكتابات على مستوى الميزات",
+      "titleOriginal": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "يدعم Amazon SageMaker Feature Store الآن الكتابة على مستوى الميزات. باستخدام واجهة برمجة تطبيقات UpdateRecord الجديدة، يمكنك تحديث قيمة ميزة واحدة أو أكثر في مكالمة واحدة دون قراءة",
+      "summaryOriginal": "Amazon SageMaker Feature Store now supports feature-level writes. With the new UpdateRecord API, you can update one or more feature values in a single call without reading or rewriting the entire record. It is available for both the Standard (Amazon DynamoDB) and In-Memory (Amazon ElastiCache) online store tiers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T18:29:15+00:00"
+    },
     {
       "id": "41966cb3f77e52d8c16a",
       "company": "Amazon",
@@ -780,30 +806,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-03T11:00:00+00:00"
-    },
-    {
-      "id": "7dbb37ec3c291650f954",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "دورة حياة التطوير القائمة على الذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "غالبًا ما تكافح الفرق الهندسية التي تتبنى دورة حياة التطوير القائم على الذكاء الاصطناعي (AI - DLC) لتحويل المفاهيم إلى رمز عمل. يتطرق هذا المنشور إلى تنفيذين مرجعيين",
-      "summaryOriginal": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and Claude Code: an SQL-to-ER-diagram generator and a multi-agent code security analyzer that put the AI-DLC construction phase into practice.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon AI-driven development lifecycle using Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T18:25:45.931721+00:00"
+  "lastFastCheckAt": "2026-09-08T18:30:50.005626+00:00"
 }
