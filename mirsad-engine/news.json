@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T16:18:48.887075+00:00",
-  "checkedAt": "2026-09-08T16:18:48.887075+00:00",
-  "newestPublishedAt": "2026-09-08T16:15:23+00:00",
+  "updatedAt": "2026-09-08T16:23:52.659705+00:00",
+  "checkedAt": "2026-09-08T16:23:52.659705+00:00",
+  "newestPublishedAt": "2026-09-08T16:23:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "1a40d1ccbb4c2bdafe5c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تقييم الوكيل الآلي مع إجراءات Amazon Bedrock AgentCore و GitHub",
+      "titleOriginal": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قم بتحويل تقييمات Amazon Bedrock AgentCore إلى خط أنابيب إجراءات GitHub: قم بنشر وكيل ذكاء اصطناعي وخادم MCP محمي بواسطة OAuth إلى وقت تشغيل AgentCore، واستدعي الوكيل",
+      "summaryOriginal": "Wire Amazon Bedrock AgentCore Evaluations into a GitHub Actions pipeline: deploy an AI agent and an OAuth-protected MCP server to AgentCore runtime, invoke the agent with test prompts, score the responses, and automatically block pull requests when agent behavior regresses.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T16:23:21+00:00"
+    },
+    {
+      "id": "622f497514ffbd16a589",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "قياس استدلال LLM الصغير على SageMaker AI: G7 مقابل G5 و G6",
+      "titleOriginal": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "مقارنة نموذجين من مزيج من الخبراء 30B، Qwen3 - Codeer -30B و NVIDIA Nemotron -3 - Nano -30B، عبر مثيلات G5 و G6 و G6e و G7 GPU على Amazon SageMaker AI. قارن من خلال",
+      "summaryOriginal": "Benchmark two 30B Mixture-of-Experts models, Qwen3-Coder-30B and NVIDIA Nemotron-3-Nano-30B, across G5, G6, G6e, and G7 GPU instances on Amazon SageMaker AI. Compare throughput, latency, and cost-per-token, and see how G7's NVIDIA Blackwell GPUs deliver measurable price-performance gains for real-time LLM inference.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T16:21:57+00:00"
+    },
     {
       "id": "22e53f0926c7f7764b3c",
       "company": "Amazon",
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI GPT-6 Astra: A new generation of intelligence"
-    },
-    {
-      "id": "7d7c06a109c8d85a31a3",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نظرة عامة على السلامة: GPT -6 ASTRA",
-      "titleOriginal": "Safety overview: GPT-6 Astra",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "GPT -6 ASTRA هو نموذجنا الأكثر قدرة على الانتشار على نطاق واسع وأول من يصل إلى المستوى الحرج لقدرة الأمن السيبراني بموجب إطار التأهب الخاص بنا.",
-      "summaryOriginal": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Safety overview: GPT-6 Astra"
-    },
-    {
-      "id": "4e3ff960e422a6244ce0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
-      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T16:18:48.887075+00:00"
+  "lastFastCheckAt": "2026-09-08T16:23:52.659705+00:00"
 }
