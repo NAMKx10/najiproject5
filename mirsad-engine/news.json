@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T18:39:49.006007+00:00",
-  "checkedAt": "2026-09-08T18:39:49.006007+00:00",
+  "updatedAt": "2026-09-08T18:44:50.286301+00:00",
+  "checkedAt": "2026-09-08T18:44:50.286301+00:00",
   "newestPublishedAt": "2026-09-08T18:29:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -273,6 +273,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-08T16:11:11+00:00"
+    },
+    {
+      "id": "1b1b913f04a0676af22f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم صور ChatGPT 2.5",
+      "titleOriginal": "Introducing ChatGPT Images 2.5",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعد صور ChatGPT 2.5 على تحويل أفكارك ورسوماتك وصورك المرجعية إلى صور أكثر تخصيصًا ومصقولة تعكس أفكارك بشكل أفضل.",
+      "summaryOriginal": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T11:30:00+00:00"
     },
     {
       "id": "8262bdc9e55d7bbf5cf8",
@@ -780,35 +806,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-03T11:56:49+00:00"
-    },
-    {
-      "id": "e23c77c84817acf39797",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT -6 ASTRA: جيل جديد من الذكاء",
-      "titleOriginal": "GPT-6 Astra: A new generation of intelligence",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم GPT -6 Astra، نموذجنا الأكثر ذكاءً وانسجامًا حتى الآن، مع أحدث القدرات عبر استخدام الكمبيوتر والترميز والأمن السيبراني والعلوم.",
-      "summaryOriginal": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6 Astra: A new generation of intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T11:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T18:39:49.006007+00:00"
+  "lastFastCheckAt": "2026-09-08T18:44:50.286301+00:00"
 }
