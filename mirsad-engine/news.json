@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T19:10:06.364755+00:00",
-  "checkedAt": "2026-09-08T19:10:06.364755+00:00",
-  "newestPublishedAt": "2026-09-08T18:29:15+00:00",
+  "updatedAt": "2026-09-08T19:15:10.925178+00:00",
+  "checkedAt": "2026-09-08T19:15:10.925178+00:00",
+  "newestPublishedAt": "2026-09-08T19:12:51+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "451cb2a1b77b54f4201f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "تطوير بنية Pathway المستوحاة من الدماغ على Amazon SageMaker HyperPod",
+      "titleOriginal": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "research",
+      "importance": 86,
+      "summary": "Pathway's Baby Dragon Hatchling (BDH) هي بنية مستوحاة من الدماغ وما بعد المحولات التي تسبب في الفضاء الكامن بدلاً من إصدار رموز سلسلة التفكير. انظر كيف",
+      "summaryOriginal": "Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T19:12:51+00:00"
+    },
     {
       "id": "dfa6dc0f8a44644d167d",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
-    },
-    {
-      "id": "a4ed1ac9e61bddc0adba",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "مستجد جديد من xAI",
-      "titleOriginal": "Grok Bot for Enterprise",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
-      "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-for-enterprise",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok Bot for Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T18:58:48.764618+00:00",
-  "lastFastCheckAt": "2026-09-08T19:10:06.364755+00:00"
+  "lastFastCheckAt": "2026-09-08T19:15:10.925178+00:00"
 }
