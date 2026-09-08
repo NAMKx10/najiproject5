@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T18:05:17.273920+00:00",
-  "checkedAt": "2026-09-08T18:05:17.273920+00:00",
+  "updatedAt": "2026-09-08T18:10:20.869035+00:00",
+  "checkedAt": "2026-09-08T18:10:20.869035+00:00",
   "newestPublishedAt": "2026-09-08T17:03:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -247,6 +247,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-08T16:11:11+00:00"
+    },
+    {
+      "id": "8262bdc9e55d7bbf5cf8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "حول مشكلة جائزة نافييه- ستوكس الألفية",
+      "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "نحن نشارك حلاً تم إنشاؤه بواسطة الذكاء الاصطناعي لمشكلة جائزة الألفية Navier - Stokes، بما في ذلك الكتابة وإثبات رسمي في Lean.",
+      "summaryOriginal": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/navier-stokes-solution",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T10:00:00+00:00"
     },
     {
       "id": "a1cc47dc7551a2e85df5",
@@ -775,30 +801,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon AI-driven development lifecycle using Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "447a655944828efbfd29",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ترحيل أعباء عمل الوكلاء إلى Amazon Bedrock AgentCore",
-      "titleOriginal": "Migrate agentic workloads to Amazon Bedrock AgentCore",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "الوكيل الذي يعمل في دفتر ملاحظات ليس وكيلًا في الإنتاج. يمر هذا المنشور عبر ترحيل وكيل دعم عملاء LangGraph إلى Amazon Bedrock AgentCore في ثانيتين",
-      "summaryOriginal": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to model-driven planning on Strands Agents, retiring operational burdens along the way.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Migrate agentic workloads to Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T18:05:17.273920+00:00"
+  "lastFastCheckAt": "2026-09-08T18:10:20.869035+00:00"
 }
