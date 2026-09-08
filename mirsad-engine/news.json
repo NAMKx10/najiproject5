@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T15:18:59.659259+00:00",
-  "checkedAt": "2026-09-08T15:18:59.659259+00:00",
+  "updatedAt": "2026-09-08T15:22:15.014804+00:00",
+  "checkedAt": "2026-09-08T15:22:15.014804+00:00",
   "newestPublishedAt": "2026-09-08T14:23:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T14:23:07+00:00"
+      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
     },
     {
       "id": "4ab1d0b8991306b5819a",
@@ -137,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI The Work Now Within Reach",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T13:00:00+00:00"
+      "searchAliases": "OpenAI The Work Now Within Reach"
     },
     {
       "id": "2bb7bba5e588bfb3257f",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T00:00:00+00:00"
+      "searchAliases": "OpenAI OpenAI expands initiatives to support journalism from classrooms to newsrooms"
     },
     {
       "id": "48119b25501792fcffc0",
@@ -549,27 +534,6 @@
       "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
     },
     {
-      "id": "2a5c058481f32b15ac62",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "راجعت ليجورا 41 مستندًا في دقائق مع GPT -6 Astra",
-      "titleOriginal": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "استخدمت ليغورا GPT -6 Astra لمراجعة 41 مستندًا في دقائق، والعثور على جميع الأخطاء الأربعة المزروعة، وتحسين الأداء بنسبة 40 ٪ تقريبًا في سير عمل المراجعة المالية هذا.",
-      "summaryOriginal": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Legora reviewed 41 documents in minutes with GPT-6 Astra"
-    },
-    {
       "id": "426e2db1cee5e13fc84f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -589,6 +553,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
+    },
+    {
+      "id": "2a5c058481f32b15ac62",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "راجعت ليجورا 41 مستندًا في دقائق مع GPT -6 Astra",
+      "titleOriginal": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "استخدمت ليغورا GPT -6 Astra لمراجعة 41 مستندًا في دقائق، والعثور على جميع الأخطاء الأربعة المزروعة، وتحسين الأداء بنسبة 40 ٪ تقريبًا في سير عمل المراجعة المالية هذا.",
+      "summaryOriginal": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Legora reviewed 41 documents in minutes with GPT-6 Astra"
     },
     {
       "id": "bc64f88e1b353e5659af",
@@ -739,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-08T11:45:16.929377+00:00",
-  "lastFastCheckAt": "2026-09-08T15:18:59.659259+00:00"
+  "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00"
 }
