@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T14:18:09.818407+00:00",
-  "checkedAt": "2026-09-08T14:18:09.818407+00:00",
-  "newestPublishedAt": "2026-09-08T13:00:00+00:00",
+  "updatedAt": "2026-09-08T14:23:24.000922+00:00",
+  "checkedAt": "2026-09-08T14:23:24.000922+00:00",
+  "newestPublishedAt": "2026-09-08T14:23:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2e5536c1e895a5c91332",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أمان وسياسات",
+      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
+      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "policy",
+      "importance": 88,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T14:23:07+00:00"
+    },
     {
       "id": "4ab1d0b8991306b5819a",
       "company": "OpenAI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Grok Bot for Enterprise"
-    },
-    {
-      "id": "b3bae7dcef5f4aaa7142",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "تصميم Grok Bot لعالم من العوامل المستمرة",
-      "titleOriginal": "Designing Grok Bot for a world of persistent agents",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف صممنا Grok Bot للوكلاء الذين يستمرون بعد جلسة واحدة — من سجل الدردشة إلى قائمة Bot، والحضور، وجهاز كمبيوتر خاص بـ Bot، والعمل الذي يبدأ",
-      "summaryOriginal": "How we designed Grok Bot for agents that persist beyond a single session — from a chat history to a Bot roster, presence, a computer of the Bot’s own, and work that starts without a prompt.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/designing-grok-bot",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Designing Grok Bot for a world of persistent agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T11:45:16.929377+00:00",
-  "lastFastCheckAt": "2026-09-08T14:18:09.818407+00:00"
+  "lastFastCheckAt": "2026-09-08T14:23:24.000922+00:00"
 }
