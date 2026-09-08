@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T16:13:45.048301+00:00",
-  "checkedAt": "2026-09-08T16:13:45.048301+00:00",
-  "newestPublishedAt": "2026-09-08T16:11:11+00:00",
+  "updatedAt": "2026-09-08T16:18:48.887075+00:00",
+  "checkedAt": "2026-09-08T16:18:48.887075+00:00",
+  "newestPublishedAt": "2026-09-08T16:15:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -93,6 +93,32 @@
   ],
   "items": [
     {
+      "id": "22e53f0926c7f7764b3c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف بنت HPE Zerto نظام استكشاف الأخطاء وإصلاحها مع Amazon Bedrock",
+      "titleOriginal": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "قامت شركة HPE Zerto ببناء نظام لاستكشاف الأخطاء وإصلاحها مدعوم من Amazon Bedrock يعمل في أماكن العمل داخل بيئة العملاء. يصف هذا المنشور القوس متعدد الوكلاء",
+      "summaryOriginal": "HPE Zerto built an agentic troubleshooting system powered by Amazon Bedrock that runs on-premises inside the customer environment. This post describes the multi-agent architecture, the on-premises deployment model built with Strands Agents, and the engineering challenges of grounding agents in live disaster recovery data.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T16:15:23+00:00"
+    },
+    {
       "id": "1bb4635f7e8e37de4026",
       "company": "Amazon",
       "logoText": "AWS",
@@ -117,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-08T16:11:11+00:00"
+    },
+    {
+      "id": "a1cc47dc7551a2e85df5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "منح تمويل للبحوث الجديدة في مجال الذكاء الاصطناعي وتنمية المراهقين",
+      "titleOriginal": "Funding grants for new research into AI and teen development",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "research",
+      "importance": 86,
+      "summary": "تقدم الآن بطلب للحصول على برنامج منحة OpenAI بقيمة 5 ملايين دولار لدعم الأبحاث المستقلة حول كيفية تأثير الذكاء الاصطناعي التوليدي على نمو المراهقين ورفاههم وسلامتهم.",
+      "summaryOriginal": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/teen-development-research-grants",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Funding grants for new research into AI and teen development",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T09:00:00+00:00"
     },
     {
       "id": "2e5536c1e895a5c91332",
@@ -684,51 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
-    },
-    {
-      "id": "a5059c1bf0edd101daee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
-      "titleOriginal": "Give Your Coding Agents a Memory You Own",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/funes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
-    },
-    {
-      "id": "25fd94d0c188e424d8ee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تدريب نموذج ترميز لطلاء الألوان المائية باستخدام TRL و OpenEnv",
-      "titleOriginal": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/train-to-paint-with-code",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T16:13:45.048301+00:00"
+  "lastFastCheckAt": "2026-09-08T16:18:48.887075+00:00"
 }
