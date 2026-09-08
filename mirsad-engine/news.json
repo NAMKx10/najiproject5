@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T20:05:50.321023+00:00",
-  "checkedAt": "2026-09-08T20:05:50.321023+00:00",
+  "updatedAt": "2026-09-08T20:10:52.119143+00:00",
+  "checkedAt": "2026-09-08T20:10:52.119143+00:00",
   "newestPublishedAt": "2026-09-08T19:12:51+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-08T19:12:51+00:00"
+    },
+    {
+      "id": "3436bbf0a4d0cef375e7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف يساعد GPT-5.6 Sol في إجراء تجارب الحوسبة الكمية",
+      "titleOriginal": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "انظر كيف يستخدم باحث معهد ماساتشوستس للتكنولوجيا GPT-5.6 Sol مع الدستور الغذائي لتشغيل تجارب الحوسبة الكمومية بشكل مستقل، وتحليل النتائج، ومعايرة الكيوبتات.",
+      "summaryOriginal": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/codex-quantum-computing-experiments",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T17:00:00+00:00"
     },
     {
       "id": "dfa6dc0f8a44644d167d",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
-    },
-    {
-      "id": "a5059c1bf0edd101daee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
-      "titleOriginal": "Give Your Coding Agents a Memory You Own",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/funes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T18:58:48.764618+00:00",
-  "lastFastCheckAt": "2026-09-08T20:05:50.321023+00:00"
+  "lastFastCheckAt": "2026-09-08T20:10:52.119143+00:00"
 }
