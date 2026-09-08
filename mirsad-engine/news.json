@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T14:03:02.010341+00:00",
-  "checkedAt": "2026-09-08T14:03:02.010341+00:00",
+  "updatedAt": "2026-09-08T14:08:01.754783+00:00",
+  "checkedAt": "2026-09-08T14:08:01.754783+00:00",
   "newestPublishedAt": "2026-09-08T13:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "id": "2bb7bba5e588bfb3257f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "توسع OpenAI مبادرات لدعم الصحافة من الفصول الدراسية إلى غرف الأخبار",
+      "titleOriginal": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعمل OpenAI على توسيع نطاق الدعم للصحافة من خلال الأدوات والتدريب والشراكات للطلاب والمعلمين والصحفيين والمؤسسات الإخبارية.",
+      "summaryOriginal": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T00:00:00+00:00"
     },
     {
       "id": "48119b25501792fcffc0",
@@ -705,35 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Designing Grok Bot for a world of persistent agents"
-    },
-    {
-      "id": "0b2ddc2bc43c5f17e654",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الذكاء في الوقت الحقيقي مع نماذج السلاسل الزمنية من IBM على كونفلوينت",
-      "titleOriginal": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T13:49:14+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T11:45:16.929377+00:00",
-  "lastFastCheckAt": "2026-09-08T14:03:02.010341+00:00"
+  "lastFastCheckAt": "2026-09-08T14:08:01.754783+00:00"
 }
