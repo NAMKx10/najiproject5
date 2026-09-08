@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T21:51:02.015392+00:00",
-  "checkedAt": "2026-09-08T21:51:02.015392+00:00",
+  "updatedAt": "2026-09-08T21:52:32.638625+00:00",
+  "checkedAt": "2026-09-08T21:52:32.638625+00:00",
   "newestPublishedAt": "2026-09-08T19:12:51+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "451cb2a1b77b54f4201f",
+      "id": "ac890dcdb67da5cfbff6",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -106,43 +106,12 @@
       "summary": "Pathway's Baby Dragon Hatchling (BDH) هي بنية مستوحاة من الدماغ وما بعد المحولات التي تسبب في الفضاء الكامن بدلاً من إصدار رموز سلسلة التفكير. انظر كيف",
       "summaryOriginal": "Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod",
+      "source": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T19:12:51+00:00"
-    },
-    {
-      "id": "3436bbf0a4d0cef375e7",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف يساعد GPT-5.6 Sol في إجراء تجارب الحوسبة الكمية",
-      "titleOriginal": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "انظر كيف يستخدم باحث معهد ماساتشوستس للتكنولوجيا GPT-5.6 Sol مع الدستور الغذائي لتشغيل تجارب الحوسبة الكمومية بشكل مستقل، وتحليل النتائج، ومعايرة الكيوبتات.",
-      "summaryOriginal": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/codex-quantum-computing-experiments",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T17:00:00+00:00"
+      "searchAliases": "Amazon Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod"
     },
     {
       "id": "dfa6dc0f8a44644d167d",
@@ -206,6 +175,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1"
+    },
+    {
+      "id": "3436bbf0a4d0cef375e7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف يساعد GPT-5.6 Sol في إجراء تجارب الحوسبة الكمية",
+      "titleOriginal": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "انظر كيف يستخدم باحث معهد ماساتشوستس للتكنولوجيا GPT-5.6 Sol مع الدستور الغذائي لتشغيل تجارب الحوسبة الكمومية بشكل مستقل، وتحليل النتائج، ومعايرة الكيوبتات.",
+      "summaryOriginal": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/codex-quantum-computing-experiments",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments"
     },
     {
       "id": "2f38597109a0e9d9f9bf",
@@ -436,12 +426,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI 1Password increases engineering productivity 21% with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T00:00:00+00:00"
+      "searchAliases": "OpenAI 1Password increases engineering productivity 21% with Codex"
     },
     {
       "id": "48119b25501792fcffc0",
@@ -549,27 +534,6 @@
       "searchAliases": "Amazon Designing lifecycle policies for AgentCore memory"
     },
     {
-      "id": "8ae27468bd8076f2ce80",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء مصنع نموذج للذكاء الاصطناعي المادي باستخدام NVIDIA Cosmos 3 على SageMaker HyperPod",
-      "titleOriginal": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتطلب بناء نظام ذكاء اصطناعي مادي خط أنابيب مستمر، وليس وظيفة تدريب واحدة. يوضح هذا المنشور كيفية تشغيل مصنع النماذج هذا (توليد البيانات الاصطناعية، ما بعد التدريب",
-      "summaryOriginal": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod"
-    },
-    {
       "id": "8d5778e82ecc687e11b5",
       "company": "xAI",
       "logoText": "xAI",
@@ -610,27 +574,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
-    },
-    {
-      "id": "ea433d1b708893c278d9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "فجر للمدافعين عن الخطوط الأمامية: 1 مليار $ لحماية الخدمات الأساسية",
-      "titleOriginal": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI Daybreak للمدافعين عن الخطوط الأمامية. يوسع التزام بقيمة $ الوصول إلى الذكاء الإصطناعي السيبراني، والتدريب، ودعم الخدمات الأساسية.",
-      "summaryOriginal": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Daybreak for Frontline Defenders: $1B to protect essential services"
     },
     {
       "id": "2b53cd0773d861e20d0d",
@@ -675,27 +618,6 @@
       "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
     },
     {
-      "id": "426e2db1cee5e13fc84f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقوم Playco Cut بإصلاح 50 ٪ من ألعاب النماذج الأولية باستخدام GPT -6 Astra",
-      "titleOriginal": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "باستخدام GPT -6 Astra، قامت Playco ببناء ثلاثة نماذج أولية للألعاب تحت عنوان من أساس صندوق رمادي واحد وأبلغت عن إصلاحات يدوية أقل بنسبة 50 ٪ من النموذج السابق.",
-      "summaryOriginal": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
-    },
-    {
       "id": "bc64f88e1b353e5659af",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -736,9 +658,71 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
+    },
+    {
+      "id": "a5059c1bf0edd101daee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
+      "titleOriginal": "Give Your Coding Agents a Memory You Own",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/funes",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
+    },
+    {
+      "id": "25fd94d0c188e424d8ee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تدريب نموذج ترميز لطلاء الألوان المائية باستخدام TRL و OpenEnv",
+      "titleOriginal": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/train-to-paint-with-code",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
+    },
+    {
+      "id": "a4ed1ac9e61bddc0adba",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "أعمال وشراكات",
+      "title": "مستجد جديد من xAI",
+      "titleOriginal": "Grok Bot for Enterprise",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
+      "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://x.ai/news/grok-bot-for-enterprise",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Grok Bot for Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-08T18:58:48.764618+00:00",
-  "lastFastCheckAt": "2026-09-08T21:51:02.015392+00:00"
+  "lastDeepCheckAt": "2026-09-08T21:52:32.638625+00:00"
 }
