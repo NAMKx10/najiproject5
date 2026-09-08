@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T13:02:12.275306+00:00",
-  "checkedAt": "2026-09-08T13:02:12.275306+00:00",
-  "newestPublishedAt": "2026-09-07T00:00:00+00:00",
+  "updatedAt": "2026-09-08T13:07:18.823337+00:00",
+  "checkedAt": "2026-09-08T13:07:18.823337+00:00",
+  "newestPublishedAt": "2026-09-08T13:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4ab1d0b8991306b5819a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "العمل الآن في متناول اليد",
+      "titleOriginal": "The Work Now Within Reach",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "business",
+      "importance": 82,
+      "summary": "استكشف كيف يمكن للذكاء الاصطناعي الأكثر قدرة وبأسعار معقولة توسيع العمل الذي يمكن للأشخاص والشركات إنجازه - وجعل النمو أكثر اقتصادا.",
+      "summaryOriginal": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/the-work-now-within-reach",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The Work Now Within Reach",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T13:00:00+00:00"
+    },
     {
       "id": "48119b25501792fcffc0",
       "company": "OpenAI",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-02T13:49:14+00:00"
-    },
-    {
-      "id": "ee4e7bef0feb3427770c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "حولت ATV Big Air Tour 3 أيام من العمل إلى 3 ساعات مع ChatGPT",
-      "titleOriginal": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "dateLabel": "2 سبتمبر 2026",
-      "dateISO": "2026-09-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم ATV Big Air Tour ChatGPT Work لتسريع التسويق والترويج والمزيد. حتى أنها حولت صور البضائع إلى موقع ويب للمخزون في 15 دقيقة.",
-      "summaryOriginal": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/atv-big-air-tour",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-02T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T11:45:16.929377+00:00",
-  "lastFastCheckAt": "2026-09-08T13:02:12.275306+00:00"
+  "lastFastCheckAt": "2026-09-08T13:07:18.823337+00:00"
 }
