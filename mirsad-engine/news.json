@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T18:55:01.797849+00:00",
-  "checkedAt": "2026-09-08T18:55:01.797849+00:00",
+  "updatedAt": "2026-09-08T18:58:48.764618+00:00",
+  "checkedAt": "2026-09-08T18:58:48.764618+00:00",
   "newestPublishedAt": "2026-09-08T18:29:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "9693c2bce4281508cadf",
+      "id": "dfa6dc0f8a44644d167d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "يدعم Amazon SageMaker Feature Store الآن الكتابة على مستوى الميزات. باستخدام واجهة برمجة تطبيقات UpdateRecord الجديدة، يمكنك تحديث قيمة ميزة واحدة أو أكثر في مكالمة واحدة دون قراءة",
       "summaryOriginal": "Amazon SageMaker Feature Store now supports feature-level writes. With the new UpdateRecord API, you can update one or more feature values in a single call without reading or rewriting the entire record. It is available for both the Standard (Amazon DynamoDB) and In-Memory (Amazon ElastiCache) online store tiers.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T18:29:15+00:00"
+      "searchAliases": "Amazon Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes"
     },
     {
-      "id": "41966cb3f77e52d8c16a",
+      "id": "83d37ea8c0fb118732b1",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "النماذج الحاكمة عبر الحسابات هي الخطوة التالية بعد التسجيل التلقائي للنموذج. يوسع هذا المنشور مزامنة سجل نموذج MLflow وAmazon SageMaker AI المُدار إلى اثنين",
       "summaryOriginal": "Governing models across accounts is the next step after automatic model registration. This post extends managed MLflow and Amazon SageMaker AI Model Registry sync to two cross-account governance topologies: a hub-and-spoke pattern that centralizes governance with AWS RAM, and a hybrid pattern that keeps development accounts isolated.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T17:03:50+00:00"
+      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2"
     },
     {
-      "id": "fc581c9cabf3728452de",
+      "id": "698907095c767428fd92",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "يقوم MLflow المُدار على Amazon SageMaker AI الآن بمزامنة البيانات الوصفية للنموذج الأكثر ثراءً (مقاييس التدريب ونتائج التقييم ومواصفات الاستدلال والنسب) في SageMaker AI Model Reg",
       "summaryOriginal": "Managed MLflow on Amazon SageMaker AI now syncs richer model metadata (training metrics, evaluation results, inference specs, and lineage) into the SageMaker AI Model Registry, with lifecycle stage promotion. Part 1 shows how to govern candidate models in a single account using IAM guardrails.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T17:03:20+00:00"
+      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1"
     },
     {
-      "id": "1a40d1ccbb4c2bdafe5c",
+      "id": "2f38597109a0e9d9f9bf",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,20 +169,15 @@
       "summary": "قم بتحويل تقييمات Amazon Bedrock AgentCore إلى خط أنابيب إجراءات GitHub: قم بنشر وكيل ذكاء اصطناعي وخادم MCP محمي بواسطة OAuth إلى وقت تشغيل AgentCore، واستدعي الوكيل",
       "summaryOriginal": "Wire Amazon Bedrock AgentCore Evaluations into a GitHub Actions pipeline: deploy an AI agent and an OAuth-protected MCP server to AgentCore runtime, invoke the agent with test prompts, score the responses, and automatically block pull requests when agent behavior regresses.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T16:23:21+00:00"
+      "searchAliases": "Amazon Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions"
     },
     {
-      "id": "622f497514ffbd16a589",
+      "id": "9e16169b26831c0cf694",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -210,20 +190,15 @@
       "summary": "مقارنة نموذجين من مزيج من الخبراء 30B، Qwen3 - Codeer -30B و NVIDIA Nemotron -3 - Nano -30B، عبر مثيلات G5 و G6 و G6e و G7 GPU على Amazon SageMaker AI. قارن من خلال",
       "summaryOriginal": "Benchmark two 30B Mixture-of-Experts models, Qwen3-Coder-30B and NVIDIA Nemotron-3-Nano-30B, across G5, G6, G6e, and G7 GPU instances on Amazon SageMaker AI. Compare throughput, latency, and cost-per-token, and see how G7's NVIDIA Blackwell GPUs deliver measurable price-performance gains for real-time LLM inference.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6",
+      "source": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T16:21:57+00:00"
+      "searchAliases": "Amazon Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6"
     },
     {
-      "id": "22e53f0926c7f7764b3c",
+      "id": "63d3494c08e4c2fb4829",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -236,20 +211,15 @@
       "summary": "قامت شركة HPE Zerto ببناء نظام لاستكشاف الأخطاء وإصلاحها مدعوم من Amazon Bedrock يعمل في أماكن العمل داخل بيئة العملاء. يصف هذا المنشور القوس متعدد الوكلاء",
       "summaryOriginal": "HPE Zerto built an agentic troubleshooting system powered by Amazon Bedrock that runs on-premises inside the customer environment. This post describes the multi-agent architecture, the on-premises deployment model built with Strands Agents, and the engineering challenges of grounding agents in live disaster recovery data.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T16:15:23+00:00"
+      "searchAliases": "Amazon How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock"
     },
     {
-      "id": "1bb4635f7e8e37de4026",
+      "id": "151e3928f77b077fa108",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -262,95 +232,12 @@
       "summary": "قام DiDi ببناء نظام شفاف ومملوك ذاتيًا لضمان جودة مركز الاتصال (QA) على Amazon Bedrock، ليحل محل أداة طرف ثالث غير شفافة. دقة التحقق من النية",
       "summaryOriginal": "DiDi built a transparent, self-owned contact center quality assurance (QA) system on Amazon Bedrock, replacing an opaque third-party tool. Intent verification accuracy rose from 38% to 86%, compliance scoring topped 90%, and Voice of Customer trend analysis dropped from hours to minutes across Spanish and Portuguese support.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How DiDi built intelligent contact center QA with Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T16:11:11+00:00"
-    },
-    {
-      "id": "1b1b913f04a0676af22f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم صور ChatGPT 2.5",
-      "titleOriginal": "Introducing ChatGPT Images 2.5",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعد صور ChatGPT 2.5 على تحويل أفكارك ورسوماتك وصورك المرجعية إلى صور أكثر تخصيصًا ومصقولة تعكس أفكارك بشكل أفضل.",
-      "summaryOriginal": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T11:30:00+00:00"
-    },
-    {
-      "id": "8262bdc9e55d7bbf5cf8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "حول مشكلة جائزة نافييه- ستوكس الألفية",
-      "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "نحن نشارك حلاً تم إنشاؤه بواسطة الذكاء الاصطناعي لمشكلة جائزة الألفية Navier - Stokes، بما في ذلك الكتابة وإثبات رسمي في Lean.",
-      "summaryOriginal": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/navier-stokes-solution",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T10:00:00+00:00"
-    },
-    {
-      "id": "a1cc47dc7551a2e85df5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "منح تمويل للبحوث الجديدة في مجال الذكاء الاصطناعي وتنمية المراهقين",
-      "titleOriginal": "Funding grants for new research into AI and teen development",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقدم الآن بطلب للحصول على برنامج منحة OpenAI بقيمة 5 ملايين دولار لدعم الأبحاث المستقلة حول كيفية تأثير الذكاء الاصطناعي التوليدي على نمو المراهقين ورفاههم وسلامتهم.",
-      "summaryOriginal": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/teen-development-research-grants",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Funding grants for new research into AI and teen development",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T09:00:00+00:00"
+      "searchAliases": "Amazon How DiDi built intelligent contact center QA with Amazon Bedrock"
     },
     {
       "id": "2e5536c1e895a5c91332",
@@ -393,6 +280,69 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Work Now Within Reach"
+    },
+    {
+      "id": "1b1b913f04a0676af22f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم صور ChatGPT 2.5",
+      "titleOriginal": "Introducing ChatGPT Images 2.5",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعد صور ChatGPT 2.5 على تحويل أفكارك ورسوماتك وصورك المرجعية إلى صور أكثر تخصيصًا ومصقولة تعكس أفكارك بشكل أفضل.",
+      "summaryOriginal": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5"
+    },
+    {
+      "id": "8262bdc9e55d7bbf5cf8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "حول مشكلة جائزة نافييه- ستوكس الألفية",
+      "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "نحن نشارك حلاً تم إنشاؤه بواسطة الذكاء الاصطناعي لمشكلة جائزة الألفية Navier - Stokes، بما في ذلك الكتابة وإثبات رسمي في Lean.",
+      "summaryOriginal": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/navier-stokes-solution",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem"
+    },
+    {
+      "id": "a1cc47dc7551a2e85df5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "منح تمويل للبحوث الجديدة في مجال الذكاء الاصطناعي وتنمية المراهقين",
+      "titleOriginal": "Funding grants for new research into AI and teen development",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "research",
+      "importance": 86,
+      "summary": "تقدم الآن بطلب للحصول على برنامج منحة OpenAI بقيمة 5 ملايين دولار لدعم الأبحاث المستقلة حول كيفية تأثير الذكاء الاصطناعي التوليدي على نمو المراهقين ورفاههم وسلامتهم.",
+      "summaryOriginal": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/teen-development-research-grants",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Funding grants for new research into AI and teen development"
     },
     {
       "id": "2bb7bba5e588bfb3257f",
@@ -542,69 +492,6 @@
       "searchAliases": "Amazon Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod"
     },
     {
-      "id": "fa1d51c4c32f3906e379",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "قم بتشغيل عمليات Amazon SageMaker HyperPod التي يحركها الوكيل باستخدام InstantStart",
-      "titleOriginal": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "HyperPod InstantStart هو مستوى تحكم مفتوح المصدر يتكون من تنسيق Amazon EKS مع القدرات المدارة من Amazon SageMaker HyperPod. إنه يقود سام",
-      "summaryOriginal": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, and storage into dependable, agent-driven infrastructure.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Run agent-driven Amazon SageMaker HyperPod operations with InstantStart"
-    },
-    {
-      "id": "c6345f43a36a5c4dbd86",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "تخصيص قاعدة معارفك على Amazon Bedrock للمستندات الكبيرة والمعقدة باستخدام Amazon Textract",
-      "titleOriginal": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعلم كيفية تخصيص قاعدة معارف Amazon Bedrock للمستندات الكبيرة والمعقدة من خلال الجمع بين استخراج النص عالي الدقة من Amazon Textract مع",
-      "summaryOriginal": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to ingest and preprocess PDFs and images, then query utility bills at scale for faster, more accurate customer interactions.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract"
-    },
-    {
-      "id": "2be0feef2d448252f88d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "كيف بنت إنتويت مساعدًا للتعافي من الكوارث مع أمازون بيدروك",
-      "titleOriginal": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "policy",
-      "importance": 88,
-      "summary": "من الصعب التعافي من الكوارث على نطاق واسع. تعرف على كيفية قيام Intuit ببناء EWOK Agent، وهو مساعد وكيل للتعافي من الكوارث على Amazon Bedrock يتيح للمهندسين تحت الطلب تشغيل الإنتاج",
-      "summaryOriginal": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Intuit built an agentic disaster recovery assistant with Amazon Bedrock"
-    },
-    {
       "id": "8d5778e82ecc687e11b5",
       "company": "xAI",
       "logoText": "xAI",
@@ -626,7 +513,7 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
-      "id": "3c9452c4b854fe789cec",
+      "id": "3a5da9f663b4c289e137",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -639,17 +526,12 @@
       "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
       "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T16:00:59+00:00"
+      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
     },
     {
       "id": "ea433d1b708893c278d9",
@@ -670,12 +552,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Daybreak for Frontline Defenders: $1B to protect essential services",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:15:00+00:00"
+      "searchAliases": "OpenAI Daybreak for Frontline Defenders: $1B to protect essential services"
     },
     {
       "id": "2b53cd0773d861e20d0d",
@@ -696,15 +573,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:13:48+00:00"
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder"
     },
     {
-      "id": "5b31f4ed752bc5a10d12",
+      "id": "6ceb18534c477c4a2d00",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -717,17 +589,12 @@
       "summary": "سبتمبر هنا مع 28 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
       "summaryOriginal": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:00:35+00:00"
+      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
     },
     {
       "id": "426e2db1cee5e13fc84f",
@@ -748,41 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T12:00:00+00:00"
+      "searchAliases": "OpenAI Playco cut manual fixes 50% prototyping games with GPT-6 Astra"
     },
     {
-      "id": "2a5c058481f32b15ac62",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "راجعت ليجورا 41 مستندًا في دقائق مع GPT -6 Astra",
-      "titleOriginal": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "استخدمت ليغورا GPT -6 Astra لمراجعة 41 مستندًا في دقائق، والعثور على جميع الأخطاء الأربعة المزروعة، وتحسين الأداء بنسبة 40 ٪ تقريبًا في سير عمل المراجعة المالية هذا.",
-      "summaryOriginal": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T12:00:00+00:00"
-    },
-    {
-      "id": "f6982bbc569233cb2c6d",
+      "id": "bc64f88e1b353e5659af",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -795,20 +631,98 @@
       "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
       "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T11:56:49+00:00"
+      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
+    },
+    {
+      "id": "4e3ff960e422a6244ce0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
+      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
+    },
+    {
+      "id": "a5059c1bf0edd101daee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
+      "titleOriginal": "Give Your Coding Agents a Memory You Own",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/funes",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
+    },
+    {
+      "id": "25fd94d0c188e424d8ee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تدريب نموذج ترميز لطلاء الألوان المائية باستخدام TRL و OpenEnv",
+      "titleOriginal": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/train-to-paint-with-code",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
+    },
+    {
+      "id": "a4ed1ac9e61bddc0adba",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "أعمال وشراكات",
+      "title": "مستجد جديد من xAI",
+      "titleOriginal": "Grok Bot for Enterprise",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
+      "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://x.ai/news/grok-bot-for-enterprise",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Grok Bot for Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T18:55:01.797849+00:00"
+  "lastDeepCheckAt": "2026-09-08T18:58:48.764618+00:00"
 }
