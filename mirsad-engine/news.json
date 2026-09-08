@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-08T16:59:22.010251+00:00",
-  "checkedAt": "2026-09-08T16:59:22.010251+00:00",
-  "newestPublishedAt": "2026-09-08T16:23:21+00:00",
+  "updatedAt": "2026-09-08T17:04:29.945157+00:00",
+  "checkedAt": "2026-09-08T17:04:29.945157+00:00",
+  "newestPublishedAt": "2026-09-08T17:03:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "41966cb3f77e52d8c16a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تحكم في النماذج باستخدام MLflow و Amazon SageMaker AI Model Registry sync: Part 2",
+      "titleOriginal": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "النماذج الحاكمة عبر الحسابات هي الخطوة التالية بعد التسجيل التلقائي للنموذج. يوسع هذا المنشور مزامنة سجل نموذج MLflow وAmazon SageMaker AI المُدار إلى اثنين",
+      "summaryOriginal": "Governing models across accounts is the next step after automatic model registration. This post extends managed MLflow and Amazon SageMaker AI Model Registry sync to two cross-account governance topologies: a hub-and-spoke pattern that centralizes governance with AWS RAM, and a hybrid pattern that keeps development accounts isolated.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T17:03:50+00:00"
+    },
+    {
+      "id": "fc581c9cabf3728452de",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تحكم في النماذج باستخدام MLflow وAmazon SageMaker AI Model Registry sync: Part 1",
+      "titleOriginal": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقوم MLflow المُدار على Amazon SageMaker AI الآن بمزامنة البيانات الوصفية للنموذج الأكثر ثراءً (مقاييس التدريب ونتائج التقييم ومواصفات الاستدلال والنسب) في SageMaker AI Model Reg",
+      "summaryOriginal": "Managed MLflow on Amazon SageMaker AI now syncs richer model metadata (training metrics, evaluation results, inference specs, and lineage) into the SageMaker AI Model Registry, with lifecycle stage promotion. Part 1 shows how to govern candidate models in a single account using IAM guardrails.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T17:03:20+00:00"
+    },
     {
       "id": "1a40d1ccbb4c2bdafe5c",
       "company": "Amazon",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Legora reviewed 41 documents in minutes with GPT-6 Astra"
-    },
-    {
-      "id": "bc64f88e1b353e5659af",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA لاكتساب وجه المعانقة",
-      "titleOriginal": "NVIDIA to Acquire Hugging Face",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
-      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
-    },
-    {
-      "id": "e23c77c84817acf39797",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT -6 ASTRA: جيل جديد من الذكاء",
-      "titleOriginal": "GPT-6 Astra: A new generation of intelligence",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم GPT -6 Astra، نموذجنا الأكثر ذكاءً وانسجامًا حتى الآن، مع أحدث القدرات عبر استخدام الكمبيوتر والترميز والأمن السيبراني والعلوم.",
-      "summaryOriginal": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6 Astra: A new generation of intelligence"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-08T15:22:15.014804+00:00",
-  "lastFastCheckAt": "2026-09-08T16:59:22.010251+00:00"
+  "lastFastCheckAt": "2026-09-08T17:04:29.945157+00:00"
 }
