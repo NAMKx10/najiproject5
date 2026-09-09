@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T00:13:42.330491+00:00",
-  "checkedAt": "2026-09-09T00:13:42.330491+00:00",
+  "updatedAt": "2026-09-09T00:16:05.502572+00:00",
+  "checkedAt": "2026-09-09T00:16:05.502572+00:00",
   "newestPublishedAt": "2026-09-08T22:06:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "b9a3789b7421e0fa782b",
+      "id": "61555b0baa6fc6fdb793",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "GPT -6 Astra من OpenAI متاح الآن بشكل عام على Amazon Bedrock. إنه يجلب تفكيرًا أعمق وحكمًا أكثر وضوحًا لمهامك الأكثر تطلبًا، والتي تعمل على الأمازون",
       "summaryOriginal": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high performance, security, and scale.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T22:06:58+00:00"
+      "searchAliases": "Amazon Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
     },
     {
       "id": "ac890dcdb67da5cfbff6",
@@ -539,27 +534,6 @@
       "searchAliases": "Amazon Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
     },
     {
-      "id": "2e44746abf50b01a1e25",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تصميم سياسات دورة الحياة لذاكرة AgentCore",
-      "titleOriginal": "Designing lifecycle policies for AgentCore memory",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يتراكم لدى وكلاء الذكاء الاصطناعي منذ فترة طويلة ذكريات عفا عليها الزمن تقلل من الجودة وتخلق مخاطر الامتثال. تعلم كيفية تصميم سياسات دورة حياة الذاكرة لـ Amazon Bedrock Agen",
-      "summaryOriginal": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK stack.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Designing lifecycle policies for AgentCore memory"
-    },
-    {
       "id": "8d5778e82ecc687e11b5",
       "company": "xAI",
       "logoText": "xAI",
@@ -726,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
+    },
+    {
+      "id": "a4ed1ac9e61bddc0adba",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "أعمال وشراكات",
+      "title": "مستجد جديد من xAI",
+      "titleOriginal": "Grok Bot for Enterprise",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
+      "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://x.ai/news/grok-bot-for-enterprise",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Grok Bot for Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-08T21:52:32.638625+00:00",
-  "lastFastCheckAt": "2026-09-09T00:13:42.330491+00:00"
+  "lastDeepCheckAt": "2026-09-09T00:16:05.502572+00:00"
 }
