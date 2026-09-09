@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T17:58:40.976990+00:00",
-  "checkedAt": "2026-09-09T17:58:40.976990+00:00",
+  "updatedAt": "2026-09-09T18:00:26.723980+00:00",
+  "checkedAt": "2026-09-09T18:00:26.723980+00:00",
   "newestPublishedAt": "2026-09-09T17:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,15 +111,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Paul Christiano joins OpenAI Foundation Board",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T17:00:00+00:00"
+      "searchAliases": "OpenAI Paul Christiano joins OpenAI Foundation Board"
     },
     {
-      "id": "5fc8322c6e63af66b3e5",
+      "id": "497f0946f3c4dce10baf",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -132,20 +127,15 @@
       "summary": "في مؤتمر IBC، الذي يعقد في الفترة من 11 إلى 14 سبتمبر في أمستردام، تجتمع مجتمعات الإبداع والتكنولوجيا والأعمال لتحويل الأفكار إلى أفعال ومناقشة الابتكار",
       "summaryOriginal": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/ibc-news-2026",
+      "source": "https://blogs.nvidia.com/blog/ibc-news-2026/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T16:00:42+00:00"
+      "searchAliases": "NVIDIA NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC"
     },
     {
-      "id": "77e22ef658beaef3b70c",
+      "id": "f220b8ba93a13f9cca2f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "لم يعد TorchServe قيد الصيانة، مما يترك للفرق امتلاك مكدس استدلال وحدة معالجة الرسومات بالكامل. حاوية AWS Ray Serve للتعلم العميق هي حاوية مدعومة ومختبرة مسبقًا مع",
       "summaryOriginal": "TorchServe is no longer maintained, leaving teams to own the entire GPU inference stack. The AWS Ray Serve Deep Learning Container is a supported, pre-tested container with the framework, GPU drivers, and serving layer already assembled. This post walks through deploying a vision-language model on Amazon EKS using the Ray Serve DLC on a single GPU node.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers",
+      "source": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T15:51:29+00:00"
+      "searchAliases": "Amazon Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers"
     },
     {
-      "id": "8cc49ad93c725a1b63b1",
+      "id": "8449b5772e87597bfa33",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,17 +169,12 @@
       "summary": "تتيح لك الأذونات المخصصة السريعة من أمازون فرض الوصول الأقل امتيازًا عن طريق تبديل الميزات لكل مستخدم. يمر هذا المنشور بأربعة أنماط لأتمتة الأذونات المخصصة",
       "summaryOriginal": "Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API parameter, account and role defaults, event-driven Amazon EventBridge and AWS Lambda automation, and a retroactive batch update script.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Automate user-level custom permissions for Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T15:45:24+00:00"
+      "searchAliases": "Amazon Automate user-level custom permissions for Amazon Quick"
     },
     {
       "id": "5a81ea7a670174e59aea",
@@ -215,12 +195,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T15:36:24+00:00"
+      "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
+    },
+    {
+      "id": "065ebc2ba3e32acf25a2",
+      "company": "Mistral AI",
+      "logoText": "MI",
+      "type": "إطلاق أو تحديث",
+      "title": "تحديث التعليمات البرمجية القديمة المعقدة مع وكلاء الذكاء الاصطناعي | Mistral",
+      "titleOriginal": "Modernizing complex legacy code with AI agents | Mistral",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "ساعدت Mistral مشغل طاقة أوروبي على ترحيل 40,000 خط من Fortran 77 إلى C++. تعرف على كيفية القيام بذلك، والدروس المستفادة للمضي قدمًا.",
+      "summaryOriginal": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://mistral.ai/news/legacy-code-modernization/",
+      "sourceLabel": "Mistral News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
     },
     {
       "id": "61555b0baa6fc6fdb793",
@@ -412,27 +408,6 @@
       "searchAliases": "Amazon How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock"
     },
     {
-      "id": "151e3928f77b077fa108",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "كيف قام DiDi ببناء مركز اتصال ذكي QA مع Amazon Bedrock",
-      "titleOriginal": "How DiDi built intelligent contact center QA with Amazon Bedrock",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "business",
-      "importance": 82,
-      "summary": "قام DiDi ببناء نظام شفاف ومملوك ذاتيًا لضمان جودة مركز الاتصال (QA) على Amazon Bedrock، ليحل محل أداة طرف ثالث غير شفافة. دقة التحقق من النية",
-      "summaryOriginal": "DiDi built a transparent, self-owned contact center quality assurance (QA) system on Amazon Bedrock, replacing an opaque third-party tool. Intent verification accuracy rose from 38% to 86%, compliance scoring topped 90%, and Voice of Customer trend analysis dropped from hours to minutes across Spanish and Portuguese support.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How DiDi built intelligent contact center QA with Amazon Bedrock"
-    },
-    {
       "id": "2e5536c1e895a5c91332",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -622,48 +597,6 @@
       "searchAliases": "OpenAI An Alien Mind"
     },
     {
-      "id": "9906fb483199361c86cc",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تسريع البحث: المنظر داخل OpenAI",
-      "titleOriginal": "Research acceleration: The view inside OpenAI",
-      "dateLabel": "6 سبتمبر 2026",
-      "dateISO": "2026-09-06",
-      "category": "research",
-      "importance": 86,
-      "summary": "داخل OpenAI، يعيد وكلاء الترميز تشكيل أبحاث الذكاء الاصطناعي. استكشف البيانات المبكرة حول استخدام الوكيل وسرعة التجربة وتعقيد المهمة وتسريع البحث.",
-      "summaryOriginal": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Research acceleration: The view inside OpenAI"
-    },
-    {
-      "id": "c7583833da4126da67e4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "نشر مساعد طلب WhatsApp متعدد الوسائط مع Amazon Bedrock AgentCore",
-      "titleOriginal": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعرف على كيفية نشر مساعد طلب WhatsApp متعدد الوسائط الذي يأخذ طلبات العملاء من خلال الرسائل النصية والملاحظات الصوتية والمكالمات الصوتية في الوقت الفعلي على رقم عمل واحد،",
-      "summaryOriginal": "Learn how to deploy a multimodal WhatsApp ordering assistant that takes customer orders through text, voice notes, and real-time voice calls on a single business number, built on Amazon Bedrock AgentCore with Amazon Nova 2. The channel and ordering layers stay separate, and one shared memory recognizes each customer across all three channels.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore"
-    },
-    {
       "id": "8d5778e82ecc687e11b5",
       "company": "xAI",
       "logoText": "xAI",
@@ -685,7 +618,7 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
-      "id": "3c9452c4b854fe789cec",
+      "id": "3a5da9f663b4c289e137",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -698,17 +631,12 @@
       "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
       "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T16:00:59+00:00"
+      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
     },
     {
       "id": "2b53cd0773d861e20d0d",
@@ -729,15 +657,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:13:48+00:00"
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder"
     },
     {
-      "id": "5b31f4ed752bc5a10d12",
+      "id": "6ceb18534c477c4a2d00",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -750,20 +673,56 @@
       "summary": "سبتمبر هنا مع 28 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
       "summaryOriginal": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:00:35+00:00"
+      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
+    },
+    {
+      "id": "bc64f88e1b353e5659af",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "NVIDIA لاكتساب وجه المعانقة",
+      "titleOriginal": "NVIDIA to Acquire Hugging Face",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
+      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
+    },
+    {
+      "id": "4e3ff960e422a6244ce0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
+      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T17:58:40.976990+00:00"
+  "lastDeepCheckAt": "2026-09-09T18:00:26.723980+00:00"
 }
