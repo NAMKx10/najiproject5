@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T20:21:29.797781+00:00",
-  "checkedAt": "2026-09-09T20:21:29.797781+00:00",
+  "updatedAt": "2026-09-09T20:26:30.919471+00:00",
+  "checkedAt": "2026-09-09T20:26:30.919471+00:00",
   "newestPublishedAt": "2026-09-09T20:01:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -670,6 +670,32 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
+      "id": "3c9452c4b854fe789cec",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "سباركس فلاي: NVIDIA تسرع الذكاء الاصطناعي المحلي في IFA 2026",
+      "titleOriginal": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
+      "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T16:00:59+00:00"
+    },
+    {
       "id": "2b53cd0773d861e20d0d",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-03T13:00:35+00:00"
-    },
-    {
-      "id": "f6982bbc569233cb2c6d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA لاكتساب وجه المعانقة",
-      "titleOriginal": "NVIDIA to Acquire Hugging Face",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
-      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T11:56:49+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T18:00:26.723980+00:00",
-  "lastFastCheckAt": "2026-09-09T20:21:29.797781+00:00"
+  "lastFastCheckAt": "2026-09-09T20:26:30.919471+00:00"
 }
