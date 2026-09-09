@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T17:38:30.835381+00:00",
-  "checkedAt": "2026-09-09T17:38:30.835381+00:00",
+  "updatedAt": "2026-09-09T17:44:12.983185+00:00",
+  "checkedAt": "2026-09-09T17:44:12.983185+00:00",
   "newestPublishedAt": "2026-09-09T17:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -685,6 +685,32 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
+      "id": "5b31f4ed752bc5a10d12",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "\"NBA 2K27\" مع NVIDIA DLSS 5 تتصدر 28 لعبة جديدة قادمة إلى GeForce الآن",
+      "titleOriginal": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "سبتمبر هنا مع 28 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
+      "summaryOriginal": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T13:00:35+00:00"
+    },
+    {
       "id": "f6982bbc569233cb2c6d",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
-    },
-    {
-      "id": "2b53cd0773d861e20d0d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "NeoMME: برنامج ترميز فعال متعدد الوسائط ومتعدد اللغات",
-      "titleOriginal": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Hcompany/neomme",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T17:38:30.835381+00:00"
+  "lastFastCheckAt": "2026-09-09T17:44:12.983185+00:00"
 }
