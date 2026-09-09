@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T15:49:28.998820+00:00",
-  "checkedAt": "2026-09-09T15:49:28.998820+00:00",
-  "newestPublishedAt": "2026-09-09T15:45:24+00:00",
+  "updatedAt": "2026-09-09T15:54:40.139392+00:00",
+  "checkedAt": "2026-09-09T15:54:40.139392+00:00",
+  "newestPublishedAt": "2026-09-09T15:51:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "77e22ef658beaef3b70c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تبسيط ودعم أعباء عمل TorchServe الخاصة بك باستخدام حاويات Ray Serve Deep Learning",
+      "titleOriginal": "Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "لم يعد TorchServe قيد الصيانة، مما يترك للفرق امتلاك مكدس استدلال وحدة معالجة الرسومات بالكامل. حاوية AWS Ray Serve للتعلم العميق هي حاوية مدعومة ومختبرة مسبقًا مع",
+      "summaryOriginal": "TorchServe is no longer maintained, leaving teams to own the entire GPU inference stack. The AWS Ray Serve Deep Learning Container is a supported, pre-tested container with the framework, GPU drivers, and serving layer already assembled. This post walks through deploying a vision-language model on Amazon EKS using the Ray Serve DLC on a single GPU node.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Simplify and support your TorchServe workloads using Ray Serve Deep Learning Containers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T15:51:29+00:00"
+    },
     {
       "id": "8cc49ad93c725a1b63b1",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
-    },
-    {
-      "id": "a5059c1bf0edd101daee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "امنح وكلاء الترميز ذاكرة تمتلكها",
-      "titleOriginal": "Give Your Coding Agents a Memory You Own",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/funes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T15:49:28.998820+00:00"
+  "lastFastCheckAt": "2026-09-09T15:54:40.139392+00:00"
 }
