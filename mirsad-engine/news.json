@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T15:44:26.063100+00:00",
-  "checkedAt": "2026-09-09T15:44:26.063100+00:00",
-  "newestPublishedAt": "2026-09-09T15:36:24+00:00",
+  "updatedAt": "2026-09-09T15:49:28.998820+00:00",
+  "checkedAt": "2026-09-09T15:49:28.998820+00:00",
+  "newestPublishedAt": "2026-09-09T15:45:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8cc49ad93c725a1b63b1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أتمتة الأذونات المخصصة على مستوى المستخدم لـ Amazon Quick",
+      "titleOriginal": "Automate user-level custom permissions for Amazon Quick",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تتيح لك الأذونات المخصصة السريعة من أمازون فرض الوصول الأقل امتيازًا عن طريق تبديل الميزات لكل مستخدم. يمر هذا المنشور بأربعة أنماط لأتمتة الأذونات المخصصة",
+      "summaryOriginal": "Amazon Quick custom permissions let you enforce least-privilege access by toggling features per user. This post walks through four patterns to automate custom permissions across the user lifecycle: a RegisterUser API parameter, account and role defaults, event-driven Amazon EventBridge and AWS Lambda automation, and a retroactive batch update script.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automate-user-level-custom-permissions-for-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Automate user-level custom permissions for Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T15:45:24+00:00"
+    },
     {
       "id": "5a81ea7a670174e59aea",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Give Your Coding Agents a Memory You Own"
-    },
-    {
-      "id": "25fd94d0c188e424d8ee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تدريب نموذج ترميز لطلاء الألوان المائية باستخدام TRL و OpenEnv",
-      "titleOriginal": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/train-to-paint-with-code",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T15:44:26.063100+00:00"
+  "lastFastCheckAt": "2026-09-09T15:49:28.998820+00:00"
 }
