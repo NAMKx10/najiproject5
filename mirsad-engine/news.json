@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T16:10:19.439250+00:00",
-  "checkedAt": "2026-09-09T16:10:19.439250+00:00",
-  "newestPublishedAt": "2026-09-09T15:51:29+00:00",
+  "updatedAt": "2026-09-09T16:14:54.998702+00:00",
+  "checkedAt": "2026-09-09T16:14:54.998702+00:00",
+  "newestPublishedAt": "2026-09-09T16:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5fc8322c6e63af66b3e5",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "NVIDIA تجلب الذكاء الاصطناعي في الوقت الفعلي للبث والرياضة والبث العالمي في IBC",
+      "titleOriginal": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "business",
+      "importance": 82,
+      "summary": "في مؤتمر IBC، الذي يعقد في الفترة من 11 إلى 14 سبتمبر في أمستردام، تجتمع مجتمعات الإبداع والتكنولوجيا والأعمال لتحويل الأفكار إلى أفعال ومناقشة الابتكار",
+      "summaryOriginal": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/ibc-news-2026",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T16:00:42+00:00"
+    },
     {
       "id": "77e22ef658beaef3b70c",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
-    },
-    {
-      "id": "4e3ff960e422a6244ce0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
-      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T16:10:19.439250+00:00"
+  "lastFastCheckAt": "2026-09-09T16:14:54.998702+00:00"
 }
