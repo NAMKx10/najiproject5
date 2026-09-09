@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T23:13:09.572518+00:00",
-  "checkedAt": "2026-09-09T23:13:09.572518+00:00",
+  "updatedAt": "2026-09-09T23:16:01.402623+00:00",
+  "checkedAt": "2026-09-09T23:16:01.402623+00:00",
   "newestPublishedAt": "2026-09-09T22:26:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "cc705920506b28956638",
+      "id": "b6ec312ee9364a973b57",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,43 +106,12 @@
       "summary": "تعرف على كيفية نشر Qwen3.8-2.4T-A95B، وهو نموذج مفتوح الوزن يبلغ 2.4 تريليون معلمة، على Amazon SageMaker HyperPod مع vLLM. تغطي هذه الجولة توفير الكتلة، لا",
       "summaryOriginal": "Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an OpenAI-compatible endpoint with built-in reasoning, tool calling, and native MTP speculative decoding.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T22:26:29+00:00"
-    },
-    {
-      "id": "53a53e349a7f0c0b199b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT -6 Astra: الجيل القادم في الذكاء من أجل العمل",
-      "titleOriginal": "GPT-6 Astra: The next generation in intelligence for work",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على GPT -6 Astra، النموذج الأكثر قدرة من OpenAI للأعمال، مع التفكير المتقدم، واستخدام الكمبيوتر، والكتابة والتصميم الأقوى.",
-      "summaryOriginal": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T11:00:00+00:00"
+      "searchAliases": "Amazon Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM"
     },
     {
       "id": "44816ac07d0dddea9440",
@@ -313,6 +282,27 @@
       "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
     },
     {
+      "id": "53a53e349a7f0c0b199b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "GPT -6 Astra: الجيل القادم في الذكاء من أجل العمل",
+      "titleOriginal": "GPT-6 Astra: The next generation in intelligence for work",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على GPT -6 Astra، النموذج الأكثر قدرة من OpenAI للأعمال، مع التفكير المتقدم، واستخدام الكمبيوتر، والكتابة والتصميم الأقوى.",
+      "summaryOriginal": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
+    },
+    {
       "id": "61555b0baa6fc6fdb793",
       "company": "Amazon",
       "logoText": "AWS",
@@ -437,27 +427,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments"
-    },
-    {
-      "id": "2f38597109a0e9d9f9bf",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تقييم الوكيل الآلي مع إجراءات Amazon Bedrock AgentCore و GitHub",
-      "titleOriginal": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قم بتحويل تقييمات Amazon Bedrock AgentCore إلى خط أنابيب إجراءات GitHub: قم بنشر وكيل ذكاء اصطناعي وخادم MCP محمي بواسطة OAuth إلى وقت تشغيل AgentCore، واستدعي الوكيل",
-      "summaryOriginal": "Wire Amazon Bedrock AgentCore Evaluations into a GitHub Actions pipeline: deploy an AI agent and an OAuth-protected MCP server to AgentCore runtime, invoke the agent with test prompts, score the responses, and automatically block pull requests when agent behavior regresses.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions"
     },
     {
       "id": "2e5536c1e895a5c91332",
@@ -628,27 +597,6 @@
       "searchAliases": "OpenAI Supporting independent journalism in Ukraine"
     },
     {
-      "id": "57983ca02e217a1d0724",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "غَرُبَ",
-      "titleOriginal": "An Alien Mind",
-      "dateLabel": "6 سبتمبر 2026",
-      "dateISO": "2026-09-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يفكر جاكوب باتشوكي في الذكاء الاصطناعي المتزايد القدرة والتحدي المتمثل في الحفاظ على اتساقه. ويدعو إلى ضمانات أقوى وتنسيق دولي.",
-      "summaryOriginal": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/an-alien-mind",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI An Alien Mind"
-    },
-    {
       "id": "8d5778e82ecc687e11b5",
       "company": "xAI",
       "logoText": "xAI",
@@ -670,7 +618,7 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
-      "id": "3c9452c4b854fe789cec",
+      "id": "3a5da9f663b4c289e137",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -683,17 +631,12 @@
       "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
       "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T16:00:59+00:00"
+      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
     },
     {
       "id": "2b53cd0773d861e20d0d",
@@ -714,15 +657,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:13:48+00:00"
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder"
     },
     {
-      "id": "5b31f4ed752bc5a10d12",
+      "id": "6ceb18534c477c4a2d00",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -735,20 +673,56 @@
       "summary": "سبتمبر هنا مع 28 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
       "summaryOriginal": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:00:35+00:00"
+      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
+    },
+    {
+      "id": "bc64f88e1b353e5659af",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "NVIDIA لاكتساب وجه المعانقة",
+      "titleOriginal": "NVIDIA to Acquire Hugging Face",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
+      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
+    },
+    {
+      "id": "4e3ff960e422a6244ce0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
+      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-09T20:56:49.851131+00:00",
-  "lastFastCheckAt": "2026-09-09T23:13:09.572518+00:00"
+  "lastDeepCheckAt": "2026-09-09T23:16:01.402623+00:00"
 }
