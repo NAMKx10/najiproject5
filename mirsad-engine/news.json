@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T09:31:38.131697+00:00",
-  "checkedAt": "2026-09-09T09:31:38.131697+00:00",
+  "updatedAt": "2026-09-09T09:36:23.484863+00:00",
+  "checkedAt": "2026-09-09T09:36:23.484863+00:00",
   "newestPublishedAt": "2026-09-08T22:06:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -44,9 +44,9 @@
     {
       "company": "Hugging Face",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "0 entries"
     },
     {
       "company": "Google",
@@ -725,5 +725,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T04:50:47.245500+00:00",
-  "lastFastCheckAt": "2026-09-09T09:31:38.131697+00:00"
+  "lastFastCheckAt": "2026-09-09T09:36:23.484863+00:00"
 }
