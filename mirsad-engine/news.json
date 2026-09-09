@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T15:34:17.203566+00:00",
-  "checkedAt": "2026-09-09T15:34:17.203566+00:00",
-  "newestPublishedAt": "2026-09-08T22:06:58+00:00",
+  "updatedAt": "2026-09-09T15:39:21.593244+00:00",
+  "checkedAt": "2026-09-09T15:39:21.593244+00:00",
+  "newestPublishedAt": "2026-09-09T15:36:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5a81ea7a670174e59aea",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تطلق IBM طراز SOTA Granite Time Series PatchTST - FM - r2 بترخيص تجاري مناسب",
+      "titleOriginal": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T15:36:24+00:00"
+    },
     {
       "id": "61555b0baa6fc6fdb793",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Training a coding model to paint watercolours with TRL and OpenEnv"
-    },
-    {
-      "id": "a4ed1ac9e61bddc0adba",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "مستجد جديد من xAI",
-      "titleOriginal": "Grok Bot for Enterprise",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "Grok Bot متاح الآن للشركات. يتمتع عملاء Grok وCursor Enterprise باستخدام مجاني للأسبوعين المقبلين، ويمكنهم دعوة مؤسستهم بأكملها، بما في ذلك",
-      "summaryOriginal": "Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-for-enterprise",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Grok Bot for Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T15:34:17.203566+00:00"
+  "lastFastCheckAt": "2026-09-09T15:39:21.593244+00:00"
 }
