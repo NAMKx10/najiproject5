@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T18:08:51.059587+00:00",
-  "checkedAt": "2026-09-09T18:08:51.059587+00:00",
-  "newestPublishedAt": "2026-09-09T17:00:00+00:00",
+  "updatedAt": "2026-09-09T18:13:51.931587+00:00",
+  "checkedAt": "2026-09-09T18:13:51.931587+00:00",
+  "newestPublishedAt": "2026-09-09T18:11:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "347856a72e2fb48f6e48",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف قامت Heurist Finance ببناء منصة عمل استثمارية أصلية على Amazon Bedrock AgentCore",
+      "titleOriginal": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية قيام Heurist ببناء Heurist Finance، وهي منصة عمل استثمارية للذكاء الاصطناعي للمحادثة، على Amazon Bedrock AgentCore. توضح قصة العميل هذه كيف أن مدفوعات AgentCore والهوية",
+      "summaryOriginal": "Learn how Heurist built Heurist Finance, a conversational AI investment workbench, on Amazon Bedrock AgentCore. This customer story shows how AgentCore payments, Identity, Memory, Code Interpreter, and Observability let a small team buy premium market data per query, isolate analysis in a sandbox, and keep every action auditable.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T18:11:12+00:00"
+    },
     {
       "id": "73c6bde2470ffa5e37a8",
       "company": "OpenAI",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
-    },
-    {
-      "id": "4e3ff960e422a6244ce0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
-      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T18:00:26.723980+00:00",
-  "lastFastCheckAt": "2026-09-09T18:08:51.059587+00:00"
+  "lastFastCheckAt": "2026-09-09T18:13:51.931587+00:00"
 }
