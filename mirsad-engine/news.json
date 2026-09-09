@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T17:28:16.755788+00:00",
-  "checkedAt": "2026-09-09T17:28:16.755788+00:00",
-  "newestPublishedAt": "2026-09-09T16:00:42+00:00",
+  "updatedAt": "2026-09-09T17:33:28.129656+00:00",
+  "checkedAt": "2026-09-09T17:33:28.129656+00:00",
+  "newestPublishedAt": "2026-09-09T17:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "73c6bde2470ffa5e37a8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "بول كريستيانو ينضم إلى مجلس مؤسسة OpenAI",
+      "titleOriginal": "Paul Christiano joins OpenAI Foundation Board",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "policy",
+      "importance": 88,
+      "summary": "ينضم بول كريستيانو إلى مجلس مؤسسة OpenAI ولجنة السلامة والأمن التابعة لها، مما يجلب خبرة في مواءمة الذكاء الاصطناعي والسلامة والمعايير.",
+      "summaryOriginal": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Paul Christiano joins OpenAI Foundation Board",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T17:00:00+00:00"
+    },
     {
       "id": "5fc8322c6e63af66b3e5",
       "company": "NVIDIA",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
-    },
-    {
-      "id": "bc64f88e1b353e5659af",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA لاكتساب وجه المعانقة",
-      "titleOriginal": "NVIDIA to Acquire Hugging Face",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
-      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T14:37:06.110057+00:00",
-  "lastFastCheckAt": "2026-09-09T17:28:16.755788+00:00"
+  "lastFastCheckAt": "2026-09-09T17:33:28.129656+00:00"
 }
