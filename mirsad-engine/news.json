@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-09T20:01:21.150259+00:00",
-  "checkedAt": "2026-09-09T20:01:21.150259+00:00",
-  "newestPublishedAt": "2026-09-09T18:11:12+00:00",
+  "updatedAt": "2026-09-09T20:06:21.053996+00:00",
+  "checkedAt": "2026-09-09T20:06:21.053996+00:00",
+  "newestPublishedAt": "2026-09-09T20:01:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5501950a3f03f77f3ad3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ICYMI: ما الذي هبط لبناة الذكاء الاصطناعي في أغسطس 2026",
+      "titleOriginal": "ICYMI: What landed for AI builders in August 2026",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تم إطلاق ملخص لشهر أغسطس 2026 لبناة الذكاء الاصطناعي عبر Amazon Bedrock و Amazon Bedrock AgentCore و Strands: سياق مليون رمز لنماذج OpenAI و cross - Region infere",
+      "summaryOriginal": "A recap of August 2026 launches for AI builders across Amazon Bedrock, Amazon Bedrock AgentCore, and Strands: million-token context for OpenAI models, cross-Region inference, agents that run for up to 14 days on dedicated compute, expanded AWS GovCloud availability, and Strands Robots for physical deployment.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon ICYMI: What landed for AI builders in August 2026",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T20:01:03+00:00"
+    },
     {
       "id": "347856a72e2fb48f6e48",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
-    },
-    {
-      "id": "bc64f88e1b353e5659af",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA لاكتساب وجه المعانقة",
-      "titleOriginal": "NVIDIA to Acquire Hugging Face",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
-      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-09T18:00:26.723980+00:00",
-  "lastFastCheckAt": "2026-09-09T20:01:21.150259+00:00"
+  "lastFastCheckAt": "2026-09-09T20:06:21.053996+00:00"
 }
