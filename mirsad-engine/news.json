@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T15:56:14.983578+00:00",
-  "checkedAt": "2026-09-10T15:56:14.983578+00:00",
-  "newestPublishedAt": "2026-09-10T15:53:05+00:00",
+  "updatedAt": "2026-09-10T16:01:32.305910+00:00",
+  "checkedAt": "2026-09-10T16:01:32.305910+00:00",
+  "newestPublishedAt": "2026-09-10T15:55:41+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b524e56bc279689c0eb4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مقياس تقييم الوكيل للمحادثات متعددة الدورات",
+      "titleOriginal": "Agent Evaluation Metric for multi-turn conversations",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يفشل الوكلاء متعددو الدوران بطرق يفوتهم تقييم الدور الواحد: خطأ مبكر واحد يفسد كل منعطف لاحق. يقدم هذا المنشور مقياس تقييم الوكيل (AEM)، وهو مقياس",
+      "summaryOriginal": "Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality, applied to its first dimension, correctness, to pinpoint the turn that caused a failure and separate it from the turns that inherited it.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Agent Evaluation Metric for multi-turn conversations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T15:55:41+00:00"
+    },
     {
       "id": "83df19baa3f8d4a274f1",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI OpenAI expands initiatives to support journalism from classrooms to newsrooms"
-    },
-    {
-      "id": "868469565bd8cb06c49f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "1 كلمة المرور تزيد الإنتاجية الهندسية بنسبة 21 ٪ مع الدستور الغذائي",
-      "titleOriginal": "1Password increases engineering productivity 21% with Codex",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "يستخدم المهندسون في 1Password الدستور الغذائي لبناء ميزات جديدة وأدوات داخلية بسرعة، والوصول إلى جاهزية الإنتاج مع الحفاظ على سياسات أمنية صارمة.",
-      "summaryOriginal": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/1password",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI 1Password increases engineering productivity 21% with Codex"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T15:56:14.983578+00:00"
+  "lastFastCheckAt": "2026-09-10T16:01:32.305910+00:00"
 }
