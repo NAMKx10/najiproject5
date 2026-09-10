@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T11:27:31.965442+00:00",
-  "checkedAt": "2026-09-10T11:27:31.965442+00:00",
+  "updatedAt": "2026-09-10T11:32:38.586022+00:00",
+  "checkedAt": "2026-09-10T11:32:38.586022+00:00",
   "newestPublishedAt": "2026-09-10T10:42:55.259000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -660,6 +660,32 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
+      "id": "2b53cd0773d861e20d0d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "NeoMME: برنامج ترميز فعال متعدد الوسائط ومتعدد اللغات",
+      "titleOriginal": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Hcompany/neomme",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-03T13:13:48+00:00"
+    },
+    {
       "id": "5b31f4ed752bc5a10d12",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -710,30 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-03T11:56:49+00:00"
-    },
-    {
-      "id": "3a5da9f663b4c289e137",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "سباركس فلاي: NVIDIA تسرع الذكاء الاصطناعي المحلي في IFA 2026",
-      "titleOriginal": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
-      "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T11:21:25.413451+00:00",
-  "lastFastCheckAt": "2026-09-10T11:27:31.965442+00:00"
+  "lastFastCheckAt": "2026-09-10T11:32:38.586022+00:00"
 }
