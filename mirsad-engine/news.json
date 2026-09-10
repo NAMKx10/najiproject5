@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T01:08:43.012308+00:00",
-  "checkedAt": "2026-09-10T01:08:43.012308+00:00",
+  "updatedAt": "2026-09-10T01:09:32.879386+00:00",
+  "checkedAt": "2026-09-10T01:09:32.879386+00:00",
   "newestPublishedAt": "2026-09-09T22:26:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,32 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "88b17f98436461efb1f3",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نافذة سياسة الذكاء الاصطناعي مفتوحة. علينا أن نتصرف.",
-      "titleOriginal": "The AI policy window is open. We need to act.",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "policy",
-      "importance": 88,
-      "summary": "يجادل كريس ليهان بأن قدرات الذكاء الاصطناعي الأقوى تتطلب أدلة أمان أقوى ومعايير مشتركة وإجراءات سياسة دائمة بينما تظل نافذة السياسة مفتوحة.",
-      "summaryOriginal": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ai-policy-window",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The AI policy window is open. We need to act.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T13:00:00+00:00"
-    },
     {
       "id": "b6ec312ee9364a973b57",
       "company": "Amazon",
@@ -285,6 +259,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
+    },
+    {
+      "id": "88b17f98436461efb1f3",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "نافذة سياسة الذكاء الاصطناعي مفتوحة. علينا أن نتصرف.",
+      "titleOriginal": "The AI policy window is open. We need to act.",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "policy",
+      "importance": 88,
+      "summary": "يجادل كريس ليهان بأن قدرات الذكاء الاصطناعي الأقوى تتطلب أدلة أمان أقوى ومعايير مشتركة وإجراءات سياسة دائمة بينما تظل نافذة السياسة مفتوحة.",
+      "summaryOriginal": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/ai-policy-window",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The AI policy window is open. We need to act."
     },
     {
       "id": "065ebc2ba3e32acf25a2",
@@ -602,27 +597,6 @@
       "searchAliases": "OpenAI 1Password increases engineering productivity 21% with Codex"
     },
     {
-      "id": "48119b25501792fcffc0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "دعم الصحافة المستقلة في أوكرانيا",
-      "titleOriginal": "Supporting independent journalism in Ukraine",
-      "dateLabel": "7 سبتمبر 2026",
-      "dateISO": "2026-09-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطلق OpenAI و AIRPPU و WAN - IFRA برنامجًا للذكاء الاصطناعي لمساعدة المؤسسات الإخبارية الأوكرانية على تعزيز الابتكار والمرونة والصحافة المستقلة.",
-      "summaryOriginal": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Supporting independent journalism in Ukraine"
-    },
-    {
       "id": "8d5778e82ecc687e11b5",
       "company": "xAI",
       "logoText": "xAI",
@@ -726,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
+    },
+    {
+      "id": "4e3ff960e422a6244ce0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "صقل نموذج 350 متر للحصول على مخرجات منظمة أفضل في 100 خطوة من GRPO",
+      "titleOriginal": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "dateLabel": "3 سبتمبر 2026",
+      "dateISO": "2026-09-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-09T23:16:01.402623+00:00",
-  "lastFastCheckAt": "2026-09-10T01:08:43.012308+00:00"
+  "lastDeepCheckAt": "2026-09-10T01:09:32.879386+00:00"
 }
