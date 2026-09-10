@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T17:14:54.315165+00:00",
-  "checkedAt": "2026-09-10T17:14:54.315165+00:00",
+  "updatedAt": "2026-09-10T17:19:52.993170+00:00",
+  "checkedAt": "2026-09-10T17:19:52.993170+00:00",
   "newestPublishedAt": "2026-09-10T16:30:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -169,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T16:02:16+00:00"
+    },
+    {
+      "id": "efed02d6b2f8ed9c1fdd",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "الذكاء الاصطناعي المادي يأخذ عجلة القيادة: كيف يبني قادة التاكسي الآلي في العالم مع تقنيات NVIDIA",
+      "titleOriginal": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "من المتوقع أن يصل سوق التاكسي الآلي العالمي — أول اختراق تجاري للذكاء الاصطناعي المادي — إلى 400 مليار دولار بحلول عام 2035، مع تشغيل أكثر من 6 ملايين مركبة تجارية",
+      "summaryOriginal": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:00:04+00:00"
     },
     {
       "id": "59512e659fb532996c41",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
-    },
-    {
-      "id": "ac890dcdb67da5cfbff6",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "بحث",
-      "title": "تطوير بنية Pathway المستوحاة من الدماغ على Amazon SageMaker HyperPod",
-      "titleOriginal": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "research",
-      "importance": 86,
-      "summary": "Pathway's Baby Dragon Hatchling (BDH) هي بنية مستوحاة من الدماغ وما بعد المحولات التي تسبب في الفضاء الكامن بدلاً من إصدار رموز سلسلة التفكير. انظر كيف",
-      "summaryOriginal": "Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T17:14:54.315165+00:00"
+  "lastFastCheckAt": "2026-09-10T17:19:52.993170+00:00"
 }
