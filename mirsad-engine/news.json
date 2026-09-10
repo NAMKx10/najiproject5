@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T16:01:32.305910+00:00",
-  "checkedAt": "2026-09-10T16:01:32.305910+00:00",
-  "newestPublishedAt": "2026-09-10T15:55:41+00:00",
+  "updatedAt": "2026-09-10T16:06:31.724614+00:00",
+  "checkedAt": "2026-09-10T16:06:31.724614+00:00",
+  "newestPublishedAt": "2026-09-10T16:02:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "13f6aef7e99d910fae74",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الكشف عن معلومات تحديد الهوية الشخصية غير الإرشادية للنموذج مع LLMs",
+      "titleOriginal": "Model-agnostic PII detection with LLMs",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "كاشف لامع للنموذج قابل للتكوين يحول أي نموذج لغة كبير على Amazon Bedrock إلى كاشف PII. لأن الكيانات التي يجب اكتشافها تعيش في مطالبة بدلاً من ذلك",
+      "summaryOriginal": "A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity types without retraining, and it outperforms an off-the-shelf tool across five public corpora and nine LLM-based detectors.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Model-agnostic PII detection with LLMs",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:02:16+00:00"
+    },
+    {
+      "id": "59512e659fb532996c41",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف يستخدم الباحث الدستور الغذائي و ChatGPT للبحث عن جزيئات جديدة مضادة للميكروبات",
+      "titleOriginal": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يستخدم مختبر سيزار دي لا فوينتي الدستور الغذائي و ChatGPT للبحث عن الجينومات الحية والمنقرضة للمرشحين لمضادات الميكروبات لمكافحة العدوى المقاومة للأدوية.",
+      "summaryOriginal": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:00:00+00:00"
+    },
     {
       "id": "b524e56bc279689c0eb4",
       "company": "Amazon",
@@ -699,51 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem"
-    },
-    {
-      "id": "a1cc47dc7551a2e85df5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "منح تمويل للبحوث الجديدة في مجال الذكاء الاصطناعي وتنمية المراهقين",
-      "titleOriginal": "Funding grants for new research into AI and teen development",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقدم الآن بطلب للحصول على برنامج منحة OpenAI بقيمة 5 ملايين دولار لدعم الأبحاث المستقلة حول كيفية تأثير الذكاء الاصطناعي التوليدي على نمو المراهقين ورفاههم وسلامتهم.",
-      "summaryOriginal": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/teen-development-research-grants",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Funding grants for new research into AI and teen development"
-    },
-    {
-      "id": "2bb7bba5e588bfb3257f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "توسع OpenAI مبادرات لدعم الصحافة من الفصول الدراسية إلى غرف الأخبار",
-      "titleOriginal": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعمل OpenAI على توسيع نطاق الدعم للصحافة من خلال الأدوات والتدريب والشراكات للطلاب والمعلمين والصحفيين والمؤسسات الإخبارية.",
-      "summaryOriginal": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI expands initiatives to support journalism from classrooms to newsrooms"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T16:01:32.305910+00:00"
+  "lastFastCheckAt": "2026-09-10T16:06:31.724614+00:00"
 }
