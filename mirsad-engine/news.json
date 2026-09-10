@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T18:11:23.059858+00:00",
-  "checkedAt": "2026-09-10T18:11:23.059858+00:00",
-  "newestPublishedAt": "2026-09-10T16:30:35+00:00",
+  "updatedAt": "2026-09-10T18:20:51.977085+00:00",
+  "checkedAt": "2026-09-10T18:20:51.977085+00:00",
+  "newestPublishedAt": "2026-09-10T18:16:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d9f0981b146d8407d05e",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "Amazon Quick متاح الآن بشكل عام على سطح المكتب",
+      "titleOriginal": "Amazon Quick is now generally available on desktop",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تحصل فرقك على مساعد ذكاء اصطناعي يتعامل مع العمل الحقيقي بينما تظل بياناتك في بيئتك وتبقى محادثاتك خاصة اليوم، تطبيق أمازون كويك لسطح المكتب",
+      "summaryOriginal": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon Quick is now generally available on desktop",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T18:16:37+00:00"
+    },
     {
       "id": "edaa4d5c7384b8215d10",
       "company": "NVIDIA",
@@ -775,30 +801,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-08T10:00:00+00:00"
-    },
-    {
-      "id": "61555b0baa6fc6fdb793",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "قم بعملك الأكثر طموحًا مع GPT -6 Astra على Amazon Bedrock",
-      "titleOriginal": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "GPT -6 Astra من OpenAI متاح الآن بشكل عام على Amazon Bedrock. إنه يجلب تفكيرًا أعمق وحكمًا أكثر وضوحًا لمهامك الأكثر تطلبًا، والتي تعمل على الأمازون",
-      "summaryOriginal": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high performance, security, and scale.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T18:11:23.059858+00:00"
+  "lastFastCheckAt": "2026-09-10T18:20:51.977085+00:00"
 }
