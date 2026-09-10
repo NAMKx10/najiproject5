@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T16:06:31.724614+00:00",
-  "checkedAt": "2026-09-10T16:06:31.724614+00:00",
-  "newestPublishedAt": "2026-09-10T16:02:16+00:00",
+  "updatedAt": "2026-09-10T16:11:38.818990+00:00",
+  "checkedAt": "2026-09-10T16:11:38.818990+00:00",
+  "newestPublishedAt": "2026-09-10T16:08:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1404af529870cb0a7db5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء سير عمل استبيان طلب المعلومات من البداية إلى النهاية باستخدام Amazon Quick Automate",
+      "titleOriginal": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية إنشاء سير عمل استبيان طلب المعلومات من البداية إلى النهاية باستخدام Amazon Quick Automate. اقرأ كتاب مصنف RFI متعدد علامات التبويب من Amazon S3، واستخدم مطالبات باللغة الطبيعية لإخراج",
+      "summaryOriginal": "Learn how to build an end-to-end RFI questionnaire workflow with Amazon Quick Automate. Read a multi-tab RFI workbook from Amazon S3, use natural-language prompts to extract and structure the questionnaire data, refine the workflow through conversation, and write clean CSV output back to Amazon S3 — cutting development from days to hours.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:08:57+00:00"
+    },
     {
       "id": "13f6aef7e99d910fae74",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing ChatGPT Images 2.5"
-    },
-    {
-      "id": "8262bdc9e55d7bbf5cf8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "حول مشكلة جائزة نافييه- ستوكس الألفية",
-      "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "نحن نشارك حلاً تم إنشاؤه بواسطة الذكاء الاصطناعي لمشكلة جائزة الألفية Navier - Stokes، بما في ذلك الكتابة وإثبات رسمي في Lean.",
-      "summaryOriginal": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/navier-stokes-solution",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T16:06:31.724614+00:00"
+  "lastFastCheckAt": "2026-09-10T16:11:38.818990+00:00"
 }
