@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T16:11:38.818990+00:00",
-  "checkedAt": "2026-09-10T16:11:38.818990+00:00",
+  "updatedAt": "2026-09-10T16:17:10.854451+00:00",
+  "checkedAt": "2026-09-10T16:17:10.854451+00:00",
   "newestPublishedAt": "2026-09-10T16:08:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -569,6 +569,32 @@
       "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
     },
     {
+      "id": "8262bdc9e55d7bbf5cf8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "حول مشكلة جائزة نافييه- ستوكس الألفية",
+      "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "نحن نشارك حلاً تم إنشاؤه بواسطة الذكاء الاصطناعي لمشكلة جائزة الألفية Navier - Stokes، بما في ذلك الكتابة وإثبات رسمي في Lean.",
+      "summaryOriginal": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/navier-stokes-solution",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T10:00:00+00:00"
+    },
+    {
       "id": "61555b0baa6fc6fdb793",
       "company": "Amazon",
       "logoText": "AWS",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Work Now Within Reach"
-    },
-    {
-      "id": "1b1b913f04a0676af22f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم صور ChatGPT 2.5",
-      "titleOriginal": "Introducing ChatGPT Images 2.5",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعد صور ChatGPT 2.5 على تحويل أفكارك ورسوماتك وصورك المرجعية إلى صور أكثر تخصيصًا ومصقولة تعكس أفكارك بشكل أفضل.",
-      "summaryOriginal": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T16:11:38.818990+00:00"
+  "lastFastCheckAt": "2026-09-10T16:17:10.854451+00:00"
 }
