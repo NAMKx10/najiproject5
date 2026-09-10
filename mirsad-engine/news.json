@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T15:15:51.354627+00:00",
-  "checkedAt": "2026-09-10T15:15:51.354627+00:00",
+  "updatedAt": "2026-09-10T15:20:59.564145+00:00",
+  "checkedAt": "2026-09-10T15:20:59.564145+00:00",
   "newestPublishedAt": "2026-09-10T13:00:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -681,59 +681,59 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
-      "id": "5b31f4ed752bc5a10d12",
+      "id": "3c9452c4b854fe789cec",
       "company": "NVIDIA",
       "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "\"NBA 2K27\" مع NVIDIA DLSS 5 تتصدر 28 لعبة جديدة قادمة إلى GeForce الآن",
-      "titleOriginal": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "type": "أعمال وشراكات",
+      "title": "سباركس فلاي: NVIDIA تسرع الذكاء الاصطناعي المحلي في IFA 2026",
+      "titleOriginal": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
       "dateLabel": "3 سبتمبر 2026",
       "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "سبتمبر هنا مع 28 لعبة أخرى تبث على GeForce الآن هذا الشهر، بقيادة SLAM DUNK: NBA 2K27 مع ميزة التقديم العصبي الموجه ثلاثي الأبعاد NVIDIA DLSS 5. من خلال",
-      "summaryOriginal": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list",
+      "category": "business",
+      "importance": 82,
+      "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
+      "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-09-03T13:00:35+00:00"
+      "publishedAt": "2026-09-03T16:00:59+00:00"
     },
     {
-      "id": "f6982bbc569233cb2c6d",
-      "company": "NVIDIA",
-      "logoText": "NV",
+      "id": "2b53cd0773d861e20d0d",
+      "company": "Hugging Face",
+      "logoText": "HF",
       "type": "مستجد تقني",
-      "title": "NVIDIA لاكتساب وجه المعانقة",
-      "titleOriginal": "NVIDIA to Acquire Hugging Face",
+      "title": "NeoMME: برنامج ترميز فعال متعدد الوسائط ومتعدد اللغات",
+      "titleOriginal": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "dateLabel": "3 سبتمبر 2026",
       "dateISO": "2026-09-03",
       "category": "tools",
       "importance": 78,
-      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
-      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "sourceLabel": "NVIDIA Blog",
+      "source": "https://huggingface.co/blog/Hcompany/neomme",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face",
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-09-03T11:56:49+00:00"
+      "publishedAt": "2026-09-03T13:13:48+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T15:15:51.354627+00:00"
+  "lastFastCheckAt": "2026-09-10T15:20:59.564145+00:00"
 }
