@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T11:17:27.052752+00:00",
-  "checkedAt": "2026-09-10T11:17:27.052752+00:00",
-  "newestPublishedAt": "2026-09-10T00:00:00+00:00",
+  "updatedAt": "2026-09-10T11:21:25.413451+00:00",
+  "checkedAt": "2026-09-10T11:21:25.413451+00:00",
+  "newestPublishedAt": "2026-09-10T10:42:55.259000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,6 +93,27 @@
   ],
   "items": [
     {
+      "id": "9ee653f7662017419f46",
+      "company": "Mistral AI",
+      "logoText": "MI",
+      "type": "إطلاق أو تحديث",
+      "title": "Cloudera و Mistral Partner for Sovereign Enterprise AI",
+      "titleOriginal": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتضافر جهود كلوديرا وميسترال لجلب ذكاء الذكاء الاصطناعي السيادي المتخصص إلى بيانات المؤسسة، مما يساعد الصناعات الخاضعة للتنظيم على الابتكار وفقًا لشروطها الخاصة.",
+      "summaryOriginal": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://mistral.ai/news/mistral-x-cloudera/",
+      "sourceLabel": "Mistral News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Mistral AI Cloudera and Mistral Partner for Sovereign Enterprise AI"
+    },
+    {
       "id": "3a90475e0ea756b31377",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -111,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T00:00:00+00:00"
+      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
       "id": "b6ec312ee9364a973b57",
@@ -705,30 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW"
-    },
-    {
-      "id": "bc64f88e1b353e5659af",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA لاكتساب وجه المعانقة",
-      "titleOriginal": "NVIDIA to Acquire Hugging Face",
-      "dateLabel": "3 سبتمبر 2026",
-      "dateISO": "2026-09-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يسعدني أن أعلن أن وافقت على الاستحواذ على Huging Face مقابل 12,930,300,000 $. معًا، سنقوم بتوسيع نطاق منصة Huging Face، وتعزيز بنيتها التحتية",
-      "summaryOriginal": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA to Acquire Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-10T05:59:45.718053+00:00",
-  "lastFastCheckAt": "2026-09-10T11:17:27.052752+00:00"
+  "lastDeepCheckAt": "2026-09-10T11:21:25.413451+00:00"
 }
