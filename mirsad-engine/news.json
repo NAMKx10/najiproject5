@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T15:10:45.053788+00:00",
-  "checkedAt": "2026-09-10T15:10:45.053788+00:00",
+  "updatedAt": "2026-09-10T15:11:44.178288+00:00",
+  "checkedAt": "2026-09-10T15:11:44.178288+00:00",
   "newestPublishedAt": "2026-09-10T13:00:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "202535cd98b94fe4110d",
+      "id": "53815a0498e7c68b9c76",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -106,17 +106,12 @@
       "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVIDIA NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — JOINI",
       "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T13:00:21+00:00"
+      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
     },
     {
       "id": "9ee653f7662017419f46",
@@ -686,7 +681,7 @@
       "searchAliases": "xAI Setting Grok Bot loose on procurement"
     },
     {
-      "id": "3c9452c4b854fe789cec",
+      "id": "3a5da9f663b4c289e137",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -699,17 +694,12 @@
       "summary": "أصبحت استخبارات الحدود محلية. في IFA 2026، تتعاون NVIDIA و Microsoft وشركاؤها لتوفير استدلال أسرع وأدوات جديدة تسهل على الوكلاء",
       "summaryOriginal": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark",
+      "source": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T16:00:59+00:00"
+      "searchAliases": "NVIDIA Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026"
     },
     {
       "id": "2b53cd0773d861e20d0d",
@@ -730,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-03T13:13:48+00:00"
+      "searchAliases": "Hugging Face NeoMME: an efficient Multimodal-native and Multilingual Encoder"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-10T11:21:25.413451+00:00",
-  "lastFastCheckAt": "2026-09-10T15:10:45.053788+00:00"
+  "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00"
 }
