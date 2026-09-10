@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T17:09:49.551342+00:00",
-  "checkedAt": "2026-09-10T17:09:49.551342+00:00",
+  "updatedAt": "2026-09-10T17:14:54.315165+00:00",
+  "checkedAt": "2026-09-10T17:14:54.315165+00:00",
   "newestPublishedAt": "2026-09-10T16:30:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -362,6 +362,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
+    },
+    {
+      "id": "660bd8912721e1d4b9ba",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
+      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
+      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T00:00:00+00:00"
     },
     {
       "id": "b6ec312ee9364a973b57",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod"
-    },
-    {
-      "id": "dfa6dc0f8a44644d167d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "يقدم متجر Amazon SageMaker Feature Store UpdateRecord للكتابات على مستوى الميزات",
-      "titleOriginal": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "يدعم Amazon SageMaker Feature Store الآن الكتابة على مستوى الميزات. باستخدام واجهة برمجة تطبيقات UpdateRecord الجديدة، يمكنك تحديث قيمة ميزة واحدة أو أكثر في مكالمة واحدة دون قراءة",
-      "summaryOriginal": "Amazon SageMaker Feature Store now supports feature-level writes. With the new UpdateRecord API, you can update one or more feature values in a single call without reading or rewriting the entire record. It is available for both the Standard (Amazon DynamoDB) and In-Memory (Amazon ElastiCache) online store tiers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T17:09:49.551342+00:00"
+  "lastFastCheckAt": "2026-09-10T17:14:54.315165+00:00"
 }
