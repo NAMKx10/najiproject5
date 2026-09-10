@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T16:29:21.674404+00:00",
-  "checkedAt": "2026-09-10T16:29:21.674404+00:00",
-  "newestPublishedAt": "2026-09-10T16:08:57+00:00",
+  "updatedAt": "2026-09-10T16:34:27.040257+00:00",
+  "checkedAt": "2026-09-10T16:34:27.040257+00:00",
+  "newestPublishedAt": "2026-09-10T16:30:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "edaa4d5c7384b8215d10",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم Skild AI بالتنصت على NVIDIA Physical AI لتعليم الروبوتات مهام جديدة من فيديو واحد",
+      "titleOriginal": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
+      "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:30:35+00:00"
+    },
     {
       "id": "1404af529870cb0a7db5",
       "company": "Amazon",
@@ -569,6 +595,32 @@
       "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
     },
     {
+      "id": "3436bbf0a4d0cef375e7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف يساعد GPT-5.6 Sol في إجراء تجارب الحوسبة الكمية",
+      "titleOriginal": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "انظر كيف يستخدم باحث معهد ماساتشوستس للتكنولوجيا GPT-5.6 Sol مع الدستور الغذائي لتشغيل تجارب الحوسبة الكمومية بشكل مستقل، وتحليل النتائج، ومعايرة الكيوبتات.",
+      "summaryOriginal": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/codex-quantum-computing-experiments",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T17:00:00+00:00"
+    },
+    {
       "id": "2e5536c1e895a5c91332",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -734,51 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes"
-    },
-    {
-      "id": "83d37ea8c0fb118732b1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تحكم في النماذج باستخدام MLflow و Amazon SageMaker AI Model Registry sync: Part 2",
-      "titleOriginal": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "النماذج الحاكمة عبر الحسابات هي الخطوة التالية بعد التسجيل التلقائي للنموذج. يوسع هذا المنشور مزامنة سجل نموذج MLflow وAmazon SageMaker AI المُدار إلى اثنين",
-      "summaryOriginal": "Governing models across accounts is the next step after automatic model registration. This post extends managed MLflow and Amazon SageMaker AI Model Registry sync to two cross-account governance topologies: a hub-and-spoke pattern that centralizes governance with AWS RAM, and a hybrid pattern that keeps development accounts isolated.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2"
-    },
-    {
-      "id": "698907095c767428fd92",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تحكم في النماذج باستخدام MLflow وAmazon SageMaker AI Model Registry sync: Part 1",
-      "titleOriginal": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقوم MLflow المُدار على Amazon SageMaker AI الآن بمزامنة البيانات الوصفية للنموذج الأكثر ثراءً (مقاييس التدريب ونتائج التقييم ومواصفات الاستدلال والنسب) في SageMaker AI Model Reg",
-      "summaryOriginal": "Managed MLflow on Amazon SageMaker AI now syncs richer model metadata (training metrics, evaluation results, inference specs, and lineage) into the SageMaker AI Model Registry, with lifecycle stage promotion. Part 1 shows how to govern candidate models in a single account using IAM guardrails.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T16:29:21.674404+00:00"
+  "lastFastCheckAt": "2026-09-10T16:34:27.040257+00:00"
 }
