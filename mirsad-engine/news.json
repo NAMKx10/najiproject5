@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T21:23:16.540043+00:00",
-  "checkedAt": "2026-09-10T21:23:16.540043+00:00",
+  "updatedAt": "2026-09-10T21:28:22.051457+00:00",
+  "checkedAt": "2026-09-10T21:28:22.051457+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -707,33 +707,33 @@
       "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
     },
     {
-      "id": "2e5536c1e895a5c91332",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أمان وسياسات",
-      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
-      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "id": "3436bbf0a4d0cef375e7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف يساعد GPT-5.6 Sol في إجراء تجارب الحوسبة الكمية",
+      "titleOriginal": "How GPT-5.6 Sol helps run quantum computing experiments",
       "dateLabel": "8 سبتمبر 2026",
       "dateISO": "2026-09-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "sourceLabel": "Hugging Face Blog",
+      "category": "models",
+      "importance": 92,
+      "summary": "انظر كيف يستخدم باحث معهد ماساتشوستس للتكنولوجيا GPT-5.6 Sol مع الدستور الغذائي لتشغيل تجارب الحوسبة الكمومية بشكل مستقل، وتحليل النتائج، ومعايرة الكيوبتات.",
+      "summaryOriginal": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/codex-quantum-computing-experiments",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-09-08T14:23:07+00:00"
+      "publishedAt": "2026-09-08T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T21:13:09.729608+00:00",
-  "lastFastCheckAt": "2026-09-10T21:23:16.540043+00:00"
+  "lastFastCheckAt": "2026-09-10T21:28:22.051457+00:00"
 }
