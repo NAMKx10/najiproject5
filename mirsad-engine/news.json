@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T20:07:13.850725+00:00",
-  "checkedAt": "2026-09-10T20:07:13.850725+00:00",
+  "updatedAt": "2026-09-10T20:12:20.850373+00:00",
+  "checkedAt": "2026-09-10T20:12:20.850373+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -434,6 +434,32 @@
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
+      "id": "04ee07e2da3c9590fafa",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
+      "titleOriginal": "Introducing the Agents API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
+      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-the-agents-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing the Agents API",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T00:00:00+00:00"
+    },
+    {
       "id": "b6ec312ee9364a973b57",
       "company": "Amazon",
       "logoText": "AWS",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
-    },
-    {
-      "id": "4ab1d0b8991306b5819a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "العمل الآن في متناول اليد",
-      "titleOriginal": "The Work Now Within Reach",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "business",
-      "importance": 82,
-      "summary": "استكشف كيف يمكن للذكاء الاصطناعي الأكثر قدرة وبأسعار معقولة توسيع العمل الذي يمكن للأشخاص والشركات إنجازه - وجعل النمو أكثر اقتصادا.",
-      "summaryOriginal": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/the-work-now-within-reach",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Work Now Within Reach"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T18:29:53.286362+00:00",
-  "lastFastCheckAt": "2026-09-10T20:07:13.850725+00:00"
+  "lastFastCheckAt": "2026-09-10T20:12:20.850373+00:00"
 }
