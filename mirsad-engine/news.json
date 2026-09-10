@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T16:17:10.854451+00:00",
-  "checkedAt": "2026-09-10T16:17:10.854451+00:00",
+  "updatedAt": "2026-09-10T16:21:41.441986+00:00",
+  "checkedAt": "2026-09-10T16:21:41.441986+00:00",
   "newestPublishedAt": "2026-09-10T16:08:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -569,6 +569,32 @@
       "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
     },
     {
+      "id": "1b1b913f04a0676af22f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم صور ChatGPT 2.5",
+      "titleOriginal": "Introducing ChatGPT Images 2.5",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعد صور ChatGPT 2.5 على تحويل أفكارك ورسوماتك وصورك المرجعية إلى صور أكثر تخصيصًا ومصقولة تعكس أفكارك بشكل أفضل.",
+      "summaryOriginal": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-08T11:30:00+00:00"
+    },
+    {
       "id": "8262bdc9e55d7bbf5cf8",
       "company": "OpenAI",
       "logoText": "AI",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
-    },
-    {
-      "id": "4ab1d0b8991306b5819a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "العمل الآن في متناول اليد",
-      "titleOriginal": "The Work Now Within Reach",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "business",
-      "importance": 82,
-      "summary": "استكشف كيف يمكن للذكاء الاصطناعي الأكثر قدرة وبأسعار معقولة توسيع العمل الذي يمكن للأشخاص والشركات إنجازه - وجعل النمو أكثر اقتصادا.",
-      "summaryOriginal": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/the-work-now-within-reach",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Work Now Within Reach"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T16:17:10.854451+00:00"
+  "lastFastCheckAt": "2026-09-10T16:21:41.441986+00:00"
 }
