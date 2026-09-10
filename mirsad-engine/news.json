@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T18:31:02.853318+00:00",
-  "checkedAt": "2026-09-10T18:31:02.853318+00:00",
+  "updatedAt": "2026-09-10T18:35:59.840333+00:00",
+  "checkedAt": "2026-09-10T18:35:59.840333+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ef5801433bed81dec77e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم ChatGPT للخدمات المالية",
+      "titleOriginal": "Introducing ChatGPT for Financial Services",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقديم ChatGPT للخدمات المالية، والجمع بين البيانات المالية المدمجة و GPT -6 Astra للبحث والنمذجة والمواد الجاهزة للعملاء.",
+      "summaryOriginal": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T07:00:00+00:00"
+    },
     {
       "id": "aae8bc66557e42c2ca74",
       "company": "Cohere",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Work Now Within Reach"
-    },
-    {
-      "id": "1b1b913f04a0676af22f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم صور ChatGPT 2.5",
-      "titleOriginal": "Introducing ChatGPT Images 2.5",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعد صور ChatGPT 2.5 على تحويل أفكارك ورسوماتك وصورك المرجعية إلى صور أكثر تخصيصًا ومصقولة تعكس أفكارك بشكل أفضل.",
-      "summaryOriginal": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T18:29:53.286362+00:00",
-  "lastFastCheckAt": "2026-09-10T18:31:02.853318+00:00"
+  "lastFastCheckAt": "2026-09-10T18:35:59.840333+00:00"
 }
