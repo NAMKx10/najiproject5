@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T22:04:23.251325+00:00",
-  "checkedAt": "2026-09-10T22:04:23.251325+00:00",
+  "updatedAt": "2026-09-10T22:08:53.860491+00:00",
+  "checkedAt": "2026-09-10T22:08:53.860491+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -528,6 +528,32 @@
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
+      "id": "53a53e349a7f0c0b199b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "GPT -6 Astra: الجيل القادم في الذكاء من أجل العمل",
+      "titleOriginal": "GPT-6 Astra: The next generation in intelligence for work",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على GPT -6 Astra، النموذج الأكثر قدرة من OpenAI للأعمال، مع التفكير المتقدم، واستخدام الكمبيوتر، والكتابة والتصميم الأقوى.",
+      "summaryOriginal": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T11:00:00+00:00"
+    },
+    {
       "id": "b6ec312ee9364a973b57",
       "company": "Amazon",
       "logoText": "AWS",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The AI policy window is open. We need to act."
-    },
-    {
-      "id": "065ebc2ba3e32acf25a2",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "تحديث التعليمات البرمجية القديمة المعقدة مع وكلاء الذكاء الاصطناعي | Mistral",
-      "titleOriginal": "Modernizing complex legacy code with AI agents | Mistral",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "ساعدت Mistral مشغل طاقة أوروبي على ترحيل 40,000 خط من Fortran 77 إلى C++. تعرف على كيفية القيام بذلك، والدروس المستفادة للمضي قدمًا.",
-      "summaryOriginal": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/legacy-code-modernization/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T21:13:09.729608+00:00",
-  "lastFastCheckAt": "2026-09-10T22:04:23.251325+00:00"
+  "lastFastCheckAt": "2026-09-10T22:08:53.860491+00:00"
 }
