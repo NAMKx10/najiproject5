@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T21:08:04.320119+00:00",
-  "checkedAt": "2026-09-10T21:08:04.320119+00:00",
+  "updatedAt": "2026-09-10T21:13:09.729608+00:00",
+  "checkedAt": "2026-09-10T21:13:09.729608+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,32 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "ef5801433bed81dec77e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم ChatGPT للخدمات المالية",
-      "titleOriginal": "Introducing ChatGPT for Financial Services",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم ChatGPT للخدمات المالية، والجمع بين البيانات المالية المدمجة و GPT -6 Astra للبحث والنمذجة والمواد الجاهزة للعملاء.",
-      "summaryOriginal": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
-    },
     {
       "id": "aae8bc66557e42c2ca74",
       "company": "Cohere",
@@ -371,6 +345,27 @@
       "searchAliases": "Mistral AI Cloudera and Mistral Partner for Sovereign Enterprise AI"
     },
     {
+      "id": "ef5801433bed81dec77e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم ChatGPT للخدمات المالية",
+      "titleOriginal": "Introducing ChatGPT for Financial Services",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقديم ChatGPT للخدمات المالية، والجمع بين البيانات المالية المدمجة و GPT -6 Astra للبحث والنمذجة والمواد الجاهزة للعملاء.",
+      "summaryOriginal": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services"
+    },
+    {
       "id": "4d2491c266d3e2f86967",
       "company": "OpenAI",
       "logoText": "AI",
@@ -413,6 +408,27 @@
       "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
     },
     {
+      "id": "04ee07e2da3c9590fafa",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
+      "titleOriginal": "Introducing the Agents API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
+      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-the-agents-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing the Agents API"
+    },
+    {
       "id": "3a90475e0ea756b31377",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -432,32 +448,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
-    },
-    {
-      "id": "04ee07e2da3c9590fafa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
-      "titleOriginal": "Introducing the Agents API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
-      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-the-agents-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Agents API",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T00:00:00+00:00"
     },
     {
       "id": "b6ec312ee9364a973b57",
@@ -734,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-10T18:29:53.286362+00:00",
-  "lastFastCheckAt": "2026-09-10T21:08:04.320119+00:00"
+  "lastDeepCheckAt": "2026-09-10T21:13:09.729608+00:00"
 }
