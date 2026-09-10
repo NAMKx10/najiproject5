@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T18:25:54.979036+00:00",
-  "checkedAt": "2026-09-10T18:25:54.979036+00:00",
-  "newestPublishedAt": "2026-09-10T18:16:37+00:00",
+  "updatedAt": "2026-09-10T18:29:53.286362+00:00",
+  "checkedAt": "2026-09-10T18:29:53.286362+00:00",
+  "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,28 @@
   ],
   "items": [
     {
-      "id": "d9f0981b146d8407d05e",
+      "id": "aae8bc66557e42c2ca74",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم North Small Translate: نموذج رائد للترجمة الآلية ذات الوزن المفتوح",
+      "titleOriginal": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أداء كبير وبصمة بحجم مناسب — ترجمة مصممة للسرعة وكفاءة التكلفة.",
+      "summaryOriginal": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://cohere.com/blog/north-small-translate",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Introducing North Small Translate: A leading sovereign open-weight machine translation model"
+    },
+    {
+      "id": "8847b08c845a72956085",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +127,15 @@
       "summary": "تحصل فرقك على مساعد ذكاء اصطناعي يتعامل مع العمل الحقيقي بينما تظل بياناتك في بيئتك وتبقى محادثاتك خاصة اليوم، تطبيق أمازون كويك لسطح المكتب",
       "summaryOriginal": "Your teams get an AI assistant that handles real work while your data stays in your environment and your conversations stay private Today, the Amazon Quick desktop application is generally available on macOS and Windows. We’re also adding a new activity feed to the mobile experience on iOS and Android that consolidates email, calendar, CRM, […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-is-now-generally-available-on-desktop/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Quick is now generally available on desktop",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T18:16:37+00:00"
+      "searchAliases": "Amazon Amazon Quick is now generally available on desktop"
     },
     {
-      "id": "edaa4d5c7384b8215d10",
+      "id": "f20bcd6e93ec1d646d5b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -132,20 +148,15 @@
       "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
       "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:30:35+00:00"
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
     },
     {
-      "id": "1404af529870cb0a7db5",
+      "id": "2d992172a0be0363dc35",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,20 +169,15 @@
       "summary": "تعرف على كيفية إنشاء سير عمل استبيان طلب المعلومات من البداية إلى النهاية باستخدام Amazon Quick Automate. اقرأ كتاب مصنف RFI متعدد علامات التبويب من Amazon S3، واستخدم مطالبات باللغة الطبيعية لإخراج",
       "summaryOriginal": "Learn how to build an end-to-end RFI questionnaire workflow with Amazon Quick Automate. Read a multi-tab RFI workbook from Amazon S3, use natural-language prompts to extract and structure the questionnaire data, refine the workflow through conversation, and write clean CSV output back to Amazon S3 — cutting development from days to hours.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:08:57+00:00"
+      "searchAliases": "Amazon Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate"
     },
     {
-      "id": "13f6aef7e99d910fae74",
+      "id": "7d9b81c99958d7670968",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,20 +190,15 @@
       "summary": "كاشف لامع للنموذج قابل للتكوين يحول أي نموذج لغة كبير على Amazon Bedrock إلى كاشف PII. لأن الكيانات التي يجب اكتشافها تعيش في مطالبة بدلاً من ذلك",
       "summaryOriginal": "A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity types without retraining, and it outperforms an off-the-shelf tool across five public corpora and nine LLM-based detectors.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms",
+      "source": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Model-agnostic PII detection with LLMs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:02:16+00:00"
+      "searchAliases": "Amazon Model-agnostic PII detection with LLMs"
     },
     {
-      "id": "efed02d6b2f8ed9c1fdd",
+      "id": "3475f8295971b5258e52",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -210,17 +211,12 @@
       "summary": "من المتوقع أن يصل سوق التاكسي الآلي العالمي — أول اختراق تجاري للذكاء الاصطناعي المادي — إلى 400 مليار دولار بحلول عام 2035، مع تشغيل أكثر من 6 ملايين مركبة تجارية",
       "summaryOriginal": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:04+00:00"
+      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
     },
     {
       "id": "59512e659fb532996c41",
@@ -241,15 +237,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:00+00:00"
+      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
     },
     {
-      "id": "b524e56bc279689c0eb4",
+      "id": "e54bbf2621a9a5bcb054",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -262,20 +253,15 @@
       "summary": "يفشل الوكلاء متعددو الدوران بطرق يفوتهم تقييم الدور الواحد: خطأ مبكر واحد يفسد كل منعطف لاحق. يقدم هذا المنشور مقياس تقييم الوكيل (AEM)، وهو مقياس",
       "summaryOriginal": "Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality, applied to its first dimension, correctness, to pinpoint the turn that caused a failure and separate it from the turns that inherited it.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations",
+      "source": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Agent Evaluation Metric for multi-turn conversations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T15:55:41+00:00"
+      "searchAliases": "Amazon Agent Evaluation Metric for multi-turn conversations"
     },
     {
-      "id": "83df19baa3f8d4a274f1",
+      "id": "40ee49bc94d2b2b86fdd",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -288,17 +274,12 @@
       "summary": "قامت AvioBook، وهي شركة تابعة لمجموعة تاليس، بوضع نموذج أولي لـ Connected Analytics على Amazon Bedrock AgentCore لتحويل البيانات التشغيلية لـ AvioBook Connect إلى لغة بسيطة وقائمة على الأدلة",
       "summaryOriginal": "AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers, helping them find and act on the causes of flight turnaround delays.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T15:53:05+00:00"
+      "searchAliases": "Amazon How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore"
     },
     {
       "id": "0a04b5e82d74b1ef9cc6",
@@ -319,38 +300,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Now everyone can put data to work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T15:00:00+00:00"
-    },
-    {
-      "id": "4d2491c266d3e2f86967",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
-      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
-      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/expanding-ai-access-us-government",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
+      "searchAliases": "OpenAI Now everyone can put data to work"
     },
     {
       "id": "53815a0498e7c68b9c76",
@@ -395,25 +345,25 @@
       "searchAliases": "Mistral AI Cloudera and Mistral Partner for Sovereign Enterprise AI"
     },
     {
-      "id": "3a90475e0ea756b31377",
-      "company": "Hugging Face",
-      "logoText": "HF",
+      "id": "4d2491c266d3e2f86967",
+      "company": "OpenAI",
+      "logoText": "AI",
       "type": "مستجد تقني",
-      "title": "إعادة بناء AUTOMATIC1111 مع سير عمل Gradio",
-      "titleOriginal": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
+      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
       "dateLabel": "10 سبتمبر 2026",
       "dateISO": "2026-09-10",
       "category": "tools",
       "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
+      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
+      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/gradio-workflow-1111",
-      "sourceLabel": "Hugging Face Blog",
+      "source": "https://openai.com/index/expanding-ai-access-us-government",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
+      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
     },
     {
       "id": "660bd8912721e1d4b9ba",
@@ -434,12 +384,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T00:00:00+00:00"
+      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
+    },
+    {
+      "id": "3a90475e0ea756b31377",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "إعادة بناء AUTOMATIC1111 مع سير عمل Gradio",
+      "titleOriginal": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/gradio-workflow-1111",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
       "id": "b6ec312ee9364a973b57",
@@ -691,12 +657,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T17:00:00+00:00"
+      "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments"
     },
     {
       "id": "2e5536c1e895a5c91332",
@@ -717,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T14:23:07+00:00"
+      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
     },
     {
       "id": "4ab1d0b8991306b5819a",
@@ -743,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI The Work Now Within Reach",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T13:00:00+00:00"
+      "searchAliases": "OpenAI The Work Now Within Reach"
     },
     {
       "id": "1b1b913f04a0676af22f",
@@ -769,41 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T11:30:00+00:00"
-    },
-    {
-      "id": "8262bdc9e55d7bbf5cf8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "حول مشكلة جائزة نافييه- ستوكس الألفية",
-      "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "نحن نشارك حلاً تم إنشاؤه بواسطة الذكاء الاصطناعي لمشكلة جائزة الألفية Navier - Stokes، بما في ذلك الكتابة وإثبات رسمي في Lean.",
-      "summaryOriginal": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/navier-stokes-solution",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI On the Navier–Stokes Millennium Prize Problem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T10:00:00+00:00"
+      "searchAliases": "OpenAI Introducing ChatGPT Images 2.5"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T18:25:54.979036+00:00"
+  "lastDeepCheckAt": "2026-09-10T18:29:53.286362+00:00"
 }
