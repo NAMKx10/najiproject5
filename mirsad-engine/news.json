@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T21:58:46.327493+00:00",
-  "checkedAt": "2026-09-10T21:58:46.327493+00:00",
+  "updatedAt": "2026-09-10T22:04:23.251325+00:00",
+  "checkedAt": "2026-09-10T22:04:23.251325+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "31bb5fe9f70c4dea36df",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقليل زمن استجابة LLM مع توجيه مدرك للبادئة على استدلال Amazon SageMaker",
+      "titleOriginal": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم Amazon SageMaker Inference الآن توجيهًا مدركًا للبادئة، وهي استراتيجية توجيه ترسل الطلبات التي تشارك نفس البادئة الفورية إلى نفس المثيل بحيث تكون ذاكرة التخزين المؤقت KV sta",
+      "summaryOriginal": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it reduced P50 time-to-first-token by up to 77% and raised KV cache hit rates from about 25% to over 80%.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T21:58:09+00:00"
+    },
     {
       "id": "6cedf781e9d3708b4b4c",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
-    },
-    {
-      "id": "53a53e349a7f0c0b199b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT -6 Astra: الجيل القادم في الذكاء من أجل العمل",
-      "titleOriginal": "GPT-6 Astra: The next generation in intelligence for work",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على GPT -6 Astra، النموذج الأكثر قدرة من OpenAI للأعمال، مع التفكير المتقدم، واستخدام الكمبيوتر، والكتابة والتصميم الأقوى.",
-      "summaryOriginal": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T21:13:09.729608+00:00",
-  "lastFastCheckAt": "2026-09-10T21:58:46.327493+00:00"
+  "lastFastCheckAt": "2026-09-10T22:04:23.251325+00:00"
 }
