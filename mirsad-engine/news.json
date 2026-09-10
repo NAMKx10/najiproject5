@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-10T15:51:14.459128+00:00",
-  "checkedAt": "2026-09-10T15:51:14.459128+00:00",
-  "newestPublishedAt": "2026-09-10T15:00:00+00:00",
+  "updatedAt": "2026-09-10T15:56:14.983578+00:00",
+  "checkedAt": "2026-09-10T15:56:14.983578+00:00",
+  "newestPublishedAt": "2026-09-10T15:53:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "83df19baa3f8d4a274f1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف يبني AvioBook رؤى التحول من البيانات التشغيلية مع Amazon Bedrock AgentCore",
+      "titleOriginal": "How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قامت AvioBook، وهي شركة تابعة لمجموعة تاليس، بوضع نموذج أولي لـ Connected Analytics على Amazon Bedrock AgentCore لتحويل البيانات التشغيلية لـ AvioBook Connect إلى لغة بسيطة وقائمة على الأدلة",
+      "summaryOriginal": "AvioBook, a Thales Group Company, prototyped Connected Analytics on Amazon Bedrock AgentCore to turn AvioBook Connect's operational data into plain-language, evidence-based answers for airline managers and dispatchers, helping them find and act on the causes of flight turnaround delays.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How AvioBook builds turnaround insights from operational data with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T15:53:05+00:00"
+    },
     {
       "id": "0a04b5e82d74b1ef9cc6",
       "company": "OpenAI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI 1Password increases engineering productivity 21% with Codex"
-    },
-    {
-      "id": "8d5778e82ecc687e11b5",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "وضع Grok Bot فضفاض عند الشراء",
-      "titleOriginal": "Setting Grok Bot loose on procurement",
-      "dateLabel": "4 سبتمبر 2026",
-      "dateISO": "2026-09-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "لقد منحنا Grok Bot حق الوصول إلى إنفاق البائعين والعقود وبيانات الاستخدام. وجد أكثر من 100000 $ في المدخرات المباشرة.",
-      "summaryOriginal": "We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-bot-procurement",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Setting Grok Bot loose on procurement"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-10T15:11:44.178288+00:00",
-  "lastFastCheckAt": "2026-09-10T15:51:14.459128+00:00"
+  "lastFastCheckAt": "2026-09-10T15:56:14.983578+00:00"
 }
