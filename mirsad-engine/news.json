@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-11T16:58:04.093162+00:00",
-  "checkedAt": "2026-09-11T16:58:04.093162+00:00",
-  "newestPublishedAt": "2026-09-10T23:10:00+00:00",
+  "updatedAt": "2026-09-11T17:03:05.995185+00:00",
+  "checkedAt": "2026-09-11T17:03:05.995185+00:00",
+  "newestPublishedAt": "2026-09-11T10:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d2cbcf1f3b3e3884d666",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع نطاق التخزين عبر الإنترنت بسرعة لخدمة أكثر من مليار مستخدم ChatGPT",
+      "titleOriginal": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "dateLabel": "11 سبتمبر 2026",
+      "dateISO": "2026-09-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية تطوير OpenAI Habitat من مكتبة Python إلى منصة تخزين موزعة عالميًا تخدم مليار مستخدم ChatGPT و 22 مليون طلب في الثانية.",
+      "summaryOriginal": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-11T10:00:00+00:00"
+    },
     {
       "id": "aae8bc66557e42c2ca74",
       "company": "Cohere",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How GPT-5.6 Sol helps run quantum computing experiments"
-    },
-    {
-      "id": "2e5536c1e895a5c91332",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أمان وسياسات",
-      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
-      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-11T15:13:30.444924+00:00",
-  "lastFastCheckAt": "2026-09-11T16:58:04.093162+00:00"
+  "lastFastCheckAt": "2026-09-11T17:03:05.995185+00:00"
 }
