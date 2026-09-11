@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-11T18:19:01.481633+00:00",
-  "checkedAt": "2026-09-11T18:19:01.481633+00:00",
-  "newestPublishedAt": "2026-09-11T10:00:00+00:00",
+  "updatedAt": "2026-09-11T18:24:51.721512+00:00",
+  "checkedAt": "2026-09-11T18:24:51.721512+00:00",
+  "newestPublishedAt": "2026-09-11T18:24:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "6ec801214826e95752c7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ما وراء السعر لكل رمز: اختيار نموذج OpenAI المناسب على Amazon Bedrock لعبء العمل الخاص بك",
+      "titleOriginal": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "dateLabel": "11 سبتمبر 2026",
+      "dateISO": "2026-09-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "إن مقارنة النماذج بالدولار لكل مليون رمز يفوت ما تدفعه أعباء عمل الإنتاج بالفعل: النتائج. يشارك هذا المنشور أداة قياس مرجعية مفتوحة المصدر تقيس",
+      "summaryOriginal": "Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarking harness that measures cost per correct answer, agent trajectory cost, and rubric-graded deliverable quality across OpenAI models on Amazon Bedrock.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-11T18:24:38+00:00"
+    },
+    {
+      "id": "2b2b6c35de6c035bfd26",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء تطبيقات MCP تفاعلية باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "dateLabel": "11 سبتمبر 2026",
+      "dateISO": "2026-09-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية إنشاء ونشر تطبيق MCP مع أدوات HTML التفاعلية على Amazon Bedrock AgentCore. نظرًا لأن تطبيقات MCP هي معيار لا يعتمد على المضيف، فإن نفس الخادم يقدم",
+      "summaryOriginal": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like ChatGPT and Claude that support the extension.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-11T18:23:17+00:00"
+    },
     {
       "id": "d2cbcf1f3b3e3884d666",
       "company": "OpenAI",
@@ -684,56 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
-    },
-    {
-      "id": "53a53e349a7f0c0b199b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT -6 Astra: الجيل القادم في الذكاء من أجل العمل",
-      "titleOriginal": "GPT-6 Astra: The next generation in intelligence for work",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على GPT -6 Astra، النموذج الأكثر قدرة من OpenAI للأعمال، مع التفكير المتقدم، واستخدام الكمبيوتر، والكتابة والتصميم الأقوى.",
-      "summaryOriginal": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
-    },
-    {
-      "id": "2e5536c1e895a5c91332",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أمان وسياسات",
-      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
-      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-08T14:23:07+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-11T15:13:30.444924+00:00",
-  "lastFastCheckAt": "2026-09-11T18:19:01.481633+00:00"
+  "lastFastCheckAt": "2026-09-11T18:24:51.721512+00:00"
 }
