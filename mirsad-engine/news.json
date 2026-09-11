@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-11T18:29:18.072901+00:00",
-  "checkedAt": "2026-09-11T18:29:18.072901+00:00",
+  "updatedAt": "2026-09-11T18:34:21.455543+00:00",
+  "checkedAt": "2026-09-11T18:34:21.455543+00:00",
   "newestPublishedAt": "2026-09-11T18:26:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -617,6 +617,32 @@
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
+      "id": "88b17f98436461efb1f3",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "نافذة سياسة الذكاء الاصطناعي مفتوحة. علينا أن نتصرف.",
+      "titleOriginal": "The AI policy window is open. We need to act.",
+      "dateLabel": "9 سبتمبر 2026",
+      "dateISO": "2026-09-09",
+      "category": "policy",
+      "importance": 88,
+      "summary": "يجادل كريس ليهان بأن قدرات الذكاء الاصطناعي الأقوى تتطلب أدلة أمان أقوى ومعايير مشتركة وإجراءات سياسة دائمة بينما تظل نافذة السياسة مفتوحة.",
+      "summaryOriginal": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/ai-policy-window",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The AI policy window is open. We need to act.",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-09T13:00:00+00:00"
+    },
+    {
       "id": "53a53e349a7f0c0b199b",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC"
-    },
-    {
-      "id": "5a81ea7a670174e59aea",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تطلق IBM طراز SOTA Granite Time Series PatchTST - FM - r2 بترخيص تجاري مناسب",
-      "titleOriginal": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-11T15:13:30.444924+00:00",
-  "lastFastCheckAt": "2026-09-11T18:29:18.072901+00:00"
+  "lastFastCheckAt": "2026-09-11T18:34:21.455543+00:00"
 }
