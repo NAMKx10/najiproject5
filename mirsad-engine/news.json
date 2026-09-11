@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-11T23:30:09.122102+00:00",
-  "checkedAt": "2026-09-11T23:30:09.122102+00:00",
+  "updatedAt": "2026-09-11T23:32:13.791445+00:00",
+  "checkedAt": "2026-09-11T23:32:13.791445+00:00",
   "newestPublishedAt": "2026-09-11T18:26:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -513,27 +513,6 @@
       "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
     },
     {
-      "id": "660bd8912721e1d4b9ba",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
-      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
-      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
-    },
-    {
       "id": "04ee07e2da3c9590fafa",
       "company": "OpenAI",
       "logoText": "AI",
@@ -553,6 +532,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Agents API"
+    },
+    {
+      "id": "660bd8912721e1d4b9ba",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
+      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
+      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
     },
     {
       "id": "3a90475e0ea756b31377",
@@ -724,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-11T21:20:22.267515+00:00",
-  "lastFastCheckAt": "2026-09-11T23:30:09.122102+00:00"
+  "lastDeepCheckAt": "2026-09-11T23:32:13.791445+00:00"
 }
