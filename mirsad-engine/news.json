@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-11T01:04:19.238540+00:00",
-  "checkedAt": "2026-09-11T01:04:19.238540+00:00",
+  "updatedAt": "2026-09-11T01:07:17.673003+00:00",
+  "checkedAt": "2026-09-11T01:07:17.673003+00:00",
   "newestPublishedAt": "2026-09-10T23:10:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -376,8 +376,8 @@
       "dateISO": "2026-09-10",
       "category": "business",
       "importance": 82,
-      "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVIDIA NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — JOINI",
-      "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVIDIA NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion […]",
+      "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — للانضمام إلى GR",
+      "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of partners building on the NVIDIA AI platform. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "sourceLabel": "NVIDIA Blog",
@@ -724,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-10T23:12:09.792359+00:00",
-  "lastFastCheckAt": "2026-09-11T01:04:19.238540+00:00"
+  "lastDeepCheckAt": "2026-09-11T01:07:17.673003+00:00"
 }
