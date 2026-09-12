@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-12T00:05:40.190804+00:00",
-  "checkedAt": "2026-09-12T00:05:40.190804+00:00",
+  "updatedAt": "2026-09-12T00:10:42.045688+00:00",
+  "checkedAt": "2026-09-12T00:10:42.045688+00:00",
   "newestPublishedAt": "2026-09-11T18:26:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "01c958b6dd34912ee86c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يساعد الإدراك ديفين على اختبار عملها الخاص مع GPT‑6 Astra",
+      "titleOriginal": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "dateLabel": "11 سبتمبر 2026",
+      "dateISO": "2026-09-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل GPT‑6 Astra على تحسين قدرة Devin على اختبار البرامج وإظهار أنها تعمل، بهدف مساعدة المهندسين على مراجعة تعليمات برمجية أقل وشحن المزيد.",
+      "summaryOriginal": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Cognition helps Devin test its own work with GPT‑6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-11T16:00:00+00:00"
+    },
     {
       "id": "8f069f329a16f31d257a",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI GPT-6 Astra: The next generation in intelligence for work"
-    },
-    {
-      "id": "2e5536c1e895a5c91332",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أمان وسياسات",
-      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
-      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-11T23:32:13.791445+00:00",
-  "lastFastCheckAt": "2026-09-12T00:05:40.190804+00:00"
+  "lastFastCheckAt": "2026-09-12T00:10:42.045688+00:00"
 }
