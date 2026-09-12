@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-12T01:31:10.287067+00:00",
-  "checkedAt": "2026-09-12T01:31:10.287067+00:00",
+  "updatedAt": "2026-09-12T01:34:45.791752+00:00",
+  "checkedAt": "2026-09-12T01:34:45.791752+00:00",
   "newestPublishedAt": "2026-09-14T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,38 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T00:00:00+00:00"
-    },
-    {
-      "id": "01c958b6dd34912ee86c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يساعد الإدراك ديفين على اختبار عملها الخاص مع GPT‑6 Astra",
-      "titleOriginal": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "dateLabel": "11 سبتمبر 2026",
-      "dateISO": "2026-09-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل GPT‑6 Astra على تحسين قدرة Devin على اختبار البرامج وإظهار أنها تعمل، بهدف مساعدة المهندسين على مراجعة تعليمات برمجية أقل وشحن المزيد.",
-      "summaryOriginal": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Cognition helps Devin test its own work with GPT‑6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-11T16:00:00+00:00"
+      "searchAliases": "OpenAI Perplexity trusts GPT-6 Astra with end-to-end systems"
     },
     {
       "id": "8f069f329a16f31d257a",
@@ -206,6 +175,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Build interactive MCP Apps using Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "01c958b6dd34912ee86c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يساعد الإدراك ديفين على اختبار عملها الخاص مع GPT‑6 Astra",
+      "titleOriginal": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "dateLabel": "11 سبتمبر 2026",
+      "dateISO": "2026-09-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل GPT‑6 Astra على تحسين قدرة Devin على اختبار البرامج وإظهار أنها تعمل، بهدف مساعدة المهندسين على مراجعة تعليمات برمجية أقل وشحن المزيد.",
+      "summaryOriginal": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Cognition helps Devin test its own work with GPT‑6 Astra"
     },
     {
       "id": "d2cbcf1f3b3e3884d666",
@@ -565,27 +555,6 @@
       "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
     },
     {
-      "id": "04ee07e2da3c9590fafa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
-      "titleOriginal": "Introducing the Agents API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
-      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-the-agents-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Agents API"
-    },
-    {
       "id": "660bd8912721e1d4b9ba",
       "company": "OpenAI",
       "logoText": "AI",
@@ -607,6 +576,27 @@
       "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
     },
     {
+      "id": "04ee07e2da3c9590fafa",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
+      "titleOriginal": "Introducing the Agents API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
+      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-the-agents-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing the Agents API"
+    },
+    {
       "id": "3a90475e0ea756b31377",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -626,27 +616,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
-    },
-    {
-      "id": "73c6bde2470ffa5e37a8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "بول كريستيانو ينضم إلى مجلس مؤسسة OpenAI",
-      "titleOriginal": "Paul Christiano joins OpenAI Foundation Board",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "policy",
-      "importance": 88,
-      "summary": "ينضم بول كريستيانو إلى مجلس مؤسسة OpenAI ولجنة السلامة والأمن التابعة لها، مما يجلب خبرة في مواءمة الذكاء الاصطناعي والسلامة والمعايير.",
-      "summaryOriginal": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Paul Christiano joins OpenAI Foundation Board"
     },
     {
       "id": "497f0946f3c4dce10baf",
@@ -731,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
+    },
+    {
+      "id": "2e5536c1e895a5c91332",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أمان وسياسات",
+      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
+      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "dateLabel": "8 سبتمبر 2026",
+      "dateISO": "2026-09-08",
+      "category": "policy",
+      "importance": 88,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-11T23:32:13.791445+00:00",
-  "lastFastCheckAt": "2026-09-12T01:31:10.287067+00:00"
+  "lastDeepCheckAt": "2026-09-12T01:34:45.791752+00:00"
 }
