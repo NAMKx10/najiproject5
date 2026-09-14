@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T08:28:11.006725+00:00",
-  "checkedAt": "2026-09-14T08:28:11.006725+00:00",
+  "updatedAt": "2026-09-14T08:33:12.207402+00:00",
+  "checkedAt": "2026-09-14T08:33:12.207402+00:00",
   "newestPublishedAt": "2026-09-14T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -618,6 +618,32 @@
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
+      "id": "416b44bededb10397094",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "عدم مزامنة GRPO مع LoRA عبر وظائف HF: دلو، وكيل، وليس NCCL",
+      "titleOriginal": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T00:00:00+00:00"
+    },
+    {
       "id": "497f0946f3c4dce10baf",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
-    },
-    {
-      "id": "2e5536c1e895a5c91332",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أمان وسياسات",
-      "title": "السلامة لمن ؟ رفض المجموعة الفرعية الصحيحة من الموضوع، وليس الموضوع بأكمله",
-      "titleOriginal": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "dateLabel": "8 سبتمبر 2026",
-      "dateISO": "2026-09-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T07:07:56.919837+00:00",
-  "lastFastCheckAt": "2026-09-14T08:28:11.006725+00:00"
+  "lastFastCheckAt": "2026-09-14T08:33:12.207402+00:00"
 }
