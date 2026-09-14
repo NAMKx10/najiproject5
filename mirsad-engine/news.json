@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T15:58:42.564270+00:00",
-  "checkedAt": "2026-09-14T15:58:42.564270+00:00",
-  "newestPublishedAt": "2026-09-14T15:47:12+00:00",
+  "updatedAt": "2026-09-14T16:03:45.847028+00:00",
+  "checkedAt": "2026-09-14T16:03:45.847028+00:00",
+  "newestPublishedAt": "2026-09-14T15:58:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f624c159c19ef0f343d2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف بنت الموجة التاسعة التمويل المفتوح المدعوم بالذكاء الاصطناعي على Amazon Bedrock",
+      "titleOriginal": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية قيام Ninth Wave ببناء Compass، وهو مساعد متعدد الوكلاء للذكاء الاصطناعي على منصة Amazon Bedrock AgentCore التي تتحقق من صحة واجهات برمجة التطبيقات المصرفية مقابل منصة Financial Data Exchange (FDX)",
+      "summaryOriginal": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T15:58:57+00:00"
+    },
     {
       "id": "72f6c4f0a84d273c3aa4",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
-    },
-    {
-      "id": "3a90475e0ea756b31377",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "إعادة بناء AUTOMATIC1111 مع سير عمل Gradio",
-      "titleOriginal": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/gradio-workflow-1111",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00",
-  "lastFastCheckAt": "2026-09-14T15:58:42.564270+00:00"
+  "lastFastCheckAt": "2026-09-14T16:03:45.847028+00:00"
 }
