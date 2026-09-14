@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T21:17:52.687470+00:00",
-  "checkedAt": "2026-09-14T21:17:52.687470+00:00",
-  "newestPublishedAt": "2026-09-14T20:35:45+00:00",
+  "updatedAt": "2026-09-14T21:22:53.705106+00:00",
+  "checkedAt": "2026-09-14T21:22:53.705106+00:00",
+  "newestPublishedAt": "2026-09-14T21:22:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f70722e6cc356ec025c5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "ذكاء اصطناعي غير طبيعي: Amazon Bedrock AgentCore لأمن البريد الإلكتروني للوكيل على نطاق واسع",
+      "titleOriginal": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرف على كيفية نشر الذكاء الاصطناعي غير الطبيعي لمترجم Amazon Bedrock AgentCore Code كمنصة حوسبة سريعة الزوال للوكلاء الذين يقفون وراء اكتشاف تهديدات البريد الإلكتروني في الوقت الفعلي في",
+      "summaryOriginal": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T21:22:45+00:00"
+    },
     {
       "id": "2dbb968caf66eb8e7bde",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Agents API"
-    },
-    {
-      "id": "660bd8912721e1d4b9ba",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
-      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
-      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T19:22:41.787084+00:00",
-  "lastFastCheckAt": "2026-09-14T21:17:52.687470+00:00"
+  "lastFastCheckAt": "2026-09-14T21:22:53.705106+00:00"
 }
