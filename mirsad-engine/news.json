@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T13:57:28.662126+00:00",
-  "checkedAt": "2026-09-14T13:57:28.662126+00:00",
+  "updatedAt": "2026-09-14T14:04:49.525125+00:00",
+  "checkedAt": "2026-09-14T14:04:49.525125+00:00",
   "newestPublishedAt": "2026-09-14T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -112,6 +112,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Perplexity trusts GPT-6 Astra with end-to-end systems"
+    },
+    {
+      "id": "861afe1459556f41d434",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "أمان وسياسات",
+      "title": "من يمكنه تحديد قواعد الذكاء الاصطناعي ؟ | التماسك",
+      "titleOriginal": "Who Gets to Define the Rules for AI? | Cohere",
+      "dateLabel": "13 سبتمبر 2026",
+      "dateISO": "2026-09-13",
+      "category": "policy",
+      "importance": 88,
+      "summary": "اكتشف لماذا يجب أن يعتمد تنظيم الذكاء الاصطناعي على المعايير القائمة على الأدلة والاختبارات المستقلة والأصوات المتنوعة بدلاً من القواعد التي تضعها بعض مختبرات الذكاء الاصطناعي المهيمنة.",
+      "summaryOriginal": "Explore why AI regulation should rely on evidence-based standards, independent testing, and diverse voices rather than rules set by a few dominant AI labs.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Who Gets to Define the Rules for AI? | Cohere"
     },
     {
       "id": "8f069f329a16f31d257a",
@@ -555,27 +576,6 @@
       "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
     },
     {
-      "id": "660bd8912721e1d4b9ba",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
-      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
-      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
-    },
-    {
       "id": "04ee07e2da3c9590fafa",
       "company": "OpenAI",
       "logoText": "AI",
@@ -597,25 +597,25 @@
       "searchAliases": "OpenAI Introducing the Agents API"
     },
     {
-      "id": "3a90475e0ea756b31377",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "إعادة بناء AUTOMATIC1111 مع سير عمل Gradio",
-      "titleOriginal": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "id": "660bd8912721e1d4b9ba",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
+      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
       "dateLabel": "10 سبتمبر 2026",
       "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/gradio-workflow-1111",
-      "sourceLabel": "Hugging Face Blog",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
+      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
+      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
     },
     {
       "id": "416b44bededb10397094",
@@ -636,12 +636,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T00:00:00+00:00"
+      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
+    },
+    {
+      "id": "3a90475e0ea756b31377",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "إعادة بناء AUTOMATIC1111 مع سير عمل Gradio",
+      "titleOriginal": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/gradio-workflow-1111",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
     },
     {
       "id": "497f0946f3c4dce10baf",
@@ -705,30 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The AI policy window is open. We need to act."
-    },
-    {
-      "id": "065ebc2ba3e32acf25a2",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "تحديث التعليمات البرمجية القديمة المعقدة مع وكلاء الذكاء الاصطناعي | Mistral",
-      "titleOriginal": "Modernizing complex legacy code with AI agents | Mistral",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "ساعدت Mistral مشغل طاقة أوروبي على ترحيل 40,000 خط من Fortran 77 إلى C++. تعرف على كيفية القيام بذلك، والدروس المستفادة للمضي قدمًا.",
-      "summaryOriginal": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++. Learn how it was done, and the lessons to carry forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/legacy-code-modernization/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Modernizing complex legacy code with AI agents | Mistral"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-14T07:07:56.919837+00:00",
-  "lastFastCheckAt": "2026-09-14T13:57:28.662126+00:00"
+  "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00"
 }
