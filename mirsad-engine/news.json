@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T16:39:10.116870+00:00",
-  "checkedAt": "2026-09-14T16:39:10.116870+00:00",
+  "updatedAt": "2026-09-14T16:44:12.651230+00:00",
+  "checkedAt": "2026-09-14T16:44:12.651230+00:00",
   "newestPublishedAt": "2026-09-14T15:58:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -195,6 +195,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-14T15:00:52+00:00"
+    },
+    {
+      "id": "d73b063768fa673534ca",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف بنت Fyxer مساعدًا تنفيذيًا للذكاء الاصطناعي يثق به الناس",
+      "titleOriginal": "How Fyxer built an AI executive assistant people trust",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Fyxer نماذج OpenAI، والضبط الدقيق، والذاكرة، وملاحظات المستخدم الحقيقية لتنظيم البريد الوارد ومسودة رسائل البريد الإلكتروني في صوت كل مستخدم.",
+      "summaryOriginal": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/fyxer",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Fyxer built an AI executive assistant people trust",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T12:00:00+00:00"
     },
     {
       "id": "851e5a80aa13eeda37a0",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
-    },
-    {
-      "id": "416b44bededb10397094",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "عدم مزامنة GRPO مع LoRA عبر وظائف HF: دلو، وكيل، وليس NCCL",
-      "titleOriginal": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00",
-  "lastFastCheckAt": "2026-09-14T16:39:10.116870+00:00"
+  "lastFastCheckAt": "2026-09-14T16:44:12.651230+00:00"
 }
