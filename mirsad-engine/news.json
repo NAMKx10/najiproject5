@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T15:43:22.879812+00:00",
-  "checkedAt": "2026-09-14T15:43:22.879812+00:00",
-  "newestPublishedAt": "2026-09-14T15:00:52+00:00",
+  "updatedAt": "2026-09-14T15:48:25.327901+00:00",
+  "checkedAt": "2026-09-14T15:48:25.327901+00:00",
+  "newestPublishedAt": "2026-09-14T15:47:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "72f6c4f0a84d273c3aa4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "طيف تخصيص الذكاء الاصطناعي التوليدي: من الهندسة الفورية إلى النماذج المخصصة على AWS",
+      "titleOriginal": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "اختر نهج تخصيص الذكاء الاصطناعي التوليدي المناسب على AWS مع إطار عمل للقرار من 8 خطوات، من الهندسة الفورية و RAG إلى الضبط الدقيق، واستمرار التدريب المسبق، و",
+      "summaryOriginal": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T15:47:12+00:00"
+    },
+    {
+      "id": "63e2b4d588dbe076e27f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "أتمتة التجديد باستخدام MMF وDatabricks Genie وAmazon Quick",
+      "titleOriginal": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "جعلت النماذج التأسيسية التنبؤ بالطلب على مستوى الكتالوج سهلاً ؛ الجزء الصعب يعمل الآن على التنبؤ. يبني هذا المنشور حلقة مغلقة للكشف واتخاذ القرار على Databricks a",
+      "summaryOriginal": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T15:42:06+00:00"
+    },
     {
       "id": "27e712e4a140038c138f",
       "company": "NVIDIA",
@@ -684,61 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Rebuilding AUTOMATIC1111 with Gradio Workflow"
-    },
-    {
-      "id": "5fc8322c6e63af66b3e5",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "NVIDIA تجلب الذكاء الاصطناعي في الوقت الفعلي للبث والرياضة والبث العالمي في IBC",
-      "titleOriginal": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "business",
-      "importance": 82,
-      "summary": "في مؤتمر IBC، الذي يعقد في الفترة من 11 إلى 14 سبتمبر في أمستردام، تجتمع مجتمعات الإبداع والتكنولوجيا والأعمال لتحويل الأفكار إلى أفعال ومناقشة الابتكار",
-      "summaryOriginal": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/ibc-news-2026",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T16:00:42+00:00"
-    },
-    {
-      "id": "5a81ea7a670174e59aea",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تطلق IBM طراز SOTA Granite Time Series PatchTST - FM - r2 بترخيص تجاري مناسب",
-      "titleOriginal": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-09T15:36:24+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00",
-  "lastFastCheckAt": "2026-09-14T15:43:22.879812+00:00"
+  "lastFastCheckAt": "2026-09-14T15:48:25.327901+00:00"
 }
