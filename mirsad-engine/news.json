@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T15:02:58.478366+00:00",
-  "checkedAt": "2026-09-14T15:02:58.478366+00:00",
-  "newestPublishedAt": "2026-09-14T00:00:00+00:00",
+  "updatedAt": "2026-09-14T15:07:59.245485+00:00",
+  "checkedAt": "2026-09-14T15:07:59.245485+00:00",
+  "newestPublishedAt": "2026-09-14T15:00:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "27e712e4a140038c138f",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "جهاز الكمبيوتر المحمول فيربليكستي متوفر الآن على ويندوز، مدعوم من إنفيديا آر تي إكس",
+      "titleOriginal": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "عندما تصبح النماذج المحلية أكثر قدرة، يمكن لوكلاء الذكاء الاصطناعي التعامل مع المزيد من العمل مباشرة على جهاز الكمبيوتر مع الحفاظ على المعلومات الحساسة على الجهاز. الكمبيوتر المحمول هو نسخة محلية",
+      "summaryOriginal": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T15:00:52+00:00"
+    },
     {
       "id": "851e5a80aa13eeda37a0",
       "company": "OpenAI",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license"
-    },
-    {
-      "id": "88b17f98436461efb1f3",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نافذة سياسة الذكاء الاصطناعي مفتوحة. علينا أن نتصرف.",
-      "titleOriginal": "The AI policy window is open. We need to act.",
-      "dateLabel": "9 سبتمبر 2026",
-      "dateISO": "2026-09-09",
-      "category": "policy",
-      "importance": 88,
-      "summary": "يجادل كريس ليهان بأن قدرات الذكاء الاصطناعي الأقوى تتطلب أدلة أمان أقوى ومعايير مشتركة وإجراءات سياسة دائمة بينما تظل نافذة السياسة مفتوحة.",
-      "summaryOriginal": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ai-policy-window",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The AI policy window is open. We need to act."
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00",
-  "lastFastCheckAt": "2026-09-14T15:02:58.478366+00:00"
+  "lastFastCheckAt": "2026-09-14T15:07:59.245485+00:00"
 }
