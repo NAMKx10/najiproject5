@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T17:09:42.515434+00:00",
-  "checkedAt": "2026-09-14T17:09:42.515434+00:00",
-  "newestPublishedAt": "2026-09-14T15:58:57+00:00",
+  "updatedAt": "2026-09-14T17:14:46.511110+00:00",
+  "checkedAt": "2026-09-14T17:14:46.511110+00:00",
+  "newestPublishedAt": "2026-09-14T17:10:12.527000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -38,7 +38,7 @@
       "company": "Apple",
       "kind": "feed-fast",
       "ok": true,
-      "items": 3,
+      "items": 5,
       "error": null
     },
     {
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "24d122a003138409f5f3",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
+      "titleOriginal": "Major updates for Apple’s software platforms are now available",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
+      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Major updates for Apple’s software platforms are now available",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T17:10:12.527000+00:00"
+    },
+    {
+      "id": "5f82dba17fc6fa3aabbe",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "Siri AI، وهو مساعد شخصي أكثر قدرة وشخصية، موجود هنا",
+      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
+      "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T17:09:41.324000+00:00"
+    },
     {
       "id": "f624c159c19ef0f343d2",
       "company": "Amazon",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-    },
-    {
-      "id": "04ee07e2da3c9590fafa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
-      "titleOriginal": "Introducing the Agents API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
-      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-the-agents-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Agents API"
-    },
-    {
-      "id": "660bd8912721e1d4b9ba",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
-      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
-      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00",
-  "lastFastCheckAt": "2026-09-14T17:09:42.515434+00:00"
+  "lastFastCheckAt": "2026-09-14T17:14:46.511110+00:00"
 }
