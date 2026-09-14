@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T20:32:13.806251+00:00",
-  "checkedAt": "2026-09-14T20:32:13.806251+00:00",
-  "newestPublishedAt": "2026-09-14T17:10:12.527000+00:00",
+  "updatedAt": "2026-09-14T20:37:17.128561+00:00",
+  "checkedAt": "2026-09-14T20:37:17.128561+00:00",
+  "newestPublishedAt": "2026-09-14T20:35:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2dbb968caf66eb8e7bde",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إدارة موافقة OAuth للمستخدم النهائي لوكلاء الذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقدم Amazon Bedrock AgentCore Identity الآن بوابة موافقة وتجربة ويب مُدارة ونقطة نهاية ملزمة للجلسة لبوابة AgentCore. يمر هذا المنشور بشرط",
+      "summaryOriginal": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack 3LO targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T20:35:45+00:00"
+    },
     {
       "id": "916db159fd1f5cb57a3a",
       "company": "Apple",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
-    },
-    {
-      "id": "416b44bededb10397094",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "عدم مزامنة GRPO مع LoRA عبر وظائف HF: دلو، وكيل، وليس NCCL",
-      "titleOriginal": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-14T19:22:41.787084+00:00",
-  "lastFastCheckAt": "2026-09-14T20:32:13.806251+00:00"
+  "lastFastCheckAt": "2026-09-14T20:37:17.128561+00:00"
 }
