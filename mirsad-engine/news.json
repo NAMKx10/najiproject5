@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-14T19:21:31.714404+00:00",
-  "checkedAt": "2026-09-14T19:21:31.714404+00:00",
+  "updatedAt": "2026-09-14T19:22:41.787084+00:00",
+  "checkedAt": "2026-09-14T19:22:41.787084+00:00",
   "newestPublishedAt": "2026-09-14T17:10:12.527000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "24d122a003138409f5f3",
+      "id": "916db159fd1f5cb57a3a",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
       "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Major updates for Apple’s software platforms are now available",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:10:12.527000+00:00"
+      "searchAliases": "Apple Major updates for Apple’s software platforms are now available"
     },
     {
-      "id": "5f82dba17fc6fa3aabbe",
+      "id": "366139a1c6e127deece9",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
       "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:09:41.324000+00:00"
+      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here"
     },
     {
-      "id": "f624c159c19ef0f343d2",
+      "id": "9bf4446ce891af144c72",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,20 +148,15 @@
       "summary": "تعرف على كيفية قيام Ninth Wave ببناء Compass، وهو مساعد متعدد الوكلاء للذكاء الاصطناعي على منصة Amazon Bedrock AgentCore التي تتحقق من صحة واجهات برمجة التطبيقات المصرفية مقابل منصة Financial Data Exchange (FDX)",
       "summaryOriginal": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T15:58:57+00:00"
+      "searchAliases": "Amazon How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock"
     },
     {
-      "id": "72f6c4f0a84d273c3aa4",
+      "id": "b3153d630dd07f19f138",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,20 +169,15 @@
       "summary": "اختر نهج تخصيص الذكاء الاصطناعي التوليدي المناسب على AWS مع إطار عمل للقرار من 8 خطوات، من الهندسة الفورية و RAG إلى الضبط الدقيق، واستمرار التدريب المسبق، و",
       "summaryOriginal": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon The generative AI customization spectrum: From prompt engineering to custom models on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T15:47:12+00:00"
+      "searchAliases": "Amazon The generative AI customization spectrum: From prompt engineering to custom models on AWS"
     },
     {
-      "id": "63e2b4d588dbe076e27f",
+      "id": "f7ce528b7c87a6bacc20",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -210,20 +190,15 @@
       "summary": "جعلت النماذج التأسيسية التنبؤ بالطلب على مستوى الكتالوج سهلاً ؛ الجزء الصعب يعمل الآن على التنبؤ. يبني هذا المنشور حلقة مغلقة للكشف واتخاذ القرار على Databricks a",
       "summaryOriginal": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T15:42:06+00:00"
+      "searchAliases": "Amazon Automate replenishment with MMF, Databricks Genie, and Amazon Quick"
     },
     {
-      "id": "27e712e4a140038c138f",
+      "id": "1a3913f9f23deb032fa0",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -236,17 +211,12 @@
       "summary": "عندما تصبح النماذج المحلية أكثر قدرة، يمكن لوكلاء الذكاء الاصطناعي التعامل مع المزيد من العمل مباشرة على جهاز الكمبيوتر مع الحفاظ على المعلومات الحساسة على الجهاز. الكمبيوتر المحمول هو نسخة محلية",
       "summaryOriginal": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
+      "source": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T15:00:52+00:00"
+      "searchAliases": "NVIDIA Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
     },
     {
       "id": "d73b063768fa673534ca",
@@ -267,12 +237,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How Fyxer built an AI executive assistant people trust",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T12:00:00+00:00"
+      "searchAliases": "OpenAI How Fyxer built an AI executive assistant people trust"
     },
     {
       "id": "851e5a80aa13eeda37a0",
@@ -548,48 +513,6 @@
       "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
     },
     {
-      "id": "2d992172a0be0363dc35",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء سير عمل استبيان طلب المعلومات من البداية إلى النهاية باستخدام Amazon Quick Automate",
-      "titleOriginal": "Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية إنشاء سير عمل استبيان طلب المعلومات من البداية إلى النهاية باستخدام Amazon Quick Automate. اقرأ كتاب مصنف RFI متعدد علامات التبويب من Amazon S3، واستخدم مطالبات باللغة الطبيعية لإخراج",
-      "summaryOriginal": "Learn how to build an end-to-end RFI questionnaire workflow with Amazon Quick Automate. Read a multi-tab RFI workbook from Amazon S3, use natural-language prompts to extract and structure the questionnaire data, refine the workflow through conversation, and write clean CSV output back to Amazon S3 — cutting development from days to hours.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-rfi-questionnaire-workflow-using-amazon-quick-automate/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build an end-to-end RFI questionnaire workflow using Amazon Quick Automate"
-    },
-    {
-      "id": "7d9b81c99958d7670968",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الكشف عن معلومات تحديد الهوية الشخصية غير الإرشادية للنموذج مع LLMs",
-      "titleOriginal": "Model-agnostic PII detection with LLMs",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "كاشف لامع للنموذج قابل للتكوين يحول أي نموذج لغة كبير على Amazon Bedrock إلى كاشف PII. لأن الكيانات التي يجب اكتشافها تعيش في مطالبة بدلاً من ذلك",
-      "summaryOriginal": "A configurable, model-agnostic detector that turns any large language model on Amazon Bedrock into a PII detector. Because the entities to detect live in a prompt rather than in code, one detector adapts to new entity types without retraining, and it outperforms an off-the-shelf tool across five public corpora and nine LLM-based detectors.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/model-agnostic-pii-detection-with-llms/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Model-agnostic PII detection with LLMs"
-    },
-    {
       "id": "3475f8295971b5258e52",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -630,27 +553,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
-    },
-    {
-      "id": "e54bbf2621a9a5bcb054",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "مقياس تقييم الوكيل للمحادثات متعددة الدورات",
-      "titleOriginal": "Agent Evaluation Metric for multi-turn conversations",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يفشل الوكلاء متعددو الدوران بطرق يفوتهم تقييم الدور الواحد: خطأ مبكر واحد يفسد كل منعطف لاحق. يقدم هذا المنشور مقياس تقييم الوكيل (AEM)، وهو مقياس",
-      "summaryOriginal": "Multi-turn agents fail in ways single-turn evaluation misses: one early mistake corrupts every later turn. This post introduces the Agent Evaluation Metric (AEM), a decomposable, turn-level way to measure agent quality, applied to its first dimension, correctness, to pinpoint the turn that caused a failure and separate it from the turns that inherited it.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Agent Evaluation Metric for multi-turn conversations"
     },
     {
       "id": "0a04b5e82d74b1ef9cc6",
@@ -756,9 +658,71 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
+    },
+    {
+      "id": "04ee07e2da3c9590fafa",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
+      "titleOriginal": "Introducing the Agents API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
+      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-the-agents-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing the Agents API"
+    },
+    {
+      "id": "660bd8912721e1d4b9ba",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
+      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
+      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
+    },
+    {
+      "id": "416b44bededb10397094",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "عدم مزامنة GRPO مع LoRA عبر وظائف HF: دلو، وكيل، وليس NCCL",
+      "titleOriginal": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-14T14:04:49.525125+00:00",
-  "lastFastCheckAt": "2026-09-14T19:21:31.714404+00:00"
+  "lastDeepCheckAt": "2026-09-14T19:22:41.787084+00:00"
 }
