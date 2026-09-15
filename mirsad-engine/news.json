@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T11:41:46.867821+00:00",
-  "checkedAt": "2026-09-15T11:41:46.867821+00:00",
+  "updatedAt": "2026-09-15T11:45:19.176102+00:00",
+  "checkedAt": "2026-09-15T11:45:19.176102+00:00",
   "newestPublishedAt": "2026-09-15T09:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "59d2a2713896ca1116c6",
+      "id": "d3cf6edb136697928818",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -106,17 +106,12 @@
       "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
       "summaryOriginal": "",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T09:00:42+00:00"
+      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     },
     {
       "id": "150cba9c9239cbc5a17c",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-15T06:10:40.690061+00:00",
-  "lastFastCheckAt": "2026-09-15T11:41:46.867821+00:00"
+  "lastDeepCheckAt": "2026-09-15T11:45:19.176102+00:00"
 }
