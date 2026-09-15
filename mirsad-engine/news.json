@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T16:15:34.175128+00:00",
-  "checkedAt": "2026-09-15T16:15:34.175128+00:00",
-  "newestPublishedAt": "2026-09-15T16:11:36+00:00",
+  "updatedAt": "2026-09-15T16:20:30.776551+00:00",
+  "checkedAt": "2026-09-15T16:20:30.776551+00:00",
+  "newestPublishedAt": "2026-09-15T16:18:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "720d5e37ccabe0161862",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تحسين التكلفة والكمون مع التخزين المؤقت الفوري لـ Amazon Bedrock",
+      "titleOriginal": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمكن للتخزين المؤقت الفوري في Amazon Bedrock خفض تكاليف رمز الإدخال بنسبة تصل إلى 90 ٪ عندما ترسل نفس السياق بشكل متكرر إلى نماذج الأساس. هذا المنشور يمشي من خلال ستة تدريبات",
+      "summaryOriginal": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse API: message content, system prompt, tool definition, mixed TTL, tenant isolation, and LangChain integration.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:18:19+00:00"
+    },
     {
       "id": "027495619e9daf2a337a",
       "company": "Amazon",
@@ -528,6 +554,32 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
+      "id": "4d2491c266d3e2f86967",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
+      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
+      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/expanding-ai-access-us-government",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "id": "aae8bc66557e42c2ca74",
       "company": "Cohere",
       "logoText": "CO",
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
-    },
-    {
-      "id": "9ee653f7662017419f46",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "Cloudera و Mistral Partner for Sovereign Enterprise AI",
-      "titleOriginal": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتضافر جهود كلوديرا وميسترال لجلب ذكاء الذكاء الاصطناعي السيادي المتخصص إلى بيانات المؤسسة، مما يساعد الصناعات الخاضعة للتنظيم على الابتكار وفقًا لشروطها الخاصة.",
-      "summaryOriginal": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/mistral-x-cloudera/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Cloudera and Mistral Partner for Sovereign Enterprise AI"
-    },
-    {
-      "id": "ef5801433bed81dec77e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم ChatGPT للخدمات المالية",
-      "titleOriginal": "Introducing ChatGPT for Financial Services",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم ChatGPT للخدمات المالية، والجمع بين البيانات المالية المدمجة و GPT -6 Astra للبحث والنمذجة والمواد الجاهزة للعملاء.",
-      "summaryOriginal": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T16:15:34.175128+00:00"
+  "lastFastCheckAt": "2026-09-15T16:20:30.776551+00:00"
 }
