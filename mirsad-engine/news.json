@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T16:00:20.505153+00:00",
-  "checkedAt": "2026-09-15T16:00:20.505153+00:00",
-  "newestPublishedAt": "2026-09-15T09:00:42+00:00",
+  "updatedAt": "2026-09-15T16:05:20.481774+00:00",
+  "checkedAt": "2026-09-15T16:05:20.481774+00:00",
+  "newestPublishedAt": "2026-09-15T16:01:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "a957ef6e7d33c9fa2624",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الإعلان عن قوائم تفضيلات المثال لوظائف التدريب على الذكاء الاصطناعي في Amazon SageMaker",
+      "titleOriginal": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم Amazon SageMaker AI الآن قوائم تفضيلات مثيلة لوظائف التدريب والمعالجة. حدد قائمة مرتبة تضم ما يصل إلى خمسة أنواع من المثيلات، و SageMaker AI automati",
+      "summaryOriginal": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available capacity, eliminating manual retry loops and capacity-watching scripts.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:01:47+00:00"
+    },
+    {
+      "id": "4ef49f59dc19279034f7",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
+      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:00:44+00:00"
+    },
     {
       "id": "d3cf6edb136697928818",
       "company": "NVIDIA",
@@ -679,51 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-    },
-    {
-      "id": "660bd8912721e1d4b9ba",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تجارب صوتية أكثر طبيعية مع GPT‑Live‑1 في واجهة برمجة التطبيقات",
-      "titleOriginal": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم GPT‑Live‑1 محادثات صوتية طبيعية مزدوجة الاتجاه إلى واجهة برمجة التطبيقات، مع اتباع تعليمات أقوى وأصوات مخصصة ودعم هاتفي.",
-      "summaryOriginal": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Build more natural voice experiences with GPT‑Live‑1 in the API"
-    },
-    {
-      "id": "04ee07e2da3c9590fafa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم واجهة برمجة تطبيقات الوكلاء",
-      "titleOriginal": "Introducing the Agents API",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "بناء وإطلاق وكلاء السحابة باستخدام واجهة برمجة تطبيقات الوكلاء، وهي خدمة مدارة مدعومة بتسخير الدستور الغذائي للتنسيق والجلسات طويلة الأمد واستخدام الأدوات.",
-      "summaryOriginal": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-the-agents-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Agents API"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T16:00:20.505153+00:00"
+  "lastFastCheckAt": "2026-09-15T16:05:20.481774+00:00"
 }
