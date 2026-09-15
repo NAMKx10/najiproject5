@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T22:56:50.005342+00:00",
-  "checkedAt": "2026-09-15T22:56:50.005342+00:00",
+  "updatedAt": "2026-09-15T23:01:45.998702+00:00",
+  "checkedAt": "2026-09-15T23:01:45.998702+00:00",
   "newestPublishedAt": "2026-09-15T22:24:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -581,6 +581,32 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
+      "id": "edaa4d5c7384b8215d10",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم Skild AI بالتنصت على NVIDIA Physical AI لتعليم الروبوتات مهام جديدة من فيديو واحد",
+      "titleOriginal": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
+      "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:30:35+00:00"
+    },
+    {
       "id": "efed02d6b2f8ed9c1fdd",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -735,30 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "aae8bc66557e42c2ca74",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم North Small Translate: نموذج رائد للترجمة الآلية ذات الوزن المفتوح",
-      "titleOriginal": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أداء كبير وبصمة بحجم مناسب — ترجمة مصممة للسرعة وكفاءة التكلفة.",
-      "summaryOriginal": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://cohere.com/blog/north-small-translate",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere Introducing North Small Translate: A leading sovereign open-weight machine translation model"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T22:17:09.735169+00:00",
-  "lastFastCheckAt": "2026-09-15T22:56:50.005342+00:00"
+  "lastFastCheckAt": "2026-09-15T23:01:45.998702+00:00"
 }
