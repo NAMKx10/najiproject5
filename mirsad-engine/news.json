@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T09:09:28.093129+00:00",
-  "checkedAt": "2026-09-15T09:09:28.093129+00:00",
-  "newestPublishedAt": "2026-09-14T21:22:45+00:00",
+  "updatedAt": "2026-09-15T09:14:26.738607+00:00",
+  "checkedAt": "2026-09-15T09:14:26.738607+00:00",
+  "newestPublishedAt": "2026-09-15T09:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "59d2a2713896ca1116c6",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
+      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T09:00:42+00:00"
+    },
     {
       "id": "150cba9c9239cbc5a17c",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Agents API"
-    },
-    {
-      "id": "416b44bededb10397094",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "عدم مزامنة GRPO مع LoRA عبر وظائف HF: دلو، وكيل، وليس NCCL",
-      "titleOriginal": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T06:10:40.690061+00:00",
-  "lastFastCheckAt": "2026-09-15T09:09:28.093129+00:00"
+  "lastFastCheckAt": "2026-09-15T09:14:26.738607+00:00"
 }
