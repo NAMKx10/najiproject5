@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T22:31:29.908969+00:00",
-  "checkedAt": "2026-09-15T22:31:29.908969+00:00",
-  "newestPublishedAt": "2026-09-15T16:55:59+00:00",
+  "updatedAt": "2026-09-15T22:36:32.734349+00:00",
+  "checkedAt": "2026-09-15T22:36:32.734349+00:00",
+  "newestPublishedAt": "2026-09-15T22:24:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ffca3d17982473923ecb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقول جنسن هوانغ في دريم فورس: \"الآن يمكننا أن نعرف كل شيء ونفعل أي شيء\"",
+      "titleOriginal": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "اعرف كل شيء. افعل أي شيء. كانت هذه هي الرسالة التي قدمها مؤسس NVIDIA والرئيس التنفيذي Jensen Huang إلى Salesforce Dreamforce يوم الثلاثاء، حيث انضم إلى الرئيس التنفيذي مارك بنيوف على خشبة المسرح في تطبيق",
+      "summaryOriginal": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T22:24:34+00:00"
+    },
     {
       "id": "952cda3a0a3025953bf0",
       "company": "NVIDIA",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Now everyone can put data to work"
-    },
-    {
-      "id": "53815a0498e7c68b9c76",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "تعتمد d - Matrix NVIDIA NVLink Fusion لنشر XPU على نطاق الحامل",
-      "titleOriginal": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — للانضمام إلى GR",
-      "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T22:17:09.735169+00:00",
-  "lastFastCheckAt": "2026-09-15T22:31:29.908969+00:00"
+  "lastFastCheckAt": "2026-09-15T22:36:32.734349+00:00"
 }
