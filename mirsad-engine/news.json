@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T16:30:52.819312+00:00",
-  "checkedAt": "2026-09-15T16:30:52.819312+00:00",
+  "updatedAt": "2026-09-15T16:36:01.475324+00:00",
+  "checkedAt": "2026-09-15T16:36:01.475324+00:00",
   "newestPublishedAt": "2026-09-15T16:18:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -554,6 +554,32 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
+      "id": "0a04b5e82d74b1ef9cc6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "الآن يمكن للجميع استخدام البيانات",
+      "titleOriginal": "Now everyone can put data to work",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "قابل وكيل البيانات في ChatGPT Work. ربط بيانات الشركة، وكشف الرؤى، وبناء لوحات معلومات تفاعلية باستخدام الذكاء الاصطناعي باستخدام اللغة الطبيعية.",
+      "summaryOriginal": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/put-data-to-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Now everyone can put data to work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T15:00:00+00:00"
+    },
+    {
       "id": "202535cd98b94fe4110d",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
-    },
-    {
-      "id": "59512e659fb532996c41",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف يستخدم الباحث الدستور الغذائي و ChatGPT للبحث عن جزيئات جديدة مضادة للميكروبات",
-      "titleOriginal": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم مختبر سيزار دي لا فوينتي الدستور الغذائي و ChatGPT للبحث عن الجينومات الحية والمنقرضة للمرشحين لمضادات الميكروبات لمكافحة العدوى المقاومة للأدوية.",
-      "summaryOriginal": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T16:30:52.819312+00:00"
+  "lastFastCheckAt": "2026-09-15T16:36:01.475324+00:00"
 }
