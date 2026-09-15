@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T19:12:39.837565+00:00",
-  "checkedAt": "2026-09-15T19:12:39.837565+00:00",
+  "updatedAt": "2026-09-15T19:14:32.006496+00:00",
+  "checkedAt": "2026-09-15T19:14:32.006496+00:00",
   "newestPublishedAt": "2026-09-15T16:55:59+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "a81f756b8403cb569fbc",
+      "id": "952cda3a0a3025953bf0",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -106,20 +106,15 @@
       "summary": "في أمسية شديدة الحرارة في أغسطس في وادي السيليكون، مع غروب الشمس وارتفاع أحمال تكييف الهواء، أرسلت شركة سيليكون فالي باور إشارة إلى مصنع للذكاء الاصطناعي لضبط",
       "summaryOriginal": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+      "source": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:55:59+00:00"
+      "searchAliases": "NVIDIA From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production"
     },
     {
-      "id": "9006be4c6be742ac3dca",
+      "id": "55ca0f351000282f3ff7",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "تحدث إيان باك، نائب رئيس الحوسبة فائقة النطاق وعالية الأداء في NVIDIA، يوم الثلاثاء عن كفاءة مصنع الذكاء الاصطناعي في قمة البنية التحتية للذكاء الاصطناعي، واتفاقية سانتا كلارا",
       "summaryOriginal": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
+      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:55:40+00:00"
+      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
     },
     {
-      "id": "720d5e37ccabe0161862",
+      "id": "99070ed199e58f726597",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "يمكن للتخزين المؤقت الفوري في Amazon Bedrock خفض تكاليف رمز الإدخال بنسبة تصل إلى 90 ٪ عندما ترسل نفس السياق بشكل متكرر إلى نماذج الأساس. هذا المنشور يمشي من خلال ستة تدريبات",
       "summaryOriginal": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse API: message content, system prompt, tool definition, mixed TTL, tenant isolation, and LangChain integration.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching",
+      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Optimizing cost and latency with Amazon Bedrock prompt caching",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:18:19+00:00"
+      "searchAliases": "Amazon Optimizing cost and latency with Amazon Bedrock prompt caching"
     },
     {
-      "id": "027495619e9daf2a337a",
+      "id": "dc88cfc16c630cde9974",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,20 +169,15 @@
       "summary": "وضع علامات على الآلاف من منتجات الكتالوج يدويًا بطيء وغير متسق. توضح هذه الجولة كيفية تخصيص Qwen3 -8B مع الضبط الدقيق الخاضع للإشراف (SFT) والتعزيز",
       "summaryOriginal": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) on Amazon SageMaker serverless model customization, then deploy it for asynchronous inference to build a cost-efficient product tagging system.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:11:36+00:00"
+      "searchAliases": "Amazon Build an AI-powered product tagging system with Amazon SageMaker serverless model customization"
     },
     {
-      "id": "a957ef6e7d33c9fa2624",
+      "id": "9518578997fa2a42b3d0",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -210,17 +190,12 @@
       "summary": "تقدم Amazon SageMaker AI الآن قوائم تفضيلات مثيلة لوظائف التدريب والمعالجة. حدد قائمة مرتبة تضم ما يصل إلى خمسة أنواع من المثيلات، و SageMaker AI automati",
       "summaryOriginal": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available capacity, eliminating manual retry loops and capacity-watching scripts.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Announcing instance preference lists for Amazon SageMaker AI training jobs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:01:47+00:00"
+      "searchAliases": "Amazon Announcing instance preference lists for Amazon SageMaker AI training jobs"
     },
     {
       "id": "4ef49f59dc19279034f7",
@@ -241,12 +216,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:00:44+00:00"
+      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
     },
     {
       "id": "d3cf6edb136697928818",
@@ -302,7 +272,7 @@
       "category": "tools",
       "importance": 78,
       "summary": "تقدم Amazon Bedrock AgentCore Identity الآن بوابة موافقة وتجربة ويب مُدارة ونقطة نهاية ملزمة للجلسة لبوابة AgentCore. يمر هذا المنشور بشرط",
-      "summaryOriginal": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack 3LO targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
+      "summaryOriginal": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack authorization code grant targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
@@ -543,27 +513,6 @@
       "searchAliases": "Amazon Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload"
     },
     {
-      "id": "65400224e309fea36594",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تطبيقات MCP تفاعلية باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
-      "dateLabel": "11 سبتمبر 2026",
-      "dateISO": "2026-09-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية إنشاء ونشر تطبيق MCP مع أدوات HTML التفاعلية على Amazon Bedrock AgentCore. نظرًا لأن تطبيقات MCP هي معيار لا يعتمد على المضيف، فإن نفس الخادم يقدم",
-      "summaryOriginal": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like ChatGPT and Claude that support the extension.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build interactive MCP Apps using Amazon Bedrock AgentCore"
-    },
-    {
       "id": "01c958b6dd34912ee86c",
       "company": "OpenAI",
       "logoText": "AI",
@@ -606,7 +555,28 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
-      "id": "edaa4d5c7384b8215d10",
+      "id": "aae8bc66557e42c2ca74",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم North Small Translate: نموذج رائد للترجمة الآلية ذات الوزن المفتوح",
+      "titleOriginal": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أداء كبير وبصمة بحجم مناسب — ترجمة مصممة للسرعة وكفاءة التكلفة.",
+      "summaryOriginal": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://cohere.com/blog/north-small-translate",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Introducing North Small Translate: A leading sovereign open-weight machine translation model"
+    },
+    {
+      "id": "f20bcd6e93ec1d646d5b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -619,20 +589,15 @@
       "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
       "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:30:35+00:00"
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
     },
     {
-      "id": "efed02d6b2f8ed9c1fdd",
+      "id": "3475f8295971b5258e52",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -645,17 +610,12 @@
       "summary": "من المتوقع أن يصل سوق التاكسي الآلي العالمي — أول اختراق تجاري للذكاء الاصطناعي المادي — إلى 400 مليار دولار بحلول عام 2035، مع تشغيل أكثر من 6 ملايين مركبة تجارية",
       "summaryOriginal": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:04+00:00"
+      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
     },
     {
       "id": "59512e659fb532996c41",
@@ -676,12 +636,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:00+00:00"
+      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
     },
     {
       "id": "0a04b5e82d74b1ef9cc6",
@@ -702,15 +657,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Now everyone can put data to work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T15:00:00+00:00"
+      "searchAliases": "OpenAI Now everyone can put data to work"
     },
     {
-      "id": "202535cd98b94fe4110d",
+      "id": "53815a0498e7c68b9c76",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -723,43 +673,33 @@
       "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — للانضمام إلى GR",
       "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T13:00:21+00:00"
+      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
     },
     {
-      "id": "4d2491c266d3e2f86967",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
-      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "id": "9ee653f7662017419f46",
+      "company": "Mistral AI",
+      "logoText": "MI",
+      "type": "إطلاق أو تحديث",
+      "title": "Cloudera و Mistral Partner for Sovereign Enterprise AI",
+      "titleOriginal": "Cloudera and Mistral Partner for Sovereign Enterprise AI",
       "dateLabel": "10 سبتمبر 2026",
       "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
-      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/expanding-ai-access-us-government",
-      "sourceLabel": "OpenAI",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتضافر جهود كلوديرا وميسترال لجلب ذكاء الذكاء الاصطناعي السيادي المتخصص إلى بيانات المؤسسة، مما يساعد الصناعات الخاضعة للتنظيم على الابتكار وفقًا لشروطها الخاصة.",
+      "summaryOriginal": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://mistral.ai/news/mistral-x-cloudera/",
+      "sourceLabel": "Mistral News",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
+      "searchAliases": "Mistral AI Cloudera and Mistral Partner for Sovereign Enterprise AI"
     },
     {
       "id": "ef5801433bed81dec77e",
@@ -780,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
+      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T19:12:39.837565+00:00"
+  "lastDeepCheckAt": "2026-09-15T19:14:32.006496+00:00"
 }
