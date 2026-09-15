@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T16:56:01.194515+00:00",
-  "checkedAt": "2026-09-15T16:56:01.194515+00:00",
-  "newestPublishedAt": "2026-09-15T16:18:19+00:00",
+  "updatedAt": "2026-09-15T17:01:06.238977+00:00",
+  "checkedAt": "2026-09-15T17:01:06.238977+00:00",
+  "newestPublishedAt": "2026-09-15T16:55:59+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "a81f756b8403cb569fbc",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "من الميجاوات إلى العملات الرمزية: كيف تزيد NVIDIA من إنتاج مصانع الذكاء الاصطناعي",
+      "titleOriginal": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في أمسية شديدة الحرارة في أغسطس في وادي السيليكون، مع غروب الشمس وارتفاع أحمال تكييف الهواء، أرسلت شركة سيليكون فالي باور إشارة إلى مصنع للذكاء الاصطناعي لضبط",
+      "summaryOriginal": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:55:59+00:00"
+    },
+    {
+      "id": "9006be4c6be742ac3dca",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "قمة البنية التحتية للذكاء الاصطناعي: تعرض تطورات منصة NVIDIA Vera Rubin و DSX كفاءات الطاقة لتحسين الرموز لكل واط لمصانع الذكاء الاصطناعي",
+      "titleOriginal": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تحدث إيان باك، نائب رئيس الحوسبة فائقة النطاق وعالية الأداء في NVIDIA، يوم الثلاثاء عن كفاءة مصنع الذكاء الاصطناعي في قمة البنية التحتية للذكاء الاصطناعي، واتفاقية سانتا كلارا",
+      "summaryOriginal": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:55:40+00:00"
+    },
     {
       "id": "720d5e37ccabe0161862",
       "company": "Amazon",
@@ -734,51 +786,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "aae8bc66557e42c2ca74",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم North Small Translate: نموذج رائد للترجمة الآلية ذات الوزن المفتوح",
-      "titleOriginal": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أداء كبير وبصمة بحجم مناسب — ترجمة مصممة للسرعة وكفاءة التكلفة.",
-      "summaryOriginal": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://cohere.com/blog/north-small-translate",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere Introducing North Small Translate: A leading sovereign open-weight machine translation model"
-    },
-    {
-      "id": "09e0515c50578137b6d5",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقليل زمن استجابة LLM مع توجيه مدرك للبادئة على استدلال Amazon SageMaker",
-      "titleOriginal": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم Amazon SageMaker Inference الآن توجيهًا مدركًا للبادئة، وهي استراتيجية توجيه ترسل الطلبات التي تشارك نفس البادئة الفورية إلى نفس المثيل بحيث تكون ذاكرة التخزين المؤقت KV sta",
-      "summaryOriginal": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it reduced P50 time-to-first-token by up to 77% and raised KV cache hit rates from about 25% to over 80%.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T16:56:01.194515+00:00"
+  "lastFastCheckAt": "2026-09-15T17:01:06.238977+00:00"
 }
