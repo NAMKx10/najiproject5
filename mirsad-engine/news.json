@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T16:45:56.096607+00:00",
-  "checkedAt": "2026-09-15T16:45:56.096607+00:00",
+  "updatedAt": "2026-09-15T16:51:00.597011+00:00",
+  "checkedAt": "2026-09-15T16:51:00.597011+00:00",
   "newestPublishedAt": "2026-09-15T16:18:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -554,6 +554,32 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
+      "id": "edaa4d5c7384b8215d10",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم Skild AI بالتنصت على NVIDIA Physical AI لتعليم الروبوتات مهام جديدة من فيديو واحد",
+      "titleOriginal": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
+      "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:30:35+00:00"
+    },
+    {
       "id": "efed02d6b2f8ed9c1fdd",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
-    },
-    {
-      "id": "564bfb57c10f613f192d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقليل الاستدلال على بدء التشغيل البارد على Amazon SageMaker HyperPod مع التخزين المؤقت للنموذج",
-      "titleOriginal": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يدعم Amazon SageMaker HyperPod الآن التخزين المؤقت للنموذج للاستدلال، والذي يقوم بتحميل أوزان النموذج وصور الحاويات مسبقًا على عقد المجموعة بحيث تقرأ القرون من NVMe sto المحلي",
-      "summaryOriginal": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts from tens of minutes to seconds, how it works, and how to enable it.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Reduce inference cold starts on Amazon SageMaker HyperPod with model caching"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T16:45:56.096607+00:00"
+  "lastFastCheckAt": "2026-09-15T16:51:00.597011+00:00"
 }
