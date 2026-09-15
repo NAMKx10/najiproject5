@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-15T16:10:23.750060+00:00",
-  "checkedAt": "2026-09-15T16:10:23.750060+00:00",
-  "newestPublishedAt": "2026-09-15T16:01:47+00:00",
+  "updatedAt": "2026-09-15T16:15:34.175128+00:00",
+  "checkedAt": "2026-09-15T16:15:34.175128+00:00",
+  "newestPublishedAt": "2026-09-15T16:11:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "027495619e9daf2a337a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء نظام وضع علامات على المنتجات مدعوم بالذكاء الاصطناعي مع تخصيص طراز Amazon SageMaker بدون خادم",
+      "titleOriginal": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "وضع علامات على الآلاف من منتجات الكتالوج يدويًا بطيء وغير متسق. توضح هذه الجولة كيفية تخصيص Qwen3 -8B مع الضبط الدقيق الخاضع للإشراف (SFT) والتعزيز",
+      "summaryOriginal": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) on Amazon SageMaker serverless model customization, then deploy it for asynchronous inference to build a cost-efficient product tagging system.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:11:36+00:00"
+    },
     {
       "id": "a957ef6e7d33c9fa2624",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing ChatGPT for Financial Services"
-    },
-    {
-      "id": "4d2491c266d3e2f86967",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
-      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
-      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/expanding-ai-access-us-government",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-15T15:43:09.496071+00:00",
-  "lastFastCheckAt": "2026-09-15T16:10:23.750060+00:00"
+  "lastFastCheckAt": "2026-09-15T16:15:34.175128+00:00"
 }
