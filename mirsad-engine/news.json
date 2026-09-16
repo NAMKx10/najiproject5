@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T19:25:48.747469+00:00",
-  "checkedAt": "2026-09-16T19:25:48.747469+00:00",
+  "updatedAt": "2026-09-16T19:30:50.992502+00:00",
+  "checkedAt": "2026-09-16T19:30:50.992502+00:00",
   "newestPublishedAt": "2026-09-16T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ec2f604ddc5e799aca1a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
+      "titleOriginal": "How to connect AI usage to business value",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
+      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How to connect AI usage to business value",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T12:00:00+00:00"
+    },
     {
       "id": "f38341d7421950db8893",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Perplexity trusts GPT-6 Astra with end-to-end systems"
-    },
-    {
-      "id": "861afe1459556f41d434",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "أمان وسياسات",
-      "title": "من يمكنه تحديد قواعد الذكاء الاصطناعي ؟ | التماسك",
-      "titleOriginal": "Who Gets to Define the Rules for AI? | Cohere",
-      "dateLabel": "13 سبتمبر 2026",
-      "dateISO": "2026-09-13",
-      "category": "policy",
-      "importance": 88,
-      "summary": "اكتشف لماذا يجب أن يعتمد تنظيم الذكاء الاصطناعي على المعايير القائمة على الأدلة والاختبارات المستقلة والأصوات المتنوعة بدلاً من القواعد التي تضعها بعض مختبرات الذكاء الاصطناعي المهيمنة.",
-      "summaryOriginal": "Explore why AI regulation should rely on evidence-based standards, independent testing, and diverse voices rather than rules set by a few dominant AI labs.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere Who Gets to Define the Rules for AI? | Cohere"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T19:06:05.957837+00:00",
-  "lastFastCheckAt": "2026-09-16T19:25:48.747469+00:00"
+  "lastFastCheckAt": "2026-09-16T19:30:50.992502+00:00"
 }
