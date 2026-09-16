@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T22:08:24.375475+00:00",
-  "checkedAt": "2026-09-16T22:08:24.375475+00:00",
+  "updatedAt": "2026-09-16T22:11:04.421054+00:00",
+  "checkedAt": "2026-09-16T22:11:04.421054+00:00",
   "newestPublishedAt": "2026-09-16T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,58 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "827a0c403a3c663f4f72",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "إطارنا للإبلاغ عن عدم اتساق النموذج",
-      "titleOriginal": "Our framework for reporting model misalignment",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشارك OpenAI إطارًا لتتبع اختلال النموذج والتحقيق فيه والكشف عنه، إلى جانب ستة تقارير عن سلوك نموذجي غير متوقع أو مثير للقلق.",
-      "summaryOriginal": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/model-misalignment-reporting-framework",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our framework for reporting model misalignment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T17:00:00+00:00"
-    },
-    {
-      "id": "ec2f604ddc5e799aca1a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
-      "titleOriginal": "How to connect AI usage to business value",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
-      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How to connect AI usage to business value",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T12:00:00+00:00"
-    },
     {
       "id": "f38341d7421950db8893",
       "company": "Amazon",
@@ -206,6 +154,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Fault tolerant distributed training on Amazon EKS using NVRx"
+    },
+    {
+      "id": "827a0c403a3c663f4f72",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "إطارنا للإبلاغ عن عدم اتساق النموذج",
+      "titleOriginal": "Our framework for reporting model misalignment",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشارك OpenAI إطارًا لتتبع اختلال النموذج والتحقيق فيه والكشف عنه، إلى جانب ستة تقارير عن سلوك نموذجي غير متوقع أو مثير للقلق.",
+      "summaryOriginal": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/model-misalignment-reporting-framework",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our framework for reporting model misalignment"
     },
     {
       "id": "a8a40dafc20d6b2f6d4e",
@@ -353,6 +322,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Reimagining advertising with AI"
+    },
+    {
+      "id": "ec2f604ddc5e799aca1a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
+      "titleOriginal": "How to connect AI usage to business value",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
+      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How to connect AI usage to business value"
     },
     {
       "id": "6f1f7c32dec88c34d6d0",
@@ -734,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-16T19:06:05.957837+00:00",
-  "lastFastCheckAt": "2026-09-16T22:08:24.375475+00:00"
+  "lastDeepCheckAt": "2026-09-16T22:11:04.421054+00:00"
 }
