@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T06:00:15.484664+00:00",
-  "checkedAt": "2026-09-16T06:00:15.484664+00:00",
+  "updatedAt": "2026-09-16T06:02:56.431495+00:00",
+  "checkedAt": "2026-09-16T06:02:56.431495+00:00",
   "newestPublishedAt": "2026-09-16T05:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "9c10efc772e9a12f25df",
+      "id": "49e19f19d61fde4f977f",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "يمثل تلوث الهواء خطرًا خطيرًا على الصحة العامة، حيث ساهم في وفاة ما يقدر بنحو 30 ألف شخص في المملكة المتحدة وحدها العام الماضي. يمكن أن تساعد الرؤى المستندة إلى البيانات — ولكن حوسبة الهواء q",
       "summaryOriginal": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "source": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T05:00:42+00:00"
+      "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK"
     },
     {
       "id": "1b9cf141bd5fda207c8b",
@@ -602,7 +597,28 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
-      "id": "edaa4d5c7384b8215d10",
+      "id": "aae8bc66557e42c2ca74",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم North Small Translate: نموذج رائد للترجمة الآلية ذات الوزن المفتوح",
+      "titleOriginal": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أداء كبير وبصمة بحجم مناسب — ترجمة مصممة للسرعة وكفاءة التكلفة.",
+      "summaryOriginal": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://cohere.com/blog/north-small-translate",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Introducing North Small Translate: A leading sovereign open-weight machine translation model"
+    },
+    {
+      "id": "f20bcd6e93ec1d646d5b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -615,20 +631,15 @@
       "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
       "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:30:35+00:00"
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video"
     },
     {
-      "id": "efed02d6b2f8ed9c1fdd",
+      "id": "3475f8295971b5258e52",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -641,17 +652,12 @@
       "summary": "من المتوقع أن يصل سوق التاكسي الآلي العالمي — أول اختراق تجاري للذكاء الاصطناعي المادي — إلى 400 مليار دولار بحلول عام 2035، مع تشغيل أكثر من 6 ملايين مركبة تجارية",
       "summaryOriginal": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
+      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:04+00:00"
+      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies"
     },
     {
       "id": "59512e659fb532996c41",
@@ -672,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:00+00:00"
+      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
     },
     {
       "id": "0a04b5e82d74b1ef9cc6",
@@ -698,15 +699,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Now everyone can put data to work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T15:00:00+00:00"
+      "searchAliases": "OpenAI Now everyone can put data to work"
     },
     {
-      "id": "202535cd98b94fe4110d",
+      "id": "53815a0498e7c68b9c76",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -719,46 +715,14 @@
       "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — للانضمام إلى GR",
       "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T13:00:21+00:00"
-    },
-    {
-      "id": "ef5801433bed81dec77e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم ChatGPT للخدمات المالية",
-      "titleOriginal": "Introducing ChatGPT for Financial Services",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم ChatGPT للخدمات المالية، والجمع بين البيانات المالية المدمجة و GPT -6 Astra للبحث والنمذجة والمواد الجاهزة للعملاء.",
-      "summaryOriginal": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Financial Services",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
+      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-16T00:49:32.052098+00:00",
-  "lastFastCheckAt": "2026-09-16T06:00:15.484664+00:00"
+  "lastDeepCheckAt": "2026-09-16T06:02:56.431495+00:00"
 }
