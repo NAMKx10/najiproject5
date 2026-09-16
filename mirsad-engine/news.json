@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T05:01:53.161336+00:00",
-  "checkedAt": "2026-09-16T05:01:53.161336+00:00",
-  "newestPublishedAt": "2026-09-15T22:24:34+00:00",
+  "updatedAt": "2026-09-16T05:06:54.808366+00:00",
+  "checkedAt": "2026-09-16T05:06:54.808366+00:00",
+  "newestPublishedAt": "2026-09-16T05:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9c10efc772e9a12f25df",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تستخدم جامعة مانشستر NVIDIA Earth -2 للتنبؤ بتلوث الهواء في جميع أنحاء المملكة المتحدة",
+      "titleOriginal": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمثل تلوث الهواء خطرًا خطيرًا على الصحة العامة، حيث ساهم في وفاة ما يقدر بنحو 30 ألف شخص في المملكة المتحدة وحدها العام الماضي. يمكن أن تساعد الرؤى المستندة إلى البيانات — ولكن حوسبة الهواء q",
+      "summaryOriginal": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T05:00:42+00:00"
+    },
     {
       "id": "1b9cf141bd5fda207c8b",
       "company": "NVIDIA",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "4d2491c266d3e2f86967",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
-      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
-      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/expanding-ai-access-us-government",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T00:49:32.052098+00:00",
-  "lastFastCheckAt": "2026-09-16T05:01:53.161336+00:00"
+  "lastFastCheckAt": "2026-09-16T05:06:54.808366+00:00"
 }
