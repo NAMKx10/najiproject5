@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T00:53:57.043053+00:00",
-  "checkedAt": "2026-09-16T00:53:57.043053+00:00",
+  "updatedAt": "2026-09-16T00:58:55.522092+00:00",
+  "checkedAt": "2026-09-16T00:58:55.522092+00:00",
   "newestPublishedAt": "2026-09-15T22:24:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -576,6 +576,32 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
+      "id": "202535cd98b94fe4110d",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "تعتمد d - Matrix NVIDIA NVLink Fusion لنشر XPU على نطاق الحامل",
+      "titleOriginal": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت شركة صناعة الرقائق الاستدلالية للذكاء الاصطناعي d - Matrix اليوم أنها ستستخدم NVLink Fusion لتوصيل الجيل التالي من Raptor XPUs بمنصة البنية التحتية للذكاء الاصطناعي من NVIDIA — للانضمام إلى GR",
+      "summaryOriginal": "AI inference chipmaker d-Matrix today announced it will use NVLink Fusion to connect its next-generation Raptor XPUs to NVIDIA’s AI infrastructure platform — joining a growing roster of ecosystem partners. By connecting Raptor to NVIDIA NVLink scale-up and Spectrum-X scale-out networking, the NVIDIA MGX rack architecture and the broader NVIDIA AI platform, NVLink Fusion gives […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T13:00:21+00:00"
+    },
+    {
       "id": "ef5801433bed81dec77e",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
-    },
-    {
-      "id": "0a04b5e82d74b1ef9cc6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الآن يمكن للجميع استخدام البيانات",
-      "titleOriginal": "Now everyone can put data to work",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "قابل وكيل البيانات في ChatGPT Work. ربط بيانات الشركة، وكشف الرؤى، وبناء لوحات معلومات تفاعلية باستخدام الذكاء الاصطناعي باستخدام اللغة الطبيعية.",
-      "summaryOriginal": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/put-data-to-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Now everyone can put data to work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T00:49:32.052098+00:00",
-  "lastFastCheckAt": "2026-09-16T00:53:57.043053+00:00"
+  "lastFastCheckAt": "2026-09-16T00:58:55.522092+00:00"
 }
