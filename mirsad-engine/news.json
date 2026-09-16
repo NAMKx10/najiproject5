@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T15:13:33.395434+00:00",
-  "checkedAt": "2026-09-16T15:13:33.395434+00:00",
-  "newestPublishedAt": "2026-09-16T15:00:48+00:00",
+  "updatedAt": "2026-09-16T15:18:48.081732+00:00",
+  "checkedAt": "2026-09-16T15:18:48.081732+00:00",
+  "newestPublishedAt": "2026-09-16T15:17:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7fff4becf13fa91d8a75",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إنشاء خط أنابيب لتنقيح معلومات تحديد الهوية الشخصية بدون خادم باستخدام Amazon Bedrock Data Automation",
+      "titleOriginal": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلم كيفية أتمتة الكشف عن معلومات تحديد الهوية الشخصية من البداية إلى النهاية وتنقيحها من المستندات الممسوحة ضوئيًا على نطاق واسع باستخدام Amazon Bedrock Data Automation مع مخطط مخصص، AWS Step Functi",
+      "summaryOriginal": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom blueprint redacts sensitive fields with field-level precision, and a token matching quality check raises recall across degraded and handwritten documents.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T15:17:37+00:00"
+    },
     {
       "id": "177d62cfd754af48ece9",
       "company": "NVIDIA",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T16:00:04+00:00"
-    },
-    {
-      "id": "59512e659fb532996c41",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف يستخدم الباحث الدستور الغذائي و ChatGPT للبحث عن جزيئات جديدة مضادة للميكروبات",
-      "titleOriginal": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم مختبر سيزار دي لا فوينتي الدستور الغذائي و ChatGPT للبحث عن الجينومات الحية والمنقرضة للمرشحين لمضادات الميكروبات لمكافحة العدوى المقاومة للأدوية.",
-      "summaryOriginal": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T11:36:31.866622+00:00",
-  "lastFastCheckAt": "2026-09-16T15:13:33.395434+00:00"
+  "lastFastCheckAt": "2026-09-16T15:18:48.081732+00:00"
 }
