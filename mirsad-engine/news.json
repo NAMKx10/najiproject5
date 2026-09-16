@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T19:05:37.178157+00:00",
-  "checkedAt": "2026-09-16T19:05:37.178157+00:00",
+  "updatedAt": "2026-09-16T19:06:05.957837+00:00",
+  "checkedAt": "2026-09-16T19:06:05.957837+00:00",
   "newestPublishedAt": "2026-09-16T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "bc7771c0960ae2d50158",
+      "id": "f38341d7421950db8893",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "غالبًا ما يسيء وكلاء الذكاء الاصطناعي في النماذج الأساسية تطبيق أطر قرارات الرعاية الصحية وعلوم الحياة، مستشهدين بالمبدأ التوجيهي الصحيح ولكنهم يطبقونه بشكل غير صحيح. يشارك هذا المنشور 3",
       "summaryOriginal": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains that close this gap, with installation steps, three worked use cases, and a 410-prompt evaluation showing a 70-86% win rate.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills",
+      "source": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Improving HCLS AI reasoning with open-source agent skills",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T19:00:00+00:00"
+      "searchAliases": "Amazon Improving HCLS AI reasoning with open-source agent skills"
     },
     {
-      "id": "1a30a129f87f27d09cad",
+      "id": "446b74e964116d79afa8",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أعمال وشراكات",
@@ -132,20 +127,15 @@
       "summary": "تعمل مايكروسوفت في مجال التعليم منذ خمسة عقود. منذ الأيام الأولى لهذه الشركة، عملنا جنبًا إلى جنب مع المعلمين والطلاب والعائلات والمعلمين",
       "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T18:59:58+00:00"
+      "searchAliases": "Microsoft Microsoft’s commitment for AI in education"
     },
     {
-      "id": "3bf4aed37a536c0be156",
+      "id": "8f850829b2016926a958",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,69 +148,12 @@
       "summary": "دمج NVIDIA Resiliency Extension (NVRx) في تدريب PyTorch FSDP على Amazon EKS لتداخل الإدخال/الإخراج لنقطة التفتيش مع التدريب والتعافي من أخطاء GPU في ثوانٍ. هذا",
       "summaryOriginal": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fault tolerant distributed training on Amazon EKS using NVRx",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T18:59:25+00:00"
-    },
-    {
-      "id": "2bf4780bb897dfc3e638",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تحسين مطالبات نظام الوكيل باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يحول تحسين AgentCore آثار الإنتاج إلى تغييرات تكوين مقترحة، ثم يتحقق من صحتها قبل الترويج. هذا المصاحب الفني لمرحلة ما بعد الإطلاق يستكشف",
-      "summaryOriginal": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector engine works and shares benchmark results for the Single Agent and Sub-Agent Reflectors.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T15:47:39+00:00"
-    },
-    {
-      "id": "6f1f7c32dec88c34d6d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "كيف يفتح العمال طرقًا جديدة للعمل",
-      "titleOriginal": "How workers are unlocking new ways of working",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "تُظهر OpenAI Economic Research الجديدة كيف يستخدم العمال الذكاء الاصطناعي خارج الأدوار التقليدية وما هي الأنشطة الجديدة التي تصبح أجزاء متكررة من عملهم.",
-      "summaryOriginal": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/unlocking-new-ways-of-working",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How workers are unlocking new ways of working",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T09:00:00+00:00"
+      "searchAliases": "Amazon Fault tolerant distributed training on Amazon EKS using NVRx"
     },
     {
       "id": "a8a40dafc20d6b2f6d4e",
@@ -242,6 +175,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Helping older adults use AI in everyday life"
+    },
+    {
+      "id": "93c67c600c06037d2611",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تحسين مطالبات نظام الوكيل باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "يحول تحسين AgentCore آثار الإنتاج إلى تغييرات تكوين مقترحة، ثم يتحقق من صحتها قبل الترويج. هذا المصاحب الفني لمرحلة ما بعد الإطلاق يستكشف",
+      "summaryOriginal": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector engine works and shares benchmark results for the Single Agent and Sub-Agent Reflectors.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Optimizing agent system prompts with Amazon Bedrock AgentCore"
     },
     {
       "id": "6fc8596fd9d930392bd4",
@@ -349,6 +303,27 @@
       "searchAliases": "OpenAI Reimagining advertising with AI"
     },
     {
+      "id": "6f1f7c32dec88c34d6d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "كيف يفتح العمال طرقًا جديدة للعمل",
+      "titleOriginal": "How workers are unlocking new ways of working",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "research",
+      "importance": 86,
+      "summary": "تُظهر OpenAI Economic Research الجديدة كيف يستخدم العمال الذكاء الاصطناعي خارج الأدوار التقليدية وما هي الأنشطة الجديدة التي تصبح أجزاء متكررة من عملهم.",
+      "summaryOriginal": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/unlocking-new-ways-of-working",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How workers are unlocking new ways of working"
+    },
+    {
       "id": "49e19f19d61fde4f977f",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -368,6 +343,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK"
+    },
+    {
+      "id": "ebd8cb2f9a78944dde45",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "مستجد تقني",
+      "title": "الذاكرة في بناء Grok",
+      "titleOriginal": "Memory in Grok Build",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يحمل Grok Build الآن الاتفاقيات والقرارات وحقائق المشروع من جلسة إلى أخرى. تتم كتابة الملاحظات في الخلفية أثناء العمل وتقرأها مرة أخرى عند التراجع",
+      "summaryOriginal": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/grok-build-memory",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Memory in Grok Build"
     },
     {
       "id": "1b9cf141bd5fda207c8b",
@@ -643,48 +639,6 @@
       "searchAliases": "Amazon How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock"
     },
     {
-      "id": "b3153d630dd07f19f138",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "طيف تخصيص الذكاء الاصطناعي التوليدي: من الهندسة الفورية إلى النماذج المخصصة على AWS",
-      "titleOriginal": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "اختر نهج تخصيص الذكاء الاصطناعي التوليدي المناسب على AWS مع إطار عمل للقرار من 8 خطوات، من الهندسة الفورية و RAG إلى الضبط الدقيق، واستمرار التدريب المسبق، و",
-      "summaryOriginal": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon The generative AI customization spectrum: From prompt engineering to custom models on AWS"
-    },
-    {
-      "id": "f7ce528b7c87a6bacc20",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "أتمتة التجديد باستخدام MMF وDatabricks Genie وAmazon Quick",
-      "titleOriginal": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "جعلت النماذج التأسيسية التنبؤ بالطلب على مستوى الكتالوج سهلاً ؛ الجزء الصعب يعمل الآن على التنبؤ. يبني هذا المنشور حلقة مغلقة للكشف واتخاذ القرار على Databricks a",
-      "summaryOriginal": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Automate replenishment with MMF, Databricks Genie, and Amazon Quick"
-    },
-    {
       "id": "1a3913f9f23deb032fa0",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -746,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Perplexity trusts GPT-6 Astra with end-to-end systems"
+    },
+    {
+      "id": "861afe1459556f41d434",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "أمان وسياسات",
+      "title": "من يمكنه تحديد قواعد الذكاء الاصطناعي ؟ | التماسك",
+      "titleOriginal": "Who Gets to Define the Rules for AI? | Cohere",
+      "dateLabel": "13 سبتمبر 2026",
+      "dateISO": "2026-09-13",
+      "category": "policy",
+      "importance": 88,
+      "summary": "اكتشف لماذا يجب أن يعتمد تنظيم الذكاء الاصطناعي على المعايير القائمة على الأدلة والاختبارات المستقلة والأصوات المتنوعة بدلاً من القواعد التي تضعها بعض مختبرات الذكاء الاصطناعي المهيمنة.",
+      "summaryOriginal": "Explore why AI regulation should rely on evidence-based standards, independent testing, and diverse voices rather than rules set by a few dominant AI labs.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Who Gets to Define the Rules for AI? | Cohere"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-16T15:33:15.470092+00:00",
-  "lastFastCheckAt": "2026-09-16T19:05:37.178157+00:00"
+  "lastDeepCheckAt": "2026-09-16T19:06:05.957837+00:00"
 }
