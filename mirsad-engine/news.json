@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T11:50:47.800965+00:00",
-  "checkedAt": "2026-09-16T11:50:47.800965+00:00",
+  "updatedAt": "2026-09-16T11:55:48.302532+00:00",
+  "checkedAt": "2026-09-16T11:55:48.302532+00:00",
   "newestPublishedAt": "2026-09-16T05:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -597,6 +597,32 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
+      "id": "edaa4d5c7384b8215d10",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم Skild AI بالتنصت على NVIDIA Physical AI لتعليم الروبوتات مهام جديدة من فيديو واحد",
+      "titleOriginal": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "dateLabel": "10 سبتمبر 2026",
+      "dateISO": "2026-09-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
+      "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-10T16:30:35+00:00"
+    },
+    {
       "id": "efed02d6b2f8ed9c1fdd",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "id": "4d2491c266d3e2f86967",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية وحكومات الولايات والحكومات المحلية والقبلية",
-      "titleOriginal": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستقدم OpenAI و GSA للحكومات والولائية والمحلية والقبلية رسوم ترخيص $ 0، وخصم 50 ٪ على الاستخدام، ودعم موسع للدفاع السيبراني.",
-      "summaryOriginal": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/expanding-ai-access-us-government",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T11:36:31.866622+00:00",
-  "lastFastCheckAt": "2026-09-16T11:50:47.800965+00:00"
+  "lastFastCheckAt": "2026-09-16T11:55:48.302532+00:00"
 }
