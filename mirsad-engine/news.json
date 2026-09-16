@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T15:28:53.554431+00:00",
-  "checkedAt": "2026-09-16T15:28:53.554431+00:00",
-  "newestPublishedAt": "2026-09-16T15:17:37+00:00",
+  "updatedAt": "2026-09-16T15:33:15.470092+00:00",
+  "checkedAt": "2026-09-16T15:33:15.470092+00:00",
+  "newestPublishedAt": "2026-09-16T16:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,28 @@
   ],
   "items": [
     {
-      "id": "7fff4becf13fa91d8a75",
+      "id": "a8a40dafc20d6b2f6d4e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مساعدة كبار السن على استخدام الذكاء الاصطناعي في الحياة اليومية",
+      "titleOriginal": "Helping older adults use AI in everyday life",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI و AARP ورش عمل ChatGPT مجانية وعملية لـ 1000 من كبار السن في 10 مدن أمريكية لبناء مهارات الذكاء الاصطناعي العملية بأمان.",
+      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping older adults use AI in everyday life"
+    },
+    {
+      "id": "6fc8596fd9d930392bd4",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +127,15 @@
       "summary": "تعلم كيفية أتمتة الكشف عن معلومات تحديد الهوية الشخصية من البداية إلى النهاية وتنقيحها من المستندات الممسوحة ضوئيًا على نطاق واسع باستخدام Amazon Bedrock Data Automation مع مخطط مخصص، AWS Step Functi",
       "summaryOriginal": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS Step Functions, and AWS Lambda. A custom blueprint redacts sensitive fields with field-level precision, and a token matching quality check raises recall across degraded and handwritten documents.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T15:17:37+00:00"
+      "searchAliases": "Amazon Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation"
     },
     {
-      "id": "177d62cfd754af48ece9",
+      "id": "2a3495d92873084256fc",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -132,20 +148,36 @@
       "summary": "يعد أداء النظام وتوسيع نطاق البنية التحتية الفعالة والتحسين المستمر للبرامج من العوامل الرئيسية التي تحدد اقتصاديات الاستدلال بالذكاء الاصطناعي. أداء أعلى للنظام",
       "summaryOriginal": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T15:00:48+00:00"
+      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
     },
     {
-      "id": "aa6f620a19099be6384d",
+      "id": "1fdb0f029d8eaf196212",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "إطلاق أو تحديث",
+      "title": "Cohere & Aleph Alpha: الذكاء الاصطناعي السيادي عبر الأطلسي | Cohere",
+      "titleOriginal": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشارك Cohere و Aleph Alpha في إطلاق أول حل للذكاء الاصطناعي السيادي عبر المحيط الأطلسي مع مقر مزدوج في برلين وتورونتو، مما يوفر ذكاءً اصطناعيًا آمنًا وقابلًا للتحكم.",
+      "summaryOriginal": "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere"
+    },
+    {
+      "id": "df9fe16b75417c213453",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -158,17 +190,12 @@
       "summary": "مصانع الذكاء الاصطناعي هي البنية التحتية لعصر الذكاء. سيعتمد توسيع نطاقها بمسؤولية على الابتكار عبر الشبكة كما هو الحال داخل مركز البيانات. اليوم،",
       "summaryOriginal": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T13:00:33+00:00"
+      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers"
     },
     {
       "id": "8c2a426559207a9d5b2c",
@@ -189,12 +216,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Reimagining advertising with AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T13:00:00+00:00"
+      "searchAliases": "OpenAI Reimagining advertising with AI"
     },
     {
       "id": "49e19f19d61fde4f977f",
@@ -638,27 +660,6 @@
       "searchAliases": "Amazon Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations"
     },
     {
-      "id": "f15203b6cc56e66a56b4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ما وراء السعر لكل رمز: اختيار نموذج OpenAI المناسب على Amazon Bedrock لعبء العمل الخاص بك",
-      "titleOriginal": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
-      "dateLabel": "11 سبتمبر 2026",
-      "dateISO": "2026-09-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "إن مقارنة النماذج بالدولار لكل مليون رمز يفوت ما تدفعه أعباء عمل الإنتاج بالفعل: النتائج. يشارك هذا المنشور أداة قياس مرجعية مفتوحة المصدر تقيس",
-      "summaryOriginal": "Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarking harness that measures cost per correct answer, agent trajectory cost, and rubric-graded deliverable quality across OpenAI models on Amazon Bedrock.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload"
-    },
-    {
       "id": "01c958b6dd34912ee86c",
       "company": "OpenAI",
       "logoText": "AI",
@@ -701,59 +702,27 @@
       "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     },
     {
-      "id": "edaa4d5c7384b8215d10",
-      "company": "NVIDIA",
-      "logoText": "NV",
+      "id": "aae8bc66557e42c2ca74",
+      "company": "Cohere",
+      "logoText": "CO",
       "type": "إطلاق أو تحديث",
-      "title": "يقوم Skild AI بالتنصت على NVIDIA Physical AI لتعليم الروبوتات مهام جديدة من فيديو واحد",
-      "titleOriginal": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "title": "تقديم North Small Translate: نموذج رائد للترجمة الآلية ذات الوزن المفتوح",
+      "titleOriginal": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
       "dateLabel": "10 سبتمبر 2026",
       "dateISO": "2026-09-10",
       "category": "models",
       "importance": 92,
-      "summary": "نادرًا ما تبقى أرضيات التصنيع والمستودعات وخطوط الإنتاج ثابتة — تتغير المهام، وتتحول التخطيطات وتصل منتجات جديدة، ولا يمكن لمعظم الروبوتات المواكبة دون علامات",
-      "summaryOriginal": "Manufacturing floors, warehouses and production lines rarely stay fixed — tasks change, layouts shift and new products arrive, and most robots can’t keep up without significant reprogramming. Skild AI’s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses […]",
+      "summary": "أداء كبير وبصمة بحجم مناسب — ترجمة مصممة للسرعة وكفاءة التكلفة.",
+      "summaryOriginal": "Outsized performance, right-sized footprint — translation built for speed and cost efficiency.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai",
-      "sourceLabel": "NVIDIA Blog",
+      "source": "https://cohere.com/blog/north-small-translate",
+      "sourceLabel": "Cohere Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:30:35+00:00"
-    },
-    {
-      "id": "efed02d6b2f8ed9c1fdd",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "الذكاء الاصطناعي المادي يأخذ عجلة القيادة: كيف يبني قادة التاكسي الآلي في العالم مع تقنيات NVIDIA",
-      "titleOriginal": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "من المتوقع أن يصل سوق التاكسي الآلي العالمي — أول اختراق تجاري للذكاء الاصطناعي المادي — إلى 400 مليار دولار بحلول عام 2035، مع تشغيل أكثر من 6 ملايين مركبة تجارية",
-      "summaryOriginal": "The global robotaxi market — physical AI’s first commercial breakthrough — is projected to reach $400 billion by 2035, with over 6 million commercial vehicles in operation as driverless fleets are already moving people through some of the world’s busiest and most complex streets. Deploying a driverless vehicle is one challenge. Scaling a fleet is […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T16:00:04+00:00"
+      "searchAliases": "Cohere Introducing North Small Translate: A leading sovereign open-weight machine translation model"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-16T11:36:31.866622+00:00",
-  "lastFastCheckAt": "2026-09-16T15:28:53.554431+00:00"
+  "lastDeepCheckAt": "2026-09-16T15:33:15.470092+00:00"
 }
