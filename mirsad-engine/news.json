@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T14:58:22.692186+00:00",
-  "checkedAt": "2026-09-16T14:58:22.692186+00:00",
-  "newestPublishedAt": "2026-09-16T13:00:33+00:00",
+  "updatedAt": "2026-09-16T15:03:28.762847+00:00",
+  "checkedAt": "2026-09-16T15:03:28.762847+00:00",
+  "newestPublishedAt": "2026-09-16T15:00:48+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "177d62cfd754af48ece9",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "تقدم NVIDIA Vera Rubin NVL72 أداءً رائدًا في استدلال MLPerf v6.1 لأول مرة",
+      "titleOriginal": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يعد أداء النظام وتوسيع نطاق البنية التحتية الفعالة والتحسين المستمر للبرامج من العوامل الرئيسية التي تحدد اقتصاديات الاستدلال بالذكاء الاصطناعي. أداء أعلى للنظام",
+      "summaryOriginal": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T15:00:48+00:00"
+    },
     {
       "id": "aa6f620a19099be6384d",
       "company": "NVIDIA",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-10T16:00:00+00:00"
-    },
-    {
-      "id": "0a04b5e82d74b1ef9cc6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الآن يمكن للجميع استخدام البيانات",
-      "titleOriginal": "Now everyone can put data to work",
-      "dateLabel": "10 سبتمبر 2026",
-      "dateISO": "2026-09-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "قابل وكيل البيانات في ChatGPT Work. ربط بيانات الشركة، وكشف الرؤى، وبناء لوحات معلومات تفاعلية باستخدام الذكاء الاصطناعي باستخدام اللغة الطبيعية.",
-      "summaryOriginal": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/put-data-to-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Now everyone can put data to work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-10T15:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T11:36:31.866622+00:00",
-  "lastFastCheckAt": "2026-09-16T14:58:22.692186+00:00"
+  "lastFastCheckAt": "2026-09-16T15:03:28.762847+00:00"
 }
