@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T16:29:41.942426+00:00",
-  "checkedAt": "2026-09-16T16:29:41.942426+00:00",
+  "updatedAt": "2026-09-16T16:34:46.621479+00:00",
+  "checkedAt": "2026-09-16T16:34:46.621479+00:00",
   "newestPublishedAt": "2026-09-16T16:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T15:47:39+00:00"
+    },
+    {
+      "id": "6f1f7c32dec88c34d6d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "كيف يفتح العمال طرقًا جديدة للعمل",
+      "titleOriginal": "How workers are unlocking new ways of working",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "research",
+      "importance": 86,
+      "summary": "تُظهر OpenAI Economic Research الجديدة كيف يستخدم العمال الذكاء الاصطناعي خارج الأدوار التقليدية وما هي الأنشطة الجديدة التي تصبح أجزاء متكررة من عملهم.",
+      "summaryOriginal": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/unlocking-new-ways-of-working",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How workers are unlocking new ways of working",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T09:00:00+00:00"
     },
     {
       "id": "a8a40dafc20d6b2f6d4e",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Cognition helps Devin test its own work with GPT‑6 Astra"
-    },
-    {
-      "id": "d2cbcf1f3b3e3884d666",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع نطاق التخزين عبر الإنترنت بسرعة لخدمة أكثر من مليار مستخدم ChatGPT",
-      "titleOriginal": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "dateLabel": "11 سبتمبر 2026",
-      "dateISO": "2026-09-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية تطوير OpenAI Habitat من مكتبة Python إلى منصة تخزين موزعة عالميًا تخدم مليار مستخدم ChatGPT و 22 مليون طلب في الثانية.",
-      "summaryOriginal": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T15:33:15.470092+00:00",
-  "lastFastCheckAt": "2026-09-16T16:29:41.942426+00:00"
+  "lastFastCheckAt": "2026-09-16T16:34:46.621479+00:00"
 }
