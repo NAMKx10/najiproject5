@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-16T16:34:46.621479+00:00",
-  "checkedAt": "2026-09-16T16:34:46.621479+00:00",
+  "updatedAt": "2026-09-16T16:39:51.342692+00:00",
+  "checkedAt": "2026-09-16T16:39:51.342692+00:00",
   "newestPublishedAt": "2026-09-16T16:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -691,6 +691,32 @@
       "searchAliases": "Cohere Who Gets to Define the Rules for AI? | Cohere"
     },
     {
+      "id": "d2cbcf1f3b3e3884d666",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع نطاق التخزين عبر الإنترنت بسرعة لخدمة أكثر من مليار مستخدم ChatGPT",
+      "titleOriginal": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "dateLabel": "11 سبتمبر 2026",
+      "dateISO": "2026-09-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية تطوير OpenAI Habitat من مكتبة Python إلى منصة تخزين موزعة عالميًا تخدم مليار مستخدم ChatGPT و 22 مليون طلب في الثانية.",
+      "summaryOriginal": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-11T10:00:00+00:00"
+    },
+    {
       "id": "8f069f329a16f31d257a",
       "company": "Amazon",
       "logoText": "AWS",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations"
-    },
-    {
-      "id": "01c958b6dd34912ee86c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يساعد الإدراك ديفين على اختبار عملها الخاص مع GPT‑6 Astra",
-      "titleOriginal": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "dateLabel": "11 سبتمبر 2026",
-      "dateISO": "2026-09-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل GPT‑6 Astra على تحسين قدرة Devin على اختبار البرامج وإظهار أنها تعمل، بهدف مساعدة المهندسين على مراجعة تعليمات برمجية أقل وشحن المزيد.",
-      "summaryOriginal": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Cognition helps Devin test its own work with GPT‑6 Astra"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-16T15:33:15.470092+00:00",
-  "lastFastCheckAt": "2026-09-16T16:34:46.621479+00:00"
+  "lastFastCheckAt": "2026-09-16T16:39:51.342692+00:00"
 }
