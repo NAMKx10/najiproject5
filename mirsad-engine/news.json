@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T14:12:14.240487+00:00",
-  "checkedAt": "2026-09-17T14:12:14.240487+00:00",
+  "updatedAt": "2026-09-17T14:17:17.511192+00:00",
+  "checkedAt": "2026-09-17T14:17:17.511192+00:00",
   "newestPublishedAt": "2026-09-17T14:00:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     },
     {
+      "id": "f624c159c19ef0f343d2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف بنت الموجة التاسعة التمويل المفتوح المدعوم بالذكاء الاصطناعي على Amazon Bedrock",
+      "titleOriginal": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية قيام Ninth Wave ببناء Compass، وهو مساعد متعدد الوكلاء للذكاء الاصطناعي على منصة Amazon Bedrock AgentCore التي تتحقق من صحة واجهات برمجة التطبيقات المصرفية مقابل منصة Financial Data Exchange (FDX)",
+      "summaryOriginal": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T15:58:57+00:00"
+    },
+    {
       "id": "27e712e4a140038c138f",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Apple Major updates for Apple’s software platforms are now available"
-    },
-    {
-      "id": "366139a1c6e127deece9",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "Siri AI، وهو مساعد شخصي أكثر قدرة وشخصية، موجود هنا",
-      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
-      "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T14:12:14.240487+00:00"
+  "lastFastCheckAt": "2026-09-17T14:17:17.511192+00:00"
 }
