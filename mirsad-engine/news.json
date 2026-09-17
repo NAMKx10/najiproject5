@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T17:50:21.784555+00:00",
-  "checkedAt": "2026-09-17T17:50:21.784555+00:00",
-  "newestPublishedAt": "2026-09-17T15:53:13+00:00",
+  "updatedAt": "2026-09-17T17:55:25.886276+00:00",
+  "checkedAt": "2026-09-17T17:55:25.886276+00:00",
+  "newestPublishedAt": "2026-09-17T17:55:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a41872451f116234ada8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "تقليل وقت التوظيف للمرشحين ذوي الجودة العالية مع مواهب أمازون كونيكت المدعومة بالذكاء الاصطناعي",
+      "titleOriginal": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "research",
+      "importance": 86,
+      "summary": "Amazon Connect Talent هو حل توظيف للذكاء الاصطناعي تم تصميمه لقادة اكتساب المواهب الذين يديرون التوظيف على نطاق واسع. يقدم المقابلات التي يقودها الذكاء الاصطناعي، والتقييمات القائمة على البيانات، والتعاون",
+      "summaryOriginal": "Amazon Connect Talent is an AI hiring solution built for talent acquisition leaders managing scaled hiring. It delivers AI-led interviews, data-driven assessments, and consistent evaluation, helping recruiters identify strong candidates more efficiently while providing applicants with a flexible interview experience. Informed by decades of Amazon's hiring science, Amazon Connect Talent provides transparency for every assessment, interview, and candidate score, enabling recruiters to stay in control of final hiring decisions.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T17:55:20+00:00"
+    },
     {
       "id": "5100082935b2c8e701aa",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
-    },
-    {
-      "id": "d3cf6edb136697928818",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
-      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T15:19:15.973309+00:00",
-  "lastFastCheckAt": "2026-09-17T17:50:21.784555+00:00"
+  "lastFastCheckAt": "2026-09-17T17:55:25.886276+00:00"
 }
