@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T15:38:43.481284+00:00",
-  "checkedAt": "2026-09-17T15:38:43.481284+00:00",
-  "newestPublishedAt": "2026-09-17T15:36:42+00:00",
+  "updatedAt": "2026-09-17T15:43:40.039519+00:00",
+  "checkedAt": "2026-09-17T15:43:40.039519+00:00",
+  "newestPublishedAt": "2026-09-17T15:42:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "9a94bd0a40bf9bef8bc8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "لوحة معلومات مقاييس Git بدون خادم تعتمد على البيانات باستخدام Amazon Quick Sight",
+      "titleOriginal": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلم كيفية إنشاء خط أنابيب بدون خادم بالكامل يجمع تلقائيًا مقاييس Git من GitHub و GitLab ويعرضها في لوحة تحكم Amazon Quick Sight التفاعلية",
+      "summaryOriginal": "Learn how to build a fully serverless pipeline that automatically collects Git metrics from GitHub and GitLab and visualizes them in interactive Amazon Quick Sight dashboards, giving engineering teams near-real-time delivery analytics at low cost.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T15:42:31+00:00"
+    },
+    {
+      "id": "119b321f18ab9cf356e8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "منصة وكيل مشتركة لـ Wood Mackenzie، على Amazon Bedrock AgentCore",
+      "titleOriginal": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قام Wood Mackenzie ببناء Apex، وهي منصة ذكاء اصطناعي مشتركة على Amazon Bedrock AgentCore حتى يتمكن كل فريق من شحن وكلاء الإنتاج دون إعادة بناء وقت التشغيل والهوية والملاحظة",
+      "summaryOriginal": "Wood Mackenzie built APEX, a shared agentic AI platform on Amazon Bedrock AgentCore so every team can ship production agents without rebuilding runtime, identity, observability, and guardrails from scratch. Learn why they chose AgentCore, how APEX Studio operates it, and where multi-agent systems go next.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T15:41:03+00:00"
+    },
     {
       "id": "9f58b41be23b44b1d554",
       "company": "Amazon",
@@ -699,61 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-14T17:10:12.527000+00:00"
-    },
-    {
-      "id": "5f82dba17fc6fa3aabbe",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "Siri AI، وهو مساعد شخصي أكثر قدرة وشخصية، موجود هنا",
-      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
-      "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:09:41.324000+00:00"
-    },
-    {
-      "id": "27e712e4a140038c138f",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "جهاز الكمبيوتر المحمول فيربليكستي متوفر الآن على ويندوز، مدعوم من إنفيديا آر تي إكس",
-      "titleOriginal": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "عندما تصبح النماذج المحلية أكثر قدرة، يمكن لوكلاء الذكاء الاصطناعي التعامل مع المزيد من العمل مباشرة على جهاز الكمبيوتر مع الحفاظ على المعلومات الحساسة على الجهاز. الكمبيوتر المحمول هو نسخة محلية",
-      "summaryOriginal": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T15:00:52+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T15:19:15.973309+00:00",
-  "lastFastCheckAt": "2026-09-17T15:38:43.481284+00:00"
+  "lastFastCheckAt": "2026-09-17T15:43:40.039519+00:00"
 }
