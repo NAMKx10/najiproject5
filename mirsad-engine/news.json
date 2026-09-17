@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T15:48:46.571779+00:00",
-  "checkedAt": "2026-09-17T15:48:46.571779+00:00",
-  "newestPublishedAt": "2026-09-17T15:42:31+00:00",
+  "updatedAt": "2026-09-17T15:53:49.423932+00:00",
+  "checkedAt": "2026-09-17T15:53:49.423932+00:00",
+  "newestPublishedAt": "2026-09-17T15:53:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5100082935b2c8e701aa",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "اختيار متجر متجهات لقواعد معرفة Amazon Bedrock",
+      "titleOriginal": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "research",
+      "importance": 86,
+      "summary": "يؤثر اختيار متجر المتجهات المناسب لتطبيق RAG لقواعد المعرفة في Amazon Bedrock على الأداء والتكلفة. يقارن هذا المنشور بين Amazon OpenSearch Service وAmazon",
+      "summaryOriginal": "Choosing the right vector store for your Amazon Bedrock Knowledge Bases RAG application affects performance and cost. This post compares Amazon OpenSearch Service, Amazon Aurora PostgreSQL with pgvector, and Amazon S3 Vectors across three RAG use cases, with benchmarks and a practical selection framework.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Selecting a vector store for Amazon Bedrock Knowledge Bases",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T15:53:13+00:00"
+    },
     {
       "id": "9a94bd0a40bf9bef8bc8",
       "company": "Amazon",
@@ -725,35 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
-    },
-    {
-      "id": "24d122a003138409f5f3",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
-      "titleOriginal": "Major updates for Apple’s software platforms are now available",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
-      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Major updates for Apple’s software platforms are now available",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:10:12.527000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T15:19:15.973309+00:00",
-  "lastFastCheckAt": "2026-09-17T15:48:46.571779+00:00"
+  "lastFastCheckAt": "2026-09-17T15:53:49.423932+00:00"
 }
