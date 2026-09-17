@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T13:57:04.301458+00:00",
-  "checkedAt": "2026-09-17T13:57:04.301458+00:00",
-  "newestPublishedAt": "2026-09-16T19:00:00+00:00",
+  "updatedAt": "2026-09-17T14:02:08.335228+00:00",
+  "checkedAt": "2026-09-17T14:02:08.335228+00:00",
+  "newestPublishedAt": "2026-09-17T14:00:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cbc97cdfa39e8511d68b",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "أعمال وشراكات",
+      "title": "ما تعلمناه من تحول مايكروسوفت إلى الذكاء الاصطناعي",
+      "titleOriginal": "What we’ve learned from Microsoft’s own AI transformation",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "business",
+      "importance": 82,
+      "summary": "يعيد الذكاء الاصطناعي تشكيل العمل بشكل أسرع من أي منظمة أتقنتها بالكامل. عبر الصناعات، تحولت المحادثة من ما يمكن أن يفعله الذكاء الاصطناعي إلى كيف يمكن للشركات استخدام الذكاء الاصطناعي",
+      "summaryOriginal": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:... The post What we’ve learned from Microsoft’s own AI transformation appeared first on The Official Microsoft Blog .",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft What we’ve learned from Microsoft’s own AI transformation",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T14:00:05+00:00"
+    },
     {
       "id": "f38341d7421950db8893",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
-    },
-    {
-      "id": "d73b063768fa673534ca",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف بنت Fyxer مساعدًا تنفيذيًا للذكاء الاصطناعي يثق به الناس",
-      "titleOriginal": "How Fyxer built an AI executive assistant people trust",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم Fyxer نماذج OpenAI، والضبط الدقيق، والذاكرة، وملاحظات المستخدم الحقيقية لتنظيم البريد الوارد ومسودة رسائل البريد الإلكتروني في صوت كل مستخدم.",
-      "summaryOriginal": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/fyxer",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Fyxer built an AI executive assistant people trust"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T13:57:04.301458+00:00"
+  "lastFastCheckAt": "2026-09-17T14:02:08.335228+00:00"
 }
