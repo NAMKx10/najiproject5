@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T12:32:02.795628+00:00",
-  "checkedAt": "2026-09-17T12:32:02.795628+00:00",
+  "updatedAt": "2026-09-17T12:37:10.190835+00:00",
+  "checkedAt": "2026-09-17T12:37:10.190835+00:00",
   "newestPublishedAt": "2026-09-16T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -9,9 +9,9 @@
     {
       "company": "OpenAI",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "company": "Microsoft",
@@ -725,5 +725,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T12:32:02.795628+00:00"
+  "lastFastCheckAt": "2026-09-17T12:37:10.190835+00:00"
 }
