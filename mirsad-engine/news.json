@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T14:02:08.335228+00:00",
-  "checkedAt": "2026-09-17T14:02:08.335228+00:00",
+  "updatedAt": "2026-09-17T14:07:13.318749+00:00",
+  "checkedAt": "2026-09-17T14:07:13.318749+00:00",
   "newestPublishedAt": "2026-09-17T14:00:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     },
     {
+      "id": "d73b063768fa673534ca",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف بنت Fyxer مساعدًا تنفيذيًا للذكاء الاصطناعي يثق به الناس",
+      "titleOriginal": "How Fyxer built an AI executive assistant people trust",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Fyxer نماذج OpenAI، والضبط الدقيق، والذاكرة، وملاحظات المستخدم الحقيقية لتنظيم البريد الوارد ومسودة رسائل البريد الإلكتروني في صوت كل مستخدم.",
+      "summaryOriginal": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/fyxer",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Fyxer built an AI executive assistant people trust",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T12:00:00+00:00"
+    },
+    {
       "id": "150cba9c9239cbc5a17c",
       "company": "Amazon",
       "logoText": "AWS",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock"
-    },
-    {
-      "id": "1a3913f9f23deb032fa0",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "جهاز الكمبيوتر المحمول فيربليكستي متوفر الآن على ويندوز، مدعوم من إنفيديا آر تي إكس",
-      "titleOriginal": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "عندما تصبح النماذج المحلية أكثر قدرة، يمكن لوكلاء الذكاء الاصطناعي التعامل مع المزيد من العمل مباشرة على جهاز الكمبيوتر مع الحفاظ على المعلومات الحساسة على الجهاز. الكمبيوتر المحمول هو نسخة محلية",
-      "summaryOriginal": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T14:02:08.335228+00:00"
+  "lastFastCheckAt": "2026-09-17T14:07:13.318749+00:00"
 }
