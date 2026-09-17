@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T18:00:26.639149+00:00",
-  "checkedAt": "2026-09-17T18:00:26.639149+00:00",
+  "updatedAt": "2026-09-17T18:05:31.137881+00:00",
+  "checkedAt": "2026-09-17T18:05:31.137881+00:00",
   "newestPublishedAt": "2026-09-17T17:55:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -611,6 +611,32 @@
       "searchAliases": "xAI Memory in Grok Build"
     },
     {
+      "id": "4ef49f59dc19279034f7",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
+      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T16:00:44+00:00"
+    },
+    {
       "id": "59d2a2713896ca1116c6",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Build an AI-powered product tagging system with Amazon SageMaker serverless model customization"
-    },
-    {
-      "id": "9518578997fa2a42b3d0",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الإعلان عن قوائم تفضيلات المثال لوظائف التدريب على الذكاء الاصطناعي في Amazon SageMaker",
-      "titleOriginal": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم Amazon SageMaker AI الآن قوائم تفضيلات مثيلة لوظائف التدريب والمعالجة. حدد قائمة مرتبة تضم ما يصل إلى خمسة أنواع من المثيلات، و SageMaker AI automati",
-      "summaryOriginal": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available capacity, eliminating manual retry loops and capacity-watching scripts.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Announcing instance preference lists for Amazon SageMaker AI training jobs"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T15:19:15.973309+00:00",
-  "lastFastCheckAt": "2026-09-17T18:00:26.639149+00:00"
+  "lastFastCheckAt": "2026-09-17T18:05:31.137881+00:00"
 }
