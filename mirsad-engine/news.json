@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T15:28:31.288801+00:00",
-  "checkedAt": "2026-09-17T15:28:31.288801+00:00",
-  "newestPublishedAt": "2026-09-17T14:00:05+00:00",
+  "updatedAt": "2026-09-17T15:33:35.223734+00:00",
+  "checkedAt": "2026-09-17T15:33:35.223734+00:00",
+  "newestPublishedAt": "2026-09-17T15:30:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "79a3e4d86aa0bab6b159",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تنفيذ تفويض الدفاع المتعمق لأدوات MCP على Amazon Quick",
+      "titleOriginal": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية فرض تفويض الدفاع المتعمق لأدوات بروتوكول السياق النموذجي (MCP) على Amazon Quick. يقوم هذا الفحص بتحويل مجموعة Microsoft Entra ID و claims - bas",
+      "summaryOriginal": "Learn how to enforce defense-in-depth authorization for Model Context Protocol (MCP) tools on Amazon Quick. This walkthrough wires Microsoft Entra ID group and claims-based JWTs through an Amazon Bedrock AgentCore Gateway interceptor to apply per-user, per-tool role-based and attribute-based access control, with a server-side check and an immutable audit trail.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T15:30:17+00:00"
+    },
+    {
+      "id": "f5f1931d7eadaf8dac52",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "تعزيز السلامة الصناعية باستخدام بيانات اصطناعية على Amazon SageMaker AI",
+      "titleOriginal": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرف على كيفية إنشاء خط أنابيب لزيادة البيانات الاصطناعية على Amazon SageMaker AI وAmazon Rekognition الذي يولد صورًا تدريبية واقعية وموسومة تلقائيًا لـ i",
+      "summaryOriginal": "Learn how to build a synthetic data augmentation pipeline on Amazon SageMaker AI and Amazon Rekognition that generates photo-realistic, auto-labeled training images for industrial safety AI. This approach improved person detection by up to 160% without manual annotation or hazardous data collection near heavy machinery.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T15:28:08+00:00"
+    },
     {
       "id": "30787a025c36077a15c9",
       "company": "Microsoft",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "916db159fd1f5cb57a3a",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
-      "titleOriginal": "Major updates for Apple’s software platforms are now available",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
-      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Major updates for Apple’s software platforms are now available"
-    },
-    {
-      "id": "366139a1c6e127deece9",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "Siri AI، وهو مساعد شخصي أكثر قدرة وشخصية، موجود هنا",
-      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
-      "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T15:19:15.973309+00:00",
-  "lastFastCheckAt": "2026-09-17T15:28:31.288801+00:00"
+  "lastFastCheckAt": "2026-09-17T15:33:35.223734+00:00"
 }
