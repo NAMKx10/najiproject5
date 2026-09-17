@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T14:27:37.475679+00:00",
-  "checkedAt": "2026-09-17T14:27:37.475679+00:00",
+  "updatedAt": "2026-09-17T14:32:40.597267+00:00",
+  "checkedAt": "2026-09-17T14:32:40.597267+00:00",
   "newestPublishedAt": "2026-09-17T14:00:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     },
     {
+      "id": "2dbb968caf66eb8e7bde",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إدارة موافقة OAuth للمستخدم النهائي لوكلاء الذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقدم Amazon Bedrock AgentCore Identity الآن بوابة موافقة وتجربة ويب مُدارة ونقطة نهاية ملزمة للجلسة لبوابة AgentCore. يمر هذا المنشور بشرط",
+      "summaryOriginal": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack authorization code grant targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T20:35:45+00:00"
+    },
+    {
       "id": "24d122a003138409f5f3",
       "company": "Apple",
       "logoText": "",
@@ -730,30 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-14T12:00:00+00:00"
-    },
-    {
-      "id": "150cba9c9239cbc5a17c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "ذكاء اصطناعي غير طبيعي: Amazon Bedrock AgentCore لأمن البريد الإلكتروني للوكيل على نطاق واسع",
-      "titleOriginal": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرف على كيفية نشر الذكاء الاصطناعي غير الطبيعي لمترجم Amazon Bedrock AgentCore Code كمنصة حوسبة سريعة الزوال للوكلاء الذين يقفون وراء اكتشاف تهديدات البريد الإلكتروني في الوقت الفعلي في",
-      "summaryOriginal": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T14:27:37.475679+00:00"
+  "lastFastCheckAt": "2026-09-17T14:32:40.597267+00:00"
 }
