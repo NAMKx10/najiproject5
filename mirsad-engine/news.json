@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T14:22:20.906790+00:00",
-  "checkedAt": "2026-09-17T14:22:20.906790+00:00",
+  "updatedAt": "2026-09-17T14:27:37.475679+00:00",
+  "checkedAt": "2026-09-17T14:27:37.475679+00:00",
   "newestPublishedAt": "2026-09-17T14:00:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     },
     {
+      "id": "24d122a003138409f5f3",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
+      "titleOriginal": "Major updates for Apple’s software platforms are now available",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
+      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Major updates for Apple’s software platforms are now available",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T17:10:12.527000+00:00"
+    },
+    {
       "id": "5f82dba17fc6fa3aabbe",
       "company": "Apple",
       "logoText": "",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale"
-    },
-    {
-      "id": "0186347c26824864a0bf",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "إدارة موافقة OAuth للمستخدم النهائي لوكلاء الذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقدم Amazon Bedrock AgentCore Identity الآن بوابة موافقة وتجربة ويب مُدارة ونقطة نهاية ملزمة للجلسة لبوابة AgentCore. يمر هذا المنشور بشرط",
-      "summaryOriginal": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack authorization code grant targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T14:22:20.906790+00:00"
+  "lastFastCheckAt": "2026-09-17T14:27:37.475679+00:00"
 }
