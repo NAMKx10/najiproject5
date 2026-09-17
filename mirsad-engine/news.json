@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T14:32:40.597267+00:00",
-  "checkedAt": "2026-09-17T14:32:40.597267+00:00",
+  "updatedAt": "2026-09-17T14:37:47.027967+00:00",
+  "checkedAt": "2026-09-17T14:37:47.027967+00:00",
   "newestPublishedAt": "2026-09-17T14:00:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     },
     {
+      "id": "f70722e6cc356ec025c5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "ذكاء اصطناعي غير طبيعي: Amazon Bedrock AgentCore لأمن البريد الإلكتروني للوكيل على نطاق واسع",
+      "titleOriginal": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرف على كيفية نشر الذكاء الاصطناعي غير الطبيعي لمترجم Amazon Bedrock AgentCore Code كمنصة حوسبة سريعة الزوال للوكلاء الذين يقفون وراء اكتشاف تهديدات البريد الإلكتروني في الوقت الفعلي في",
+      "summaryOriginal": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-14T21:22:45+00:00"
+    },
+    {
       "id": "2dbb968caf66eb8e7bde",
       "company": "Amazon",
       "logoText": "AWS",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-14T15:00:52+00:00"
-    },
-    {
-      "id": "d73b063768fa673534ca",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف بنت Fyxer مساعدًا تنفيذيًا للذكاء الاصطناعي يثق به الناس",
-      "titleOriginal": "How Fyxer built an AI executive assistant people trust",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم Fyxer نماذج OpenAI، والضبط الدقيق، والذاكرة، وملاحظات المستخدم الحقيقية لتنظيم البريد الوارد ومسودة رسائل البريد الإلكتروني في صوت كل مستخدم.",
-      "summaryOriginal": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/fyxer",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Fyxer built an AI executive assistant people trust",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T10:26:50.111331+00:00",
-  "lastFastCheckAt": "2026-09-17T14:32:40.597267+00:00"
+  "lastFastCheckAt": "2026-09-17T14:37:47.027967+00:00"
 }
