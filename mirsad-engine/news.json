@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T13:08:38.026673+00:00",
-  "checkedAt": "2026-09-18T13:08:38.026673+00:00",
-  "newestPublishedAt": "2026-09-17T17:55:20+00:00",
+  "updatedAt": "2026-09-18T13:13:35.129108+00:00",
+  "checkedAt": "2026-09-18T13:13:35.129108+00:00",
+  "newestPublishedAt": "2026-09-18T13:08:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2d583aa9e7ac310f84c0",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Amazon SageMaker HyperPod Inference Gateway",
+      "titleOriginal": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "Amazon SageMaker HyperPod Inference Gateway هي إضافة توجيه Kubernetes أصلية مدركة لوحدة معالجة الرسومات لـ Amazon EKS. يستخدم إشارات GPU في الوقت الفعلي لإرسال كل طلب استدلال",
+      "summaryOriginal": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Amazon SageMaker HyperPod Inference Gateway",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-18T13:08:34+00:00"
+    },
     {
       "id": "031ebeefeca2640f78ef",
       "company": "Amazon",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
-    },
-    {
-      "id": "24d122a003138409f5f3",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
-      "titleOriginal": "Major updates for Apple’s software platforms are now available",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
-      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Major updates for Apple’s software platforms are now available",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:10:12.527000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T11:16:42.613193+00:00",
-  "lastFastCheckAt": "2026-09-18T13:08:38.026673+00:00"
+  "lastFastCheckAt": "2026-09-18T13:13:35.129108+00:00"
 }
