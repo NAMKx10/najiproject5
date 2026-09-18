@@ -1,52 +1,52 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T14:59:54.447080+00:00",
-  "checkedAt": "2026-09-18T14:59:54.447080+00:00",
+  "updatedAt": "2026-09-18T15:02:14.916024+00:00",
+  "checkedAt": "2026-09-18T15:02:14.916024+00:00",
   "newestPublishedAt": "2026-09-18T13:08:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "kind": "feed",
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://huggingface.co/blog/feed.xml"
     },
     {
       "company": "Google",
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "2d583aa9e7ac310f84c0",
+      "id": "57766250be714be9217d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "Amazon SageMaker HyperPod Inference Gateway هي إضافة توجيه Kubernetes أصلية مدركة لوحدة معالجة الرسومات لـ Amazon EKS. يستخدم إشارات GPU في الوقت الفعلي لإرسال كل طلب استدلال",
       "summaryOriginal": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Amazon SageMaker HyperPod Inference Gateway",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T13:08:34+00:00"
+      "searchAliases": "Amazon Introducing Amazon SageMaker HyperPod Inference Gateway"
     },
     {
       "id": "031ebeefeca2640f78ef",
@@ -434,27 +429,6 @@
       "searchAliases": "OpenAI Helping older adults use AI in everyday life"
     },
     {
-      "id": "93c67c600c06037d2611",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تحسين مطالبات نظام الوكيل باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يحول تحسين AgentCore آثار الإنتاج إلى تغييرات تكوين مقترحة، ثم يتحقق من صحتها قبل الترويج. هذا المصاحب الفني لمرحلة ما بعد الإطلاق يستكشف",
-      "summaryOriginal": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch post explains how the system prompt optimizer's reflector engine works and shares benchmark results for the Single Agent and Sub-Agent Reflectors.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Optimizing agent system prompts with Amazon Bedrock AgentCore"
-    },
-    {
       "id": "2a3495d92873084256fc",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -686,27 +660,6 @@
       "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
     },
     {
-      "id": "4ef49f59dc19279034f7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
-      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
-    },
-    {
       "id": "d3cf6edb136697928818",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -726,9 +679,50 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
+    },
+    {
+      "id": "916db159fd1f5cb57a3a",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
+      "titleOriginal": "Major updates for Apple’s software platforms are now available",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
+      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Major updates for Apple’s software platforms are now available"
+    },
+    {
+      "id": "366139a1c6e127deece9",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "Siri AI، وهو مساعد شخصي أكثر قدرة وشخصية، موجود هنا",
+      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "dateLabel": "14 سبتمبر 2026",
+      "dateISO": "2026-09-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
+      "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-18T11:16:42.613193+00:00",
-  "lastFastCheckAt": "2026-09-18T14:59:54.447080+00:00"
+  "lastDeepCheckAt": "2026-09-18T15:02:14.916024+00:00"
 }
