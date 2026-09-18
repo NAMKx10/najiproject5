@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T15:25:09.586881+00:00",
-  "checkedAt": "2026-09-18T15:25:09.586881+00:00",
-  "newestPublishedAt": "2026-09-18T13:08:34+00:00",
+  "updatedAt": "2026-09-18T15:30:12.166824+00:00",
+  "checkedAt": "2026-09-18T15:30:12.166824+00:00",
+  "newestPublishedAt": "2026-09-18T15:25:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "79c274c7ef7ca483ce89",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نشر نماذج Huging Face على Amazon SageMaker AI مع عوامل الترميز",
+      "titleOriginal": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "نشر نماذج Huging Face الجاهزة للإنتاج على Amazon SageMaker AI باستخدام ست مهارات وكيل مفتوح المصدر. قم بتوجيه عامل الترميز إلى نموذج واسترجع نقطة نهاية في الوقت الفعلي w",
+      "summaryOriginal": "Deploy production-ready Hugging Face models on Amazon SageMaker AI using six open-source agent skills. Point a coding agent at a model and get back a real-time endpoint with the right serving container, autoscaling, Amazon CloudWatch alarms, and a verified teardown path.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-18T15:25:23+00:00"
+    },
     {
       "id": "57766250be714be9217d",
       "company": "Amazon",
@@ -705,35 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
-    },
-    {
-      "id": "24d122a003138409f5f3",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "التحديثات الرئيسية لمنصات برامج Apple متاحة الآن",
-      "titleOriginal": "Major updates for Apple’s software platforms are now available",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أحدث تحديثات برامج Apple تقدم Siri AI وتقدم ميزات Apple Intelligence جديدة مفيدة.",
-      "summaryOriginal": "Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Major updates for Apple’s software platforms are now available",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:10:12.527000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T15:02:14.916024+00:00",
-  "lastFastCheckAt": "2026-09-18T15:25:09.586881+00:00"
+  "lastFastCheckAt": "2026-09-18T15:30:12.166824+00:00"
 }
