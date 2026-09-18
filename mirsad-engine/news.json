@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T15:30:12.166824+00:00",
-  "checkedAt": "2026-09-18T15:30:12.166824+00:00",
-  "newestPublishedAt": "2026-09-18T15:25:23+00:00",
+  "updatedAt": "2026-09-18T15:35:18.962828+00:00",
+  "checkedAt": "2026-09-18T15:35:18.962828+00:00",
+  "newestPublishedAt": "2026-09-18T15:31:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6b212eaa3e8523b77a07",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "وقت تشغيل AgentCore الجديد: يبدأ مرنًا ومحسنًا وسريعًا باستمرار",
+      "titleOriginal": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "نعلن اليوم عن وقت تشغيل AgentCore الجديد، وهي قدرة من Amazon Bedrock AgentCore مصممة للسرعة والمرونة وكفاءة التكلفة التي يتمتع بها وكلاء الإنتاج",
+      "summaryOriginal": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as sessions release it and delivers consistent cold starts regardless of image size or concurrency.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-18T15:31:34+00:00"
+    },
     {
       "id": "79c274c7ef7ca483ce89",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
-    },
-    {
-      "id": "d3cf6edb136697928818",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
-      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T15:02:14.916024+00:00",
-  "lastFastCheckAt": "2026-09-18T15:30:12.166824+00:00"
+  "lastFastCheckAt": "2026-09-18T15:35:18.962828+00:00"
 }
