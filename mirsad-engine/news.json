@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-17T23:54:47.846829+00:00",
-  "checkedAt": "2026-09-17T23:54:47.846829+00:00",
+  "updatedAt": "2026-09-17T23:59:47.678666+00:00",
+  "checkedAt": "2026-09-17T23:59:47.678666+00:00",
   "newestPublishedAt": "2026-09-17T17:55:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9568b057a58f6efbd015",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعمل Cooley على تسريع عمل الاكتتاب العام مع ChatGPT",
+      "titleOriginal": "How Cooley is accelerating IPO work with ChatGPT",
+      "dateLabel": "17 سبتمبر 2026",
+      "dateISO": "2026-09-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "قام كولي ببناء GO Public مع ChatGPT Work لجلب المعلومات الاستخبارية إلى عملية الاكتتاب العام، ومساعدة المحامين على إبراز القضايا في وقت مبكر وتركيز الحكم على الأمور الأكثر أهمية.",
+      "summaryOriginal": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cooley-gopublic",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Cooley is accelerating IPO work with ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-17T12:00:00+00:00"
+    },
     {
       "id": "031ebeefeca2640f78ef",
       "company": "Amazon",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-14T17:10:12.527000+00:00"
-    },
-    {
-      "id": "5f82dba17fc6fa3aabbe",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "Siri AI، وهو مساعد شخصي أكثر قدرة وشخصية، موجود هنا",
-      "titleOriginal": "Siri AI, a profoundly more capable and personal assistant, is here",
-      "dateLabel": "14 سبتمبر 2026",
-      "dateISO": "2026-09-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "أصدرت Apple اليوم الجيل التالي من Apple Intelligence.",
-      "summaryOriginal": "Apple today released the next generation of Apple Intelligence.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Siri AI, a profoundly more capable and personal assistant, is here",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-14T17:09:41.324000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-17T22:26:49.383999+00:00",
-  "lastFastCheckAt": "2026-09-17T23:54:47.846829+00:00"
+  "lastFastCheckAt": "2026-09-17T23:59:47.678666+00:00"
 }
