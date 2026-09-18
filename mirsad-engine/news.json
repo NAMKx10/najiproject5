@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T18:25:14.007189+00:00",
-  "checkedAt": "2026-09-18T18:25:14.007189+00:00",
+  "updatedAt": "2026-09-18T18:29:52.896197+00:00",
+  "checkedAt": "2026-09-18T18:29:52.896197+00:00",
   "newestPublishedAt": "2026-09-18T16:52:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "fe354da6f1038878d816",
+      "id": "86d790f9fe264fb594f9",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "يتوفر Kimi K3 من Moonshot AI الآن على Amazon Bedrock، مما يمنحك خيارًا جديدًا قويًا مفتوح الوزن للترميز والعمل المعرفي. إنه يوفر رؤية أصلية، وهي عبارة عن مطحنة واحدة",
       "summaryOriginal": "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision, a 1-million-token context window, and explicit prompt caching to reduce latency and input costs.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Kimi K3 on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T16:52:01+00:00"
+      "searchAliases": "Amazon Introducing Kimi K3 on Amazon Bedrock"
     },
     {
-      "id": "b541c4c8214c2025dbd6",
+      "id": "ef97b3ef7afee0ef772b",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "ترحيل وكيل ذكاء اصطناعي متعدد النماذج للرعاية الصحية من Amazon ECS المدارة ذاتيًا مع AWS Fargate إلى وقت تشغيل Amazon Bedrock AgentCore، مع الحفاظ على التنسيق الثلاثي الطراز و vec",
       "summaryOriginal": "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retrieval while reducing infrastructure management. The framework-agnostic pattern applies across healthcare, financial services, and manufacturing.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime",
+      "source": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T15:38:53+00:00"
+      "searchAliases": "Amazon Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime"
     },
     {
-      "id": "6b212eaa3e8523b77a07",
+      "id": "5a9168bb053a31953240",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "نعلن اليوم عن وقت تشغيل AgentCore الجديد، وهي قدرة من Amazon Bedrock AgentCore مصممة للسرعة والمرونة وكفاءة التكلفة التي يتمتع بها وكلاء الإنتاج",
       "summaryOriginal": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as sessions release it and delivers consistent cold starts regardless of image size or concurrency.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts",
+      "source": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T15:31:34+00:00"
+      "searchAliases": "Amazon The new AgentCore runtime: Elastic, optimized, and consistently fast starts"
     },
     {
-      "id": "79c274c7ef7ca483ce89",
+      "id": "4d8e7ff9b116bb86e838",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,17 +169,12 @@
       "summary": "نشر نماذج Huging Face الجاهزة للإنتاج على Amazon SageMaker AI باستخدام ست مهارات وكيل مفتوح المصدر. قم بتوجيه عامل الترميز إلى نموذج واسترجع نقطة نهاية في الوقت الفعلي w",
       "summaryOriginal": "Deploy production-ready Hugging Face models on Amazon SageMaker AI using six open-source agent skills. Point a coding agent at a model and get back a real-time endpoint with the right serving container, autoscaling, Amazon CloudWatch alarms, and a verified teardown path.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-hugging-face-models-on-amazon-sagemaker-ai-with-coding-agents/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T15:25:23+00:00"
+      "searchAliases": "Amazon Deploy Hugging Face models on Amazon SageMaker AI with coding agents"
     },
     {
       "id": "57766250be714be9217d",
@@ -216,6 +196,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Introducing Amazon SageMaker HyperPod Inference Gateway"
+    },
+    {
+      "id": "e557edd18333cc943eef",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Grok Voice Transcribe 2.0",
+      "titleOriginal": "Introducing Grok Voice Transcribe 2.0",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "الإعلان عن أحدث نموذج لتحويل الكلام إلى نص من SpaceXAI، بدقة وفعالية من حيث التكلفة لا مثيل لهما.",
+      "summaryOriginal": "Announcing SpaceXAI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://x.ai/news/grok-voice-transcribe-2",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Introducing Grok Voice Transcribe 2.0"
     },
     {
       "id": "031ebeefeca2640f78ef",
@@ -323,48 +324,6 @@
       "searchAliases": "Amazon How MRH Trowe enabled secure self-service AI agents in financial services"
     },
     {
-      "id": "56e3f1823b7c2db78cc4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تنفيذ تفويض الدفاع المتعمق لأدوات MCP على Amazon Quick",
-      "titleOriginal": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية فرض تفويض الدفاع المتعمق لأدوات بروتوكول السياق النموذجي (MCP) على Amazon Quick. يقوم هذا الفحص بتحويل مجموعة Microsoft Entra ID و claims - bas",
-      "summaryOriginal": "Learn how to enforce defense-in-depth authorization for Model Context Protocol (MCP) tools on Amazon Quick. This walkthrough wires Microsoft Entra ID group and claims-based JWTs through an Amazon Bedrock AgentCore Gateway interceptor to apply per-user, per-tool role-based and attribute-based access control, with a server-side check and an immutable audit trail.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/implementing-defense-in-depth-authorization-for-mcp-tools-on-amazon-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Implementing defense-in-depth authorization for MCP tools on Amazon Quick"
-    },
-    {
-      "id": "befefefdb72772061d62",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "تعزيز السلامة الصناعية باستخدام بيانات اصطناعية على Amazon SageMaker AI",
-      "titleOriginal": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرف على كيفية إنشاء خط أنابيب لزيادة البيانات الاصطناعية على Amazon SageMaker AI وAmazon Rekognition الذي يولد صورًا تدريبية واقعية وموسومة تلقائيًا لـ i",
-      "summaryOriginal": "Learn how to build a synthetic data augmentation pipeline on Amazon SageMaker AI and Amazon Rekognition that generates photo-realistic, auto-labeled training images for industrial safety AI. This approach improved person detection by up to 160% without manual annotation or hazardous data collection near heavy machinery.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI"
-    },
-    {
       "id": "30787a025c36077a15c9",
       "company": "Microsoft",
       "logoText": "MS",
@@ -428,67 +387,25 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
-      "id": "f38341d7421950db8893",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تحسين التفكير في الذكاء الاصطناعي لـ HCLS من خلال مهارات الوكيل مفتوح المصدر",
-      "titleOriginal": "Improving HCLS AI reasoning with open-source agent skills",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "غالبًا ما يسيء وكلاء الذكاء الاصطناعي في النماذج الأساسية تطبيق أطر قرارات الرعاية الصحية وعلوم الحياة، مستشهدين بالمبدأ التوجيهي الصحيح ولكنهم يطبقونه بشكل غير صحيح. يشارك هذا المنشور 3",
-      "summaryOriginal": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This post shares 38 open-source agent skills across 11 HCLS domains that close this gap, with installation steps, three worked use cases, and a 410-prompt evaluation showing a 70-86% win rate.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Improving HCLS AI reasoning with open-source agent skills"
-    },
-    {
-      "id": "7abc87bac336214385e1",
+      "id": "9e3b958deec67a80b175",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أعمال وشراكات",
-      "title": "التزام مايكروسوفت بالذكاء الاصطناعي في التعليم ؛ حماية الطلاب وتعزيز التعلم",
-      "titleOriginal": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
+      "title": "التزام مايكروسوفت بالذكاء الاصطناعي في التعليم: حماية الطلاب وتعزيز التعلم",
+      "titleOriginal": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
       "dateLabel": "16 سبتمبر 2026",
       "dateISO": "2026-09-16",
       "category": "business",
       "importance": 82,
       "summary": "تعمل مايكروسوفت في مجال التعليم منذ خمسة عقود. منذ الأيام الأولى لهذه الشركة، عملنا جنبًا إلى جنب مع المعلمين والطلاب والعائلات والمعلمين",
-      "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education; protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
+      "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education; protecting students, strengthening learning"
-    },
-    {
-      "id": "8f850829b2016926a958",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تدريب موزع متسامح مع الأخطاء على Amazon EKS باستخدام NVRx",
-      "titleOriginal": "Fault tolerant distributed training on Amazon EKS using NVRx",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "دمج NVIDIA Resiliency Extension (NVRx) في تدريب PyTorch FSDP على Amazon EKS لتداخل الإدخال/الإخراج لنقطة التفتيش مع التدريب والتعافي من أخطاء GPU في ثوانٍ. هذا",
-      "summaryOriginal": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in seconds. This post covers async checkpointing, in-process restart, and ft_launcher in-job restart, with H100 benchmarks at 2 to 8 nodes showing 99%+ training efficiency and second-scale recovery.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Fault tolerant distributed training on Amazon EKS using NVRx"
+      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning"
     },
     {
       "id": "827a0c403a3c663f4f72",
@@ -701,7 +618,7 @@
       "searchAliases": "xAI Memory in Grok Build"
     },
     {
-      "id": "ffca3d17982473923ecb",
+      "id": "1b9cf141bd5fda207c8b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -714,20 +631,15 @@
       "summary": "اعرف كل شيء. افعل أي شيء. كانت هذه هي الرسالة التي قدمها مؤسس NVIDIA والرئيس التنفيذي Jensen Huang إلى Salesforce Dreamforce يوم الثلاثاء، حيث انضم إلى الرئيس التنفيذي مارك بنيوف على خشبة المسرح في تطبيق",
       "summaryOriginal": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "source": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T22:24:34+00:00"
+      "searchAliases": "NVIDIA ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce"
     },
     {
-      "id": "a81f756b8403cb569fbc",
+      "id": "952cda3a0a3025953bf0",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -740,20 +652,77 @@
       "summary": "في أمسية شديدة الحرارة في أغسطس في وادي السيليكون، مع غروب الشمس وارتفاع أحمال تكييف الهواء، أرسلت شركة سيليكون فالي باور إشارة إلى مصنع للذكاء الاصطناعي لضبط",
       "summaryOriginal": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production",
+      "source": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:55:59+00:00"
+      "searchAliases": "NVIDIA From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production"
+    },
+    {
+      "id": "55ca0f351000282f3ff7",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "قمة البنية التحتية للذكاء الاصطناعي: تعرض تطورات منصة NVIDIA Vera Rubin و DSX كفاءات الطاقة لتحسين الرموز لكل واط لمصانع الذكاء الاصطناعي",
+      "titleOriginal": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تحدث إيان باك، نائب رئيس الحوسبة فائقة النطاق وعالية الأداء في NVIDIA، يوم الثلاثاء عن كفاءة مصنع الذكاء الاصطناعي في قمة البنية التحتية للذكاء الاصطناعي، واتفاقية سانتا كلارا",
+      "summaryOriginal": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
+    },
+    {
+      "id": "4ef49f59dc19279034f7",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
+      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
+    },
+    {
+      "id": "d3cf6edb136697928818",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
+      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-18T15:02:14.916024+00:00",
-  "lastFastCheckAt": "2026-09-18T18:25:14.007189+00:00"
+  "lastDeepCheckAt": "2026-09-18T18:29:52.896197+00:00"
 }
