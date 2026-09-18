@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T22:13:06.549562+00:00",
-  "checkedAt": "2026-09-18T22:13:06.549562+00:00",
+  "updatedAt": "2026-09-18T22:18:08.038221+00:00",
+  "checkedAt": "2026-09-18T22:18:08.038221+00:00",
   "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -644,6 +644,32 @@
       "searchAliases": "xAI Memory in Grok Build"
     },
     {
+      "id": "59d2a2713896ca1116c6",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
+      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T09:00:42+00:00"
+    },
+    {
       "id": "1b9cf141bd5fda207c8b",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
-    },
-    {
-      "id": "4ef49f59dc19279034f7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
-      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T21:16:11.320239+00:00",
-  "lastFastCheckAt": "2026-09-18T22:13:06.549562+00:00"
+  "lastFastCheckAt": "2026-09-18T22:18:08.038221+00:00"
 }
