@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T20:52:10.206572+00:00",
-  "checkedAt": "2026-09-18T20:52:10.206572+00:00",
-  "newestPublishedAt": "2026-09-18T16:52:01+00:00",
+  "updatedAt": "2026-09-18T20:57:11.937530+00:00",
+  "checkedAt": "2026-09-18T20:57:11.937530+00:00",
+  "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1561db23907ea806731b",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استدلال Amazon SageMaker: عمليات الإطلاق من عام 2026 حتى تاريخه قيد المراجعة",
+      "titleOriginal": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "شحنت Amazon SageMaker AI 13 إطلاق استدلال في النصف الأول من عام 2026 عبر مسارين للنشر: نقاط النهاية المدارة بالكامل و Amazon SageMaker HyperPod Inference.",
+      "summaryOriginal": "Amazon SageMaker AI shipped 13 inference launches in the first half of 2026 across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance pools to tiered KV caching and disaggregated prefill and decode.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 year-to-date launches in review",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-18T20:52:14+00:00"
+    },
     {
       "id": "86d790f9fe264fb594f9",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
-    },
-    {
-      "id": "d3cf6edb136697928818",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
-      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T18:29:52.896197+00:00",
-  "lastFastCheckAt": "2026-09-18T20:52:10.206572+00:00"
+  "lastFastCheckAt": "2026-09-18T20:57:11.937530+00:00"
 }
