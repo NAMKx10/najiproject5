@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T16:48:55.503949+00:00",
-  "checkedAt": "2026-09-18T16:48:55.503949+00:00",
-  "newestPublishedAt": "2026-09-18T15:38:53+00:00",
+  "updatedAt": "2026-09-18T16:53:58.494023+00:00",
+  "checkedAt": "2026-09-18T16:53:58.494023+00:00",
+  "newestPublishedAt": "2026-09-18T16:52:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fe354da6f1038878d816",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Kimi K3 على Amazon Bedrock",
+      "titleOriginal": "Introducing Kimi K3 on Amazon Bedrock",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر Kimi K3 من Moonshot AI الآن على Amazon Bedrock، مما يمنحك خيارًا جديدًا قويًا مفتوح الوزن للترميز والعمل المعرفي. إنه يوفر رؤية أصلية، وهي عبارة عن مطحنة واحدة",
+      "summaryOriginal": "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision, a 1-million-token context window, and explicit prompt caching to reduce latency and input costs.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Kimi K3 on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-18T16:52:01+00:00"
+    },
     {
       "id": "b541c4c8214c2025dbd6",
       "company": "Amazon",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-15T16:55:59+00:00"
-    },
-    {
-      "id": "9006be4c6be742ac3dca",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "قمة البنية التحتية للذكاء الاصطناعي: تعرض تطورات منصة NVIDIA Vera Rubin و DSX كفاءات الطاقة لتحسين الرموز لكل واط لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تحدث إيان باك، نائب رئيس الحوسبة فائقة النطاق وعالية الأداء في NVIDIA، يوم الثلاثاء عن كفاءة مصنع الذكاء الاصطناعي في قمة البنية التحتية للذكاء الاصطناعي، واتفاقية سانتا كلارا",
-      "summaryOriginal": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:55:40+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T15:02:14.916024+00:00",
-  "lastFastCheckAt": "2026-09-18T16:48:55.503949+00:00"
+  "lastFastCheckAt": "2026-09-18T16:53:58.494023+00:00"
 }
