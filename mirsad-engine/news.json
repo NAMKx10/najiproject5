@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T21:12:21.570615+00:00",
-  "checkedAt": "2026-09-18T21:12:21.570615+00:00",
+  "updatedAt": "2026-09-18T21:16:11.320239+00:00",
+  "checkedAt": "2026-09-18T21:16:11.320239+00:00",
   "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "1561db23907ea806731b",
+      "id": "5d211b2dfc474c382502",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "شحنت Amazon SageMaker AI 13 إطلاق استدلال في النصف الأول من عام 2026 عبر مسارين للنشر: نقاط النهاية المدارة بالكامل و Amazon SageMaker HyperPod Inference.",
       "summaryOriginal": "Amazon SageMaker AI shipped 13 inference launches in the first half of 2026 across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance pools to tiered KV caching and disaggregated prefill and decode.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 year-to-date launches in review",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T20:52:14+00:00"
+      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 year-to-date launches in review"
     },
     {
       "id": "86d790f9fe264fb594f9",
@@ -327,27 +322,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "259c096d725295142f38",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "كيف مكنت MRH Trowe وكلاء الذكاء الاصطناعي الآمنين للخدمة الذاتية في الخدمات المالية",
-      "titleOriginal": "How MRH Trowe enabled secure self-service AI agents in financial services",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرف على كيفية قيام MRH Trowe، أحد وسطاء التأمين التجاري والصناعي الرائدين في ألمانيا، بمنح حوالي 400 موظف إمكانية الوصول الآمن والخدمة الذاتية إلى وكلاء الذكاء الاصطناعي في أول",
-      "summaryOriginal": "Learn how MRH Trowe, one of Germany's leading commercial and industrial insurance brokers, gave about 400 employees secure, self-service access to AI agents in its first month of production - using Strands Agents, Amazon Bedrock AgentCore, and LibreChat to meet the security, data residency, and compliance requirements of the German financial sector.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How MRH Trowe enabled secure self-service AI agents in financial services"
     },
     {
       "id": "30787a025c36077a15c9",
@@ -644,7 +618,49 @@
       "searchAliases": "xAI Memory in Grok Build"
     },
     {
-      "id": "9006be4c6be742ac3dca",
+      "id": "1b9cf141bd5fda207c8b",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقول جنسن هوانغ في دريم فورس: \"الآن يمكننا أن نعرف كل شيء ونفعل أي شيء\"",
+      "titleOriginal": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "اعرف كل شيء. افعل أي شيء. كانت هذه هي الرسالة التي قدمها مؤسس NVIDIA والرئيس التنفيذي Jensen Huang إلى Salesforce Dreamforce يوم الثلاثاء، حيث انضم إلى الرئيس التنفيذي مارك بنيوف على خشبة المسرح في تطبيق",
+      "summaryOriginal": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce"
+    },
+    {
+      "id": "952cda3a0a3025953bf0",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "من الميجاوات إلى العملات الرمزية: كيف تزيد NVIDIA من إنتاج مصانع الذكاء الاصطناعي",
+      "titleOriginal": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في أمسية شديدة الحرارة في أغسطس في وادي السيليكون، مع غروب الشمس وارتفاع أحمال تكييف الهواء، أرسلت شركة سيليكون فالي باور إشارة إلى مصنع للذكاء الاصطناعي لضبط",
+      "summaryOriginal": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production"
+    },
+    {
+      "id": "55ca0f351000282f3ff7",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -657,17 +673,12 @@
       "summary": "تحدث إيان باك، نائب رئيس الحوسبة فائقة النطاق وعالية الأداء في NVIDIA، يوم الثلاثاء عن كفاءة مصنع الذكاء الاصطناعي في قمة البنية التحتية للذكاء الاصطناعي، واتفاقية سانتا كلارا",
       "summaryOriginal": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
+      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:55:40+00:00"
+      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories"
     },
     {
       "id": "4ef49f59dc19279034f7",
@@ -688,15 +699,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:00:44+00:00"
+      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
     },
     {
-      "id": "59d2a2713896ca1116c6",
+      "id": "d3cf6edb136697928818",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -709,41 +715,14 @@
       "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
       "summaryOriginal": "",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care",
+      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T09:00:42+00:00"
-    },
-    {
-      "id": "1b9cf141bd5fda207c8b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "يقول جنسن هوانغ في دريم فورس: \"الآن يمكننا أن نعرف كل شيء ونفعل أي شيء\"",
-      "titleOriginal": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "اعرف كل شيء. افعل أي شيء. كانت هذه هي الرسالة التي قدمها مؤسس NVIDIA والرئيس التنفيذي Jensen Huang إلى Salesforce Dreamforce يوم الثلاثاء، حيث انضم إلى الرئيس التنفيذي مارك بنيوف على خشبة المسرح في تطبيق",
-      "summaryOriginal": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce"
+      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-18T18:29:52.896197+00:00",
-  "lastFastCheckAt": "2026-09-18T21:12:21.570615+00:00"
+  "lastDeepCheckAt": "2026-09-18T21:16:11.320239+00:00"
 }
