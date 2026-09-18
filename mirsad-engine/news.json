@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-18T22:08:03.431709+00:00",
-  "checkedAt": "2026-09-18T22:08:03.431709+00:00",
+  "updatedAt": "2026-09-18T22:13:06.549562+00:00",
+  "checkedAt": "2026-09-18T22:13:06.549562+00:00",
   "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -387,6 +387,32 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "56046eb6ccc3d78b18ed",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحول HEX التحليل المعقد إلى تقارير مرئية باستخدام GPT‑6 Astra",
+      "titleOriginal": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعد GPT -6 Astra وكلاء بيانات Hex على تحويل الإجابات إلى تصورات تفاعلية يفخر الموظفون بمشاركتها.",
+      "summaryOriginal": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/hex-gpt-6-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T12:00:00+00:00"
+    },
+    {
       "id": "9e3b958deec67a80b175",
       "company": "Microsoft",
       "logoText": "MS",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?"
-    },
-    {
-      "id": "d3cf6edb136697928818",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "قلب الموضوع: كيف يستخدم مستشفى الأطفال الرئيسي NVIDIA AI مفتوح المصدر لرعاية القلب",
-      "titleOriginal": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-18T21:16:11.320239+00:00",
-  "lastFastCheckAt": "2026-09-18T22:08:03.431709+00:00"
+  "lastFastCheckAt": "2026-09-18T22:13:06.549562+00:00"
 }
