@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-19T05:17:31.050019+00:00",
-  "checkedAt": "2026-09-19T05:17:31.050019+00:00",
+  "updatedAt": "2026-09-19T05:22:31.694991+00:00",
+  "checkedAt": "2026-09-19T05:22:31.694991+00:00",
   "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0540f149fde55127532f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم مخطط سلامة الشباب الأسترالي",
+      "titleOriginal": "Introducing the Australian Youth Safety Blueprint",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI مخطط سلامة الشباب الأسترالي، وهو خارطة طريق سداسية الركائز لتجارب ذكاء اصطناعي أكثر أمانًا تحمي الشباب وتمكنهم.",
+      "summaryOriginal": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/australian-youth-safety-blueprint",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-18T12:00:00+00:00"
+    },
     {
       "id": "5d211b2dfc474c382502",
       "company": "Amazon",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-15T16:55:40+00:00"
-    },
-    {
-      "id": "4ef49f59dc19279034f7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
-      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:00:44+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-19T01:38:05.638482+00:00",
-  "lastFastCheckAt": "2026-09-19T05:17:31.050019+00:00"
+  "lastFastCheckAt": "2026-09-19T05:22:31.694991+00:00"
 }
