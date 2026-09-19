@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-19T20:48:35.009894+00:00",
-  "checkedAt": "2026-09-19T20:48:35.009894+00:00",
+  "updatedAt": "2026-09-19T20:53:36.300918+00:00",
+  "checkedAt": "2026-09-19T20:53:36.300918+00:00",
   "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -660,6 +660,32 @@
       "searchAliases": "xAI Memory in Grok Build"
     },
     {
+      "id": "ffca3d17982473923ecb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يقول جنسن هوانغ في دريم فورس: \"الآن يمكننا أن نعرف كل شيء ونفعل أي شيء\"",
+      "titleOriginal": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "dateLabel": "15 سبتمبر 2026",
+      "dateISO": "2026-09-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "اعرف كل شيء. افعل أي شيء. كانت هذه هي الرسالة التي قدمها مؤسس NVIDIA والرئيس التنفيذي Jensen Huang إلى Salesforce Dreamforce يوم الثلاثاء، حيث انضم إلى الرئيس التنفيذي مارك بنيوف على خشبة المسرح في تطبيق",
+      "summaryOriginal": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-15T22:24:34+00:00"
+    },
+    {
       "id": "a81f756b8403cb569fbc",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-15T16:55:40+00:00"
-    },
-    {
-      "id": "4ef49f59dc19279034f7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "قام وكيلك بإنجاز المهمة. هل سيفعل ذلك مرة أخرى ؟",
-      "titleOriginal": "Your Agent Aced the Task. Will It Do It Again?",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Agent Aced the Task. Will It Do It Again?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:00:44+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-19T20:42:03.156476+00:00",
-  "lastFastCheckAt": "2026-09-19T20:48:35.009894+00:00"
+  "lastFastCheckAt": "2026-09-19T20:53:36.300918+00:00"
 }
