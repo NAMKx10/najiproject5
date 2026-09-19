@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-19T08:32:40.448556+00:00",
-  "checkedAt": "2026-09-19T08:32:40.448556+00:00",
+  "updatedAt": "2026-09-19T08:37:44.091326+00:00",
+  "checkedAt": "2026-09-19T08:37:44.091326+00:00",
   "newestPublishedAt": "2026-09-18T20:52:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -37,9 +37,9 @@
     {
       "company": "Apple",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 5,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ConnectionError: HTTPSConnectionPool(host='www.apple.com', port=443): Max retries exceeded with url: /newsroom/rss-feed.rss (Caused by NewConnectionError(\"HTTPSConnection(host='www.apple.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     {
       "company": "Hugging Face",
@@ -740,5 +740,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-19T06:39:53.231346+00:00",
-  "lastFastCheckAt": "2026-09-19T08:32:40.448556+00:00"
+  "lastFastCheckAt": "2026-09-19T08:37:44.091326+00:00"
 }
