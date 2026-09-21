@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T15:23:54.688528+00:00",
-  "checkedAt": "2026-09-21T15:23:54.688528+00:00",
+  "updatedAt": "2026-09-21T15:29:00.982889+00:00",
+  "checkedAt": "2026-09-21T15:29:00.982889+00:00",
   "newestPublishedAt": "2026-09-21T14:51:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -533,6 +533,32 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "aa6f620a19099be6384d",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تطلق Emerald AI و Google و NVIDIA تحالفًا لتطوير مراكز بيانات الذكاء الاصطناعي المرنة",
+      "titleOriginal": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "مصانع الذكاء الاصطناعي هي البنية التحتية لعصر الذكاء. سيعتمد توسيع نطاقها بمسؤولية على الابتكار عبر الشبكة كما هو الحال داخل مركز البيانات. اليوم،",
+      "summaryOriginal": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T13:00:33+00:00"
+    },
+    {
       "id": "8c2a426559207a9d5b2c",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
-    },
-    {
-      "id": "1fdb0f029d8eaf196212",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "إطلاق أو تحديث",
-      "title": "Cohere & Aleph Alpha: الذكاء الاصطناعي السيادي عبر الأطلسي | Cohere",
-      "titleOriginal": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشارك Cohere و Aleph Alpha في إطلاق أول حل للذكاء الاصطناعي السيادي عبر المحيط الأطلسي مع مقر مزدوج في برلين وتورونتو، مما يوفر ذكاءً اصطناعيًا آمنًا وقابلًا للتحكم.",
-      "summaryOriginal": "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T15:23:54.688528+00:00"
+  "lastFastCheckAt": "2026-09-21T15:29:00.982889+00:00"
 }
