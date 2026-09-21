@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T15:59:25.907897+00:00",
-  "checkedAt": "2026-09-21T15:59:25.907897+00:00",
-  "newestPublishedAt": "2026-09-21T14:51:34+00:00",
+  "updatedAt": "2026-09-21T16:04:39.187828+00:00",
+  "checkedAt": "2026-09-21T16:04:39.187828+00:00",
+  "newestPublishedAt": "2026-09-21T16:00:46+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "605f5c1f0409d53a50d0",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "لماذا يتطلب نشر الذكاء الاصطناعي المادي على نطاق واسع السلامة في كل طبقة",
+      "titleOriginal": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
+      "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T16:00:46+00:00"
+    },
+    {
+      "id": "1c05eea5e3707678d0a8",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "من التمكين إلى التنفيذ، يصل النظام الإيكولوجي للذكاء الاصطناعي في مصر إلى نطاق الإنتاج",
+      "titleOriginal": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
+      "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T16:00:10+00:00"
+    },
     {
       "id": "3b685a9be7abbe748071",
       "company": "NVIDIA",
@@ -729,51 +781,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Our framework for reporting model misalignment"
-    },
-    {
-      "id": "a8a40dafc20d6b2f6d4e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة كبار السن على استخدام الذكاء الاصطناعي في الحياة اليومية",
-      "titleOriginal": "Helping older adults use AI in everyday life",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI و AARP ورش عمل ChatGPT مجانية وعملية لـ 1000 من كبار السن في 10 مدن أمريكية لبناء مهارات الذكاء الاصطناعي العملية بأمان.",
-      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping older adults use AI in everyday life"
-    },
-    {
-      "id": "2a3495d92873084256fc",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "تقدم NVIDIA Vera Rubin NVL72 أداءً رائدًا في استدلال MLPerf v6.1 لأول مرة",
-      "titleOriginal": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يعد أداء النظام وتوسيع نطاق البنية التحتية الفعالة والتحسين المستمر للبرامج من العوامل الرئيسية التي تحدد اقتصاديات الاستدلال بالذكاء الاصطناعي. أداء أعلى للنظام",
-      "summaryOriginal": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T15:59:25.907897+00:00"
+  "lastFastCheckAt": "2026-09-21T16:04:39.187828+00:00"
 }
