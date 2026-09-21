@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T13:55:31.779436+00:00",
-  "checkedAt": "2026-09-21T13:55:31.779436+00:00",
+  "updatedAt": "2026-09-21T14:00:33.533279+00:00",
+  "checkedAt": "2026-09-21T14:00:33.533279+00:00",
   "newestPublishedAt": "2026-09-21T13:44:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -159,6 +159,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How V7 gives AI agents institutional memory",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T00:00:00+00:00"
+    },
+    {
+      "id": "bfb383dde6d22c5cc213",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الرموز v1: تشفير وفك تشفير وتحجيم، مقاسة",
+      "titleOriginal": "tokenizers v1: encode, decode and scaling, measured",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/tokenizers-v1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face tokenizers v1: encode, decode and scaling, measured",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK"
-    },
-    {
-      "id": "ebd8cb2f9a78944dde45",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "الذاكرة في بناء Grok",
-      "titleOriginal": "Memory in Grok Build",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يحمل Grok Build الآن الاتفاقيات والقرارات وحقائق المشروع من جلسة إلى أخرى. تتم كتابة الملاحظات في الخلفية أثناء العمل وتقرأها مرة أخرى عند التراجع",
-      "summaryOriginal": "Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-build-memory",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Memory in Grok Build"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T13:55:31.779436+00:00"
+  "lastFastCheckAt": "2026-09-21T14:00:33.533279+00:00"
 }
