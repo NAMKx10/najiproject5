@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T15:03:27.716416+00:00",
-  "checkedAt": "2026-09-21T15:03:27.716416+00:00",
+  "updatedAt": "2026-09-21T15:08:41.141519+00:00",
+  "checkedAt": "2026-09-21T15:08:41.141519+00:00",
   "newestPublishedAt": "2026-09-21T14:51:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -533,6 +533,32 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "ec2f604ddc5e799aca1a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
+      "titleOriginal": "How to connect AI usage to business value",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
+      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How to connect AI usage to business value",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T12:00:00+00:00"
+    },
+    {
       "id": "6f1f7c32dec88c34d6d0",
       "company": "OpenAI",
       "logoText": "AI",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Reimagining advertising with AI"
-    },
-    {
-      "id": "56046eb6ccc3d78b18ed",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحول HEX التحليل المعقد إلى تقارير مرئية باستخدام GPT‑6 Astra",
-      "titleOriginal": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعد GPT -6 Astra وكلاء بيانات Hex على تحويل الإجابات إلى تصورات تفاعلية يفخر الموظفون بمشاركتها.",
-      "summaryOriginal": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/hex-gpt-6-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Hex turns complex analysis into visual reports with GPT‑6 Astra"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T15:03:27.716416+00:00"
+  "lastFastCheckAt": "2026-09-21T15:08:41.141519+00:00"
 }
