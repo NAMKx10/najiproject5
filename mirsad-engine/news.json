@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T14:48:16.949035+00:00",
-  "checkedAt": "2026-09-21T14:48:16.949035+00:00",
-  "newestPublishedAt": "2026-09-21T13:44:34+00:00",
+  "updatedAt": "2026-09-21T14:53:19.137764+00:00",
+  "checkedAt": "2026-09-21T14:53:19.137764+00:00",
+  "newestPublishedAt": "2026-09-21T14:51:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3b685a9be7abbe748071",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أمان وسياسات",
+      "title": "أمن الذكاء الاصطناعي مشكلة هندسية — كيفية حلها في كل طبقة من طبقات مكدس الوكلاء",
+      "titleOriginal": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "policy",
+      "importance": 88,
+      "summary": "أمن الذكاء الاصطناعي مشكلة هندسية. وهذا يعني متطلبات أمنية محددة، وضوابط قابلة للتنفيذ، ومالكين محددين، وأدلة على أن الحماية تعمل. كلما أصبح الذكاء الاصطناعي أكثر",
+      "summaryOriginal": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T14:51:34+00:00"
+    },
     {
       "id": "5425ee85f04a9a34263d",
       "company": "Hugging Face",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How workers are unlocking new ways of working"
-    },
-    {
-      "id": "49e19f19d61fde4f977f",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تستخدم جامعة مانشستر NVIDIA Earth -2 للتنبؤ بتلوث الهواء في جميع أنحاء المملكة المتحدة",
-      "titleOriginal": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يمثل تلوث الهواء خطرًا خطيرًا على الصحة العامة، حيث ساهم في وفاة ما يقدر بنحو 30 ألف شخص في المملكة المتحدة وحدها العام الماضي. يمكن أن تساعد الرؤى المستندة إلى البيانات — ولكن حوسبة الهواء q",
-      "summaryOriginal": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T14:48:16.949035+00:00"
+  "lastFastCheckAt": "2026-09-21T14:53:19.137764+00:00"
 }
