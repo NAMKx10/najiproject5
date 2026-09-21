@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T20:34:24.317555+00:00",
-  "checkedAt": "2026-09-21T20:34:24.317555+00:00",
+  "updatedAt": "2026-09-21T20:38:05.334019+00:00",
+  "checkedAt": "2026-09-21T20:38:05.334019+00:00",
   "newestPublishedAt": "2026-09-21T18:30:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "58476171695a78e79677",
+      "id": "f6000f4ba05ad113926f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "يتوفر Grok 4.6 من xAI الآن في Amazon Bedrock: نموذج حدودي للوكلاء الذين يعملون منذ فترة طويلة، والترميز، والعمل المعرفي، مع نافذة سياق رمزية 500K وأربعة أسباب",
       "summaryOriginal": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on both the bedrock-mantle and bedrock-runtime endpoints, with Converse API and cross-Region inference support.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:30:34+00:00"
+      "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock"
     },
     {
-      "id": "485bc24e010130ab69e6",
+      "id": "e6b8fc022f0ffab2faec",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -132,121 +127,12 @@
       "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
       "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:00:07+00:00"
-    },
-    {
-      "id": "09436158ac26c454365b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "الفريق الاستشاري المعني بالرياضيات والذكاء الاصطناعي",
-      "titleOriginal": "Advisory Group on Mathematics and Artificial Intelligence",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعمل OpenAI مع مجموعة استشارية مستقلة حول الرياضيات والذكاء الاصطناعي لتوجيه مراجعة وتوصيل نتائج الذكاء الاصطناعي الناشئة.",
-      "summaryOriginal": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T12:00:00+00:00"
-    },
-    {
-      "id": "957c482231df0ac9d4b1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
-      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
-      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T12:00:00+00:00"
-    },
-    {
-      "id": "8c719abbd054b27293ab",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "معايير البناء للمرحلة التالية من الذكاء الاصطناعي",
-      "titleOriginal": "Building standards for the next phase of AI",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تحدد OpenAI مسارًا لمعايير الذكاء الاصطناعي العالمية المشتركة، وتدعو إلى التقييم المنسق وإعداد التقارير والحوكمة لتحسين السلامة.",
-      "summaryOriginal": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/building-standards-next-phase-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Building standards for the next phase of AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T10:00:00+00:00"
-    },
-    {
-      "id": "4cef586c1740a06bd3a7",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "توسيع أكاديمية OpenAI مع مسارات تعليمية جديدة",
-      "titleOriginal": "Expanding OpenAI Academy with new learning paths",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "استكشف مسارات تعليمية جديدة لأكاديمية OpenAI للموظفين والمطورين والقادة والمعلمين والطلاب لبناء وإظهار مهارات الذكاء الاصطناعي العملية.",
-      "summaryOriginal": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Expanding OpenAI Academy with new learning paths",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T07:00:00+00:00"
+      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
     },
     {
       "id": "746f0aee0b84614c13d4",
@@ -417,6 +303,48 @@
       "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
     },
     {
+      "id": "09436158ac26c454365b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "الفريق الاستشاري المعني بالرياضيات والذكاء الاصطناعي",
+      "titleOriginal": "Advisory Group on Mathematics and Artificial Intelligence",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعمل OpenAI مع مجموعة استشارية مستقلة حول الرياضيات والذكاء الاصطناعي لتوجيه مراجعة وتوصيل نتائج الذكاء الاصطناعي الناشئة.",
+      "summaryOriginal": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence"
+    },
+    {
+      "id": "957c482231df0ac9d4b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
+      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
+      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra"
+    },
+    {
       "id": "eed20fca5644c45fa4fe",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -436,6 +364,48 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA 5 Companies Using NVIDIA AI for Clean Energy"
+    },
+    {
+      "id": "8c719abbd054b27293ab",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "معايير البناء للمرحلة التالية من الذكاء الاصطناعي",
+      "titleOriginal": "Building standards for the next phase of AI",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تحدد OpenAI مسارًا لمعايير الذكاء الاصطناعي العالمية المشتركة، وتدعو إلى التقييم المنسق وإعداد التقارير والحوكمة لتحسين السلامة.",
+      "summaryOriginal": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/building-standards-next-phase-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Building standards for the next phase of AI"
+    },
+    {
+      "id": "4cef586c1740a06bd3a7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "توسيع أكاديمية OpenAI مع مسارات تعليمية جديدة",
+      "titleOriginal": "Expanding OpenAI Academy with new learning paths",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "استكشف مسارات تعليمية جديدة لأكاديمية OpenAI للموظفين والمطورين والقادة والمعلمين والطلاب لبناء وإظهار مهارات الذكاء الاصطناعي العملية.",
+      "summaryOriginal": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Expanding OpenAI Academy with new learning paths"
     },
     {
       "id": "3f52ac1e7d6952a2b83a",
@@ -606,27 +576,6 @@
       "searchAliases": "Amazon Deploy Hugging Face models on Amazon SageMaker AI with coding agents"
     },
     {
-      "id": "57766250be714be9217d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Amazon SageMaker HyperPod Inference Gateway",
-      "titleOriginal": "Introducing Amazon SageMaker HyperPod Inference Gateway",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "Amazon SageMaker HyperPod Inference Gateway هي إضافة توجيه Kubernetes أصلية مدركة لوحدة معالجة الرسومات لـ Amazon EKS. يستخدم إشارات GPU في الوقت الفعلي لإرسال كل طلب استدلال",
-      "summaryOriginal": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inference request to the best-suited pod, cutting first-token latency by up to 82% with no changes to your model servers or client applications.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Amazon SageMaker HyperPod Inference Gateway"
-    },
-    {
       "id": "0540f149fde55127532f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -732,7 +681,7 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
-      "id": "91f751400a866e292732",
+      "id": "9e3b958deec67a80b175",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أعمال وشراكات",
@@ -742,23 +691,38 @@
       "dateISO": "2026-09-16",
       "category": "business",
       "importance": 82,
-      "summary": "أعلنت Microsoft عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "تعمل مايكروسوفت في مجال التعليم منذ خمسة عقود. منذ الأيام الأولى لهذه الشركة، عملنا جنبًا إلى جنب مع المعلمين والطلاب والعائلات والمعلمين",
       "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T18:59:58+00:00"
+      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning"
+    },
+    {
+      "id": "a8a40dafc20d6b2f6d4e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مساعدة كبار السن على استخدام الذكاء الاصطناعي في الحياة اليومية",
+      "titleOriginal": "Helping older adults use AI in everyday life",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI و AARP ورش عمل ChatGPT مجانية وعملية لـ 1000 من كبار السن في 10 مدن أمريكية لبناء مهارات الذكاء الاصطناعي العملية بأمان.",
+      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping older adults use AI in everyday life"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-21T16:38:01.167259+00:00",
-  "lastFastCheckAt": "2026-09-21T20:34:24.317555+00:00"
+  "lastDeepCheckAt": "2026-09-21T20:38:05.334019+00:00"
 }
