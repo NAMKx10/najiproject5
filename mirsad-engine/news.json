@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T16:45:00.455603+00:00",
-  "checkedAt": "2026-09-21T16:45:00.455603+00:00",
+  "updatedAt": "2026-09-21T16:50:00.474809+00:00",
+  "checkedAt": "2026-09-21T16:50:00.474809+00:00",
   "newestPublishedAt": "2026-09-21T16:36:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -576,6 +576,84 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "91f751400a866e292732",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "أعمال وشراكات",
+      "title": "مستجد جديد من Microsoft",
+      "titleOriginal": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت Microsoft عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T18:59:58+00:00"
+    },
+    {
+      "id": "827a0c403a3c663f4f72",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Our framework for reporting model misalignment",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/model-misalignment-reporting-framework",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our framework for reporting model misalignment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "id": "a8a40dafc20d6b2f6d4e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Helping older adults use AI in everyday life",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping older adults use AI in everyday life",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T16:00:00+00:00"
+    },
+    {
       "id": "177d62cfd754af48ece9",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -678,87 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "id": "ec2f604ddc5e799aca1a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
-      "titleOriginal": "How to connect AI usage to business value",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
-      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How to connect AI usage to business value",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "id": "6f1f7c32dec88c34d6d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "كيف يفتح العمال طرقًا جديدة للعمل",
-      "titleOriginal": "How workers are unlocking new ways of working",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "تُظهر OpenAI Economic Research الجديدة كيف يستخدم العمال الذكاء الاصطناعي خارج الأدوار التقليدية وما هي الأنشطة الجديدة التي تصبح أجزاء متكررة من عملهم.",
-      "summaryOriginal": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/unlocking-new-ways-of-working",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How workers are unlocking new ways of working",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T09:00:00+00:00"
-    },
-    {
-      "id": "9c10efc772e9a12f25df",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تستخدم جامعة مانشستر NVIDIA Earth -2 للتنبؤ بتلوث الهواء في جميع أنحاء المملكة المتحدة",
-      "titleOriginal": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يمثل تلوث الهواء خطرًا خطيرًا على الصحة العامة، حيث ساهم في وفاة ما يقدر بنحو 30 ألف شخص في المملكة المتحدة وحدها العام الماضي. يمكن أن تساعد الرؤى المستندة إلى البيانات — ولكن حوسبة الهواء q",
-      "summaryOriginal": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T05:00:42+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T16:38:01.167259+00:00",
-  "lastFastCheckAt": "2026-09-21T16:45:00.455603+00:00"
+  "lastFastCheckAt": "2026-09-21T16:50:00.474809+00:00"
 }
