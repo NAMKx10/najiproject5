@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T16:04:39.187828+00:00",
-  "checkedAt": "2026-09-21T16:04:39.187828+00:00",
+  "updatedAt": "2026-09-21T16:09:39.147831+00:00",
+  "checkedAt": "2026-09-21T16:09:39.147831+00:00",
   "newestPublishedAt": "2026-09-21T16:00:46+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -585,6 +585,58 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "a8a40dafc20d6b2f6d4e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مساعدة كبار السن على استخدام الذكاء الاصطناعي في الحياة اليومية",
+      "titleOriginal": "Helping older adults use AI in everyday life",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI و AARP ورش عمل ChatGPT مجانية وعملية لـ 1000 من كبار السن في 10 مدن أمريكية لبناء مهارات الذكاء الاصطناعي العملية بأمان.",
+      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping older adults use AI in everyday life",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T16:00:00+00:00"
+    },
+    {
+      "id": "177d62cfd754af48ece9",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "تقدم NVIDIA Vera Rubin NVL72 أداءً رائدًا في استدلال MLPerf v6.1 لأول مرة",
+      "titleOriginal": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يعد أداء النظام وتوسيع نطاق البنية التحتية الفعالة والتحسين المستمر للبرامج من العوامل الرئيسية التي تحدد اقتصاديات الاستدلال بالذكاء الاصطناعي. أداء أعلى للنظام",
+      "summaryOriginal": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T15:00:48+00:00"
+    },
+    {
       "id": "aa6f620a19099be6384d",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -739,51 +791,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T05:00:42+00:00"
-    },
-    {
-      "id": "9e3b958deec67a80b175",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "أعمال وشراكات",
-      "title": "التزام مايكروسوفت بالذكاء الاصطناعي في التعليم: حماية الطلاب وتعزيز التعلم",
-      "titleOriginal": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعمل مايكروسوفت في مجال التعليم منذ خمسة عقود. منذ الأيام الأولى لهذه الشركة، عملنا جنبًا إلى جنب مع المعلمين والطلاب والعائلات والمعلمين",
-      "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning"
-    },
-    {
-      "id": "827a0c403a3c663f4f72",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "إطارنا للإبلاغ عن عدم اتساق النموذج",
-      "titleOriginal": "Our framework for reporting model misalignment",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشارك OpenAI إطارًا لتتبع اختلال النموذج والتحقيق فيه والكشف عنه، إلى جانب ستة تقارير عن سلوك نموذجي غير متوقع أو مثير للقلق.",
-      "summaryOriginal": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/model-misalignment-reporting-framework",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our framework for reporting model misalignment"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T16:04:39.187828+00:00"
+  "lastFastCheckAt": "2026-09-21T16:09:39.147831+00:00"
 }
