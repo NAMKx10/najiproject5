@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T19:58:50.148758+00:00",
-  "checkedAt": "2026-09-21T19:58:50.148758+00:00",
+  "updatedAt": "2026-09-21T20:03:53.819785+00:00",
+  "checkedAt": "2026-09-21T20:03:53.819785+00:00",
   "newestPublishedAt": "2026-09-21T18:30:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -164,6 +164,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T12:00:00+00:00"
+    },
+    {
+      "id": "957c482231df0ac9d4b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
+      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
+      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T18:59:58+00:00"
-    },
-    {
-      "id": "827a0c403a3c663f4f72",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Our framework for reporting model misalignment",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/model-misalignment-reporting-framework",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our framework for reporting model misalignment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T16:38:01.167259+00:00",
-  "lastFastCheckAt": "2026-09-21T19:58:50.148758+00:00"
+  "lastFastCheckAt": "2026-09-21T20:03:53.819785+00:00"
 }
