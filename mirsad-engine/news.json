@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T16:24:46.658634+00:00",
-  "checkedAt": "2026-09-21T16:24:46.658634+00:00",
-  "newestPublishedAt": "2026-09-21T16:00:46+00:00",
+  "updatedAt": "2026-09-21T16:29:51.112213+00:00",
+  "checkedAt": "2026-09-21T16:29:51.112213+00:00",
+  "newestPublishedAt": "2026-09-21T16:27:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "5867b7a856e80742d909",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "كيف حصلت Benchling على وكلاء ذكاء اصطناعي متعددين المستأجرين باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "تعرف على كيفية قيام Benchling ببناء بنية أمنية متعمقة للدفاع لتشغيل التعليمات البرمجية العلمية غير الموثوقة التي أنشأها وكلاء الذكاء الاصطناعي عبر الآلاف من مستأجري علوم الحياة باستخدام Am",
+      "summaryOriginal": "Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life sciences tenants using Amazon Bedrock AgentCore Code Interpreter in VPC mode, combined with Amazon Route 53 Resolver DNS Firewall and VPC endpoint policies to block data exfiltration, including through DNS.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T16:27:34+00:00"
+    },
+    {
+      "id": "76a6a4dcf20922d4a027",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقليل وقت مراجعة المطالبات الطبية مع الذكاء الاصطناعي على AWS: حل EXL Medical IDP",
+      "titleOriginal": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "قامت EXL ببناء حل معالجة المستندات الطبية الذكية (IDP) المدعوم بالذكاء الاصطناعي على AWS، والجمع بين IDP ونماذج اللغات الكبيرة الخاصة بالنطاق على Amazon SageMaker و Am",
+      "summaryOriginal": "EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Amazon SageMaker and Amazon Bedrock to extract, summarize, and query medical records at enterprise scale and cut claims review time from over 100 minutes per case.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T16:24:40+00:00"
+    },
     {
       "id": "605f5c1f0409d53a50d0",
       "company": "NVIDIA",
@@ -739,61 +791,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "id": "ec2f604ddc5e799aca1a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
-      "titleOriginal": "How to connect AI usage to business value",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
-      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How to connect AI usage to business value",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T12:00:00+00:00"
-    },
-    {
-      "id": "56046eb6ccc3d78b18ed",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحول HEX التحليل المعقد إلى تقارير مرئية باستخدام GPT‑6 Astra",
-      "titleOriginal": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعد GPT -6 Astra وكلاء بيانات Hex على تحويل الإجابات إلى تصورات تفاعلية يفخر الموظفون بمشاركتها.",
-      "summaryOriginal": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/hex-gpt-6-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T16:24:46.658634+00:00"
+  "lastFastCheckAt": "2026-09-21T16:29:51.112213+00:00"
 }
