@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T18:26:51.012687+00:00",
-  "checkedAt": "2026-09-21T18:26:51.012687+00:00",
-  "newestPublishedAt": "2026-09-21T18:00:07+00:00",
+  "updatedAt": "2026-09-21T18:31:36.726537+00:00",
+  "checkedAt": "2026-09-21T18:31:36.726537+00:00",
+  "newestPublishedAt": "2026-09-21T18:30:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "58476171695a78e79677",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "xAI's Grok 4.6 متوفر الآن في Amazon Bedrock",
+      "titleOriginal": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر Grok 4.6 من xAI الآن في Amazon Bedrock: نموذج حدودي للوكلاء الذين يعملون منذ فترة طويلة، والترميز، والعمل المعرفي، مع نافذة سياق رمزية 500K وأربعة أسباب",
+      "summaryOriginal": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on both the bedrock-mantle and bedrock-runtime endpoints, with Converse API and cross-Region inference support.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T18:30:34+00:00"
+    },
     {
       "id": "485bc24e010130ab69e6",
       "company": "NVIDIA",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T17:00:00+00:00"
-    },
-    {
-      "id": "a8a40dafc20d6b2f6d4e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Helping older adults use AI in everyday life",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping older adults use AI in everyday life",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T16:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T16:38:01.167259+00:00",
-  "lastFastCheckAt": "2026-09-21T18:26:51.012687+00:00"
+  "lastFastCheckAt": "2026-09-21T18:31:36.726537+00:00"
 }
