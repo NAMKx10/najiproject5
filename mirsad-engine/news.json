@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T16:34:50.727263+00:00",
-  "checkedAt": "2026-09-21T16:34:50.727263+00:00",
-  "newestPublishedAt": "2026-09-21T16:27:34+00:00",
+  "updatedAt": "2026-09-21T16:38:01.167259+00:00",
+  "checkedAt": "2026-09-21T16:38:01.167259+00:00",
+  "newestPublishedAt": "2026-09-21T16:36:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,49 @@
   ],
   "items": [
     {
-      "id": "5867b7a856e80742d909",
+      "id": "746f0aee0b84614c13d4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف تكتشف مجموعة BMW حالات شذوذ التكلفة عبر 14000 حساب سحابي",
+      "titleOriginal": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تدير مجموعة BMW منصة CLEA، وهي منصة FinOps تراقب أكثر من 14000 حساب سحابي. يوضح هذا المنشور كيف أضافت BMW الكشف التلقائي عن شذوذ التكلفة اليومية، والانتقال من",
+      "summaryOriginal": "BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly detection, moving from reactive dashboards to proactive alerts using Prophet forecasting, AWS Step Functions, and a serverless pipeline that processes every account for about $50 per month.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts"
+    },
+    {
+      "id": "392e1665ce91b2378624",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "قم بتشغيل Positron على Amazon SageMaker AI لسير عمل علوم البيانات",
+      "titleOriginal": "Run Positron on Amazon SageMaker AI for data science workflows",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعمل Positron، IDE الخاص بـ Posit لعلوم البيانات، الآن على Amazon SageMaker AI. يوضح هذا المنشور كيف يستكشف عالم البيانات جدول أمازون أثينا، ويتحقق من صحة الميزات في R, tr",
+      "summaryOriginal": "Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validates features in R, trains an XGBoost model in Python, deploys a real-time SageMaker AI endpoint, and reports results with Quarto, all in one governed SageMaker Studio Space.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Run Positron on Amazon SageMaker AI for data science workflows"
+    },
+    {
+      "id": "278d611ca02e50c43f72",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -106,20 +148,15 @@
       "summary": "تعرف على كيفية قيام Benchling ببناء بنية أمنية متعمقة للدفاع لتشغيل التعليمات البرمجية العلمية غير الموثوقة التي أنشأها وكلاء الذكاء الاصطناعي عبر الآلاف من مستأجري علوم الحياة باستخدام Am",
       "summaryOriginal": "Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life sciences tenants using Amazon Bedrock AgentCore Code Interpreter in VPC mode, combined with Amazon Route 53 Resolver DNS Firewall and VPC endpoint policies to block data exfiltration, including through DNS.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:27:34+00:00"
+      "searchAliases": "Amazon How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore"
     },
     {
-      "id": "76a6a4dcf20922d4a027",
+      "id": "9c6cdf1b01028d7f9b12",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,20 +169,15 @@
       "summary": "قامت EXL ببناء حل معالجة المستندات الطبية الذكية (IDP) المدعوم بالذكاء الاصطناعي على AWS، والجمع بين IDP ونماذج اللغات الكبيرة الخاصة بالنطاق على Amazon SageMaker و Am",
       "summaryOriginal": "EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Amazon SageMaker and Amazon Bedrock to extract, summarize, and query medical records at enterprise scale and cut claims review time from over 100 minutes per case.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution",
+      "source": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:24:40+00:00"
+      "searchAliases": "Amazon Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution"
     },
     {
-      "id": "605f5c1f0409d53a50d0",
+      "id": "03fd9ea43394b74c2589",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -158,20 +190,15 @@
       "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
       "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:46+00:00"
+      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer"
     },
     {
-      "id": "1c05eea5e3707678d0a8",
+      "id": "1e1fabb8789eab4856f3",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -184,20 +211,15 @@
       "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
       "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:10+00:00"
+      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale"
     },
     {
-      "id": "3b685a9be7abbe748071",
+      "id": "8b7e79d17c358ee26be4",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أمان وسياسات",
@@ -210,17 +232,12 @@
       "summary": "أمن الذكاء الاصطناعي مشكلة هندسية. وهذا يعني متطلبات أمنية محددة، وضوابط قابلة للتنفيذ، ومالكين محددين، وأدلة على أن الحماية تعمل. كلما أصبح الذكاء الاصطناعي أكثر",
       "summaryOriginal": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
+      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T14:51:34+00:00"
+      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack"
     },
     {
       "id": "5425ee85f04a9a34263d",
@@ -241,12 +258,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T13:44:34+00:00"
+      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
     },
     {
       "id": "eed20fca5644c45fa4fe",
@@ -288,12 +300,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How V7 gives AI agents institutional memory",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T00:00:00+00:00"
+      "searchAliases": "OpenAI How V7 gives AI agents institutional memory"
     },
     {
       "id": "bfb383dde6d22c5cc213",
@@ -314,12 +321,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face tokenizers v1: encode, decode and scaling, measured",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T00:00:00+00:00"
+      "searchAliases": "Hugging Face tokenizers v1: encode, decode and scaling, measured"
+    },
+    {
+      "id": "0546728b09d275550f7d",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Grok 4.7",
+      "titleOriginal": "Introducing Grok 4.7",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "أقوى نموذج لـ SpaceXAI للترميز والعمل المعرفي. أسرع بمرتين، بنصف سعر الموديلات المماثلة.",
+      "summaryOriginal": "SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://x.ai/news/grok-4-7",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Introducing Grok 4.7"
     },
     {
       "id": "5d211b2dfc474c382502",
@@ -490,90 +513,6 @@
       "searchAliases": "xAI Introducing Grok Voice Transcribe 2.0"
     },
     {
-      "id": "031ebeefeca2640f78ef",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "بحث",
-      "title": "تقليل وقت التوظيف للمرشحين ذوي الجودة العالية مع مواهب أمازون كونيكت المدعومة بالذكاء الاصطناعي",
-      "titleOriginal": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "research",
-      "importance": 86,
-      "summary": "Amazon Connect Talent هو حل توظيف للذكاء الاصطناعي تم تصميمه لقادة اكتساب المواهب الذين يديرون التوظيف على نطاق واسع. يقدم المقابلات التي يقودها الذكاء الاصطناعي، والتقييمات القائمة على البيانات، والتعاون",
-      "summaryOriginal": "Amazon Connect Talent is an AI hiring solution built for talent acquisition leaders managing scaled hiring. It delivers AI-led interviews, data-driven assessments, and consistent evaluation, helping recruiters identify strong candidates more efficiently while providing applicants with a flexible interview experience. Informed by decades of Amazon's hiring science, Amazon Connect Talent provides transparency for every assessment, interview, and candidate score, enabling recruiters to stay in control of final hiring decisions.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent"
-    },
-    {
-      "id": "b67486706b91601f45ee",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "بحث",
-      "title": "اختيار متجر متجهات لقواعد معرفة Amazon Bedrock",
-      "titleOriginal": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "research",
-      "importance": 86,
-      "summary": "يؤثر اختيار متجر المتجهات المناسب لتطبيق RAG لقواعد المعرفة في Amazon Bedrock على الأداء والتكلفة. يقارن هذا المنشور بين Amazon OpenSearch Service وAmazon",
-      "summaryOriginal": "Choosing the right vector store for your Amazon Bedrock Knowledge Bases RAG application affects performance and cost. This post compares Amazon OpenSearch Service, Amazon Aurora PostgreSQL with pgvector, and Amazon S3 Vectors across three RAG use cases, with benchmarks and a practical selection framework.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Selecting a vector store for Amazon Bedrock Knowledge Bases"
-    },
-    {
-      "id": "b2a35657b2117ab6bd4c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "لوحة معلومات مقاييس Git بدون خادم تعتمد على البيانات باستخدام Amazon Quick Sight",
-      "titleOriginal": "A serverless, data-driven Git metrics dashboard using Amazon Quick Sight",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعلم كيفية إنشاء خط أنابيب بدون خادم بالكامل يجمع تلقائيًا مقاييس Git من GitHub و GitLab ويعرضها في لوحة تحكم Amazon Quick Sight التفاعلية",
-      "summaryOriginal": "Learn how to build a fully serverless pipeline that automatically collects Git metrics from GitHub and GitLab and visualizes them in interactive Amazon Quick Sight dashboards, giving engineering teams near-real-time delivery analytics at low cost.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon A serverless, data-driven Git metrics dashboard using Amazon Quick Sight"
-    },
-    {
-      "id": "1a1a389571ebe92c9145",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "منصة وكيل مشتركة لـ Wood Mackenzie، على Amazon Bedrock AgentCore",
-      "titleOriginal": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام Wood Mackenzie ببناء Apex، وهي منصة ذكاء اصطناعي مشتركة على Amazon Bedrock AgentCore حتى يتمكن كل فريق من شحن وكلاء الإنتاج دون إعادة بناء وقت التشغيل والهوية والملاحظة",
-      "summaryOriginal": "Wood Mackenzie built APEX, a shared agentic AI platform on Amazon Bedrock AgentCore so every team can ship production agents without rebuilding runtime, identity, observability, and guardrails from scratch. Learn why they chose AgentCore, how APEX Studio operates it, and where multi-agent systems go next.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/a-shared-agentic-platform-for-wood-mackenzie-on-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore"
-    },
-    {
       "id": "30787a025c36077a15c9",
       "company": "Microsoft",
       "logoText": "MS",
@@ -637,7 +576,7 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
-      "id": "91f751400a866e292732",
+      "id": "9e3b958deec67a80b175",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أعمال وشراكات",
@@ -650,17 +589,12 @@
       "summary": "تعمل مايكروسوفت في مجال التعليم منذ خمسة عقود. منذ الأيام الأولى لهذه الشركة، عملنا جنبًا إلى جنب مع المعلمين والطلاب والعائلات والمعلمين",
       "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T18:59:58+00:00"
+      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning"
     },
     {
       "id": "827a0c403a3c663f4f72",
@@ -681,12 +615,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Our framework for reporting model misalignment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T17:00:00+00:00"
+      "searchAliases": "OpenAI Our framework for reporting model misalignment"
     },
     {
       "id": "a8a40dafc20d6b2f6d4e",
@@ -707,15 +636,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Helping older adults use AI in everyday life",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T16:00:00+00:00"
+      "searchAliases": "OpenAI Helping older adults use AI in everyday life"
     },
     {
-      "id": "177d62cfd754af48ece9",
+      "id": "2a3495d92873084256fc",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -728,20 +652,36 @@
       "summary": "يعد أداء النظام وتوسيع نطاق البنية التحتية الفعالة والتحسين المستمر للبرامج من العوامل الرئيسية التي تحدد اقتصاديات الاستدلال بالذكاء الاصطناعي. أداء أعلى للنظام",
       "summaryOriginal": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T15:00:48+00:00"
+      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut"
     },
     {
-      "id": "aa6f620a19099be6384d",
+      "id": "1fdb0f029d8eaf196212",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "إطلاق أو تحديث",
+      "title": "Cohere & Aleph Alpha: الذكاء الاصطناعي السيادي عبر الأطلسي | Cohere",
+      "titleOriginal": "Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشارك Cohere و Aleph Alpha في إطلاق أول حل للذكاء الاصطناعي السيادي عبر المحيط الأطلسي مع مقر مزدوج في برلين وتورونتو، مما يوفر ذكاءً اصطناعيًا آمنًا وقابلًا للتحكم.",
+      "summaryOriginal": "Cohere and Aleph Alpha partner to launch the first transatlantic sovereign AI solution with dual headquarters in Berlin and Toronto, providing secure and governable AI.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Cohere & Aleph Alpha: Transatlantic Sovereign AI | Cohere"
+    },
+    {
+      "id": "df9fe16b75417c213453",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -754,17 +694,12 @@
       "summary": "مصانع الذكاء الاصطناعي هي البنية التحتية لعصر الذكاء. سيعتمد توسيع نطاقها بمسؤولية على الابتكار عبر الشبكة كما هو الحال داخل مركز البيانات. اليوم،",
       "summaryOriginal": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T13:00:33+00:00"
+      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers"
     },
     {
       "id": "8c2a426559207a9d5b2c",
@@ -785,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Reimagining advertising with AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T13:00:00+00:00"
+      "searchAliases": "OpenAI Reimagining advertising with AI"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T16:34:50.727263+00:00"
+  "lastDeepCheckAt": "2026-09-21T16:38:01.167259+00:00"
 }
