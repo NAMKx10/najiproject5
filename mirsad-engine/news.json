@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T14:58:26.544313+00:00",
-  "checkedAt": "2026-09-21T14:58:26.544313+00:00",
+  "updatedAt": "2026-09-21T15:03:27.716416+00:00",
+  "checkedAt": "2026-09-21T15:03:27.716416+00:00",
   "newestPublishedAt": "2026-09-21T14:51:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -533,6 +533,32 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "6f1f7c32dec88c34d6d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "كيف يفتح العمال طرقًا جديدة للعمل",
+      "titleOriginal": "How workers are unlocking new ways of working",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "research",
+      "importance": 86,
+      "summary": "تُظهر OpenAI Economic Research الجديدة كيف يستخدم العمال الذكاء الاصطناعي خارج الأدوار التقليدية وما هي الأنشطة الجديدة التي تصبح أجزاء متكررة من عملهم.",
+      "summaryOriginal": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/unlocking-new-ways-of-working",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How workers are unlocking new ways of working",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T09:00:00+00:00"
+    },
+    {
       "id": "9c10efc772e9a12f25df",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Hex turns complex analysis into visual reports with GPT‑6 Astra"
-    },
-    {
-      "id": "ec2f604ddc5e799aca1a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيفية ربط استخدام الذكاء الاصطناعي بقيمة العمل",
-      "titleOriginal": "How to connect AI usage to business value",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية مساعدة تحليلات ChatGPT Work و Codex الفرق على فهم استخدام الذكاء الاصطناعي وإنفاقه، وتحديد احتياجات التدريب، وربط التبني بنتائج الأعمال.",
-      "summaryOriginal": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How to connect AI usage to business value"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T14:58:26.544313+00:00"
+  "lastFastCheckAt": "2026-09-21T15:03:27.716416+00:00"
 }
