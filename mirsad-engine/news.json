@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T17:45:51.316364+00:00",
-  "checkedAt": "2026-09-21T17:45:51.316364+00:00",
+  "updatedAt": "2026-09-21T17:50:52.552847+00:00",
+  "checkedAt": "2026-09-21T17:50:52.552847+00:00",
   "newestPublishedAt": "2026-09-21T16:36:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "09436158ac26c454365b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "الفريق الاستشاري المعني بالرياضيات والذكاء الاصطناعي",
+      "titleOriginal": "Advisory Group on Mathematics and Artificial Intelligence",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعمل OpenAI مع مجموعة استشارية مستقلة حول الرياضيات والذكاء الاصطناعي لتوجيه مراجعة وتوصيل نتائج الذكاء الاصطناعي الناشئة.",
+      "summaryOriginal": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T12:00:00+00:00"
+    },
     {
       "id": "8c719abbd054b27293ab",
       "company": "OpenAI",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-16T15:00:48+00:00"
-    },
-    {
-      "id": "aa6f620a19099be6384d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تطلق Emerald AI و Google و NVIDIA تحالفًا لتطوير مراكز بيانات الذكاء الاصطناعي المرنة",
-      "titleOriginal": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "مصانع الذكاء الاصطناعي هي البنية التحتية لعصر الذكاء. سيعتمد توسيع نطاقها بمسؤولية على الابتكار عبر الشبكة كما هو الحال داخل مركز البيانات. اليوم،",
-      "summaryOriginal": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T13:00:33+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T16:38:01.167259+00:00",
-  "lastFastCheckAt": "2026-09-21T17:45:51.316364+00:00"
+  "lastFastCheckAt": "2026-09-21T17:50:52.552847+00:00"
 }
