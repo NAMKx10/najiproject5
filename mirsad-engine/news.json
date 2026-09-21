@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T10:12:29.551748+00:00",
-  "checkedAt": "2026-09-21T10:12:29.551748+00:00",
-  "newestPublishedAt": "2026-09-18T20:52:14+00:00",
+  "updatedAt": "2026-09-21T10:18:08.670922+00:00",
+  "checkedAt": "2026-09-21T10:18:08.670922+00:00",
+  "newestPublishedAt": "2026-09-21T10:00:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "eed402040b69ebccc86d",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "5 شركات تستخدم NVIDIA AI للطاقة النظيفة",
+      "titleOriginal": "5 Companies Using NVIDIA AI for Clean Energy",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "ليس من الصعب الحصول على الطاقة النظيفة، لكن وتيرة الاعتماد على نطاق واسع كانت بطيئة تاريخيًا بسبب الاختناقات — بما في ذلك البنية التحتية القديمة،",
+      "summaryOriginal": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA 5 Companies Using NVIDIA AI for Clean Energy",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T10:00:35+00:00"
+    },
     {
       "id": "5d211b2dfc474c382502",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-15T16:55:59+00:00"
-    },
-    {
-      "id": "9006be4c6be742ac3dca",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "قمة البنية التحتية للذكاء الاصطناعي: تعرض تطورات منصة NVIDIA Vera Rubin و DSX كفاءات الطاقة لتحسين الرموز لكل واط لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "dateLabel": "15 سبتمبر 2026",
-      "dateISO": "2026-09-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تحدث إيان باك، نائب رئيس الحوسبة فائقة النطاق وعالية الأداء في NVIDIA، يوم الثلاثاء عن كفاءة مصنع الذكاء الاصطناعي في قمة البنية التحتية للذكاء الاصطناعي، واتفاقية سانتا كلارا",
-      "summaryOriginal": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-15T16:55:40+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T05:07:04.853422+00:00",
-  "lastFastCheckAt": "2026-09-21T10:12:29.551748+00:00"
+  "lastFastCheckAt": "2026-09-21T10:18:08.670922+00:00"
 }
