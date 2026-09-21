@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-21T14:53:19.137764+00:00",
-  "checkedAt": "2026-09-21T14:53:19.137764+00:00",
+  "updatedAt": "2026-09-21T14:58:26.544313+00:00",
+  "checkedAt": "2026-09-21T14:58:26.544313+00:00",
   "newestPublishedAt": "2026-09-21T14:51:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -533,6 +533,32 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
+      "id": "9c10efc772e9a12f25df",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تستخدم جامعة مانشستر NVIDIA Earth -2 للتنبؤ بتلوث الهواء في جميع أنحاء المملكة المتحدة",
+      "titleOriginal": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "dateLabel": "16 سبتمبر 2026",
+      "dateISO": "2026-09-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمثل تلوث الهواء خطرًا خطيرًا على الصحة العامة، حيث ساهم في وفاة ما يقدر بنحو 30 ألف شخص في المملكة المتحدة وحدها العام الماضي. يمكن أن تساعد الرؤى المستندة إلى البيانات — ولكن حوسبة الهواء q",
+      "summaryOriginal": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T05:00:42+00:00"
+    },
+    {
       "id": "9e3b958deec67a80b175",
       "company": "Microsoft",
       "logoText": "MS",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How to connect AI usage to business value"
-    },
-    {
-      "id": "6f1f7c32dec88c34d6d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "كيف يفتح العمال طرقًا جديدة للعمل",
-      "titleOriginal": "How workers are unlocking new ways of working",
-      "dateLabel": "16 سبتمبر 2026",
-      "dateISO": "2026-09-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "تُظهر OpenAI Economic Research الجديدة كيف يستخدم العمال الذكاء الاصطناعي خارج الأدوار التقليدية وما هي الأنشطة الجديدة التي تصبح أجزاء متكررة من عملهم.",
-      "summaryOriginal": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/unlocking-new-ways-of-working",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How workers are unlocking new ways of working"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-21T10:45:18.061113+00:00",
-  "lastFastCheckAt": "2026-09-21T14:53:19.137764+00:00"
+  "lastFastCheckAt": "2026-09-21T14:58:26.544313+00:00"
 }
