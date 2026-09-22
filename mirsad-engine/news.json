@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T16:59:56.536887+00:00",
-  "checkedAt": "2026-09-22T16:59:56.536887+00:00",
+  "updatedAt": "2026-09-22T17:04:55.304771+00:00",
+  "checkedAt": "2026-09-22T17:04:55.304771+00:00",
   "newestPublishedAt": "2026-09-22T15:46:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -284,6 +284,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
+    },
+    {
+      "id": "fcc87cb23e9d0fc492c0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
+      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/evaleval-aisi",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T00:00:00+00:00"
     },
     {
       "id": "f6000f4ba05ad113926f",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Introducing Kimi K3 on Amazon Bedrock"
-    },
-    {
-      "id": "ef97b3ef7afee0ef772b",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ترحيل وكلاء الذكاء الاصطناعي متعدد النماذج إلى وقت تشغيل Amazon Bedrock AgentCore",
-      "titleOriginal": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "ترحيل وكيل ذكاء اصطناعي متعدد النماذج للرعاية الصحية من Amazon ECS المدارة ذاتيًا مع AWS Fargate إلى وقت تشغيل Amazon Bedrock AgentCore، مع الحفاظ على التنسيق الثلاثي الطراز و vec",
-      "summaryOriginal": "Migrate a multi-model healthcare AI agent from self-managed Amazon ECS with AWS Fargate to Amazon Bedrock AgentCore runtime, preserving triple-model orchestration and vector-enhanced knowledge retrieval while reducing infrastructure management. The framework-agnostic pattern applies across healthcare, financial services, and manufacturing.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/migrating-multi-model-ai-agents-to-amazon-bedrock-agentcore-runtime/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T16:59:56.536887+00:00"
+  "lastFastCheckAt": "2026-09-22T17:04:55.304771+00:00"
 }
