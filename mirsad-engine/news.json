@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T18:05:50.921508+00:00",
-  "checkedAt": "2026-09-22T18:05:50.921508+00:00",
-  "newestPublishedAt": "2026-09-22T17:28:01+00:00",
+  "updatedAt": "2026-09-22T18:10:56.672255+00:00",
+  "checkedAt": "2026-09-22T18:10:56.672255+00:00",
+  "newestPublishedAt": "2026-09-22T18:10:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9574fc162cf0cbecdabb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "أضف المزيد من الذكاء إلى العمل اليومي باستخدام GPT -6 Sol و GPT -6 Luna على Amazon Bedrock",
+      "titleOriginal": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتوفر GPT -6 Sol و GPT -6 Luna الآن بشكل عام على Amazon Bedrock، مما يمنحك المزيد من الخيارات لمطابقة الذكاء والكفاءة مع كل عبء عمل.",
+      "summaryOriginal": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T18:10:22+00:00"
+    },
     {
       "id": "971b80a58bd64131e841",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint"
-    },
-    {
-      "id": "e557edd18333cc943eef",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Grok Voice Transcribe 2.0",
-      "titleOriginal": "Introducing Grok Voice Transcribe 2.0",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "الإعلان عن أحدث نموذج لتحويل الكلام إلى نص من SpaceXAI، بدقة وفعالية من حيث التكلفة لا مثيل لهما.",
-      "summaryOriginal": "Announcing SpaceXAI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://x.ai/news/grok-voice-transcribe-2",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Introducing Grok Voice Transcribe 2.0"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T17:38:42.682068+00:00",
-  "lastFastCheckAt": "2026-09-22T18:05:50.921508+00:00"
+  "lastFastCheckAt": "2026-09-22T18:10:56.672255+00:00"
 }
