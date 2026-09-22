@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T01:53:54.056405+00:00",
-  "checkedAt": "2026-09-22T01:53:54.056405+00:00",
+  "updatedAt": "2026-09-22T02:04:05.742489+00:00",
+  "checkedAt": "2026-09-22T02:04:05.742489+00:00",
   "newestPublishedAt": "2026-09-21T18:30:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -681,48 +681,59 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
-      "id": "9e3b958deec67a80b175",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "أعمال وشراكات",
-      "title": "مستجد جديد من Microsoft",
-      "titleOriginal": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
+      "id": "177d62cfd754af48ece9",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "تقدم NVIDIA Vera Rubin NVL72 أداءً رائدًا في استدلال MLPerf v6.1 لأول مرة",
+      "titleOriginal": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
       "dateLabel": "16 سبتمبر 2026",
       "dateISO": "2026-09-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت Microsoft عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
-      "sourceLabel": "Microsoft",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يعد أداء النظام وتوسيع نطاق البنية التحتية الفعالة والتحسين المستمر للبرامج من العوامل الرئيسية التي تحدد اقتصاديات الاستدلال بالذكاء الاصطناعي. أداء أعلى للنظام",
+      "summaryOriginal": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning"
+      "searchAliases": "NVIDIA NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T15:00:48+00:00"
     },
     {
-      "id": "a8a40dafc20d6b2f6d4e",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "aa6f620a19099be6384d",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Helping older adults use AI in everyday life",
+      "title": "مستجد جديد من NVIDIA",
+      "titleOriginal": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
       "dateLabel": "16 سبتمبر 2026",
       "dateISO": "2026-09-16",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "summary": "مصانع الذكاء الاصطناعي هي البنية التحتية لعصر الذكاء. سيعتمد توسيع نطاقها بمسؤولية على الابتكار عبر الشبكة كما هو الحال داخل مركز البيانات. اليوم،",
+      "summaryOriginal": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "sourceLabel": "OpenAI",
+      "source": "https://blogs.nvidia.com/blog/ai-energy-management-alliance",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Helping older adults use AI in everyday life"
+      "searchAliases": "NVIDIA Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-16T13:00:33+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-22T01:53:54.056405+00:00"
+  "lastDeepCheckAt": "2026-09-22T01:53:54.056405+00:00",
+  "lastFastCheckAt": "2026-09-22T02:04:05.742489+00:00"
 }
