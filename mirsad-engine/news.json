@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T15:43:34.016621+00:00",
-  "checkedAt": "2026-09-22T15:43:34.016621+00:00",
-  "newestPublishedAt": "2026-09-22T15:35:53+00:00",
+  "updatedAt": "2026-09-22T15:48:42.296142+00:00",
+  "checkedAt": "2026-09-22T15:48:42.296142+00:00",
+  "newestPublishedAt": "2026-09-22T15:46:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0a2150ee4f054a69901d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف تقوم Reactiv بأتمتة التجارة عبر الهاتف المحمول بشكل أسرع بنسبة 80 ٪ مع Amazon Bedrock AgentCore",
+      "titleOriginal": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "استخدمت Reactiv Amazon Bedrock AgentCore لبناء مجدول ذكاء اصطناعي متعدد الوكلاء ينعش بشكل مستقل Shopify تطبيقات الهاتف المحمول للتجار وفقًا لجدول زمني، مما يقلل من ثقة التاجر",
+      "summaryOriginal": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T15:46:07+00:00"
+    },
     {
       "id": "5f7c4c2ab651b730206c",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime"
-    },
-    {
-      "id": "5a9168bb053a31953240",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "وقت تشغيل AgentCore الجديد: يبدأ مرنًا ومحسنًا وسريعًا باستمرار",
-      "titleOriginal": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "نعلن اليوم عن وقت تشغيل AgentCore الجديد، وهي قدرة من Amazon Bedrock AgentCore مصممة للسرعة والمرونة وكفاءة التكلفة التي يتمتع بها وكلاء الإنتاج",
-      "summaryOriginal": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as sessions release it and delivers consistent cold starts regardless of image size or concurrency.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon The new AgentCore runtime: Elastic, optimized, and consistently fast starts"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T15:43:34.016621+00:00"
+  "lastFastCheckAt": "2026-09-22T15:48:42.296142+00:00"
 }
