@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T15:13:17.363564+00:00",
-  "checkedAt": "2026-09-22T15:13:17.363564+00:00",
-  "newestPublishedAt": "2026-09-22T12:00:41+00:00",
+  "updatedAt": "2026-09-22T15:18:16.959736+00:00",
+  "checkedAt": "2026-09-22T15:18:16.959736+00:00",
+  "newestPublishedAt": "2026-09-22T15:17:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e480f843944309d3f263",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع نطاق استخبارات القطاع العام مع Agentforce و AWS",
+      "titleOriginal": "Extending public sector intelligence with Agentforce and AWS",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم وكالات القطاع العام بمعالجة كميات كبيرة من الأدلة غير المنظمة، مثل لقطات كاميرا الجسم والمستندات الممسوحة ضوئيًا. يوضح هذا المنشور كيفية الجمع بين Amazon Bedrock Da",
+      "summaryOriginal": "Public sector agencies process large volumes of unstructured evidence, such as body camera footage and scanned documents. This post shows how to combine Amazon Bedrock Data Automation with the Model Context Protocol (MCP) to turn that data into structured insights and surface them through natural language queries in Salesforce Agentforce.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Extending public sector intelligence with Agentforce and AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T15:17:45+00:00"
+    },
     {
       "id": "8818ce76c5b3c85b6dbb",
       "company": "NVIDIA",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft What we’ve learned from Microsoft’s own AI transformation"
-    },
-    {
-      "id": "9568b057a58f6efbd015",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تعمل Cooley على تسريع عمل الاكتتاب العام مع ChatGPT",
-      "titleOriginal": "How Cooley is accelerating IPO work with ChatGPT",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "قام كولي ببناء GO Public مع ChatGPT Work لجلب المعلومات الاستخبارية إلى عملية الاكتتاب العام، ومساعدة المحامين على إبراز القضايا في وقت مبكر وتركيز الحكم على الأمور الأكثر أهمية.",
-      "summaryOriginal": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cooley-gopublic",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Cooley is accelerating IPO work with ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T15:13:17.363564+00:00"
+  "lastFastCheckAt": "2026-09-22T15:18:16.959736+00:00"
 }
