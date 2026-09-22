@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T20:10:08.144835+00:00",
-  "checkedAt": "2026-09-22T20:10:08.144835+00:00",
-  "newestPublishedAt": "2026-09-22T18:10:22+00:00",
+  "updatedAt": "2026-09-22T20:15:17.737091+00:00",
+  "checkedAt": "2026-09-22T20:15:17.737091+00:00",
+  "newestPublishedAt": "2026-09-22T21:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "925d09a5a001bbb3c9a8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تخزين مؤقت فوري أفضل لـ GPT -6",
+      "titleOriginal": "Better prompt caching for GPT-6",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية تحسين GPT -6 للتخزين المؤقت الفوري مع ارتفاع معدلات الوصول إلى ذاكرة التخزين المؤقت، والتشخيصات الجديدة، ونقاط التوقف الصريحة، وعناصر التحكم التي تقلل من زمن الوصول والتكاليف.",
+      "summaryOriginal": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Better prompt caching for GPT-6",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T21:00:00+00:00"
+    },
     {
       "id": "9574fc162cf0cbecdabb",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face tokenizers v1: encode, decode and scaling, measured"
-    },
-    {
-      "id": "0546728b09d275550f7d",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Grok 4.7",
-      "titleOriginal": "Introducing Grok 4.7",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "أقوى نموذج لـ SpaceXAI للترميز والعمل المعرفي. أسرع بمرتين، بنصف سعر الموديلات المماثلة.",
-      "summaryOriginal": "SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://x.ai/news/grok-4-7",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Introducing Grok 4.7"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T17:38:42.682068+00:00",
-  "lastFastCheckAt": "2026-09-22T20:10:08.144835+00:00"
+  "lastFastCheckAt": "2026-09-22T20:15:17.737091+00:00"
 }
