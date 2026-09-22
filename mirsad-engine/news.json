@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T20:25:20.851023+00:00",
-  "checkedAt": "2026-09-22T20:25:20.851023+00:00",
+  "updatedAt": "2026-09-22T20:28:56.679487+00:00",
+  "checkedAt": "2026-09-22T20:28:56.679487+00:00",
   "newestPublishedAt": "2026-09-22T21:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,15 +111,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Better prompt caching for GPT-6",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T21:00:00+00:00"
+      "searchAliases": "OpenAI Better prompt caching for GPT-6"
     },
     {
-      "id": "9574fc162cf0cbecdabb",
+      "id": "2e570519c59994883a5d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,17 +127,12 @@
       "summary": "تتوفر GPT -6 Sol و GPT -6 Luna الآن بشكل عام على Amazon Bedrock، مما يمنحك المزيد من الخيارات لمطابقة الذكاء والكفاءة مع كل عبء عمل.",
       "summaryOriginal": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T18:10:22+00:00"
+      "searchAliases": "Amazon Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock"
     },
     {
       "id": "77df1facbd74db71a581",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing GPT-6 Sol and Luna",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T18:00:00+00:00"
+      "searchAliases": "OpenAI Introducing GPT-6 Sol and Luna"
     },
     {
       "id": "971b80a58bd64131e841",
@@ -423,6 +408,27 @@
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
     },
     {
+      "id": "8b9d2d28c32e3ab10ed3",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "أعمال وشراكات",
+      "title": "كيف تستخدم SpaceXAI Grok Bot لتوسيع نطاق دعم العملاء",
+      "titleOriginal": "How SpaceXAI is using Grok Bot to scale customer support",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "business",
+      "importance": 82,
+      "summary": "لقد أعدنا بناء عملية دعم SpaceXAI و Cursor المدمجة حول Grok Bot، وتوسعنا إلى محفظة منتجات أوسع بكثير دون إضافة عدد الموظفين.",
+      "summaryOriginal": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://x.ai/news/grok-bot-customer-support",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
+    },
+    {
       "id": "f6000f4ba05ad113926f",
       "company": "Amazon",
       "logoText": "AWS",
@@ -484,27 +490,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts"
-    },
-    {
-      "id": "392e1665ce91b2378624",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "قم بتشغيل Positron على Amazon SageMaker AI لسير عمل علوم البيانات",
-      "titleOriginal": "Run Positron on Amazon SageMaker AI for data science workflows",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعمل Positron، IDE الخاص بـ Posit لعلوم البيانات، الآن على Amazon SageMaker AI. يوضح هذا المنشور كيف يستكشف عالم البيانات جدول أمازون أثينا، ويتحقق من صحة الميزات في R, tr",
-      "summaryOriginal": "Positron, Posit's IDE for data science, now runs on Amazon SageMaker AI. This post shows how a data scientist explores an Amazon Athena table, validates features in R, trains an XGBoost model in Python, deploys a real-time SageMaker AI endpoint, and reports results with Quarto, all in one governed SageMaker Studio Space.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/run-positron-on-amazon-sagemaker-ai-for-data-science-workflows/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Run Positron on Amazon SageMaker AI for data science workflows"
     },
     {
       "id": "03fd9ea43394b74c2589",
@@ -591,27 +576,6 @@
       "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
     },
     {
-      "id": "957c482231df0ac9d4b1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
-      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
-      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra"
-    },
-    {
       "id": "09436158ac26c454365b",
       "company": "OpenAI",
       "logoText": "AI",
@@ -631,6 +595,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence"
+    },
+    {
+      "id": "957c482231df0ac9d4b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
+      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
+      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra"
     },
     {
       "id": "eed20fca5644c45fa4fe",
@@ -739,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-22T17:38:42.682068+00:00",
-  "lastFastCheckAt": "2026-09-22T20:25:20.851023+00:00"
+  "lastDeepCheckAt": "2026-09-22T20:28:56.679487+00:00"
 }
