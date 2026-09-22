@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T18:59:14.453643+00:00",
-  "checkedAt": "2026-09-22T18:59:14.453643+00:00",
+  "updatedAt": "2026-09-22T19:04:18.667131+00:00",
+  "checkedAt": "2026-09-22T19:04:18.667131+00:00",
   "newestPublishedAt": "2026-09-22T18:10:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-22T18:10:22+00:00"
+    },
+    {
+      "id": "77df1facbd74db71a581",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم GPT -6 Sol and Luna",
+      "titleOriginal": "Introducing GPT-6 Sol and Luna",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على GPT -6 Sol و Luna، وهما نموذجان يجلبان الذكاء الحدودي إلى العمل اليومي مع توازنات مختلفة من القدرة والتكلفة.",
+      "summaryOriginal": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing GPT-6 Sol and Luna",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T18:00:00+00:00"
     },
     {
       "id": "971b80a58bd64131e841",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Introducing Grok 4.7"
-    },
-    {
-      "id": "0540f149fde55127532f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم مخطط سلامة الشباب الأسترالي",
-      "titleOriginal": "Introducing the Australian Youth Safety Blueprint",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI مخطط سلامة الشباب الأسترالي، وهو خارطة طريق سداسية الركائز لتجارب ذكاء اصطناعي أكثر أمانًا تحمي الشباب وتمكنهم.",
-      "summaryOriginal": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/australian-youth-safety-blueprint",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T17:38:42.682068+00:00",
-  "lastFastCheckAt": "2026-09-22T18:59:14.453643+00:00"
+  "lastFastCheckAt": "2026-09-22T19:04:18.667131+00:00"
 }
