@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "engine": "mirsad-trends-v1",
   "sourcePolicy": "independent-trend-signals",
-  "updatedAt": "2026-09-22T17:14:56.290304+00:00",
-  "checkedAt": "2026-09-22T17:14:56.290304+00:00",
+  "updatedAt": "2026-09-22T17:15:14.858263+00:00",
+  "checkedAt": "2026-09-22T17:15:14.858263+00:00",
   "sourceHealth": [
     {
       "source": "Google Trends",
@@ -59,7 +59,7 @@
         "SA",
         "AE"
       ],
-      "sourceRank": 4,
+      "sourceRank": 5,
       "signalValue": 10000,
       "signalLabel": "10000+",
       "strengthScore": 82,
@@ -69,7 +69,7 @@
       "summary": "إشارة بحث صاعدة على Google Trends في السعودية، الإمارات. حجم الاهتمام المرصود: 10000+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T14:53:10.095675+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 1,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -96,7 +96,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 2,324 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-22T10:38:06.473895+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 2,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -126,7 +126,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 325 نقطة · 273 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T14:32:12.945676+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 3,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -142,17 +142,17 @@
       "regions": [
         "AE"
       ],
-      "sourceRank": 5,
+      "sourceRank": 6,
       "signalValue": 1000,
       "signalLabel": "1000+",
-      "strengthScore": 74,
+      "strengthScore": 73,
       "title": "دونالد ترامب",
       "translationReady": true,
-      "strengthLabel": "قوي",
+      "strengthLabel": "صاعد",
       "summary": "إشارة بحث صاعدة على Google Trends في الإمارات. حجم الاهتمام المرصود: 1000+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T14:53:10.095675+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 4,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -179,7 +179,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 436 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-20T10:38:57.409254+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 5,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -201,7 +201,7 @@
       "signalLabel": "336 نقطة · 251 تعليق",
       "points": 336,
       "comments": 251,
-      "ageHours": 2.7,
+      "ageHours": 2.8,
       "strengthScore": 85,
       "title": "أضافت Apple \"إعلانات\" مستمرة إلى نظام التشغيل iOS، وهو ما يدفع المستخدمين إلى الجنون",
       "translationReady": true,
@@ -209,7 +209,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 336 نقطة · 251 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T15:13:50.254810+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 6,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -235,7 +235,7 @@
       "summary": "إشارة بحث صاعدة على Google Trends في مصر. حجم الاهتمام المرصود: 2000+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T15:09:22.149943+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 7,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -262,7 +262,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 441 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-21T10:43:14.812982+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 8,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -292,7 +292,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 657 نقطة · 518 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T09:53:15.184433+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 9,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -318,7 +318,7 @@
       "summary": "إشارة بحث صاعدة على Google Trends في الولايات المتحدة. حجم الاهتمام المرصود: 2000+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T15:44:10.136420+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 10,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -345,7 +345,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 301 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-22T10:38:06.473895+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 11,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -375,7 +375,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 169 نقطة · 246 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T16:45:07.604085+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 12,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -401,7 +401,7 @@
       "summary": "إشارة بحث صاعدة على Google Trends في السعودية. حجم الاهتمام المرصود: 1000+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T17:00:30.028017+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 13,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -428,7 +428,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 202 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-22T10:38:06.473895+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 14,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -450,7 +450,7 @@
       "signalLabel": "1040 نقطة · 461 تعليق",
       "points": 1040,
       "comments": 461,
-      "ageHours": 21.0,
+      "ageHours": 21.1,
       "strengthScore": 83,
       "title": "MiMo v2.6",
       "translationReady": false,
@@ -458,7 +458,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 1040 نقطة · 461 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T03:48:01.549495+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 15,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -474,17 +474,17 @@
       "regions": [
         "AE"
       ],
-      "sourceRank": 6,
+      "sourceRank": 7,
       "signalValue": 500,
       "signalLabel": "500+",
-      "strengthScore": 71,
+      "strengthScore": 70,
       "title": "رسوم جمركية",
       "translationReady": true,
       "strengthLabel": "صاعد",
       "summary": "إشارة بحث صاعدة على Google Trends في الإمارات. حجم الاهتمام المرصود: 500+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T14:53:10.095675+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 16,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -511,7 +511,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 197 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-22T10:38:06.473895+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 17,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -541,7 +541,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 942 نقطة · 387 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T00:02:56.120167+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 18,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -567,9 +567,9 @@
       "summary": "إشارة بحث صاعدة على Google Trends في مصر. حجم الاهتمام المرصود: 500+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T17:14:56.290304+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 19,
-      "isNew": true,
+      "isNew": false,
       "rankingMode": "balanced-live-radar"
     },
     {
@@ -594,7 +594,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 155 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-22T10:38:06.473895+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 20,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -624,7 +624,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 137 نقطة · 101 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T16:25:24.995908+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 21,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -650,7 +650,7 @@
       "summary": "إشارة بحث صاعدة على Google Trends في الولايات المتحدة. حجم الاهتمام المرصود: 2000+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T16:50:24.551398+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 22,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -677,7 +677,7 @@
       "summary": "مشروع صاعد ضمن GitHub Trending. الإشارة الحالية: 113 نجمة اليوم.",
       "why": "النجوم اليومية وظهور المشروع في قائمة GitHub Trending يعطيان إشارة على تسارع اهتمام المطورين.",
       "firstSeenAt": "2026-09-22T10:38:06.473895+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 23,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -707,7 +707,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 322 نقطة · 122 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T10:17:24.753339+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 24,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -733,7 +733,7 @@
       "summary": "إشارة بحث صاعدة على Google Trends في السعودية. حجم الاهتمام المرصود: 200+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
       "firstSeenAt": "2026-09-22T17:10:34.050098+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 25,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -763,35 +763,35 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 615 نقطة · 155 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T02:40:47.609011+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 26,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
     },
     {
-      "id": "8dd14e4436a414eb51c8",
-      "titleOriginal": "جنازة",
+      "id": "a76053eadd0775e6c113",
+      "titleOriginal": "emirates",
       "sourcePlatform": "google-trends",
       "sourceLabel": "Google Trends",
       "trendType": "search",
-      "url": "https://trends.google.com/trends/explore?q=%D8%AC%D9%86%D8%A7%D8%B2%D8%A9&geo=AE",
+      "url": "https://trends.google.com/trends/explore?q=emirates&geo=AE",
       "region": "AE",
       "regions": [
         "AE"
       ],
-      "sourceRank": 9,
-      "signalValue": 500,
-      "signalLabel": "500+",
-      "strengthScore": 70,
-      "title": "جنازة",
+      "sourceRank": 1,
+      "signalValue": 200,
+      "signalLabel": "200+",
+      "strengthScore": 69,
+      "title": "الإماراتية",
       "translationReady": true,
       "strengthLabel": "صاعد",
-      "summary": "إشارة بحث صاعدة على Google Trends في الإمارات. حجم الاهتمام المرصود: 500+.",
+      "summary": "إشارة بحث صاعدة على Google Trends في الإمارات. حجم الاهتمام المرصود: 200+.",
       "why": "ارتفاع البحث مؤشر مباشر على اهتمام جماهيري لحظي، لذلك يُستخدم لرصد الموضوعات الصاعدة مبكرًا.",
-      "firstSeenAt": "2026-09-22T16:25:24.995908+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "firstSeenAt": "2026-09-22T17:15:14.858263+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 27,
-      "isNew": false,
+      "isNew": true,
       "rankingMode": "balanced-live-radar"
     },
     {
@@ -819,7 +819,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 179 نقطة · 94 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T16:29:58.613724+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 28,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
@@ -849,9 +849,9 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 194 نقطة · 153 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T17:14:56.290304+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 29,
-      "isNew": true,
+      "isNew": false,
       "rankingMode": "balanced-live-radar"
     },
     {
@@ -879,7 +879,7 @@
       "summary": "نقاش تقني نشط على Hacker News. مستوى التفاعل الحالي: 660 نقطة · 380 تعليق.",
       "why": "النقاط والتعليقات وسرعة التفاعل تعكس نشاط النقاش التقني حول الموضوع.",
       "firstSeenAt": "2026-09-22T17:10:34.050098+00:00",
-      "collectedAt": "2026-09-22T17:14:56.290304+00:00",
+      "collectedAt": "2026-09-22T17:15:14.858263+00:00",
       "rank": 30,
       "isNew": false,
       "rankingMode": "balanced-live-radar"
