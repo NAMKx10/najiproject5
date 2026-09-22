@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T17:35:15.742273+00:00",
-  "checkedAt": "2026-09-22T17:35:15.742273+00:00",
+  "updatedAt": "2026-09-22T17:38:42.682068+00:00",
+  "checkedAt": "2026-09-22T17:38:42.682068+00:00",
   "newestPublishedAt": "2026-09-22T17:28:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "75705a408a190af13d15",
+      "id": "971b80a58bd64131e841",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "كلود أوبوس 5.5، نموذج أوبوس الأنثروبي الأكثر قدرة على ترميز الوكلاء، والعمل المعرفي، والمهام طويلة الأمد، متاح الآن على منصة أمازون بيدروك وكلود على",
       "summaryOriginal": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's new in Opus 5.5, practical guidance, and how to start building with the model on Amazon Bedrock.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Claude Opus 5.5 is now available on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T17:28:01+00:00"
+      "searchAliases": "Amazon Claude Opus 5.5 is now available on AWS"
     },
     {
-      "id": "b55d69150449f99075a9",
+      "id": "9d9395a2b84b0570c387",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "تتيح لك المهارات ترميز الإجراءات الخاصة بالمجال على أنها تعليمات قابلة لإعادة الاستخدام ومحمولة للوكلاء، لكن الإجابة بطلاقة لا تثبت أن الوكيل اختار المهارة أو التجربة المناسبة",
       "summaryOriginal": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and instruction following with Strands Evals and Amazon Bedrock AgentCore Evaluations.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T17:18:13+00:00"
+      "searchAliases": "Amazon Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore"
     },
     {
-      "id": "0a2150ee4f054a69901d",
+      "id": "e5d0455aac1df2984378",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,20 +148,15 @@
       "summary": "استخدمت Reactiv Amazon Bedrock AgentCore لبناء مجدول ذكاء اصطناعي متعدد الوكلاء ينعش بشكل مستقل Shopify تطبيقات الهاتف المحمول للتجار وفقًا لجدول زمني، مما يقلل من ثقة التاجر",
       "summaryOriginal": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T15:46:07+00:00"
+      "searchAliases": "Amazon How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore"
     },
     {
-      "id": "5f7c4c2ab651b730206c",
+      "id": "95cc1a1e6eebfe4ef4b1",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,20 +169,15 @@
       "summary": "تساعدك عمليات مسح التزامن على تحديد الحجم الصحيح لنقطة نهاية الذكاء الاصطناعي التوليدية على Amazon SageMaker AI من خلال قياسها بشكل منهجي عند زيادة مستويات الحمل. يمشي هذا المنشور من خلال",
       "summaryOriginal": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob API, and using the results to make data-driven capacity decisions about fleet size.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T15:35:53+00:00"
+      "searchAliases": "Amazon Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI"
     },
     {
-      "id": "a3198ce21bd124aa0d60",
+      "id": "d15f453ffc4ff159690d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -210,20 +190,15 @@
       "summary": "في حوالي أربعة أسابيع، قامت Trane Technologies ببناء حل وكيل مدعوم بالذكاء الاصطناعي على Amazon Bedrock AgentCore والذي قلل من العمل التشخيصي للمبنى متعدد الشاشات لمدة 20 دقيقة",
       "summaryOriginal": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a 60x improvement in time-to-insight. This post shares the architectural approach and key design decisions behind the solution.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T15:30:34+00:00"
+      "searchAliases": "Amazon How Trane gets building insights 60x faster with Amazon Bedrock AgentCore"
     },
     {
-      "id": "2beb09ba7ef196ab4d15",
+      "id": "3c3fea73967dc9f52007",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -236,20 +211,15 @@
       "summary": "تعرف على كيفية قيام Tata Elxsi ببناء IRIS، وهي منصة أمان صناعية في الوقت الفعلي على AWS. تقوم IRIS بتصفية فيديو الكاميرا على الحافة، وتدفق البيانات الوصفية من خلال Amazon Kinesis، وتشغيل الكمبيوتر",
       "summaryOriginal": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates detections into high-confidence alerts, detecting unsafe conditions in seconds instead of minutes.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Tata Elxsi detects industrial safety risks in seconds on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T15:19:54+00:00"
+      "searchAliases": "Amazon How Tata Elxsi detects industrial safety risks in seconds on AWS"
     },
     {
-      "id": "e480f843944309d3f263",
+      "id": "29c941a1b8d3112ce5c5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -262,17 +232,12 @@
       "summary": "تقوم وكالات القطاع العام بمعالجة كميات كبيرة من الأدلة غير المنظمة، مثل لقطات كاميرا الجسم والمستندات الممسوحة ضوئيًا. يوضح هذا المنشور كيفية الجمع بين Amazon Bedrock Da",
       "summaryOriginal": "Public sector agencies process large volumes of unstructured evidence, such as body camera footage and scanned documents. This post shows how to combine Amazon Bedrock Data Automation with the Model Context Protocol (MCP) to turn that data into structured insights and surface them through natural language queries in Salesforce Agentforce.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/extending-public-sector-intelligence-with-agentforce-and-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Extending public sector intelligence with Agentforce and AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T15:17:45+00:00"
+      "searchAliases": "Amazon Extending public sector intelligence with Agentforce and AWS"
     },
     {
       "id": "8818ce76c5b3c85b6dbb",
@@ -294,6 +259,48 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
+    },
+    {
+      "id": "5a6d66d37f4f1f4da7ad",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "أولويات ومبادئ تقييمات الأطراف الثالثة الفعالة",
+      "titleOriginal": "Priorities and principles for effective third party assessments",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحدد OpenAI الأولويات والمبادئ لإجراء تقييمات صارمة وآمنة ومستقلة لسلامة الذكاء الاصطناعي من طرف ثالث للنماذج والضمانات الحدودية.",
+      "summaryOriginal": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Priorities and principles for effective third party assessments"
+    },
+    {
+      "id": "fcc87cb23e9d0fc492c0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
+      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/evaleval-aisi",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
     },
     {
       "id": "74ca1f56333aa4518d0e",
@@ -336,32 +343,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
-    },
-    {
-      "id": "fcc87cb23e9d0fc492c0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
-      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/evaleval-aisi",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T00:00:00+00:00"
     },
     {
       "id": "f6000f4ba05ad113926f",
@@ -448,48 +429,6 @@
       "searchAliases": "Amazon Run Positron on Amazon SageMaker AI for data science workflows"
     },
     {
-      "id": "278d611ca02e50c43f72",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "بحث",
-      "title": "كيف حصلت Benchling على وكلاء ذكاء اصطناعي متعددين المستأجرين باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "تعرف على كيفية قيام Benchling ببناء بنية أمنية متعمقة للدفاع لتشغيل التعليمات البرمجية العلمية غير الموثوقة التي أنشأها وكلاء الذكاء الاصطناعي عبر الآلاف من مستأجري علوم الحياة باستخدام Am",
-      "summaryOriginal": "Learn how Benchling built a defense-in-depth security architecture to run untrusted, AI agent-generated scientific code across thousands of life sciences tenants using Amazon Bedrock AgentCore Code Interpreter in VPC mode, combined with Amazon Route 53 Resolver DNS Firewall and VPC endpoint policies to block data exfiltration, including through DNS.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-benchling-secured-multi-tenant-ai-agents-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Benchling secured multi-tenant AI agents with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "9c6cdf1b01028d7f9b12",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقليل وقت مراجعة المطالبات الطبية مع الذكاء الاصطناعي على AWS: حل EXL Medical IDP",
-      "titleOriginal": "Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "قامت EXL ببناء حل معالجة المستندات الطبية الذكية (IDP) المدعوم بالذكاء الاصطناعي على AWS، والجمع بين IDP ونماذج اللغات الكبيرة الخاصة بالنطاق على Amazon SageMaker و Am",
-      "summaryOriginal": "EXL built an AI-powered Medical intelligent document processing (IDP) solution on AWS, combining IDP with domain-specific large language models on Amazon SageMaker and Amazon Bedrock to extract, summarize, and query medical records at enterprise scale and cut claims review time from over 100 minutes per case.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/reducing-medical-claims-review-time-with-ai-on-aws-the-exl-medical-idp-solution/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Reducing medical claims review time with AI on AWS: The EXL Medical IDP solution"
-    },
-    {
       "id": "03fd9ea43394b74c2589",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -574,27 +513,6 @@
       "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
     },
     {
-      "id": "09436158ac26c454365b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "الفريق الاستشاري المعني بالرياضيات والذكاء الاصطناعي",
-      "titleOriginal": "Advisory Group on Mathematics and Artificial Intelligence",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعمل OpenAI مع مجموعة استشارية مستقلة حول الرياضيات والذكاء الاصطناعي لتوجيه مراجعة وتوصيل نتائج الذكاء الاصطناعي الناشئة.",
-      "summaryOriginal": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence"
-    },
-    {
       "id": "957c482231df0ac9d4b1",
       "company": "OpenAI",
       "logoText": "AI",
@@ -614,6 +532,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra"
+    },
+    {
+      "id": "09436158ac26c454365b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "الفريق الاستشاري المعني بالرياضيات والذكاء الاصطناعي",
+      "titleOriginal": "Advisory Group on Mathematics and Artificial Intelligence",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعمل OpenAI مع مجموعة استشارية مستقلة حول الرياضيات والذكاء الاصطناعي لتوجيه مراجعة وتوصيل نتائج الذكاء الاصطناعي الناشئة.",
+      "summaryOriginal": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence"
     },
     {
       "id": "eed20fca5644c45fa4fe",
@@ -760,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-18T12:00:00+00:00"
+      "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint"
+    },
+    {
+      "id": "e557edd18333cc943eef",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Grok Voice Transcribe 2.0",
+      "titleOriginal": "Introducing Grok Voice Transcribe 2.0",
+      "dateLabel": "18 سبتمبر 2026",
+      "dateISO": "2026-09-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "الإعلان عن أحدث نموذج لتحويل الكلام إلى نص من SpaceXAI، بدقة وفعالية من حيث التكلفة لا مثيل لهما.",
+      "summaryOriginal": "Announcing SpaceXAI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://x.ai/news/grok-voice-transcribe-2",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Introducing Grok Voice Transcribe 2.0"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T17:35:15.742273+00:00"
+  "lastDeepCheckAt": "2026-09-22T17:38:42.682068+00:00"
 }
