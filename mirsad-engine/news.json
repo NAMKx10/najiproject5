@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T17:09:58.141961+00:00",
-  "checkedAt": "2026-09-22T17:09:58.141961+00:00",
-  "newestPublishedAt": "2026-09-22T15:46:07+00:00",
+  "updatedAt": "2026-09-22T17:20:31.712319+00:00",
+  "checkedAt": "2026-09-22T17:20:31.712319+00:00",
+  "newestPublishedAt": "2026-09-22T17:18:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b55d69150449f99075a9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تقييم الوكلاء المجهزين بالمهارات باستخدام Strands Evals وAmazon Bedrock AgentCore",
+      "titleOriginal": "Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تتيح لك المهارات ترميز الإجراءات الخاصة بالمجال على أنها تعليمات قابلة لإعادة الاستخدام ومحمولة للوكلاء، لكن الإجابة بطلاقة لا تثبت أن الوكيل اختار المهارة أو التجربة المناسبة",
+      "summaryOriginal": "Skills let you encode domain-specific procedures as reusable, portable instructions for agents, but a fluent answer doesn't prove the agent picked the right skill or followed it. Learn how to measure skill selection and instruction following with Strands Evals and Amazon Bedrock AgentCore Evaluations.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/evaluate-skill-equipped-agents-with-strands-evals-and-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T17:18:13+00:00"
+    },
     {
       "id": "0a2150ee4f054a69901d",
       "company": "Amazon",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Amazon SageMaker Inference: 2026 year-to-date launches in review"
-    },
-    {
-      "id": "86d790f9fe264fb594f9",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Kimi K3 على Amazon Bedrock",
-      "titleOriginal": "Introducing Kimi K3 on Amazon Bedrock",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر Kimi K3 من Moonshot AI الآن على Amazon Bedrock، مما يمنحك خيارًا جديدًا قويًا مفتوح الوزن للترميز والعمل المعرفي. إنه يوفر رؤية أصلية، وهي عبارة عن مطحنة واحدة",
-      "summaryOriginal": "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision, a 1-million-token context window, and explicit prompt caching to reduce latency and input costs.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Kimi K3 on Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T17:09:58.141961+00:00"
+  "lastFastCheckAt": "2026-09-22T17:20:31.712319+00:00"
 }
