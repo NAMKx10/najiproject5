@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T22:13:09.707088+00:00",
-  "checkedAt": "2026-09-22T22:13:09.707088+00:00",
+  "updatedAt": "2026-09-22T22:18:16.409194+00:00",
+  "checkedAt": "2026-09-22T22:18:16.409194+00:00",
   "newestPublishedAt": "2026-09-22T21:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2cf97cde62040727b18f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "خفض وقت البحث والتكلفة بالتوازي إلى النصف مع GPT‑6 Astra",
+      "titleOriginal": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "سمحت GPT‑6 Astra لوكلاء Parallel بالبحث في بيانات سوق العمل وتوليفها في نصف الوقت وبنصف التكلفة مقابل النماذج السابقة.",
+      "summaryOriginal": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Parallel cut research time and cost in half with GPT‑6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T12:00:00+00:00"
+    },
     {
       "id": "925d09a5a001bbb3c9a8",
       "company": "OpenAI",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How V7 gives AI agents institutional memory"
-    },
-    {
-      "id": "bfb383dde6d22c5cc213",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "الرموز v1: تشفير وفك تشفير وتحجيم، مقاسة",
-      "titleOriginal": "tokenizers v1: encode, decode and scaling, measured",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/tokenizers-v1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face tokenizers v1: encode, decode and scaling, measured"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T20:28:56.679487+00:00",
-  "lastFastCheckAt": "2026-09-22T22:13:09.707088+00:00"
+  "lastFastCheckAt": "2026-09-22T22:18:16.409194+00:00"
 }
