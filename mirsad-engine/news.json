@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T15:28:27.863492+00:00",
-  "checkedAt": "2026-09-22T15:28:27.863492+00:00",
-  "newestPublishedAt": "2026-09-22T15:19:54+00:00",
+  "updatedAt": "2026-09-22T15:33:28.662124+00:00",
+  "checkedAt": "2026-09-22T15:33:28.662124+00:00",
+  "newestPublishedAt": "2026-09-22T15:30:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a3198ce21bd124aa0d60",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف تحصل Trane على رؤى البناء بشكل أسرع 60 مرة مع Amazon Bedrock AgentCore",
+      "titleOriginal": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في حوالي أربعة أسابيع، قامت Trane Technologies ببناء حل وكيل مدعوم بالذكاء الاصطناعي على Amazon Bedrock AgentCore والذي قلل من العمل التشخيصي للمبنى متعدد الشاشات لمدة 20 دقيقة",
+      "summaryOriginal": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a 60x improvement in time-to-insight. This post shares the architectural approach and key design decisions behind the solution.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T15:30:34+00:00"
+    },
     {
       "id": "2beb09ba7ef196ab4d15",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint"
-    },
-    {
-      "id": "e557edd18333cc943eef",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Grok Voice Transcribe 2.0",
-      "titleOriginal": "Introducing Grok Voice Transcribe 2.0",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "الإعلان عن أحدث نموذج لتحويل الكلام إلى نص من SpaceXAI، بدقة وفعالية من حيث التكلفة لا مثيل لهما.",
-      "summaryOriginal": "Announcing SpaceXAI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://x.ai/news/grok-voice-transcribe-2",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Introducing Grok Voice Transcribe 2.0"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T15:28:27.863492+00:00"
+  "lastFastCheckAt": "2026-09-22T15:33:28.662124+00:00"
 }
