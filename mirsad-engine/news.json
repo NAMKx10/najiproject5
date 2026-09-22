@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T15:33:28.662124+00:00",
-  "checkedAt": "2026-09-22T15:33:28.662124+00:00",
-  "newestPublishedAt": "2026-09-22T15:30:34+00:00",
+  "updatedAt": "2026-09-22T15:38:31.604049+00:00",
+  "checkedAt": "2026-09-22T15:38:31.604049+00:00",
+  "newestPublishedAt": "2026-09-22T15:35:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5f7c4c2ab651b730206c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نقاط نهاية ذكاء اصطناعي توليدية بالحجم المناسب مع عمليات مسح بالتزامن على Amazon SageMaker AI",
+      "titleOriginal": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعدك عمليات مسح التزامن على تحديد الحجم الصحيح لنقطة نهاية الذكاء الاصطناعي التوليدية على Amazon SageMaker AI من خلال قياسها بشكل منهجي عند زيادة مستويات الحمل. يمشي هذا المنشور من خلال",
+      "summaryOriginal": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob API, and using the results to make data-driven capacity decisions about fleet size.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T15:35:53+00:00"
+    },
     {
       "id": "a3198ce21bd124aa0d60",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Deploy Hugging Face models on Amazon SageMaker AI with coding agents"
-    },
-    {
-      "id": "0540f149fde55127532f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم مخطط سلامة الشباب الأسترالي",
-      "titleOriginal": "Introducing the Australian Youth Safety Blueprint",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI مخطط سلامة الشباب الأسترالي، وهو خارطة طريق سداسية الركائز لتجارب ذكاء اصطناعي أكثر أمانًا تحمي الشباب وتمكنهم.",
-      "summaryOriginal": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/australian-youth-safety-blueprint",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Australian Youth Safety Blueprint"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T15:33:28.662124+00:00"
+  "lastFastCheckAt": "2026-09-22T15:38:31.604049+00:00"
 }
