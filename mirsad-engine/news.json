@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T17:25:13.403590+00:00",
-  "checkedAt": "2026-09-22T17:25:13.403590+00:00",
-  "newestPublishedAt": "2026-09-22T17:18:13+00:00",
+  "updatedAt": "2026-09-22T17:30:18.789234+00:00",
+  "checkedAt": "2026-09-22T17:30:18.789234+00:00",
+  "newestPublishedAt": "2026-09-22T17:28:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "75705a408a190af13d15",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كلود أوبوس 5.5 متاح الآن على أمازون ويب سيرفيسز",
+      "titleOriginal": "Claude Opus 5.5 is now available on AWS",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "كلود أوبوس 5.5، نموذج أوبوس الأنثروبي الأكثر قدرة على ترميز الوكلاء، والعمل المعرفي، والمهام طويلة الأمد، متاح الآن على منصة أمازون بيدروك وكلود على",
+      "summaryOriginal": "Claude Opus 5.5, Anthropic's most capable Opus model for agentic coding, knowledge work, and long-running tasks, is now available on Amazon Bedrock and Claude Platform on AWS. This post covers what's new in Opus 5.5, practical guidance, and how to start building with the model on Amazon Bedrock.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/claude-opus-5-5-is-now-available-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Claude Opus 5.5 is now available on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T17:28:01+00:00"
+    },
     {
       "id": "b55d69150449f99075a9",
       "company": "Amazon",
@@ -740,30 +766,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-18T12:00:00+00:00"
-    },
-    {
-      "id": "5d211b2dfc474c382502",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "استدلال Amazon SageMaker: عمليات الإطلاق من عام 2026 حتى تاريخه قيد المراجعة",
-      "titleOriginal": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
-      "dateLabel": "18 سبتمبر 2026",
-      "dateISO": "2026-09-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "شحنت Amazon SageMaker AI 13 إطلاق استدلال في العام حتى الآن عبر مسارين للنشر: نقاط النهاية المدارة بالكامل و Amazon SageMaker HyperPod Inference. هذا المنصب",
-      "summaryOriginal": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from inference recommendations and capacity-aware instance pools to tiered KV caching and disaggregated prefill and decode.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 year-to-date launches in review"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T17:25:13.403590+00:00"
+  "lastFastCheckAt": "2026-09-22T17:30:18.789234+00:00"
 }
