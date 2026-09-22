@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T07:40:21.458812+00:00",
-  "checkedAt": "2026-09-22T07:40:21.458812+00:00",
+  "updatedAt": "2026-09-22T07:43:39.044207+00:00",
+  "checkedAt": "2026-09-22T07:43:39.044207+00:00",
   "newestPublishedAt": "2026-09-22T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-22T00:00:00+00:00"
+      "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
     },
     {
       "id": "f6000f4ba05ad113926f",
@@ -528,7 +523,7 @@
       "dateISO": "2026-09-18",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "يتوفر Kimi K3 من Moonshot AI الآن على Amazon Bedrock، مما يمنحك خيارًا جديدًا قويًا مفتوح الوزن للترميز والعمل المعرفي. إنه يوفر رؤية أصلية، وهي عبارة عن مطحنة واحدة",
       "summaryOriginal": "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision, a 1-million-token context window, and explicit prompt caching to reduce latency and input costs.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/",
@@ -570,7 +565,7 @@
       "dateISO": "2026-09-18",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "نعلن اليوم عن وقت تشغيل AgentCore الجديد، وهي قدرة من Amazon Bedrock AgentCore مصممة للسرعة والمرونة وكفاءة التكلفة التي يتمتع بها وكلاء الإنتاج",
       "summaryOriginal": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that production agents demand. It reclaims memory as sessions release it and delivers consistent cold starts regardless of image size or concurrency.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
@@ -707,7 +702,7 @@
       "searchAliases": "OpenAI Introducing Astra for Law"
     },
     {
-      "id": "91f751400a866e292732",
+      "id": "9e3b958deec67a80b175",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أعمال وشراكات",
@@ -720,20 +715,14 @@
       "summary": "تعمل مايكروسوفت في مجال التعليم منذ خمسة عقود. منذ الأيام الأولى لهذه الشركة، عملنا جنبًا إلى جنب مع المعلمين والطلاب والعائلات والمعلمين",
       "summaryOriginal": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... The post Microsoft’s commitment for AI in education: Protecting students, strengthening learning appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education",
+      "source": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-16T18:59:58+00:00"
+      "searchAliases": "Microsoft Microsoft’s commitment for AI in education: Protecting students, strengthening learning"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-22T01:53:54.056405+00:00",
-  "lastFastCheckAt": "2026-09-22T07:40:21.458812+00:00"
+  "lastDeepCheckAt": "2026-09-22T07:43:39.044207+00:00"
 }
