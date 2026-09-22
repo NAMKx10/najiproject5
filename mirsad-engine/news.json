@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-22T15:18:16.959736+00:00",
-  "checkedAt": "2026-09-22T15:18:16.959736+00:00",
-  "newestPublishedAt": "2026-09-22T15:17:45+00:00",
+  "updatedAt": "2026-09-22T15:23:23.303925+00:00",
+  "checkedAt": "2026-09-22T15:23:23.303925+00:00",
+  "newestPublishedAt": "2026-09-22T15:19:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2beb09ba7ef196ab4d15",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "كيف تكتشف Tata Elxsi مخاطر السلامة الصناعية في ثوانٍ على AWS",
+      "titleOriginal": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرف على كيفية قيام Tata Elxsi ببناء IRIS، وهي منصة أمان صناعية في الوقت الفعلي على AWS. تقوم IRIS بتصفية فيديو الكاميرا على الحافة، وتدفق البيانات الوصفية من خلال Amazon Kinesis، وتشغيل الكمبيوتر",
+      "summaryOriginal": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates detections into high-confidence alerts, detecting unsafe conditions in seconds instead of minutes.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Tata Elxsi detects industrial safety risks in seconds on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T15:19:54+00:00"
+    },
     {
       "id": "e480f843944309d3f263",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Introducing Grok Voice Transcribe 2.0"
-    },
-    {
-      "id": "30787a025c36077a15c9",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "أعمال وشراكات",
-      "title": "ما تعلمناه من تحول مايكروسوفت إلى الذكاء الاصطناعي",
-      "titleOriginal": "What we’ve learned from Microsoft’s own AI transformation",
-      "dateLabel": "17 سبتمبر 2026",
-      "dateISO": "2026-09-17",
-      "category": "business",
-      "importance": 82,
-      "summary": "يعيد الذكاء الاصطناعي تشكيل العمل بشكل أسرع من أي منظمة أتقنتها بالكامل. عبر الصناعات، تحولت المحادثة من ما يمكن أن يفعله الذكاء الاصطناعي إلى كيف يمكن للشركات استخدام الذكاء الاصطناعي",
-      "summaryOriginal": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:... The post What we’ve learned from Microsoft’s own AI transformation appeared first on The Official Microsoft Blog .",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft What we’ve learned from Microsoft’s own AI transformation"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-22T12:50:53.057974+00:00",
-  "lastFastCheckAt": "2026-09-22T15:18:16.959736+00:00"
+  "lastFastCheckAt": "2026-09-22T15:23:23.303925+00:00"
 }
