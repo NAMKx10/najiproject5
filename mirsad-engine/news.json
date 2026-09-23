@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T11:12:10.619678+00:00",
-  "checkedAt": "2026-09-23T11:12:10.619678+00:00",
+  "updatedAt": "2026-09-23T11:17:10.171699+00:00",
+  "checkedAt": "2026-09-23T11:17:10.171699+00:00",
   "newestPublishedAt": "2026-09-23T02:30:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
+      "id": "4cef586c1740a06bd3a7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "توسيع أكاديمية OpenAI مع مسارات تعليمية جديدة",
+      "titleOriginal": "Expanding OpenAI Academy with new learning paths",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "استكشف مسارات تعليمية جديدة لأكاديمية OpenAI للموظفين والمطورين والقادة والمعلمين والطلاب لبناء وإظهار مهارات الذكاء الاصطناعي العملية.",
+      "summaryOriginal": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Expanding OpenAI Academy with new learning paths",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T07:00:00+00:00"
+    },
+    {
       "id": "f6000f4ba05ad113926f",
       "company": "Amazon",
       "logoText": "AWS",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA 5 Companies Using NVIDIA AI for Clean Energy"
-    },
-    {
-      "id": "8c719abbd054b27293ab",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "معايير البناء للمرحلة التالية من الذكاء الاصطناعي",
-      "titleOriginal": "Building standards for the next phase of AI",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تحدد OpenAI مسارًا لمعايير الذكاء الاصطناعي العالمية المشتركة، وتدعو إلى التقييم المنسق وإعداد التقارير والحوكمة لتحسين السلامة.",
-      "summaryOriginal": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/building-standards-next-phase-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Building standards for the next phase of AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T06:42:04.939046+00:00",
-  "lastFastCheckAt": "2026-09-23T11:12:10.619678+00:00"
+  "lastFastCheckAt": "2026-09-23T11:17:10.171699+00:00"
 }
