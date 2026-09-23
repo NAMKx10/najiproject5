@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T06:38:17.139188+00:00",
-  "checkedAt": "2026-09-23T06:38:17.139188+00:00",
+  "updatedAt": "2026-09-23T06:42:04.939046+00:00",
+  "checkedAt": "2026-09-23T06:42:04.939046+00:00",
   "newestPublishedAt": "2026-09-23T02:30:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "0c578601ce1a26a372e0",
+      "id": "457ec8d61d7140ec41d7",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -106,17 +106,12 @@
       "summary": "يقدم يوم إنفيديا للذكاء الاصطناعي في سنغافورة، الذي يقام في الفترة من 22 إلى 23 سبتمبر في مركز مؤتمرات مدينة رافلز، فرصًا للحضور لاستكشاف التدريب العملي، خبير",
       "summaryOriginal": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/ai-day-singapore",
+      "source": "https://blogs.nvidia.com/blog/ai-day-singapore/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T02:30:22+00:00"
+      "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
     },
     {
       "id": "925d09a5a001bbb3c9a8",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-23T01:32:51.022682+00:00",
-  "lastFastCheckAt": "2026-09-23T06:38:17.139188+00:00"
+  "lastDeepCheckAt": "2026-09-23T06:42:04.939046+00:00"
 }
