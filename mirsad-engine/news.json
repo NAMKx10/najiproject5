@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T18:58:24.522583+00:00",
-  "checkedAt": "2026-09-23T18:58:24.522583+00:00",
+  "updatedAt": "2026-09-23T19:03:30.429525+00:00",
+  "checkedAt": "2026-09-23T19:03:30.429525+00:00",
   "newestPublishedAt": "2026-09-24T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -216,6 +216,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-23T18:17:44+00:00"
+    },
+    {
+      "id": "d3a6eea58ba5672ffba7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعمل invideo على تحسين درجات الألوان 3x باستخدام GPT‑6 Astra",
+      "titleOriginal": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT‑6 Astra، تخطط Invideo للتحرير بدقة أكبر، وتحسن تصحيح الألوان والدرجات ثلاثة أضعاف، وتنتج 50 تأثيرًا مخصصًا في يوم واحد.",
+      "summaryOriginal": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How invideo improves color grading 3x with GPT‑6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "id": "689c207b680aa4a3411a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحول هارفي السياق القانوني إلى مسودات أقوى مع GPT -6 Astra",
+      "titleOriginal": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تنتج GPT -6 ASTRA مستندات قانونية أكثر تنظيمًا وإدراكًا للسياق، مما يتيح للمحامين التركيز على الاستراتيجية.",
+      "summaryOriginal": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T12:00:00+00:00"
     },
     {
       "id": "484bb65c12caed03e58b",
@@ -704,61 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T18:30:34+00:00"
-    },
-    {
-      "id": "485bc24e010130ab69e6",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تطلق DSX جاهزة لتأهيل منتجات الطاقة والتبريد لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
-      "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:00:07+00:00"
-    },
-    {
-      "id": "5a85dd65e9844e4d5bf1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف تكتشف مجموعة BMW حالات شذوذ التكلفة عبر 14000 حساب سحابي",
-      "titleOriginal": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تدير مجموعة BMW منصة CLEA، وهي منصة FinOps تراقب أكثر من 14000 حساب سحابي. يوضح هذا المنشور كيف أضافت BMW الكشف التلقائي عن شذوذ التكلفة اليومية، والانتقال من",
-      "summaryOriginal": "BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly detection, moving from reactive dashboards to proactive alerts using Prophet forecasting, AWS Step Functions, and a serverless pipeline that processes every account for about $50 per month.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:36:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T17:08:47.336634+00:00",
-  "lastFastCheckAt": "2026-09-23T18:58:24.522583+00:00"
+  "lastFastCheckAt": "2026-09-23T19:03:30.429525+00:00"
 }
