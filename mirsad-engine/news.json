@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T12:20:49.992355+00:00",
-  "checkedAt": "2026-09-23T12:20:49.992355+00:00",
+  "updatedAt": "2026-09-23T12:24:15.337580+00:00",
+  "checkedAt": "2026-09-23T12:24:15.337580+00:00",
   "newestPublishedAt": "2026-09-23T13:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -513,6 +513,32 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
+      "id": "5425ee85f04a9a34263d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تقليم LLMs مثل الفيزيائي: إزالة الكتلة كمشكلة تحسين ISING",
+      "titleOriginal": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T13:44:34+00:00"
+    },
+    {
       "id": "09436158ac26c454365b",
       "company": "OpenAI",
       "logoText": "AI",
@@ -532,6 +558,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T12:00:00+00:00"
+    },
+    {
+      "id": "957c482231df0ac9d4b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
+      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
+      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -699,51 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer"
-    },
-    {
-      "id": "1e1fabb8789eab4856f3",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "من التمكين إلى التنفيذ، يصل النظام الإيكولوجي للذكاء الاصطناعي في مصر إلى نطاق الإنتاج",
-      "titleOriginal": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
-      "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale"
-    },
-    {
-      "id": "8b7e79d17c358ee26be4",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "أمن الذكاء الاصطناعي مشكلة هندسية — كيفية حلها في كل طبقة من طبقات مكدس الوكلاء",
-      "titleOriginal": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أمن الذكاء الاصطناعي مشكلة هندسية. وهذا يعني متطلبات أمنية محددة، وضوابط قابلة للتنفيذ، ومالكين محددين، وأدلة على أن الحماية تعمل. كلما أصبح الذكاء الاصطناعي أكثر",
-      "summaryOriginal": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T12:14:47.659356+00:00",
-  "lastFastCheckAt": "2026-09-23T12:20:49.992355+00:00"
+  "lastFastCheckAt": "2026-09-23T12:24:15.337580+00:00"
 }
