@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T11:17:10.171699+00:00",
-  "checkedAt": "2026-09-23T11:17:10.171699+00:00",
+  "updatedAt": "2026-09-23T11:22:17.263297+00:00",
+  "checkedAt": "2026-09-23T11:22:17.263297+00:00",
   "newestPublishedAt": "2026-09-23T02:30:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
+      "id": "8c719abbd054b27293ab",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "معايير البناء للمرحلة التالية من الذكاء الاصطناعي",
+      "titleOriginal": "Building standards for the next phase of AI",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تحدد OpenAI مسارًا لمعايير الذكاء الاصطناعي العالمية المشتركة، وتدعو إلى التقييم المنسق وإعداد التقارير والحوكمة لتحسين السلامة.",
+      "summaryOriginal": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/building-standards-next-phase-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Building standards for the next phase of AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T10:00:00+00:00"
+    },
+    {
       "id": "4cef586c1740a06bd3a7",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence"
-    },
-    {
-      "id": "eed20fca5644c45fa4fe",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "5 شركات تستخدم NVIDIA AI للطاقة النظيفة",
-      "titleOriginal": "5 Companies Using NVIDIA AI for Clean Energy",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "ليس من الصعب الحصول على الطاقة النظيفة، لكن وتيرة الاعتماد على نطاق واسع كانت بطيئة تاريخيًا بسبب الاختناقات — بما في ذلك البنية التحتية القديمة،",
-      "summaryOriginal": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA 5 Companies Using NVIDIA AI for Clean Energy"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T06:42:04.939046+00:00",
-  "lastFastCheckAt": "2026-09-23T11:17:10.171699+00:00"
+  "lastFastCheckAt": "2026-09-23T11:22:17.263297+00:00"
 }
