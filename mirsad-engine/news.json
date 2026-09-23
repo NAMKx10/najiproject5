@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T17:06:30.198039+00:00",
-  "checkedAt": "2026-09-23T17:06:30.198039+00:00",
+  "updatedAt": "2026-09-23T17:08:47.336634+00:00",
+  "checkedAt": "2026-09-23T17:08:47.336634+00:00",
   "newestPublishedAt": "2026-09-24T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-24T12:00:00+00:00"
+      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
     },
     {
       "id": "484bb65c12caed03e58b",
@@ -137,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Two years of OpenAI Academy",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T16:00:00+00:00"
+      "searchAliases": "OpenAI Two years of OpenAI Academy"
     },
     {
       "id": "9100b8809ac33d294ec0",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T13:17:01+00:00"
+      "searchAliases": "Hugging Face **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**"
     },
     {
       "id": "164c76793cdda6d7b6d9",
@@ -591,7 +576,7 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
-      "id": "58476171695a78e79677",
+      "id": "f6000f4ba05ad113926f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -604,20 +589,15 @@
       "summary": "يتوفر Grok 4.6 من xAI الآن في Amazon Bedrock: نموذج حدودي للوكلاء الذين يعملون منذ فترة طويلة، والترميز، والعمل المعرفي، مع نافذة سياق رمزية 500K وأربعة أسباب",
       "summaryOriginal": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on both the bedrock-mantle and bedrock-runtime endpoints, with Converse API and cross-Region inference support.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:30:34+00:00"
+      "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock"
     },
     {
-      "id": "485bc24e010130ab69e6",
+      "id": "e6b8fc022f0ffab2faec",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -630,20 +610,15 @@
       "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
       "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
+      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:00:07+00:00"
+      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
     },
     {
-      "id": "5a85dd65e9844e4d5bf1",
+      "id": "746f0aee0b84614c13d4",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -656,20 +631,15 @@
       "summary": "تدير مجموعة BMW منصة CLEA، وهي منصة FinOps تراقب أكثر من 14000 حساب سحابي. يوضح هذا المنشور كيف أضافت BMW الكشف التلقائي عن شذوذ التكلفة اليومية، والانتقال من",
       "summaryOriginal": "BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly detection, moving from reactive dashboards to proactive alerts using Prophet forecasting, AWS Step Functions, and a serverless pipeline that processes every account for about $50 per month.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:36:10+00:00"
+      "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts"
     },
     {
-      "id": "605f5c1f0409d53a50d0",
+      "id": "03fd9ea43394b74c2589",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -682,20 +652,15 @@
       "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
       "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
+      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:46+00:00"
+      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer"
     },
     {
-      "id": "1c05eea5e3707678d0a8",
+      "id": "1e1fabb8789eab4856f3",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -708,20 +673,15 @@
       "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
       "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:10+00:00"
+      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale"
     },
     {
-      "id": "3b685a9be7abbe748071",
+      "id": "8b7e79d17c358ee26be4",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أمان وسياسات",
@@ -734,17 +694,12 @@
       "summary": "أمن الذكاء الاصطناعي مشكلة هندسية. وهذا يعني متطلبات أمنية محددة، وضوابط قابلة للتنفيذ، ومالكين محددين، وأدلة على أن الحماية تعمل. كلما أصبح الذكاء الاصطناعي أكثر",
       "summaryOriginal": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
+      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T14:51:34+00:00"
+      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack"
     },
     {
       "id": "5425ee85f04a9a34263d",
@@ -765,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T13:44:34+00:00"
+      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-23T12:14:47.659356+00:00",
-  "lastFastCheckAt": "2026-09-23T17:06:30.198039+00:00"
+  "lastDeepCheckAt": "2026-09-23T17:08:47.336634+00:00"
 }
