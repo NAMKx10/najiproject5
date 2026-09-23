@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T19:54:10.040513+00:00",
-  "checkedAt": "2026-09-23T19:54:10.040513+00:00",
+  "updatedAt": "2026-09-23T19:59:15.504697+00:00",
+  "checkedAt": "2026-09-23T19:59:15.504697+00:00",
   "newestPublishedAt": "2026-09-24T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -268,6 +268,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-23T12:00:00+00:00"
+    },
+    {
+      "id": "52257932400861fbd43f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "التعريف بـ MentalHealthBench",
+      "titleOriginal": "Introducing MentalHealthBench",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "MentalHealthBench هو معيار مستنير بالخبراء لتقييم استجابات الذكاء الاصطناعي المفيدة والآمنة عبر محادثات الصحة العقلية الواقعية.",
+      "summaryOriginal": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-mentalhealthbench",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing MentalHealthBench",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T10:00:00+00:00"
     },
     {
       "id": "484bb65c12caed03e58b",
@@ -730,35 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
-    },
-    {
-      "id": "58476171695a78e79677",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "xAI's Grok 4.6 متوفر الآن في Amazon Bedrock",
-      "titleOriginal": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر Grok 4.6 من xAI الآن في Amazon Bedrock: نموذج حدودي للوكلاء الذين يعملون منذ فترة طويلة، والترميز، والعمل المعرفي، مع نافذة سياق رمزية 500K وأربعة أسباب",
-      "summaryOriginal": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on both the bedrock-mantle and bedrock-runtime endpoints, with Converse API and cross-Region inference support.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:30:34+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T17:08:47.336634+00:00",
-  "lastFastCheckAt": "2026-09-23T19:54:10.040513+00:00"
+  "lastFastCheckAt": "2026-09-23T19:59:15.504697+00:00"
 }
