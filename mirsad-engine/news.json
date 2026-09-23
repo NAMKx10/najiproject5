@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T11:53:53.807531+00:00",
-  "checkedAt": "2026-09-23T11:53:53.807531+00:00",
+  "updatedAt": "2026-09-23T11:58:58.705706+00:00",
+  "checkedAt": "2026-09-23T11:58:58.705706+00:00",
   "newestPublishedAt": "2026-09-23T02:30:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
+      "id": "5a85dd65e9844e4d5bf1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف تكتشف مجموعة BMW حالات شذوذ التكلفة عبر 14000 حساب سحابي",
+      "titleOriginal": "How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تدير مجموعة BMW منصة CLEA، وهي منصة FinOps تراقب أكثر من 14000 حساب سحابي. يوضح هذا المنشور كيف أضافت BMW الكشف التلقائي عن شذوذ التكلفة اليومية، والانتقال من",
+      "summaryOriginal": "BMW Group operates CLEA, a FinOps platform monitoring more than 14,000 cloud accounts. This post shows how BMW added automated daily cost anomaly detection, moving from reactive dashboards to proactive alerts using Prophet forecasting, AWS Step Functions, and a serverless pipeline that processes every account for about $50 per month.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-bmw-group-detects-cost-anomalies-across-14000-cloud-accounts",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T16:36:10+00:00"
+    },
+    {
       "id": "605f5c1f0409d53a50d0",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon xAI’s Grok 4.6 is now available in Amazon Bedrock"
-    },
-    {
-      "id": "e6b8fc022f0ffab2faec",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تطلق DSX جاهزة لتأهيل منتجات الطاقة والتبريد لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
-      "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T06:42:04.939046+00:00",
-  "lastFastCheckAt": "2026-09-23T11:53:53.807531+00:00"
+  "lastFastCheckAt": "2026-09-23T11:58:58.705706+00:00"
 }
