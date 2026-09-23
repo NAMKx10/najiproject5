@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T21:01:25.089507+00:00",
-  "checkedAt": "2026-09-23T21:01:25.089507+00:00",
+  "updatedAt": "2026-09-23T21:06:26.602411+00:00",
+  "checkedAt": "2026-09-23T21:06:26.602411+00:00",
   "newestPublishedAt": "2026-09-23T18:41:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8c9b3ccceb8f7efc3fb2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "ملاحظات سام ألتمان في مجلس الأمن التابع للأمم المتحدة",
+      "titleOriginal": "Sam Altman’s remarks at the United Nations Security Council",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "policy",
+      "importance": 88,
+      "summary": "يناقش سام ألتمان، الرئيس التنفيذي لشركة OpenAI، سلامة الذكاء الاصطناعي والتحكم البشري والتعاون الدولي في ملاحظات أمام مجلس الأمن التابع للأمم المتحدة.",
+      "summaryOriginal": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Sam Altman’s remarks at the United Nations Security Council",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T12:00:00+00:00"
+    },
     {
       "id": "edf8b07ee1a1adac3048",
       "company": "OpenAI",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T18:00:07+00:00"
-    },
-    {
-      "id": "605f5c1f0409d53a50d0",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "لماذا يتطلب نشر الذكاء الاصطناعي المادي على نطاق واسع السلامة في كل طبقة",
-      "titleOriginal": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
-      "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:46+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T20:22:56.996163+00:00",
-  "lastFastCheckAt": "2026-09-23T21:01:25.089507+00:00"
+  "lastFastCheckAt": "2026-09-23T21:06:26.602411+00:00"
 }
