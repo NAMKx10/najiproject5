@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T11:43:49.543686+00:00",
-  "checkedAt": "2026-09-23T11:43:49.543686+00:00",
+  "updatedAt": "2026-09-23T11:48:56.268502+00:00",
+  "checkedAt": "2026-09-23T11:48:56.268502+00:00",
   "newestPublishedAt": "2026-09-23T02:30:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
+      "id": "1c05eea5e3707678d0a8",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "من التمكين إلى التنفيذ، يصل النظام الإيكولوجي للذكاء الاصطناعي في مصر إلى نطاق الإنتاج",
+      "titleOriginal": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
+      "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T16:00:10+00:00"
+    },
+    {
       "id": "3b685a9be7abbe748071",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How BMW Group detects cost anomalies across 14,000 cloud accounts"
-    },
-    {
-      "id": "03fd9ea43394b74c2589",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "لماذا يتطلب نشر الذكاء الاصطناعي المادي على نطاق واسع السلامة في كل طبقة",
-      "titleOriginal": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
-      "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T06:42:04.939046+00:00",
-  "lastFastCheckAt": "2026-09-23T11:43:49.543686+00:00"
+  "lastFastCheckAt": "2026-09-23T11:48:56.268502+00:00"
 }
