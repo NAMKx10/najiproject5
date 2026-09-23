@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T16:33:04.449459+00:00",
-  "checkedAt": "2026-09-23T16:33:04.449459+00:00",
-  "newestPublishedAt": "2026-09-23T16:00:00+00:00",
+  "updatedAt": "2026-09-23T16:38:38.896178+00:00",
+  "checkedAt": "2026-09-23T16:38:38.896178+00:00",
+  "newestPublishedAt": "2026-09-24T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cefeac142e39a76151b0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم وكلاء Ringg للذكاء الاصطناعي بحل ما يصل إلى 65 ٪ من مكالمات العملاء مع OpenAI",
+      "titleOriginal": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "dateLabel": "24 سبتمبر 2026",
+      "dateISO": "2026-09-24",
+      "category": "models",
+      "importance": 92,
+      "summary": "باستخدام GPT-5.6، يدعم Ringg الوكلاء متعددي اللغات عبر الصوت والدردشة وواتساب والويب بتكلفة أقل بنسبة 90 ٪ مقابل GPT-4.1.",
+      "summaryOriginal": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/ringg",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-24T12:00:00+00:00"
+    },
     {
       "id": "484bb65c12caed03e58b",
       "company": "OpenAI",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T13:44:34+00:00"
-    },
-    {
-      "id": "09436158ac26c454365b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "الفريق الاستشاري المعني بالرياضيات والذكاء الاصطناعي",
-      "titleOriginal": "Advisory Group on Mathematics and Artificial Intelligence",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعمل OpenAI مع مجموعة استشارية مستقلة حول الرياضيات والذكاء الاصطناعي لتوجيه مراجعة وتوصيل نتائج الذكاء الاصطناعي الناشئة.",
-      "summaryOriginal": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advisory Group on Mathematics and Artificial Intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T12:14:47.659356+00:00",
-  "lastFastCheckAt": "2026-09-23T16:33:04.449459+00:00"
+  "lastFastCheckAt": "2026-09-23T16:38:38.896178+00:00"
 }
