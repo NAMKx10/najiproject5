@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T13:15:00.427078+00:00",
-  "checkedAt": "2026-09-23T13:15:00.427078+00:00",
-  "newestPublishedAt": "2026-09-23T13:00:00+00:00",
+  "updatedAt": "2026-09-23T13:20:00.303278+00:00",
+  "checkedAt": "2026-09-23T13:20:00.303278+00:00",
+  "newestPublishedAt": "2026-09-23T13:17:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9100b8809ac33d294ec0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "**اعرف من تحدث متى: أنشئ ذكاءً اصطناعيًا متعدد السماعات في الوقت الفعلي باستخدام NVIDIA Nemotron 3Diarization**",
+      "titleOriginal": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T13:17:01+00:00"
+    },
     {
       "id": "164c76793cdda6d7b6d9",
       "company": "OpenAI",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T12:00:00+00:00"
-    },
-    {
-      "id": "eed402040b69ebccc86d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "5 شركات تستخدم NVIDIA AI للطاقة النظيفة",
-      "titleOriginal": "5 Companies Using NVIDIA AI for Clean Energy",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "ليس من الصعب الحصول على الطاقة النظيفة، لكن وتيرة الاعتماد على نطاق واسع كانت بطيئة تاريخيًا بسبب الاختناقات — بما في ذلك البنية التحتية القديمة،",
-      "summaryOriginal": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA 5 Companies Using NVIDIA AI for Clean Energy",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T10:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T12:14:47.659356+00:00",
-  "lastFastCheckAt": "2026-09-23T13:15:00.427078+00:00"
+  "lastFastCheckAt": "2026-09-23T13:20:00.303278+00:00"
 }
