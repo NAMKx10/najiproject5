@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T18:17:32.782408+00:00",
-  "checkedAt": "2026-09-23T18:17:32.782408+00:00",
+  "updatedAt": "2026-09-23T18:22:42.299851+00:00",
+  "checkedAt": "2026-09-23T18:22:42.299851+00:00",
   "newestPublishedAt": "2026-09-24T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,58 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+    },
+    {
+      "id": "f8409a15d9a9439c42d1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "ذكاء فيديو محادثة الوكيل مبني على AWS",
+      "titleOriginal": "Agentic conversational video intelligence built on AWS",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية إنشاء حل ذكاء فيديو محادثة على AWS باستخدام بنية الوكيل. يقوم عميل واحد من وكلاء Strands SDK بتنسيق Amazon Bedrock وAmazo",
+      "summaryOriginal": "Learn how to build a conversational video intelligence solution on AWS using an agentic architecture. A single Strands Agents SDK agent orchestrates Amazon Bedrock, Amazon Rekognition, and Amazon Transcribe at runtime, deciding which service to call so you can ask natural language questions about your videos and get answers in seconds.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/agentic-conversational-video-intelligence-built-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Agentic conversational video intelligence built on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T18:21:54+00:00"
+    },
+    {
+      "id": "2f635a7afa41b63bc64c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استخدم نماذج الوزن المفتوح كعامل ترميز للذكاء الاصطناعي مع Amazon Bedrock",
+      "titleOriginal": "Use open weight models as your AI coding agent with Amazon Bedrock",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "قم بإقران OpenCode، وهو عامل ترميز أصلي مفتوح المصدر للذكاء الاصطناعي، مع نماذج مفتوحة الوزن على Amazon Bedrock للحصول على مساعد ترميز آمن ومرن ومدفوع حسب الاستخدام. تعلم كيف",
+      "summaryOriginal": "Pair OpenCode, an open-source terminal-native AI coding agent, with open weight models on Amazon Bedrock to get a secure, flexible, pay-per-use coding assistant. Learn how to configure multi-model workflows, match the right model to each task, and keep your data in your own AWS account with no infrastructure to manage.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Use open weight models as your AI coding agent with Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T18:17:44+00:00"
     },
     {
       "id": "484bb65c12caed03e58b",
@@ -704,61 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T16:00:10+00:00"
-    },
-    {
-      "id": "3b685a9be7abbe748071",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "أمن الذكاء الاصطناعي مشكلة هندسية — كيفية حلها في كل طبقة من طبقات مكدس الوكلاء",
-      "titleOriginal": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "policy",
-      "importance": 88,
-      "summary": "أمن الذكاء الاصطناعي مشكلة هندسية. وهذا يعني متطلبات أمنية محددة، وضوابط قابلة للتنفيذ، ومالكين محددين، وأدلة على أن الحماية تعمل. كلما أصبح الذكاء الاصطناعي أكثر",
-      "summaryOriginal": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T14:51:34+00:00"
-    },
-    {
-      "id": "5425ee85f04a9a34263d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تقليم LLMs مثل الفيزيائي: إزالة الكتلة كمشكلة تحسين ISING",
-      "titleOriginal": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T13:44:34+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T17:08:47.336634+00:00",
-  "lastFastCheckAt": "2026-09-23T18:17:32.782408+00:00"
+  "lastFastCheckAt": "2026-09-23T18:22:42.299851+00:00"
 }
