@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T14:46:35.914070+00:00",
-  "checkedAt": "2026-09-23T14:46:35.914070+00:00",
-  "newestPublishedAt": "2026-09-23T13:17:01+00:00",
+  "updatedAt": "2026-09-23T14:51:27.466745+00:00",
+  "checkedAt": "2026-09-23T14:51:27.466745+00:00",
+  "newestPublishedAt": "2026-09-23T16:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "484bb65c12caed03e58b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "سنتان من أكاديمية OpenAI",
+      "titleOriginal": "Two years of OpenAI Academy",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "الاحتفال بعامين من أكاديمية OpenAI وجلب مهارات الذكاء الاصطناعي إلى المزيد من المجتمعات.",
+      "summaryOriginal": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/two-years-of-openai-academy",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Two years of OpenAI Academy",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T16:00:00+00:00"
+    },
     {
       "id": "9100b8809ac33d294ec0",
       "company": "Hugging Face",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T12:00:00+00:00"
-    },
-    {
-      "id": "957c482231df0ac9d4b1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "هيغسفيلد AI تشحن ميزات فيديو جديدة في يوم واحد مع GPT -6 Astra",
-      "titleOriginal": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT -6 Astra، يجعل Higgsfield AI إنشاء إعلانات الفيديو أسهل للشركات الصغيرة ويجلب أدوات إبداعية جديدة للتسويق بشكل أسرع.",
-      "summaryOriginal": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T12:14:47.659356+00:00",
-  "lastFastCheckAt": "2026-09-23T14:46:35.914070+00:00"
+  "lastFastCheckAt": "2026-09-23T14:51:27.466745+00:00"
 }
