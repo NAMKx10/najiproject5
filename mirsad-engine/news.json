@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-23T20:46:14.609830+00:00",
-  "checkedAt": "2026-09-23T20:46:14.609830+00:00",
+  "updatedAt": "2026-09-23T20:51:16.008738+00:00",
+  "checkedAt": "2026-09-23T20:51:16.008738+00:00",
   "newestPublishedAt": "2026-09-23T18:41:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "edf8b07ee1a1adac3048",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع Airbnb الوصول إلى طرازات GPT -6 ASTRA وOpenAI FRONTIER",
+      "titleOriginal": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية قيام Airbnb بتوسيع الوصول إلى نماذج GPT -6 Astra وOpenAI Frontier لمساعدة الفرق الهندسية على حل الأخطاء وتصميم الأنظمة والشحن بشكل أسرع.",
+      "summaryOriginal": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/airbnb-gpt-6-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T01:00:00+00:00"
+    },
     {
       "id": "f6ac9f2775f6c601a952",
       "company": "Hugging Face",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T16:00:46+00:00"
-    },
-    {
-      "id": "1c05eea5e3707678d0a8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "من التمكين إلى التنفيذ، يصل النظام الإيكولوجي للذكاء الاصطناعي في مصر إلى نطاق الإنتاج",
-      "titleOriginal": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
-      "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-23T20:22:56.996163+00:00",
-  "lastFastCheckAt": "2026-09-23T20:46:14.609830+00:00"
+  "lastFastCheckAt": "2026-09-23T20:51:16.008738+00:00"
 }
