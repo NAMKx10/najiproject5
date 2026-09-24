@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-24T17:32:13.401253+00:00",
-  "checkedAt": "2026-09-24T17:32:13.401253+00:00",
+  "updatedAt": "2026-09-24T17:33:40.566725+00:00",
+  "checkedAt": "2026-09-24T17:33:40.566725+00:00",
   "newestPublishedAt": "2026-09-24T16:20:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "b2e7aba261f093a2ebc0",
+      "id": "0e682fc13e2e3ed631b5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +106,15 @@
       "summary": "تحتوي حاوية AWS WhisperX للتعلم العميق على حزم Whisper، والمحاذاة القسرية wav2vec2، ومذكرات مكبر الصوت في صورة جاهزة لوحدة معالجة الرسومات. تعرف على كيفية نشره على Amazon Sag",
       "summaryOriginal": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Speaker-labeled transcription with WhisperX on SageMaker AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-24T16:20:12+00:00"
+      "searchAliases": "Amazon Speaker-labeled transcription with WhisperX on SageMaker AI"
     },
     {
-      "id": "a1935100c1811e9e8d48",
+      "id": "8466ac714cadc49e7726",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -132,20 +127,15 @@
       "summary": "قم ببناء بنية متعددة الحسابات تحافظ على بيانات كل فريق في حساب AWS الخاص به مع منح وكلاء الذكاء الاصطناعي طريقة موحدة للاستعلام عبرهم. حساب منصة مركزية",
       "summaryOriginal": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP servers with secure cross-account access and fine-grained authorization.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-24T16:12:47+00:00"
+      "searchAliases": "Amazon Build a multi-account AI agent with AgentCore Gateway and MCP"
     },
     {
-      "id": "5f637bb2432f335971a0",
+      "id": "4290d7f912a58b7b07d7",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,17 +148,12 @@
       "summary": "تعرف على كيفية قيام Aderant ببناء نظام ذكي لفرز التذاكر على Amazon Nova Lite من خلال Amazon Bedrock، وأتمتة جمع السياق والتصنيف والتوجيه والمعرفة",
       "summaryOriginal": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova",
+      "source": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Aderant builds intelligent ticket triage with Amazon Nova",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-24T16:06:46+00:00"
+      "searchAliases": "Amazon Aderant builds intelligent ticket triage with Amazon Nova"
     },
     {
       "id": "3ed9d598573da93a666a",
@@ -189,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-24T14:08:57+00:00"
+      "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
     },
     {
       "id": "f6ac9f2775f6c601a952",
@@ -596,69 +576,6 @@
       "searchAliases": "Amazon How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore"
     },
     {
-      "id": "95cc1a1e6eebfe4ef4b1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "نقاط نهاية ذكاء اصطناعي توليدية بالحجم المناسب مع عمليات مسح بالتزامن على Amazon SageMaker AI",
-      "titleOriginal": "Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعدك عمليات مسح التزامن على تحديد الحجم الصحيح لنقطة نهاية الذكاء الاصطناعي التوليدية على Amazon SageMaker AI من خلال قياسها بشكل منهجي عند زيادة مستويات الحمل. يمشي هذا المنشور من خلال",
-      "summaryOriginal": "Concurrency sweeps help you right-size a generative AI endpoint on Amazon SageMaker AI by systematically benchmarking it at increasing load levels. This post walks through deploying a model, running automated concurrency sweeps with the CreateAIBenchmarkJob API, and using the results to make data-driven capacity decisions about fleet size.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/right-size-generative-ai-endpoints-with-concurrency-sweeps-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Right-size generative AI endpoints with concurrency sweeps on Amazon SageMaker AI"
-    },
-    {
-      "id": "d15f453ffc4ff159690d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف تحصل Trane على رؤى البناء بشكل أسرع 60 مرة مع Amazon Bedrock AgentCore",
-      "titleOriginal": "How Trane gets building insights 60x faster with Amazon Bedrock AgentCore",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "في حوالي أربعة أسابيع، قامت Trane Technologies ببناء حل وكيل مدعوم بالذكاء الاصطناعي على Amazon Bedrock AgentCore والذي قلل من العمل التشخيصي للمبنى متعدد الشاشات لمدة 20 دقيقة",
-      "summaryOriginal": "In about four weeks, Trane Technologies built an AI-powered agentic solution on Amazon Bedrock AgentCore that reduced a 20-minute, multi-screen building diagnostic workflow to a 20-second natural language interaction, a 60x improvement in time-to-insight. This post shares the architectural approach and key design decisions behind the solution.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-trane-gets-building-insights-60x-faster-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Trane gets building insights 60x faster with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "3c3fea73967dc9f52007",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "كيف تكتشف Tata Elxsi مخاطر السلامة الصناعية في ثوانٍ على AWS",
-      "titleOriginal": "How Tata Elxsi detects industrial safety risks in seconds on AWS",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرف على كيفية قيام Tata Elxsi ببناء IRIS، وهي منصة أمان صناعية في الوقت الفعلي على AWS. تقوم IRIS بتصفية فيديو الكاميرا على الحافة، وتدفق البيانات الوصفية من خلال Amazon Kinesis، وتشغيل الكمبيوتر",
-      "summaryOriginal": "Learn how Tata Elxsi built IRIS, a real-time industrial safety platform on AWS. IRIS filters camera video at the edge, streams metadata through Amazon Kinesis, runs computer vision on Amazon SageMaker AI, and correlates detections into high-confidence alerts, detecting unsafe conditions in seconds instead of minutes.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-tata-elxsi-detects-industrial-safety-risks-in-seconds-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Tata Elxsi detects industrial safety risks in seconds on AWS"
-    },
-    {
       "id": "8818ce76c5b3c85b6dbb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -741,9 +658,71 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
+    },
+    {
+      "id": "8b9d2d28c32e3ab10ed3",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "أعمال وشراكات",
+      "title": "كيف تستخدم SpaceXAI Grok Bot لتوسيع نطاق دعم العملاء",
+      "titleOriginal": "How SpaceXAI is using Grok Bot to scale customer support",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "business",
+      "importance": 82,
+      "summary": "لقد أعدنا بناء عملية دعم SpaceXAI و Cursor المدمجة حول Grok Bot، وتوسعنا إلى محفظة منتجات أوسع بكثير دون إضافة عدد الموظفين.",
+      "summaryOriginal": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://x.ai/news/grok-bot-customer-support",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
+    },
+    {
+      "id": "e6b8fc022f0ffab2faec",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA تطلق DSX جاهزة لتأهيل منتجات الطاقة والتبريد لمصانع الذكاء الاصطناعي",
+      "titleOriginal": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
+      "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
+    },
+    {
+      "id": "03fd9ea43394b74c2589",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "لماذا يتطلب نشر الذكاء الاصطناعي المادي على نطاق واسع السلامة في كل طبقة",
+      "titleOriginal": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
+      "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-24T12:18:54.085667+00:00",
-  "lastFastCheckAt": "2026-09-24T17:32:13.401253+00:00"
+  "lastDeepCheckAt": "2026-09-24T17:33:40.566725+00:00"
 }
