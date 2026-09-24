@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-24T02:43:26.485564+00:00",
-  "checkedAt": "2026-09-24T02:43:26.485564+00:00",
+  "updatedAt": "2026-09-24T02:48:26.651782+00:00",
+  "checkedAt": "2026-09-24T02:48:26.651782+00:00",
   "newestPublishedAt": "2026-09-23T18:41:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4e7dad7a1880904027d4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تتوسع إعلانات ChatGPT لتشمل جنوب شرق آسيا وتايوان",
+      "titleOriginal": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتوسع إعلانات ChatGPT لتشمل جنوب شرق آسيا وتايوان، مما يمنح الشركات المؤهلة طرقًا جديدة للوصول إلى الأشخاص في أكثر من 60 دولة.",
+      "summaryOriginal": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T02:00:00+00:00"
+    },
     {
       "id": "f6ac9f2775f6c601a952",
       "company": "Hugging Face",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T16:00:46+00:00"
-    },
-    {
-      "id": "1c05eea5e3707678d0a8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "من التمكين إلى التنفيذ، يصل النظام الإيكولوجي للذكاء الاصطناعي في مصر إلى نطاق الإنتاج",
-      "titleOriginal": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
-      "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-24T01:24:56.077174+00:00",
-  "lastFastCheckAt": "2026-09-24T02:43:26.485564+00:00"
+  "lastFastCheckAt": "2026-09-24T02:48:26.651782+00:00"
 }
