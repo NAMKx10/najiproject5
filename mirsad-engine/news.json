@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-24T16:16:05.277895+00:00",
-  "checkedAt": "2026-09-24T16:16:05.277895+00:00",
-  "newestPublishedAt": "2026-09-24T16:12:47+00:00",
+  "updatedAt": "2026-09-24T16:21:06.791106+00:00",
+  "checkedAt": "2026-09-24T16:21:06.791106+00:00",
+  "newestPublishedAt": "2026-09-24T16:20:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b2e7aba261f093a2ebc0",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "النسخ المصنف على أنه مكبر صوت مع WhisperX على SageMaker AI",
+      "titleOriginal": "Speaker-labeled transcription with WhisperX on SageMaker AI",
+      "dateLabel": "24 سبتمبر 2026",
+      "dateISO": "2026-09-24",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تحتوي حاوية AWS WhisperX للتعلم العميق على حزم Whisper، والمحاذاة القسرية wav2vec2، ومذكرات مكبر الصوت في صورة جاهزة لوحدة معالجة الرسومات. تعرف على كيفية نشره على Amazon Sag",
+      "summaryOriginal": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Speaker-labeled transcription with WhisperX on SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-24T16:20:12+00:00"
+    },
     {
       "id": "a1935100c1811e9e8d48",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
-    },
-    {
-      "id": "8b9d2d28c32e3ab10ed3",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تستخدم SpaceXAI Grok Bot لتوسيع نطاق دعم العملاء",
-      "titleOriginal": "How SpaceXAI is using Grok Bot to scale customer support",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "business",
-      "importance": 82,
-      "summary": "لقد أعدنا بناء عملية دعم SpaceXAI و Cursor المدمجة حول Grok Bot، وتوسعنا إلى محفظة منتجات أوسع بكثير دون إضافة عدد الموظفين.",
-      "summaryOriginal": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-customer-support",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-24T12:18:54.085667+00:00",
-  "lastFastCheckAt": "2026-09-24T16:16:05.277895+00:00"
+  "lastFastCheckAt": "2026-09-24T16:21:06.791106+00:00"
 }
