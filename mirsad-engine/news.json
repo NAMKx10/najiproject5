@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-24T12:18:54.085667+00:00",
-  "checkedAt": "2026-09-24T12:18:54.085667+00:00",
+  "updatedAt": "2026-09-24T12:22:24.231824+00:00",
+  "checkedAt": "2026-09-24T12:22:24.231824+00:00",
   "newestPublishedAt": "2026-09-23T18:41:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -660,69 +660,85 @@
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     },
     {
-      "id": "e6b8fc022f0ffab2faec",
+      "id": "3b685a9be7abbe748071",
       "company": "NVIDIA",
       "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تطلق DSX جاهزة لتأهيل منتجات الطاقة والتبريد لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "type": "أمان وسياسات",
+      "title": "أمن الذكاء الاصطناعي مشكلة هندسية — كيفية حلها في كل طبقة من طبقات مكدس الوكلاء",
+      "titleOriginal": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
       "dateLabel": "21 سبتمبر 2026",
       "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
-      "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "category": "policy",
+      "importance": 88,
+      "summary": "أمن الذكاء الاصطناعي مشكلة هندسية. وهذا يعني متطلبات أمنية محددة، وضوابط قابلة للتنفيذ، ومالكين محددين، وأدلة على أن الحماية تعمل. كلما أصبح الذكاء الاصطناعي أكثر",
+      "summaryOriginal": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-security-agent-stack",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
+      "searchAliases": "NVIDIA AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T14:51:34+00:00"
     },
     {
-      "id": "03fd9ea43394b74c2589",
+      "id": "5425ee85f04a9a34263d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تقليم LLMs مثل الفيزيائي: إزالة الكتلة كمشكلة تحسين ISING",
+      "titleOriginal": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "dateLabel": "21 سبتمبر 2026",
+      "dateISO": "2026-09-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T13:44:34+00:00"
+    },
+    {
+      "id": "eed402040b69ebccc86d",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
-      "title": "لماذا يتطلب نشر الذكاء الاصطناعي المادي على نطاق واسع السلامة في كل طبقة",
-      "titleOriginal": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "title": "5 شركات تستخدم NVIDIA AI للطاقة النظيفة",
+      "titleOriginal": "5 Companies Using NVIDIA AI for Clean Energy",
       "dateLabel": "21 سبتمبر 2026",
       "dateISO": "2026-09-21",
       "category": "research",
       "importance": 86,
-      "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
-      "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "summary": "ليس من الصعب الحصول على الطاقة النظيفة، لكن وتيرة الاعتماد على نطاق واسع كانت بطيئة تاريخيًا بسبب الاختناقات — بما في ذلك البنية التحتية القديمة،",
+      "summaryOriginal": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "source": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer"
-    },
-    {
-      "id": "1e1fabb8789eab4856f3",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "من التمكين إلى التنفيذ، يصل النظام الإيكولوجي للذكاء الاصطناعي في مصر إلى نطاق الإنتاج",
-      "titleOriginal": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "اليوم، اجتمع بناة الذكاء الاصطناعي في مصر في المتحف المصري الكبير لحضور حفل استقبال سلط الضوء على النظام البيئي للذكاء الاصطناعي المتنامي بسرعة في البلاد — والذي يشمل مواطني الذكاء الاصطناعي، وتطوير",
-      "summaryOriginal": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale"
+      "searchAliases": "NVIDIA 5 Companies Using NVIDIA AI for Clean Energy",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-21T10:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-24T12:18:54.085667+00:00"
+  "lastDeepCheckAt": "2026-09-24T12:18:54.085667+00:00",
+  "lastFastCheckAt": "2026-09-24T12:22:24.231824+00:00"
 }
