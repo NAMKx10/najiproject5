@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-25T16:08:51.111457+00:00",
-  "checkedAt": "2026-09-25T16:08:51.111457+00:00",
-  "newestPublishedAt": "2026-09-25T15:54:42+00:00",
+  "updatedAt": "2026-09-25T16:13:56.928252+00:00",
+  "checkedAt": "2026-09-25T16:13:56.928252+00:00",
+  "newestPublishedAt": "2026-09-25T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "794516609b5bcb0e6616",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يعزز العمل الاستباقي المبيعات بنسبة 60 ٪ ويوفر أكثر من 75 ساعة مع الدستور الغذائي",
+      "titleOriginal": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع Codex و GPT - Live -1 و GPT -6 Astra، تقوم Proaction ببناء وتشغيل وبيع إدارة الأسطول الحديثة بشكل أسرع.",
+      "summaryOriginal": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/proaction",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T19:00:00+00:00"
+    },
+    {
+      "id": "e612f86edb2dd30a6081",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نشر خطاب شخصي في الوقت الفعلي باستخدام Qwen3 - TTS على Amazon SageMaker AI",
+      "titleOriginal": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "نشر نموذج تحويل النص إلى كلام Qwen3-TTS-12Hz-1.7B المتاح للجمهور من Amazon SageMaker JumpStart إلى نقطة نهاية مدارة بالكامل في الوقت الفعلي، واستنساخ صوت من",
+      "summaryOriginal": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T16:09:46+00:00"
+    },
     {
       "id": "c7f4f19d94e2ad9ae8f4",
       "company": "Amazon",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
-    },
-    {
-      "id": "74ca1f56333aa4518d0e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تعمل المحولات الآن على llama.cpp quants",
-      "titleOriginal": "Transformers now runs llama.cpp quants",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Transformers now runs llama.cpp quants"
-    },
-    {
-      "id": "de0aae25ed236f109617",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "جون كيم، منشئ ومشرف oMLX، ينضم إلى Huging Face لدعم مجتمع MLX",
-      "titleOriginal": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/omlx",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-25T15:17:36.885933+00:00",
-  "lastFastCheckAt": "2026-09-25T16:08:51.111457+00:00"
+  "lastFastCheckAt": "2026-09-25T16:13:56.928252+00:00"
 }
