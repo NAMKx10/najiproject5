@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-25T12:00:08.324006+00:00",
-  "checkedAt": "2026-09-25T12:00:08.324006+00:00",
-  "newestPublishedAt": "2026-09-24T16:20:12+00:00",
+  "updatedAt": "2026-09-25T12:05:10.637382+00:00",
+  "checkedAt": "2026-09-25T12:05:10.637382+00:00",
+  "newestPublishedAt": "2026-09-25T12:03:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5e2b036282765c9fc39e",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم مساعد الطيار الجديد مع المنزل والرمز والطيار الآلي",
+      "titleOriginal": "Introducing the new Copilot with Home, Code and Autopilot",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "نحن نعيد تصور Microsoft Copilot لتمكين العمل أثناء تطوره وللمساعدة في توسيع ما يمكن لكل فرد وكل مؤسسة تحقيقه في تدفق النطاق البشري",
+      "summaryOriginal": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T12:03:50+00:00"
+    },
     {
       "id": "0e682fc13e2e3ed631b5",
       "company": "Amazon",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-21T18:00:07+00:00"
-    },
-    {
-      "id": "605f5c1f0409d53a50d0",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "لماذا يتطلب نشر الذكاء الاصطناعي المادي على نطاق واسع السلامة في كل طبقة",
-      "titleOriginal": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "ينتقل الذكاء الاصطناعي المادي بسرعة من البحث إلى النشر على نطاق واسع. بحلول عام 2035، تتوقع ABI Research قاعدة مركبة من 49 مليون مركبة ذاتية القيادة من المستوى 3-5 (AVs)،",
-      "summaryOriginal": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/physical-ai-halos-safety",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Why Deploying Physical AI at Scale Demands Safety at Every Layer",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T16:00:46+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-25T10:12:54.087008+00:00",
-  "lastFastCheckAt": "2026-09-25T12:00:08.324006+00:00"
+  "lastFastCheckAt": "2026-09-25T12:05:10.637382+00:00"
 }
