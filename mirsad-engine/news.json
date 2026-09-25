@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-25T16:18:58.060452+00:00",
-  "checkedAt": "2026-09-25T16:18:58.060452+00:00",
+  "updatedAt": "2026-09-25T16:24:04.212229+00:00",
+  "checkedAt": "2026-09-25T16:24:04.212229+00:00",
   "newestPublishedAt": "2026-09-25T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -669,6 +669,32 @@
       "searchAliases": "OpenAI Grab and OpenAI bring practical AI skills to Southeast Asia"
     },
     {
+      "id": "40cfca8cf0bd36707df8",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic، تطوير الروبوتات مفتوحة المصدر",
+      "titleOriginal": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "لبناء ونشر تطبيقات الروبوتات المتطورة التي يمكنها الإدراك والتفكير والتصرف في البيئات الديناميكية، يحتاج المطورون إلى نماذج وأدوات جديدة للذكاء الاصطناعي المادي. ال",
+      "summaryOriginal": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-22T12:00:41+00:00"
+    },
+    {
       "id": "2e570519c59994883a5d",
       "company": "Amazon",
       "logoText": "AWS",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "e5d0455aac1df2984378",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف تقوم Reactiv بأتمتة التجارة عبر الهاتف المحمول بشكل أسرع بنسبة 80 ٪ مع Amazon Bedrock AgentCore",
-      "titleOriginal": "How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "استخدمت Reactiv Amazon Bedrock AgentCore لبناء مجدول ذكاء اصطناعي متعدد الوكلاء ينعش بشكل مستقل Shopify تطبيقات الهاتف المحمول للتجار وفقًا لجدول زمني، مما يقلل من ثقة التاجر",
-      "summaryOriginal": "Reactiv used Amazon Bedrock AgentCore to build a multi-agent AI Scheduler that autonomously refreshes Shopify merchants' mobile apps on a schedule, reducing merchant configuration time by 80% and getting to production 33% faster.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-reactiv-automates-mobile-commerce-80-faster-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-25T15:17:36.885933+00:00",
-  "lastFastCheckAt": "2026-09-25T16:18:58.060452+00:00"
+  "lastFastCheckAt": "2026-09-25T16:24:04.212229+00:00"
 }
