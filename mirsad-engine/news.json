@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-25T15:53:40.673517+00:00",
-  "checkedAt": "2026-09-25T15:53:40.673517+00:00",
-  "newestPublishedAt": "2026-09-25T15:49:44+00:00",
+  "updatedAt": "2026-09-25T15:58:45.542089+00:00",
+  "checkedAt": "2026-09-25T15:58:45.542089+00:00",
+  "newestPublishedAt": "2026-09-25T15:54:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c7f4f19d94e2ad9ae8f4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "كيف قامت Datacor ببناء تحليلات تأجير الخدمة الذاتية باستخدام Amazon Quick Sight",
+      "titleOriginal": "How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرف على كيفية قيام Datacor ببناء تجربة تحليلات إيجار الخدمة الذاتية لموزعي الغاز واللحام من خلال تضمين لوحات معلومات Amazon Quick Sight واستعلام اللغة الطبيعية",
+      "summaryOriginal": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an automated cross-cloud data pipeline and multi-tenant row-level security.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Datacor built self-service rental analytics with Amazon Quick Sight",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T15:54:42+00:00"
+    },
     {
       "id": "88019bcdecd226428c05",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
-    },
-    {
-      "id": "8b9d2d28c32e3ab10ed3",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تستخدم SpaceXAI Grok Bot لتوسيع نطاق دعم العملاء",
-      "titleOriginal": "How SpaceXAI is using Grok Bot to scale customer support",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "business",
-      "importance": 82,
-      "summary": "لقد أعدنا بناء عملية دعم SpaceXAI و Cursor المدمجة حول Grok Bot، وتوسعنا إلى محفظة منتجات أوسع بكثير دون إضافة عدد الموظفين.",
-      "summaryOriginal": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-customer-support",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-25T15:17:36.885933+00:00",
-  "lastFastCheckAt": "2026-09-25T15:53:40.673517+00:00"
+  "lastFastCheckAt": "2026-09-25T15:58:45.542089+00:00"
 }
