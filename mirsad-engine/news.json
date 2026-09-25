@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-25T04:47:08.549773+00:00",
-  "checkedAt": "2026-09-25T04:47:08.549773+00:00",
+  "updatedAt": "2026-09-25T04:51:55.962649+00:00",
+  "checkedAt": "2026-09-25T04:51:55.962649+00:00",
   "newestPublishedAt": "2026-09-24T16:20:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -44,9 +44,9 @@
     {
       "company": "Hugging Face",
       "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://huggingface.co/blog/feed.xml"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "company": "Google",
@@ -735,5 +735,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-24T23:52:59.248929+00:00",
-  "lastFastCheckAt": "2026-09-25T04:47:08.549773+00:00"
+  "lastFastCheckAt": "2026-09-25T04:51:55.962649+00:00"
 }
