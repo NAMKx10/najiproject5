@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-25T16:13:56.928252+00:00",
-  "checkedAt": "2026-09-25T16:13:56.928252+00:00",
+  "updatedAt": "2026-09-25T16:18:58.060452+00:00",
+  "checkedAt": "2026-09-25T16:18:58.060452+00:00",
   "newestPublishedAt": "2026-09-25T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-25T19:00:00+00:00"
+    },
+    {
+      "id": "d0df4be0da0bf3bea63f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تسريع تدريب RL متعدد الوسائط مع SkyRL على Amazon SageMaker HyperPod",
+      "titleOriginal": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعلم كيفية تشغيل SkyRL، وهو إطار تعليمي معزز مفتوح المصدر، على Amazon SageMaker HyperPod لتدريب نموذج لغة رؤية Qwen3 - VL -8B مع GRPO. هذا",
+      "summaryOriginal": "Learn how to run SkyRL, an open-source reinforcement learning framework, on Amazon SageMaker HyperPod to post-train a Qwen3-VL-8B vision-language model with GRPO. This walkthrough covers building the container image, launching a Ray cluster from SageMaker Studio, submitting and monitoring the job, and hosting the trained LoRA adapter for inference.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T16:18:07+00:00"
+    },
+    {
+      "id": "1c029323fcb1c30e3993",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "NarrateAI: ضمان جودة LLM الجاهزة للإنتاج على Amazon Bedrock",
+      "titleOriginal": "NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "توفر NarrateAI ضمان جودة LLM الجاهز للإنتاج على Amazon Bedrock. يوضح هذا المنشور بالتفصيل خمس تقنيات - تنسيق خطوط الأنابيب المتكيفة، وتعدد النماذج عبر الحسابات",
+      "summaryOriginal": "NarrateAI delivers production-ready LLM quality assurance on Amazon Bedrock. This post details five techniques—adaptive pipeline orchestration, cross-account multi-model failover, real-time streaming evaluation, composite evaluation, and data accuracy verification—that reach about 99% numerical accuracy while streaming responses in real time.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon NarrateAI: production-ready LLM quality assurance on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T16:15:22+00:00"
     },
     {
       "id": "e612f86edb2dd30a6081",
@@ -699,51 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Reactiv automates mobile commerce 80% faster with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "8818ce76c5b3c85b6dbb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic، تطوير الروبوتات مفتوحة المصدر",
-      "titleOriginal": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "لبناء ونشر تطبيقات الروبوتات المتطورة التي يمكنها الإدراك والتفكير والتصرف في البيئات الديناميكية، يحتاج المطورون إلى نماذج وأدوات جديدة للذكاء الاصطناعي المادي. ال",
-      "summaryOriginal": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
-    },
-    {
-      "id": "fcc87cb23e9d0fc492c0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
-      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/evaleval-aisi",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-25T15:17:36.885933+00:00",
-  "lastFastCheckAt": "2026-09-25T16:13:56.928252+00:00"
+  "lastFastCheckAt": "2026-09-25T16:18:58.060452+00:00"
 }
