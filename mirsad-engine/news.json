@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-27T04:48:24.064078+00:00",
-  "checkedAt": "2026-09-27T04:48:24.064078+00:00",
+  "updatedAt": "2026-09-27T04:53:27.035306+00:00",
+  "checkedAt": "2026-09-27T04:53:27.035306+00:00",
   "newestPublishedAt": "2026-09-25T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -44,9 +44,9 @@
     {
       "company": "Hugging Face",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=25)"
     },
     {
       "company": "Google",
@@ -730,5 +730,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-27T00:38:20.729572+00:00",
-  "lastFastCheckAt": "2026-09-27T04:48:24.064078+00:00"
+  "lastFastCheckAt": "2026-09-27T04:53:27.035306+00:00"
 }
