@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-27T16:25:53.250851+00:00",
-  "checkedAt": "2026-09-27T16:25:53.250851+00:00",
+  "updatedAt": "2026-09-27T16:30:57.559399+00:00",
+  "checkedAt": "2026-09-27T16:30:57.559399+00:00",
   "newestPublishedAt": "2026-09-25T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -9,9 +9,9 @@
     {
       "company": "OpenAI",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "company": "Microsoft",
@@ -44,9 +44,9 @@
     {
       "company": "Hugging Face",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "company": "Google",
@@ -730,5 +730,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-27T12:04:27.935960+00:00",
-  "lastFastCheckAt": "2026-09-27T16:25:53.250851+00:00"
+  "lastFastCheckAt": "2026-09-27T16:30:57.559399+00:00"
 }
