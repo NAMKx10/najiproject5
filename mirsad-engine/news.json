@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T09:39:16.980410+00:00",
-  "checkedAt": "2026-09-28T09:39:16.980410+00:00",
-  "newestPublishedAt": "2026-09-25T19:00:00+00:00",
+  "updatedAt": "2026-09-28T09:44:29.621924+00:00",
+  "checkedAt": "2026-09-28T09:44:29.621924+00:00",
+  "newestPublishedAt": "2026-09-28T09:44:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2cb85282a8b80d2ad2d8",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
+      "titleOriginal": "Holo4: powering generalist computer-use agents",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Hcompany/holo4",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T09:44:05+00:00"
+    },
     {
       "id": "794516609b5bcb0e6616",
       "company": "OpenAI",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
-    },
-    {
-      "id": "485bc24e010130ab69e6",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تطلق DSX جاهزة لتأهيل منتجات الطاقة والتبريد لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "dateLabel": "21 سبتمبر 2026",
-      "dateISO": "2026-09-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يحتاج كل مصنع للذكاء الاصطناعي إلى الطاقة والتبريد اللذين يتناسبان مع بنية الحوسبة الخاصة به. مع توسع البنية التحتية للذكاء الاصطناعي، تتشكل قيود الطاقة والتبريد والمياه والموقع والشبكة",
-      "summaryOriginal": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-21T18:00:07+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T07:40:04.656325+00:00",
-  "lastFastCheckAt": "2026-09-28T09:39:16.980410+00:00"
+  "lastFastCheckAt": "2026-09-28T09:44:29.621924+00:00"
 }
