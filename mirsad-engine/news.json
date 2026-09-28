@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T16:12:38.409545+00:00",
-  "checkedAt": "2026-09-28T16:12:38.409545+00:00",
-  "newestPublishedAt": "2026-09-28T15:56:32+00:00",
+  "updatedAt": "2026-09-28T16:17:42.778156+00:00",
+  "checkedAt": "2026-09-28T16:17:42.778156+00:00",
+  "newestPublishedAt": "2026-09-28T16:15:46+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "9d3bacfc4e147e122097",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إنشاء تطبيقات صوتية في الوقت الفعلي باستخدام vLLM - Onni على SageMaker AI – الجزء 1",
+      "titleOriginal": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "نشر نموذج تحويل النص إلى كلام على Amazon SageMaker AI باستخدام AWS vLLM - Omni Deep Learning Container وبث الكلام الذي تم إنشاؤه عبر اتصال ثنائي الاتجاه مستمر",
+      "summaryOriginal": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T16:15:46+00:00"
+    },
+    {
+      "id": "d29ff4c08fc7b3f54ca6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إنشاء صور ومقاطع فيديو باستخدام vLLM - Omni على SageMaker AI – الجزء 2",
+      "titleOriginal": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "نشر نموذجين من الوسائط التوليدية من حاوية التعلم العميق AWS vLLM - Omni على Amazon SageMaker AI. توليد صورة باستخدام FLUX.2 - klein من خلال الاستدلال في الوقت الفعلي،",
+      "summaryOriginal": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T16:15:17+00:00"
+    },
     {
       "id": "0dfb1c36855b26278180",
       "company": "Amazon",
@@ -679,51 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Transformers now runs llama.cpp quants"
-    },
-    {
-      "id": "de0aae25ed236f109617",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "جون كيم، منشئ ومشرف oMLX، ينضم إلى Huging Face لدعم مجتمع MLX",
-      "titleOriginal": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/omlx",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
-    },
-    {
-      "id": "8b9d2d28c32e3ab10ed3",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تستخدم SpaceXAI Grok Bot لتوسيع نطاق دعم العملاء",
-      "titleOriginal": "How SpaceXAI is using Grok Bot to scale customer support",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "business",
-      "importance": 82,
-      "summary": "لقد أعدنا بناء عملية دعم SpaceXAI و Cursor المدمجة حول Grok Bot، وتوسعنا إلى محفظة منتجات أوسع بكثير دون إضافة عدد الموظفين.",
-      "summaryOriginal": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-customer-support",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T15:59:56.187587+00:00",
-  "lastFastCheckAt": "2026-09-28T16:12:38.409545+00:00"
+  "lastFastCheckAt": "2026-09-28T16:17:42.778156+00:00"
 }
