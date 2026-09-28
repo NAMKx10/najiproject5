@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T17:49:17.379910+00:00",
-  "checkedAt": "2026-09-28T17:49:17.379910+00:00",
+  "updatedAt": "2026-09-28T17:54:21.820882+00:00",
+  "checkedAt": "2026-09-28T17:54:21.820882+00:00",
   "newestPublishedAt": "2026-09-28T16:15:46+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T16:15:17+00:00"
+    },
+    {
+      "id": "2bb7bba5e588bfb3257f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "توسع OpenAI مبادرات لدعم الصحافة من الفصول الدراسية إلى غرف الأخبار",
+      "titleOriginal": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعمل OpenAI على توسيع نطاق الدعم للصحافة من خلال الأدوات والتدريب والشراكات للطلاب والمعلمين والصحفيين والمؤسسات الإخبارية.",
+      "summaryOriginal": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T11:00:00+00:00"
+    },
+    {
+      "id": "7d15e54be87e48a2c982",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "يطور معهد Lenfest برنامجًا بارزًا مع دعم OpenAI الموسع",
+      "titleOriginal": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم بتوسيع برنامج لينفيست للذكاء الاصطناعي التعاوني والزمالة بتمويل يصل إلى 5 ملايين $ وما يصل إلى 5 ملايين $ في ائتمانات البرامج والدعم الهندسي.",
+      "summaryOriginal": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T07:00:00+00:00"
     },
     {
       "id": "0dfb1c36855b26278180",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
-    },
-    {
-      "id": "fcc87cb23e9d0fc492c0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
-      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/evaleval-aisi",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
-    },
-    {
-      "id": "74ca1f56333aa4518d0e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تعمل المحولات الآن على llama.cpp quants",
-      "titleOriginal": "Transformers now runs llama.cpp quants",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Transformers now runs llama.cpp quants"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T15:59:56.187587+00:00",
-  "lastFastCheckAt": "2026-09-28T17:49:17.379910+00:00"
+  "lastFastCheckAt": "2026-09-28T17:54:21.820882+00:00"
 }
