@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T15:47:18.691445+00:00",
-  "checkedAt": "2026-09-28T15:47:18.691445+00:00",
-  "newestPublishedAt": "2026-09-28T09:44:05+00:00",
+  "updatedAt": "2026-09-28T15:52:20.820172+00:00",
+  "checkedAt": "2026-09-28T15:52:20.820172+00:00",
+  "newestPublishedAt": "2026-09-28T15:49:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a36326b1bc7a0225eb8a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "أتمتة إدارة دورة حياة محول Amazon Textract عبر الحسابات",
+      "titleOriginal": "Automating Amazon Textract adapter lifecycle management across accounts",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعلم كيفية تشغيل محولات Amazon Textract Custom Queries للإنتاج: البنية التحتية كرمز باستخدام AWS CloudFormation و Terraform، وهو محول عبر الحسابات",
+      "summaryOriginal": "Learn how to operationalize Amazon Textract Custom Queries adapters for production: infrastructure as code with AWS CloudFormation and Terraform, a cross-account adapter promotion process, a pre-classification routing pattern for multiple form versions, and production security controls such as VPC endpoints, encryption, and least-privilege IAM.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/automating-amazon-textract-adapter-lifecycle-management-across-accounts",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Automating Amazon Textract adapter lifecycle management across accounts",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T15:49:04+00:00"
+    },
     {
       "id": "2cb85282a8b80d2ad2d8",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
-    },
-    {
-      "id": "8b9d2d28c32e3ab10ed3",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تستخدم SpaceXAI Grok Bot لتوسيع نطاق دعم العملاء",
-      "titleOriginal": "How SpaceXAI is using Grok Bot to scale customer support",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "business",
-      "importance": 82,
-      "summary": "لقد أعدنا بناء عملية دعم SpaceXAI و Cursor المدمجة حول Grok Bot، وتوسعنا إلى محفظة منتجات أوسع بكثير دون إضافة عدد الموظفين.",
-      "summaryOriginal": "We rebuilt the combined SpaceXAI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://x.ai/news/grok-bot-customer-support",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI How SpaceXAI is using Grok Bot to scale customer support"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T07:40:04.656325+00:00",
-  "lastFastCheckAt": "2026-09-28T15:47:18.691445+00:00"
+  "lastFastCheckAt": "2026-09-28T15:52:20.820172+00:00"
 }
