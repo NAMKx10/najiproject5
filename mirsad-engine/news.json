@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T22:10:04.849303+00:00",
-  "checkedAt": "2026-09-28T22:10:04.849303+00:00",
-  "newestPublishedAt": "2026-09-28T18:57:13+00:00",
+  "updatedAt": "2026-09-28T22:15:07.958678+00:00",
+  "checkedAt": "2026-09-28T22:15:07.958678+00:00",
+  "newestPublishedAt": "2026-09-28T22:13:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cd6b3c7fa8bdcf2bae37",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "Grok 4.7 متاح الآن على Amazon Bedrock",
+      "titleOriginal": "Grok 4.7 is now available on Amazon Bedrock",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر Grok 4.7 من xAI الآن على Amazon Bedrock: نموذج حدودي للترميز والوكلاء الدائمين والعمل المعرفي. إنه يوفر نافذة سياق رمز 500K وأربعة مشاركين",
+      "summaryOriginal": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Grok 4.7 is now available on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T22:13:16+00:00"
+    },
     {
       "id": "1f27c2eea2ea857936bb",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
-    },
-    {
-      "id": "fcc87cb23e9d0fc492c0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
-      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/evaleval-aisi",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T22:02:05.693712+00:00",
-  "lastFastCheckAt": "2026-09-28T22:10:04.849303+00:00"
+  "lastFastCheckAt": "2026-09-28T22:15:07.958678+00:00"
 }
