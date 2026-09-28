@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T18:55:31.994527+00:00",
-  "checkedAt": "2026-09-28T18:55:31.994527+00:00",
-  "newestPublishedAt": "2026-09-28T16:15:46+00:00",
+  "updatedAt": "2026-09-28T19:00:29.693385+00:00",
+  "checkedAt": "2026-09-28T19:00:29.693385+00:00",
+  "newestPublishedAt": "2026-09-28T18:57:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "60ba44a72bbe79b3f8f8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم كلود سونيت 5.5 على AWS",
+      "titleOriginal": "Introducing Claude Sonnet 5.5 on AWS",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "كلود سونيت 5.5 متاح الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. إنه نموذج Sonnet أكثر ذكاءً وكفاءة للترميز المركز والعمل المعرفي، مع",
+      "summaryOriginal": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Claude Sonnet 5.5 on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T18:57:13+00:00"
+    },
     {
       "id": "9d3bacfc4e147e122097",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Airbnb widens access to GPT-6 Astra and OpenAI frontier models"
-    },
-    {
-      "id": "8818ce76c5b3c85b6dbb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic، تطوير الروبوتات مفتوحة المصدر",
-      "titleOriginal": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "لبناء ونشر تطبيقات الروبوتات المتطورة التي يمكنها الإدراك والتفكير والتصرف في البيئات الديناميكية، يحتاج المطورون إلى نماذج وأدوات جديدة للذكاء الاصطناعي المادي. ال",
-      "summaryOriginal": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T15:59:56.187587+00:00",
-  "lastFastCheckAt": "2026-09-28T18:55:31.994527+00:00"
+  "lastFastCheckAt": "2026-09-28T19:00:29.693385+00:00"
 }
