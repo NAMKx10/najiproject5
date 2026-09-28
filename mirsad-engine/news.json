@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-28T15:52:20.820172+00:00",
-  "checkedAt": "2026-09-28T15:52:20.820172+00:00",
-  "newestPublishedAt": "2026-09-28T15:49:04+00:00",
+  "updatedAt": "2026-09-28T15:57:27.212448+00:00",
+  "checkedAt": "2026-09-28T15:57:27.212448+00:00",
+  "newestPublishedAt": "2026-09-28T15:56:32+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7169929ca24b40481aef",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تنفيذ المراقبة الاصطناعية باستخدام قانون أمازون نوفا",
+      "titleOriginal": "Implementing synthetic monitoring using Amazon Nova Act",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلم نهجًا يعتمد على الوكيل للمراقبة الاصطناعية باستخدام Amazon Nova Act و Amazon Bedrock AgentCore. يغطي المنشور الهندسة المعمارية والأنماط للمرونة،",
+      "summaryOriginal": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond brittle UI scripts, with a complete sample implementation.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Implementing synthetic monitoring using Amazon Nova Act",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T15:56:32+00:00"
+    },
     {
       "id": "a36326b1bc7a0225eb8a",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Transformers now runs llama.cpp quants"
-    },
-    {
-      "id": "de0aae25ed236f109617",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "جون كيم، منشئ ومشرف oMLX، ينضم إلى Huging Face لدعم مجتمع MLX",
-      "titleOriginal": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/omlx",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-28T07:40:04.656325+00:00",
-  "lastFastCheckAt": "2026-09-28T15:52:20.820172+00:00"
+  "lastFastCheckAt": "2026-09-28T15:57:27.212448+00:00"
 }
