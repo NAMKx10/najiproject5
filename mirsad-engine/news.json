@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-29T19:40:07.466988+00:00",
-  "checkedAt": "2026-09-29T19:40:07.466988+00:00",
+  "updatedAt": "2026-09-29T19:44:34.463180+00:00",
+  "checkedAt": "2026-09-29T19:44:34.463180+00:00",
   "newestPublishedAt": "2026-09-29T19:34:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -663,6 +663,32 @@
       "searchAliases": "xAI Team Bots: AI coworkers that learn from your team"
     },
     {
+      "id": "5e2b036282765c9fc39e",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم مساعد الطيار الجديد مع المنزل والرمز والطيار الآلي",
+      "titleOriginal": "Introducing the new Copilot with Home, Code and Autopilot",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "نحن نعيد تصور Microsoft Copilot لتمكين العمل أثناء تطوره وللمساعدة في توسيع ما يمكن لكل فرد وكل مؤسسة تحقيقه في تدفق النطاق البشري",
+      "summaryOriginal": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T12:03:50+00:00"
+    },
+    {
       "id": "794516609b5bcb0e6616",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon NarrateAI: production-ready LLM quality assurance on Amazon Bedrock"
-    },
-    {
-      "id": "c28aa6c37d511074f879",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "نشر خطاب شخصي في الوقت الفعلي باستخدام Qwen3 - TTS على Amazon SageMaker AI",
-      "titleOriginal": "Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI",
-      "dateLabel": "25 سبتمبر 2026",
-      "dateISO": "2026-09-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "نشر نموذج تحويل النص إلى كلام Qwen3-TTS-12Hz-1.7B المتاح للجمهور من Amazon SageMaker JumpStart إلى نقطة نهاية مدارة بالكامل في الوقت الفعلي، واستنساخ صوت من",
-      "summaryOriginal": "Deploy the publicly available Qwen3-TTS-12Hz-1.7B-Base text-to-speech model from Amazon SageMaker JumpStart to a fully managed, real-time endpoint, and clone a voice from a short reference clip. Cross-lingual cloning preserves the speaker's identity across languages.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-29T15:06:22.634393+00:00",
-  "lastFastCheckAt": "2026-09-29T19:40:07.466988+00:00"
+  "lastFastCheckAt": "2026-09-29T19:44:34.463180+00:00"
 }
