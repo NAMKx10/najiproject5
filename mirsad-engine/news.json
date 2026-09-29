@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-29T13:03:13.449525+00:00",
-  "checkedAt": "2026-09-29T13:03:13.449525+00:00",
-  "newestPublishedAt": "2026-09-29T06:30:04+00:00",
+  "updatedAt": "2026-09-29T13:08:16.971622+00:00",
+  "checkedAt": "2026-09-29T13:08:16.971622+00:00",
+  "newestPublishedAt": "2026-09-29T13:07:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5c7175ed488aa58ea647",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الحصول على المصدر بشكل صحيح، وليس فقط الحقيقة: التحقق من إدراك المصدر لوكلاء MCP",
+      "titleOriginal": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-29T13:07:00+00:00"
+    },
     {
       "id": "72f8ca15acad02b17599",
       "company": "Microsoft",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
-    },
-    {
-      "id": "8818ce76c5b3c85b6dbb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic، تطوير الروبوتات مفتوحة المصدر",
-      "titleOriginal": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "dateLabel": "22 سبتمبر 2026",
-      "dateISO": "2026-09-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "لبناء ونشر تطبيقات الروبوتات المتطورة التي يمكنها الإدراك والتفكير والتصرف في البيئات الديناميكية، يحتاج المطورون إلى نماذج وأدوات جديدة للذكاء الاصطناعي المادي. ال",
-      "summaryOriginal": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-29T08:32:23.498096+00:00",
-  "lastFastCheckAt": "2026-09-29T13:03:13.449525+00:00"
+  "lastFastCheckAt": "2026-09-29T13:08:16.971622+00:00"
 }
