@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-29T15:45:52.928343+00:00",
-  "checkedAt": "2026-09-29T15:45:52.928343+00:00",
+  "updatedAt": "2026-09-29T15:50:50.847628+00:00",
+  "checkedAt": "2026-09-29T15:50:50.847628+00:00",
   "newestPublishedAt": "2026-09-29T15:30:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
     },
     {
+      "id": "164c76793cdda6d7b6d9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تقوم OpenAI بتوسيع نطاق الوصول عبر الإنترنت إلى أوكرانيا للدفاع المدني",
+      "titleOriginal": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم OpenAI بتوسيع نطاق الوصول إلى برنامج Daybreak الخاص بها ليشمل حكومة أوكرانيا لدعم الدفاع السيبراني للبنية التحتية المدنية.",
+      "summaryOriginal": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI extends cyber access to Ukraine for civilian defense",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T13:00:00+00:00"
+    },
+    {
       "id": "cefeac142e39a76151b0",
       "company": "OpenAI",
       "logoText": "AI",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Claude discovers a novel enzyme system"
-    },
-    {
-      "id": "484bb65c12caed03e58b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سنتان من أكاديمية OpenAI",
-      "titleOriginal": "Two years of OpenAI Academy",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "tools",
-      "importance": 78,
-      "summary": "الاحتفال بعامين من أكاديمية OpenAI وجلب مهارات الذكاء الاصطناعي إلى المزيد من المجتمعات.",
-      "summaryOriginal": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/two-years-of-openai-academy",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Two years of OpenAI Academy"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-29T15:06:22.634393+00:00",
-  "lastFastCheckAt": "2026-09-29T15:45:52.928343+00:00"
+  "lastFastCheckAt": "2026-09-29T15:50:50.847628+00:00"
 }
