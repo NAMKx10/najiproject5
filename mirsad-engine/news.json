@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-29T01:56:13.270155+00:00",
-  "checkedAt": "2026-09-29T01:56:13.270155+00:00",
+  "updatedAt": "2026-09-29T01:58:31.216388+00:00",
+  "checkedAt": "2026-09-29T01:58:31.216388+00:00",
   "newestPublishedAt": "2026-09-29T01:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,15 +111,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How we will do better for Australia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T01:00:00+00:00"
+      "searchAliases": "OpenAI How we will do better for Australia"
     },
     {
-      "id": "cd6b3c7fa8bdcf2bae37",
+      "id": "8880234edf0d8462f402",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,17 +127,12 @@
       "summary": "يتوفر Grok 4.7 من xAI الآن على Amazon Bedrock: نموذج حدودي للترميز والوكلاء الدائمين والعمل المعرفي. إنه يوفر نافذة سياق رمز 500K وأربعة مشاركين",
       "summaryOriginal": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Grok 4.7 is now available on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T22:13:16+00:00"
+      "searchAliases": "Amazon Grok 4.7 is now available on Amazon Bedrock"
     },
     {
       "id": "1f27c2eea2ea857936bb",
@@ -481,27 +471,6 @@
       "searchAliases": "Amazon Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI"
     },
     {
-      "id": "09c026970988657351b4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "كيف قامت Datacor ببناء تحليلات تأجير الخدمة الذاتية باستخدام Amazon Quick Sight",
-      "titleOriginal": "How Datacor built self-service rental analytics with Amazon Quick Sight",
-      "dateLabel": "25 سبتمبر 2026",
-      "dateISO": "2026-09-25",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرف على كيفية قيام Datacor ببناء تجربة تحليلات إيجار الخدمة الذاتية لموزعي الغاز واللحام من خلال تضمين لوحات معلومات Amazon Quick Sight واستعلام اللغة الطبيعية",
-      "summaryOriginal": "Learn how Datacor built a self-service rental analytics experience for gas and welding distributors by embedding Amazon Quick Sight dashboards and natural language querying into its TrackAbout platform, powered by an automated cross-cloud data pipeline and multi-tenant row-level security.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-datacor-built-self-service-rental-analytics-with-amazon-quick-sight/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Datacor built self-service rental analytics with Amazon Quick Sight"
-    },
-    {
       "id": "e7a4d21ad84347cf3750",
       "company": "Microsoft",
       "logoText": "MS",
@@ -628,25 +597,25 @@
       "searchAliases": "OpenAI OpenAI extends cyber access to Ukraine for civilian defense"
     },
     {
-      "id": "8c9b3ccceb8f7efc3fb2",
+      "id": "cefeac142e39a76151b0",
       "company": "OpenAI",
       "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "ملاحظات سام ألتمان في مجلس الأمن التابع للأمم المتحدة",
-      "titleOriginal": "Sam Altman’s remarks at the United Nations Security Council",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم وكلاء Ringg للذكاء الاصطناعي بحل ما يصل إلى 65 ٪ من مكالمات العملاء مع OpenAI",
+      "titleOriginal": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "dateLabel": "23 سبتمبر 2026",
       "dateISO": "2026-09-23",
-      "category": "policy",
-      "importance": 88,
-      "summary": "يناقش سام ألتمان، الرئيس التنفيذي لشركة OpenAI، سلامة الذكاء الاصطناعي والتحكم البشري والتعاون الدولي في ملاحظات أمام مجلس الأمن التابع للأمم المتحدة.",
-      "summaryOriginal": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "category": "models",
+      "importance": 92,
+      "summary": "باستخدام GPT-5.6، يدعم Ringg الوكلاء متعددي اللغات عبر الصوت والدردشة وواتساب والويب بتكلفة أقل بنسبة 90 ٪ مقابل GPT-4.1.",
+      "summaryOriginal": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/ringg",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Sam Altman’s remarks at the United Nations Security Council"
+      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
     },
     {
       "id": "689c207b680aa4a3411a",
@@ -691,27 +660,6 @@
       "searchAliases": "OpenAI How invideo improves color grading 3x with GPT‑6 Astra"
     },
     {
-      "id": "cefeac142e39a76151b0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم وكلاء Ringg للذكاء الاصطناعي بحل ما يصل إلى 65 ٪ من مكالمات العملاء مع OpenAI",
-      "titleOriginal": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "باستخدام GPT-5.6، يدعم Ringg الوكلاء متعددي اللغات عبر الصوت والدردشة وواتساب والويب بتكلفة أقل بنسبة 90 ٪ مقابل GPT-4.1.",
-      "summaryOriginal": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/ringg",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-    },
-    {
       "id": "457ec8d61d7140ec41d7",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -731,9 +679,50 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
+    },
+    {
+      "id": "8818ce76c5b3c85b6dbb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA Isaac ROS 5.0 Advances Agentic، تطوير الروبوتات مفتوحة المصدر",
+      "titleOriginal": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "لبناء ونشر تطبيقات الروبوتات المتطورة التي يمكنها الإدراك والتفكير والتصرف في البيئات الديناميكية، يحتاج المطورون إلى نماذج وأدوات جديدة للذكاء الاصطناعي المادي. ال",
+      "summaryOriginal": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development"
+    },
+    {
+      "id": "fcc87cb23e9d0fc492c0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "كيف تجعل AISI و EvalEval في المملكة المتحدة نتائج المقارنات المعيارية قابلة للتكرار",
+      "titleOriginal": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "dateLabel": "22 سبتمبر 2026",
+      "dateISO": "2026-09-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/evaleval-aisi",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face How UK AISI and EvalEval Are Making Benchmark Results Reproducible"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-28T22:02:05.693712+00:00",
-  "lastFastCheckAt": "2026-09-29T01:56:13.270155+00:00"
+  "lastDeepCheckAt": "2026-09-29T01:58:31.216388+00:00"
 }
