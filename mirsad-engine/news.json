@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-29T15:30:39.324221+00:00",
-  "checkedAt": "2026-09-29T15:30:39.324221+00:00",
+  "updatedAt": "2026-09-29T15:35:41.384203+00:00",
+  "checkedAt": "2026-09-29T15:35:41.384203+00:00",
   "newestPublishedAt": "2026-09-29T15:30:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -602,6 +602,32 @@
       "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
     },
     {
+      "id": "0c578601ce1a26a372e0",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "في يوم الذكاء الاصطناعي في سنغافورة، تعرض NVIDIA وشركاؤها تطورات الذكاء الاصطناعي في جميع أنحاء جنوب شرق آسيا",
+      "titleOriginal": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "business",
+      "importance": 82,
+      "summary": "يقدم يوم إنفيديا للذكاء الاصطناعي في سنغافورة، الذي يقام في الفترة من 22 إلى 23 سبتمبر في مركز مؤتمرات مدينة رافلز، فرصًا للحضور لاستكشاف التدريب العملي، خبير",
+      "summaryOriginal": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/ai-day-singapore",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T02:30:22+00:00"
+    },
+    {
       "id": "f6ac9f2775f6c601a952",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How invideo improves color grading 3x with GPT‑6 Astra"
-    },
-    {
-      "id": "cefeac142e39a76151b0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم وكلاء Ringg للذكاء الاصطناعي بحل ما يصل إلى 65 ٪ من مكالمات العملاء مع OpenAI",
-      "titleOriginal": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "باستخدام GPT-5.6، يدعم Ringg الوكلاء متعددي اللغات عبر الصوت والدردشة وواتساب والويب بتكلفة أقل بنسبة 90 ٪ مقابل GPT-4.1.",
-      "summaryOriginal": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/ringg",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-29T15:06:22.634393+00:00",
-  "lastFastCheckAt": "2026-09-29T15:30:39.324221+00:00"
+  "lastFastCheckAt": "2026-09-29T15:35:41.384203+00:00"
 }
