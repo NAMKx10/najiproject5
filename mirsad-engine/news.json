@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-29T16:26:14.366308+00:00",
-  "checkedAt": "2026-09-29T16:26:14.366308+00:00",
-  "newestPublishedAt": "2026-09-29T16:14:24+00:00",
+  "updatedAt": "2026-09-29T16:31:16.664081+00:00",
+  "checkedAt": "2026-09-29T16:31:16.664081+00:00",
+  "newestPublishedAt": "2026-09-29T16:27:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "89639958530966de00c0",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أساسيات الهندسة الفورية لأمازون كويك",
+      "titleOriginal": "Prompt engineering fundamentals for Amazon Quick",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعمل الهندسة السريعة في Amazon Quick على تحديد مدى دقة استجابة ميزاتها التي تعمل بالذكاء الاصطناعي لطلباتك. يغطي الجزء الأول من سلسلة من جزأين المبادئ الأساسية",
+      "summaryOriginal": "Prompt engineering in Amazon Quick shapes how accurately its AI-powered features respond to your requests. Part 1 of a two-part series covers the foundational principles and reusable frameworks (specificity, context-setting, few-shot examples, and the CRISPE framework) for consistent, high-quality results across Amazon Quick.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Prompt engineering fundamentals for Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-29T16:27:57+00:00"
+    },
+    {
+      "id": "dde6f5ed309a22bff787",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "الهندسة السريعة حسب المكون السريع: الأنماط والمزالق",
+      "titleOriginal": "Prompt engineering by Quick component: Patterns and pitfalls",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "research",
+      "importance": 86,
+      "summary": "ينتقل الجزء 2 من سلسلة هندسة أمازون السريعة السريعة الخاصة بنا مكونًا تلو الآخر. تعرف على الأنماط السريعة التي تحصل على أفضل النتائج من Amazon Quick Research و Quick Fl",
+      "summaryOriginal": "Part 2 of our Amazon Quick prompt engineering series goes component by component. Learn the prompt patterns that get the best results from Amazon Quick Research, Quick Flows, Quick Sight, chat agents, and action integrations, plus the common pitfalls to avoid.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Prompt engineering by Quick component: Patterns and pitfalls",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-29T16:27:33+00:00"
+    },
     {
       "id": "c9dee379c94c6c6e60d3",
       "company": "Amazon",
@@ -704,61 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-23T13:00:00+00:00"
-    },
-    {
-      "id": "cefeac142e39a76151b0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم وكلاء Ringg للذكاء الاصطناعي بحل ما يصل إلى 65 ٪ من مكالمات العملاء مع OpenAI",
-      "titleOriginal": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "باستخدام GPT-5.6، يدعم Ringg الوكلاء متعددي اللغات عبر الصوت والدردشة وواتساب والويب بتكلفة أقل بنسبة 90 ٪ مقابل GPT-4.1.",
-      "summaryOriginal": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/ringg",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T12:00:00+00:00"
-    },
-    {
-      "id": "d3a6eea58ba5672ffba7",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تعمل invideo على تحسين درجات الألوان 3x باستخدام GPT‑6 Astra",
-      "titleOriginal": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT‑6 Astra، تخطط Invideo للتحرير بدقة أكبر، وتحسن تصحيح الألوان والدرجات ثلاثة أضعاف، وتنتج 50 تأثيرًا مخصصًا في يوم واحد.",
-      "summaryOriginal": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How invideo improves color grading 3x with GPT‑6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-29T15:06:22.634393+00:00",
-  "lastFastCheckAt": "2026-09-29T16:26:14.366308+00:00"
+  "lastFastCheckAt": "2026-09-29T16:31:16.664081+00:00"
 }
