@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T15:44:21.288488+00:00",
-  "checkedAt": "2026-09-30T15:44:21.288488+00:00",
+  "updatedAt": "2026-09-30T15:49:27.328557+00:00",
+  "checkedAt": "2026-09-30T15:49:27.328557+00:00",
   "newestPublishedAt": "2026-09-30T15:37:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -727,28 +727,33 @@
       "searchAliases": "xAI Team Bots: AI coworkers that learn from your team"
     },
     {
-      "id": "794516609b5bcb0e6616",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "5e2b036282765c9fc39e",
+      "company": "Microsoft",
+      "logoText": "MS",
       "type": "إطلاق أو تحديث",
-      "title": "يعزز العمل الاستباقي المبيعات بنسبة 60 ٪ ويوفر أكثر من 75 ساعة مع الدستور الغذائي",
-      "titleOriginal": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "title": "تقديم مساعد الطيار الجديد مع المنزل والرمز والطيار الآلي",
+      "titleOriginal": "Introducing the new Copilot with Home, Code and Autopilot",
       "dateLabel": "25 سبتمبر 2026",
       "dateISO": "2026-09-25",
       "category": "models",
       "importance": 92,
-      "summary": "مع Codex و GPT - Live -1 و GPT -6 Astra، تقوم Proaction ببناء وتشغيل وبيع إدارة الأسطول الحديثة بشكل أسرع.",
-      "summaryOriginal": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "summary": "نحن نعيد تصور Microsoft Copilot لتمكين العمل أثناء تطوره وللمساعدة في توسيع ما يمكن لكل فرد وكل مؤسسة تحقيقه في تدفق النطاق البشري",
+      "summaryOriginal": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/proaction",
-      "sourceLabel": "OpenAI",
+      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
+      "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Proaction boosts sales 60% and saves 75+ hours with Codex"
+      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-25T12:03:50+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-30T09:01:09.581031+00:00",
-  "lastFastCheckAt": "2026-09-30T15:44:21.288488+00:00"
+  "lastFastCheckAt": "2026-09-30T15:49:27.328557+00:00"
 }
