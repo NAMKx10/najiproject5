@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T02:22:52.445405+00:00",
-  "checkedAt": "2026-09-30T02:22:52.445405+00:00",
+  "updatedAt": "2026-09-30T02:26:26.991428+00:00",
+  "checkedAt": "2026-09-30T02:26:26.991428+00:00",
   "newestPublishedAt": "2026-09-30T01:13:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "d8683c6190ad68bd4d30",
+      "id": "8ff2bef7b17703d9f9bf",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "كلود أوبوس 5 من أنثروبيك، وكلود سونيت 5، وكلود هايكو 4.5 متاحة الآن في الهند من خلال الاستدلال الجغرافي عبر المنطقة من أمازون بيدروك. يمكنك الوصول إلى هذه",
       "summaryOriginal": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data within the India Regions, and get started from the Amazon Bedrock console or with the Messages, InvokeModel, and Converse APIs.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T01:13:14+00:00"
+      "searchAliases": "Amazon Amazon Bedrock expands Claude model availability to in-country inferencing in India"
     },
     {
-      "id": "cbb9c99b9d5e0ed9f7f8",
+      "id": "4722bc90121882c1906e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,17 +127,12 @@
       "summary": "تدعم أمازون بيدروك الآن كلاود أوبوس 5 وكلود سونيت 5 من أنثروبيك مع الاستدلال في المنطقة في سيول، وكلود سونيت 5 في سنغافورة. إذا كان لديك بيانات محلية",
       "summaryOriginal": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local data processing requirements in South Korea or Singapore, you can now use these Anthropic models at scale, with inference processed entirely within the Region you call.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T01:13:12+00:00"
+      "searchAliases": "Amazon Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore"
     },
     {
       "id": "0bc35f246773b2f4645d",
@@ -365,8 +355,8 @@
       "dateISO": "2026-09-29",
       "category": "models",
       "importance": 92,
-      "summary": "Dots by OpenAI هي مساعد استباقي يمكنه الاستمرار في العمل عبر المشاريع المعقدة والمهام اليومية. تعلم كيف تساعدك النقاط على البقاء مسيطرًا بينما يتحرك العمل من أجل الحرب",
-      "summaryOriginal": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary": "Dots by OpenAI هي مساعدين استباقيين يمكنهم الاستمرار في العمل عبر المشاريع المعقدة والمهام اليومية. تعلم كيف تساعدك النقاط على التحكم أثناء تقدم العمل",
+      "summaryOriginal": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://openai.com/index/introducing-dots",
       "sourceLabel": "OpenAI",
@@ -481,27 +471,6 @@
       "searchAliases": "Amazon Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1"
     },
     {
-      "id": "c872a15238a7883b8304",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "إنشاء صور ومقاطع فيديو باستخدام vLLM - Omni على SageMaker AI – الجزء 2",
-      "titleOriginal": "Generate images and video with vLLM-Omni on SageMaker AI – Part 2",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "نشر نموذجين من الوسائط التوليدية من حاوية التعلم العميق AWS vLLM - Omni على Amazon SageMaker AI. توليد صورة باستخدام FLUX.2 - klein من خلال الاستدلال في الوقت الفعلي،",
-      "summaryOriginal": "Deploy two generative media models from one AWS vLLM-Omni Deep Learning Container on Amazon SageMaker AI. Generate an image with FLUX.2-klein through real-time inference, then animate it into video with Wan2.1-VACE through asynchronous inference, and retrieve the MP4 from Amazon S3.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/generate-images-and-video-with-vllm-omni-on-sagemaker-ai-part-2/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Generate images and video with vLLM-Omni on SageMaker AI – Part 2"
-    },
-    {
       "id": "38b52fb3970198109dd9",
       "company": "Mistral AI",
       "logoText": "MI",
@@ -521,27 +490,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Mistral Opens Munich Hub to Advance Industrial AI in Germany"
-    },
-    {
-      "id": "0dfb1c36855b26278180",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تنفيذ المراقبة الاصطناعية باستخدام قانون أمازون نوفا",
-      "titleOriginal": "Implementing synthetic monitoring using Amazon Nova Act",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعلم نهجًا يعتمد على الوكيل للمراقبة الاصطناعية باستخدام Amazon Nova Act و Amazon Bedrock AgentCore. يغطي المنشور الهندسة المعمارية والأنماط للمرونة،",
-      "summaryOriginal": "Learn an agent-driven approach to synthetic monitoring using Amazon Nova Act and Amazon Bedrock AgentCore. The post covers the architecture and patterns for resilient, managed user-journey validation that moves beyond brittle UI scripts, with a complete sample implementation.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/implementing-synthetic-monitoring-using-amazon-nova-act/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Implementing synthetic monitoring using Amazon Nova Act"
     },
     {
       "id": "2cb85282a8b80d2ad2d8",
@@ -712,6 +660,27 @@
       "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
     },
     {
+      "id": "6e18bbf1fdb8b84154b9",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "يكتشف كلود نظام إنزيم جديد",
+      "titleOriginal": "Claude discovers a novel enzyme system",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "في النتائج المبكرة من مختبر أبحاث علوم الحياة الجديد لدينا، وجد وكلاء كلود نظام إنزيم لا تزال وظيفته غير معروفة.",
+      "summaryOriginal": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Claude discovers a novel enzyme system"
+    },
+    {
       "id": "484bb65c12caed03e58b",
       "company": "OpenAI",
       "logoText": "AI",
@@ -730,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Two years of OpenAI Academy",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T16:00:00+00:00"
+      "searchAliases": "OpenAI Two years of OpenAI Academy"
+    },
+    {
+      "id": "457ec8d61d7140ec41d7",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "في يوم الذكاء الاصطناعي في سنغافورة، تعرض NVIDIA وشركاؤها تطورات الذكاء الاصطناعي في جميع أنحاء جنوب شرق آسيا",
+      "titleOriginal": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "business",
+      "importance": 82,
+      "summary": "يقدم يوم إنفيديا للذكاء الاصطناعي في سنغافورة، الذي يقام في الفترة من 22 إلى 23 سبتمبر في مركز مؤتمرات مدينة رافلز، فرصًا للحضور لاستكشاف التدريب العملي، خبير",
+      "summaryOriginal": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-29T23:44:07.578552+00:00",
-  "lastFastCheckAt": "2026-09-30T02:22:52.445405+00:00"
+  "lastDeepCheckAt": "2026-09-30T02:26:26.991428+00:00"
 }
