@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T17:31:11.466890+00:00",
-  "checkedAt": "2026-09-30T17:31:11.466890+00:00",
+  "updatedAt": "2026-09-30T17:36:17.980314+00:00",
+  "checkedAt": "2026-09-30T17:36:17.980314+00:00",
   "newestPublishedAt": "2026-09-30T15:37:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "614384c194a98fc2a1fa",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعطيل حملة تقطير نموذجية منسقة",
+      "titleOriginal": "Disrupting a coordinated model-distillation campaign",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية قيام OpenAI بتعطيل حملة لاستخراج المنطق النموذجي المحمي وتقوية الدفاعات ضد التقطير العدائي.",
+      "summaryOriginal": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-30T10:30:00+00:00"
+    },
     {
       "id": "bb0dd22505822cdb5d5d",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Proaction boosts sales 60% and saves 75+ hours with Codex"
-    },
-    {
-      "id": "e7a4d21ad84347cf3750",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم مساعد الطيار الجديد مع المنزل والرمز والطيار الآلي",
-      "titleOriginal": "Introducing the new Copilot with Home, Code and Autopilot",
-      "dateLabel": "25 سبتمبر 2026",
-      "dateISO": "2026-09-25",
-      "category": "models",
-      "importance": 92,
-      "summary": "نحن نعيد تصور Microsoft Copilot لتمكين العمل أثناء تطوره وللمساعدة في توسيع ما يمكن لكل فرد وكل مؤسسة تحقيقه في تدفق النطاق البشري",
-      "summaryOriginal": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-30T15:55:45.458403+00:00",
-  "lastFastCheckAt": "2026-09-30T17:31:11.466890+00:00"
+  "lastFastCheckAt": "2026-09-30T17:36:17.980314+00:00"
 }
