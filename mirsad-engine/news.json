@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T15:54:33.182453+00:00",
-  "checkedAt": "2026-09-30T15:54:33.182453+00:00",
+  "updatedAt": "2026-09-30T15:55:45.458403+00:00",
+  "checkedAt": "2026-09-30T15:55:45.458403+00:00",
   "newestPublishedAt": "2026-09-30T15:37:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "18928657776b73005208",
+      "id": "bb0dd22505822cdb5d5d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +106,15 @@
       "summary": "تقوم هذه الطريقة التقنية ببناء مساعد مطالبات محادثة على قواعد معرفة Amazon Bedrock التي تجيب على أسئلة اللغة الطبيعية مع الاستشهادات. ويغطي ingesti",
       "summaryOriginal": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases",
+      "source": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Query claims in natural language with Amazon Bedrock Knowledge Bases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T15:37:15+00:00"
+      "searchAliases": "Amazon Query claims in natural language with Amazon Bedrock Knowledge Bases"
     },
     {
-      "id": "3604ba5bf9e3655d7fa4",
+      "id": "afbf118b5040780b8cec",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "توفر Amazon Bedrock AgentCore Runtime Instances سير عمل متعدد الوكلاء للبنية التحتية التي تديرها AWS EC2 مع وحدات معالجة الرسومات، والأحجام المستمرة، والجلسات متعددة الأيام. في هذا المنشور،",
       "summaryOriginal": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T15:21:57+00:00"
+      "searchAliases": "Amazon Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances"
     },
     {
-      "id": "5b7cc36d2b6a572605df",
+      "id": "51189f852b98a1d99d7b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -158,17 +148,12 @@
       "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
       "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T15:00:00+00:00"
+      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
     },
     {
       "id": "84426df134c70ed663c0",
@@ -189,12 +174,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Helping small businesses put AI to work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T10:00:00+00:00"
+      "searchAliases": "OpenAI Helping small businesses put AI to work"
+    },
+    {
+      "id": "53765a1d1a759c806fba",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "إطلاق أو تحديث",
+      "title": "Cohere Embed 5: نماذج التضمين الحدودية للمؤسسات",
+      "titleOriginal": "Cohere Embed 5: Frontier Embedding Models for Enterprise",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "يوفر Cohere's Embed 5 استرجاعًا حديثًا عبر مستندات متعددة الوسائط ومتعددة اللغات ومالية - وهي متاحة الآن في مستويات Pro و Fast.",
+      "summaryOriginal": "Cohere's Embed 5 delivers state-of-the-art retrieval across multimodal, multilingual, and financial documents - now available in Pro and Fast tiers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://cohere.com/blog/embed-5",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Cohere Embed 5: Frontier Embedding Models for Enterprise"
     },
     {
       "id": "8ff2bef7b17703d9f9bf",
@@ -257,12 +258,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T00:00:00+00:00"
+      "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
     },
     {
       "id": "0bc35f246773b2f4645d",
@@ -412,27 +408,6 @@
       "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
     },
     {
-      "id": "bd1c50ebe0721f4ab126",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم GPT-6.1 Sol",
-      "titleOriginal": "Introducing GPT-6.1 Sol",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على GPT-6.1 Sol: ذكاء NEAR - ASTRA للترميز واستخدام الكمبيوتر والعمل الاحترافي بخمس أسعار إدخال وإخراج API القياسية لـ ASTRA.",
-      "summaryOriginal": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing GPT-6.1 Sol"
-    },
-    {
       "id": "270f64ac4efe9d58a8d0",
       "company": "OpenAI",
       "logoText": "AI",
@@ -452,6 +427,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI DevDay 2026 Recap"
+    },
+    {
+      "id": "bd1c50ebe0721f4ab126",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم GPT-6.1 Sol",
+      "titleOriginal": "Introducing GPT-6.1 Sol",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على GPT-6.1 Sol: ذكاء NEAR - ASTRA للترميز واستخدام الكمبيوتر والعمل الاحترافي بخمس أسعار إدخال وإخراج API القياسية لـ ASTRA.",
+      "summaryOriginal": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing GPT-6.1 Sol"
     },
     {
       "id": "72f8ca15acad02b17599",
@@ -559,48 +555,6 @@
       "searchAliases": "OpenAI How we will do better for Australia"
     },
     {
-      "id": "1f27c2eea2ea857936bb",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم كلود سونيت 5.5 على AWS",
-      "titleOriginal": "Introducing Claude Sonnet 5.5 on AWS",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "كلود سونيت 5.5 متاح الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. إنه نموذج Sonnet أكثر ذكاءً وكفاءة للترميز المركز والعمل المعرفي، مع",
-      "summaryOriginal": "Claude Sonnet 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. It's a smarter, more efficient Sonnet model for focused coding and knowledge work, with a lower cost per task at faster speed. This post covers what's new, when to choose Sonnet, and how to get started.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Claude Sonnet 5.5 on AWS"
-    },
-    {
-      "id": "2483d18226e2db85408f",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "إنشاء تطبيقات صوتية في الوقت الفعلي باستخدام vLLM - Onni على SageMaker AI – الجزء 1",
-      "titleOriginal": "Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "نشر نموذج تحويل النص إلى كلام على Amazon SageMaker AI باستخدام AWS vLLM - Omni Deep Learning Container وبث الكلام الذي تم إنشاؤه عبر اتصال ثنائي الاتجاه مستمر",
-      "summaryOriginal": "Deploy a text-to-speech model on Amazon SageMaker AI with the AWS vLLM-Omni Deep Learning Container and stream generated speech over a persistent bidirectional connection. This Part 1 tutorial deploys Qwen3-TTS and streams speech through a Gradio application.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-vllm-omni-on-sagemaker-ai-part-1/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build real-time voice applications with vLLM-Omni on SageMaker AI – Part 1"
-    },
-    {
       "id": "38b52fb3970198109dd9",
       "company": "Mistral AI",
       "logoText": "MI",
@@ -664,27 +618,6 @@
       "searchAliases": "OpenAI The Lenfest Institute grows landmark program with expanded OpenAI support"
     },
     {
-      "id": "93debcf76b72be8b2f0f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "هل أنت أصلي في الدستور الغذائي ؟",
-      "titleOriginal": "Are you a Codex Original?",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "research",
-      "importance": 86,
-      "summary": "نحن نجمع قصصًا حقيقية عن البنائين واللاعبين والباحثين والمبدعين الذين يستخدمون الدستور الغذائي للقيام بأشياء لا تصدق. إذا كنت تريد أن تكون جزءًا من الفصل التالي",
-      "summaryOriginal": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/form/codex-originals",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Are you a Codex Original?"
-    },
-    {
       "id": "1f9086a48eac9fc689d9",
       "company": "OpenAI",
       "logoText": "AI",
@@ -704,6 +637,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Basis completes a tax workbook 2x faster with GPT-6 Astra"
+    },
+    {
+      "id": "93debcf76b72be8b2f0f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "هل أنت أصلي في الدستور الغذائي ؟",
+      "titleOriginal": "Are you a Codex Original?",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "research",
+      "importance": 86,
+      "summary": "نحن نجمع قصصًا حقيقية عن البنائين واللاعبين والباحثين والمبدعين الذين يستخدمون الدستور الغذائي للقيام بأشياء لا تصدق. إذا كنت تريد أن تكون جزءًا من الفصل التالي",
+      "summaryOriginal": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/form/codex-originals",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Are you a Codex Original?"
     },
     {
       "id": "83f9be32756448a1aecc",
@@ -745,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-25T19:00:00+00:00"
+      "searchAliases": "OpenAI Proaction boosts sales 60% and saves 75+ hours with Codex"
+    },
+    {
+      "id": "e7a4d21ad84347cf3750",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم مساعد الطيار الجديد مع المنزل والرمز والطيار الآلي",
+      "titleOriginal": "Introducing the new Copilot with Home, Code and Autopilot",
+      "dateLabel": "25 سبتمبر 2026",
+      "dateISO": "2026-09-25",
+      "category": "models",
+      "importance": 92,
+      "summary": "نحن نعيد تصور Microsoft Copilot لتمكين العمل أثناء تطوره وللمساعدة في توسيع ما يمكن لكل فرد وكل مؤسسة تحقيقه في تدفق النطاق البشري",
+      "summaryOriginal": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-30T09:01:09.581031+00:00",
-  "lastFastCheckAt": "2026-09-30T15:54:33.182453+00:00"
+  "lastDeepCheckAt": "2026-09-30T15:55:45.458403+00:00"
 }
