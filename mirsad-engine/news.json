@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T15:03:34.543354+00:00",
-  "checkedAt": "2026-09-30T15:03:34.543354+00:00",
-  "newestPublishedAt": "2026-09-30T01:13:14+00:00",
+  "updatedAt": "2026-09-30T15:08:43.313497+00:00",
+  "checkedAt": "2026-09-30T15:08:43.313497+00:00",
+  "newestPublishedAt": "2026-09-30T15:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5b7cc36d2b6a572605df",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "من التدريب إلى الإنتاج، تغلق NVIDIA و CoreWeave الحلقة على الذكاء الاصطناعي الوكيل",
+      "titleOriginal": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
+      "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-30T15:00:00+00:00"
+    },
     {
       "id": "8ff2bef7b17703d9f9bf",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-23T16:00:00+00:00"
-    },
-    {
-      "id": "0c578601ce1a26a372e0",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "في يوم الذكاء الاصطناعي في سنغافورة، تعرض NVIDIA وشركاؤها تطورات الذكاء الاصطناعي في جميع أنحاء جنوب شرق آسيا",
-      "titleOriginal": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "business",
-      "importance": 82,
-      "summary": "يقدم يوم إنفيديا للذكاء الاصطناعي في سنغافورة، الذي يقام في الفترة من 22 إلى 23 سبتمبر في مركز مؤتمرات مدينة رافلز، فرصًا للحضور لاستكشاف التدريب العملي، خبير",
-      "summaryOriginal": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/ai-day-singapore",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T02:30:22+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-30T09:01:09.581031+00:00",
-  "lastFastCheckAt": "2026-09-30T15:03:34.543354+00:00"
+  "lastFastCheckAt": "2026-09-30T15:08:43.313497+00:00"
 }
