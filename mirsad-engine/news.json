@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T20:49:17.672835+00:00",
-  "checkedAt": "2026-09-30T20:49:17.672835+00:00",
+  "updatedAt": "2026-09-30T20:49:49.742872+00:00",
+  "checkedAt": "2026-09-30T20:49:49.742872+00:00",
   "newestPublishedAt": "2026-09-30T15:37:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,32 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "614384c194a98fc2a1fa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تعطيل حملة تقطير نموذجية منسقة",
-      "titleOriginal": "Disrupting a coordinated model-distillation campaign",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية قيام OpenAI بتعطيل حملة لاستخراج المنطق النموذجي المحمي وتقوية الدفاعات ضد التقطير العدائي.",
-      "summaryOriginal": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T10:30:00+00:00"
-    },
     {
       "id": "bb0dd22505822cdb5d5d",
       "company": "Amazon",
@@ -180,6 +154,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
+    },
+    {
+      "id": "614384c194a98fc2a1fa",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعطيل حملة تقطير نموذجية منسقة",
+      "titleOriginal": "Disrupting a coordinated model-distillation campaign",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية قيام OpenAI بتعطيل حملة لاستخراج المنطق النموذجي المحمي وتقوية الدفاعات ضد التقطير العدائي.",
+      "summaryOriginal": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign"
     },
     {
       "id": "84426df134c70ed663c0",
@@ -434,27 +429,6 @@
       "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
     },
     {
-      "id": "270f64ac4efe9d58a8d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ملخص يوم التطوير 2026",
-      "titleOriginal": "DevDay 2026 Recap",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "استكشف أكثر من 20 إعلانًا من OpenAI DevDay 2026، بما في ذلك GPT -6 Astra و ChatGPT و Codex و APIs والأمان والأدوات الجديدة للبنائين.",
-      "summaryOriginal": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/devday-2026-recap",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI DevDay 2026 Recap"
-    },
-    {
       "id": "bd1c50ebe0721f4ab126",
       "company": "OpenAI",
       "logoText": "AI",
@@ -474,6 +448,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing GPT-6.1 Sol"
+    },
+    {
+      "id": "270f64ac4efe9d58a8d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "ملخص يوم التطوير 2026",
+      "titleOriginal": "DevDay 2026 Recap",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف أكثر من 20 إعلانًا من OpenAI DevDay 2026، بما في ذلك GPT -6 Astra و ChatGPT و Codex و APIs والأمان والأدوات الجديدة للبنائين.",
+      "summaryOriginal": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/devday-2026-recap",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI DevDay 2026 Recap"
     },
     {
       "id": "72f8ca15acad02b17599",
@@ -539,27 +534,6 @@
       "searchAliases": "Amazon Grok 4.7 is now available on Amazon Bedrock"
     },
     {
-      "id": "b173aff47a3e08e219c1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
-      "titleOriginal": "Towards safety cases for frontier AI training",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
-      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Towards safety cases for frontier AI training"
-    },
-    {
       "id": "1d36ec168992ba159495",
       "company": "OpenAI",
       "logoText": "AI",
@@ -579,6 +553,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How we will do better for Australia"
+    },
+    {
+      "id": "b173aff47a3e08e219c1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
+      "titleOriginal": "Towards safety cases for frontier AI training",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
+      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Towards safety cases for frontier AI training"
     },
     {
       "id": "38b52fb3970198109dd9",
@@ -644,27 +639,6 @@
       "searchAliases": "OpenAI The Lenfest Institute grows landmark program with expanded OpenAI support"
     },
     {
-      "id": "1f9086a48eac9fc689d9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يكمل BASIS كتاب عمل ضريبي مرتين بشكل أسرع مع GPT -6 ASTRA",
-      "titleOriginal": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "أكملت GPT -6 Astra كتاب عمل ضريبي 50 علامة تبويب أسرع مرتين من GPT-5.6 Sol، وفهمها الأقوى لنية المستخدم يعطي Basis مزيدًا من الثقة في الاستخدام في العالم الحقيقي.",
-      "summaryOriginal": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Basis completes a tax workbook 2x faster with GPT-6 Astra"
-    },
-    {
       "id": "93debcf76b72be8b2f0f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -684,6 +658,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Are you a Codex Original?"
+    },
+    {
+      "id": "1f9086a48eac9fc689d9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يكمل BASIS كتاب عمل ضريبي مرتين بشكل أسرع مع GPT -6 ASTRA",
+      "titleOriginal": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "أكملت GPT -6 Astra كتاب عمل ضريبي 50 علامة تبويب أسرع مرتين من GPT-5.6 Sol، وفهمها الأقوى لنية المستخدم يعطي Basis مزيدًا من الثقة في الاستخدام في العالم الحقيقي.",
+      "summaryOriginal": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Basis completes a tax workbook 2x faster with GPT-6 Astra"
     },
     {
       "id": "83f9be32756448a1aecc",
@@ -707,7 +702,7 @@
       "searchAliases": "xAI Team Bots: AI coworkers that learn from your team"
     },
     {
-      "id": "5e2b036282765c9fc39e",
+      "id": "e7a4d21ad84347cf3750",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "إطلاق أو تحديث",
@@ -720,20 +715,14 @@
       "summary": "نحن نعيد تصور Microsoft Copilot لتمكين العمل أثناء تطوره وللمساعدة في توسيع ما يمكن لكل فرد وكل مؤسسة تحقيقه في تدفق النطاق البشري",
       "summaryOriginal": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducing the new Copilot with Home, Code and Autopilot appeared first on The Official Microsoft Blog .",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
+      "source": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-25T12:03:50+00:00"
+      "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-09-30T15:55:45.458403+00:00",
-  "lastFastCheckAt": "2026-09-30T20:49:17.672835+00:00"
+  "lastDeepCheckAt": "2026-09-30T20:49:49.742872+00:00"
 }
