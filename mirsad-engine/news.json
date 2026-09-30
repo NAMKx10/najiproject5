@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T14:58:28.411907+00:00",
-  "checkedAt": "2026-09-30T14:58:28.411907+00:00",
+  "updatedAt": "2026-09-30T14:59:32.234576+00:00",
+  "checkedAt": "2026-09-30T14:59:32.234576+00:00",
   "newestPublishedAt": "2026-09-30T01:13:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -686,6 +686,32 @@
       "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
     },
     {
+      "id": "484bb65c12caed03e58b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "سنتان من أكاديمية OpenAI",
+      "titleOriginal": "Two years of OpenAI Academy",
+      "dateLabel": "23 سبتمبر 2026",
+      "dateISO": "2026-09-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "الاحتفال بعامين من أكاديمية OpenAI وجلب مهارات الذكاء الاصطناعي إلى المزيد من المجتمعات.",
+      "summaryOriginal": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/two-years-of-openai-academy",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Two years of OpenAI Academy",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-23T16:00:00+00:00"
+    },
+    {
       "id": "0c578601ce1a26a372e0",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -710,30 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-23T02:30:22+00:00"
-    },
-    {
-      "id": "6e18bbf1fdb8b84154b9",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "يكتشف كلود نظام إنزيم جديد",
-      "titleOriginal": "Claude discovers a novel enzyme system",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "في النتائج المبكرة من مختبر أبحاث علوم الحياة الجديد لدينا، وجد وكلاء كلود نظام إنزيم لا تزال وظيفته غير معروفة.",
-      "summaryOriginal": "In early results from our new life sciences research lab, Claude agents found an enzyme system whose function is still unknown.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Claude discovers a novel enzyme system"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-30T09:01:09.581031+00:00",
-  "lastFastCheckAt": "2026-09-30T14:58:28.411907+00:00"
+  "lastFastCheckAt": "2026-09-30T14:59:32.234576+00:00"
 }
