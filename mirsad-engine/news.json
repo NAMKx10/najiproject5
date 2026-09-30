@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T15:33:58.420422+00:00",
-  "checkedAt": "2026-09-30T15:33:58.420422+00:00",
-  "newestPublishedAt": "2026-09-30T15:21:57+00:00",
+  "updatedAt": "2026-09-30T15:39:18.857691+00:00",
+  "checkedAt": "2026-09-30T15:39:18.857691+00:00",
+  "newestPublishedAt": "2026-09-30T15:37:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "18928657776b73005208",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "الاستعلام عن المطالبات باللغة الطبيعية باستخدام قواعد معرفة Amazon Bedrock",
+      "titleOriginal": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم هذه الطريقة التقنية ببناء مساعد مطالبات محادثة على قواعد معرفة Amazon Bedrock التي تجيب على أسئلة اللغة الطبيعية مع الاستشهادات. ويغطي ingesti",
+      "summaryOriginal": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Query claims in natural language with Amazon Bedrock Knowledge Bases",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-30T15:37:15+00:00"
+    },
     {
       "id": "3604ba5bf9e3655d7fa4",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft Introducing the new Copilot with Home, Code and Autopilot"
-    },
-    {
-      "id": "3ed9d598573da93a666a",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تسريع نماذج لغة الرؤية باستخدام LFM2.5-VL-DSpark",
-      "titleOriginal": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "dateLabel": "24 سبتمبر 2026",
-      "dateISO": "2026-09-24",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-30T09:01:09.581031+00:00",
-  "lastFastCheckAt": "2026-09-30T15:33:58.420422+00:00"
+  "lastFastCheckAt": "2026-09-30T15:39:18.857691+00:00"
 }
