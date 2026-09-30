@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-09-30T15:18:47.806046+00:00",
-  "checkedAt": "2026-09-30T15:18:47.806046+00:00",
-  "newestPublishedAt": "2026-09-30T15:00:00+00:00",
+  "updatedAt": "2026-09-30T15:23:52.946857+00:00",
+  "checkedAt": "2026-09-30T15:23:52.946857+00:00",
+  "newestPublishedAt": "2026-09-30T15:21:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3604ba5bf9e3655d7fa4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء خط إنتاج موسيقي متعدد الوكلاء على Amazon Bedrock AgentCore Runtime Instances",
+      "titleOriginal": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "توفر Amazon Bedrock AgentCore Runtime Instances سير عمل متعدد الوكلاء للبنية التحتية التي تديرها AWS EC2 مع وحدات معالجة الرسومات، والأحجام المستمرة، والجلسات متعددة الأيام. في هذا المنشور،",
+      "summaryOriginal": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-30T15:21:57+00:00"
+    },
     {
       "id": "5b7cc36d2b6a572605df",
       "company": "NVIDIA",
@@ -710,35 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Accelerating vision-language models with LFM2.5-VL-DSpark"
-    },
-    {
-      "id": "484bb65c12caed03e58b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سنتان من أكاديمية OpenAI",
-      "titleOriginal": "Two years of OpenAI Academy",
-      "dateLabel": "23 سبتمبر 2026",
-      "dateISO": "2026-09-23",
-      "category": "tools",
-      "importance": 78,
-      "summary": "الاحتفال بعامين من أكاديمية OpenAI وجلب مهارات الذكاء الاصطناعي إلى المزيد من المجتمعات.",
-      "summaryOriginal": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/two-years-of-openai-academy",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Two years of OpenAI Academy",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-23T16:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-09-30T09:01:09.581031+00:00",
-  "lastFastCheckAt": "2026-09-30T15:18:47.806046+00:00"
+  "lastFastCheckAt": "2026-09-30T15:23:52.946857+00:00"
 }
