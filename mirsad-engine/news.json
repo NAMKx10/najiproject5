@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T23:22:46.333748+00:00",
-  "checkedAt": "2026-10-01T23:22:46.333748+00:00",
+  "updatedAt": "2026-10-01T23:26:43.178152+00:00",
+  "checkedAt": "2026-10-01T23:26:43.178152+00:00",
   "newestPublishedAt": "2026-10-01T22:06:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "f7d6d92a734600a541ec",
+      "id": "c83e3d854c4bb3ea26c6",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,20 +106,15 @@
       "summary": "تعرف على كيفية استخدام AWS Professional Services لإطار متعدد الوكلاء مبني على Amazon Bedrock AgentCore لأتمتة عمليات الترحيل السحابية للمؤسسات من البداية إلى النهاية. الذكاء الاصطناعي المصمم لهذا الغرض",
       "summaryOriginal": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T22:06:14+00:00"
+      "searchAliases": "Amazon Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
     },
     {
-      "id": "e7968d221753d83ccd2e",
+      "id": "08310ec61f11ea27dd65",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -132,17 +127,12 @@
       "summary": "باستخدام البيانات المباشرة في التطبيقات في Amazon Quick، تستعلم التطبيقات المبنية بالذكاء الاصطناعي عن مجموعات بيانات Quick Sight التي تحكمها في الوقت الفعلي بدلاً من لقطات ثابتة ووقت الإنشاء. يتم تشغيل كل استعلام على النحو التالي",
       "summaryOriginal": "With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. Each query runs as the person viewing the app, so row-level and column-level security apply per reader. Learn how to build, publish, and share a live-data app using natural language.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Serve live, governed data in AI-built apps with Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T19:49:06+00:00"
+      "searchAliases": "Amazon Serve live, governed data in AI-built apps with Amazon Quick"
     },
     {
       "id": "5eed7891b2c15f9aa7f4",
@@ -394,12 +384,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T00:00:00+00:00"
+      "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
     },
     {
       "id": "bb0dd22505822cdb5d5d",
@@ -528,48 +513,6 @@
       "searchAliases": "Cohere Embed 5: Frontier Embedding Models for Enterprise | Cohere"
     },
     {
-      "id": "8ff2bef7b17703d9f9bf",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "توسع أمازون بيدروك توافر نموذج كلود للاستدلال داخل البلد في الهند",
-      "titleOriginal": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "كلود أوبوس 5 من أنثروبيك، وكلود سونيت 5، وكلود هايكو 4.5 متاحة الآن في الهند من خلال الاستدلال الجغرافي عبر المنطقة من أمازون بيدروك. يمكنك الوصول إلى هذه",
-      "summaryOriginal": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data within the India Regions, and get started from the Amazon Bedrock console or with the Messages, InvokeModel, and Converse APIs.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Amazon Bedrock expands Claude model availability to in-country inferencing in India"
-    },
-    {
-      "id": "4722bc90121882c1906e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم نماذج أنثروبية على Amazon Bedrock للاستدلال داخل المنطقة في سيول وسنغافورة",
-      "titleOriginal": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "تدعم أمازون بيدروك الآن كلاود أوبوس 5 وكلود سونيت 5 من أنثروبيك مع الاستدلال في المنطقة في سيول، وكلود سونيت 5 في سنغافورة. إذا كان لديك بيانات محلية",
-      "summaryOriginal": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local data processing requirements in South Korea or Singapore, you can now use these Anthropic models at scale, with inference processed entirely within the Region you call.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore"
-    },
-    {
       "id": "77eea666183fd04c8375",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -633,27 +576,6 @@
       "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
     },
     {
-      "id": "270f64ac4efe9d58a8d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ملخص يوم التطوير 2026",
-      "titleOriginal": "DevDay 2026 Recap",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "استكشف أكثر من 20 إعلانًا من OpenAI DevDay 2026، بما في ذلك GPT -6 Astra و ChatGPT و Codex و APIs والأمان والأدوات الجديدة للبنائين.",
-      "summaryOriginal": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/devday-2026-recap",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI DevDay 2026 Recap"
-    },
-    {
       "id": "bd1c50ebe0721f4ab126",
       "company": "OpenAI",
       "logoText": "AI",
@@ -673,6 +595,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing GPT-6.1 Sol"
+    },
+    {
+      "id": "270f64ac4efe9d58a8d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "ملخص يوم التطوير 2026",
+      "titleOriginal": "DevDay 2026 Recap",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف أكثر من 20 إعلانًا من OpenAI DevDay 2026، بما في ذلك GPT -6 Astra و ChatGPT و Codex و APIs والأمان والأدوات الجديدة للبنائين.",
+      "summaryOriginal": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/devday-2026-recap",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI DevDay 2026 Recap"
     },
     {
       "id": "72f8ca15acad02b17599",
@@ -735,15 +678,51 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How we will do better for Australia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T19:00:00+00:00"
+      "searchAliases": "OpenAI How we will do better for Australia"
+    },
+    {
+      "id": "b173aff47a3e08e219c1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
+      "titleOriginal": "Towards safety cases for frontier AI training",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
+      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Towards safety cases for frontier AI training"
+    },
+    {
+      "id": "38b52fb3970198109dd9",
+      "company": "Mistral AI",
+      "logoText": "MI",
+      "type": "إطلاق أو تحديث",
+      "title": "ميسترال تفتتح مركز ميونيخ لتطوير الذكاء الاصطناعي الصناعي في ألمانيا",
+      "titleOriginal": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تفتتح ميسترال مركزًا في ميونيخ لأبحاث الفيزياء والذكاء الاصطناعي الصناعي، بالشراكة مع الصناعة الألمانية.",
+      "summaryOriginal": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://mistral.ai/news/hallo-deutschland/",
+      "sourceLabel": "Mistral News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Mistral AI Mistral Opens Munich Hub to Advance Industrial AI in Germany"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-01T19:32:12.690044+00:00",
-  "lastFastCheckAt": "2026-10-01T23:22:46.333748+00:00"
+  "lastDeepCheckAt": "2026-10-01T23:26:43.178152+00:00"
 }
