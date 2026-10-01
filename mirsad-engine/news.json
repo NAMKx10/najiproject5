@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T13:51:50.237705+00:00",
-  "checkedAt": "2026-10-01T13:51:50.237705+00:00",
-  "newestPublishedAt": "2026-10-01T13:00:49+00:00",
+  "updatedAt": "2026-10-01T13:55:30.600645+00:00",
+  "checkedAt": "2026-10-01T13:55:30.600645+00:00",
+  "newestPublishedAt": "2026-10-01T15:19:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,28 @@
   ],
   "items": [
     {
-      "id": "8b67c676d39c33bbddde",
+      "id": "53a2bf5bf18950f92367",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم باركليز بتوسيع نطاق عمل كلود لترقية العمليات وتحسين تجربة العميل",
+      "titleOriginal": "Barclays scales Claude to upgrade operations and improve client experience",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "باركليز، البنك العالمي البريطاني، يوسع تعاونه الاستراتيجي مع أنثروبيك لدمج أنظمة الذكاء الاصطناعي الآمنة على مستوى المؤسسات عبر عملياته العالمية",
+      "summaryOriginal": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/barclays-scales-claude",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Barclays scales Claude to upgrade operations and improve client experience"
+    },
+    {
+      "id": "300c809600c58947ff95",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -106,17 +127,12 @@
       "summary": "يتم بناء مصانع الذكاء الاصطناعي بالميجاوات، حتى بالجيجاوات. يكلف كل مصنع ميجاوات حوالي 60 مليون $، وسوف يلتزم مشغلو مصانع الذكاء الاصطناعي فقط برأس المال على ذلك",
       "summaryOriginal": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+      "source": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T13:00:49+00:00"
+      "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
     },
     {
       "id": "bb0dd22505822cdb5d5d",
@@ -224,25 +240,25 @@
       "searchAliases": "OpenAI Helping small businesses put AI to work"
     },
     {
-      "id": "53765a1d1a759c806fba",
+      "id": "52ad1b2e0984b7374931",
       "company": "Cohere",
       "logoText": "CO",
       "type": "إطلاق أو تحديث",
-      "title": "Cohere Embed 5: نماذج التضمين الحدودية للمؤسسات",
-      "titleOriginal": "Cohere Embed 5: Frontier Embedding Models for Enterprise",
+      "title": "التضمين 5: نماذج التضمين الحدودية للمؤسسات | Cohere",
+      "titleOriginal": "Embed 5: Frontier Embedding Models for Enterprise | Cohere",
       "dateLabel": "30 سبتمبر 2026",
       "dateISO": "2026-09-30",
       "category": "models",
       "importance": 92,
-      "summary": "يوفر Cohere's Embed 5 استرجاعًا حديثًا عبر مستندات متعددة الوسائط ومتعددة اللغات ومالية - وهي متاحة الآن في مستويات Pro و Fast.",
-      "summaryOriginal": "Cohere's Embed 5 delivers state-of-the-art retrieval across multimodal, multilingual, and financial documents - now available in Pro and Fast tiers.",
+      "summary": "يوفر Cohere's Embed 5 استرجاعًا حديثًا عبر مستندات متعددة الوسائط ومتعددة اللغات ومالية — وهي متاحة الآن في مستويات Pro و Fast.",
+      "summaryOriginal": "Cohere's Embed 5 delivers state-of-the-art retrieval across multimodal, multilingual, and financial documents — now available in Pro and Fast tiers.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://cohere.com/blog/embed-5",
       "sourceLabel": "Cohere Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Cohere Cohere Embed 5: Frontier Embedding Models for Enterprise"
+      "searchAliases": "Cohere Embed 5: Frontier Embedding Models for Enterprise | Cohere"
     },
     {
       "id": "8ff2bef7b17703d9f9bf",
@@ -705,30 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Basis completes a tax workbook 2x faster with GPT-6 Astra"
-    },
-    {
-      "id": "83f9be32756448a1aecc",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "روبوتات الفريق: زملاء العمل في مجال الذكاء الاصطناعي الذين يتعلمون من فريقك",
-      "titleOriginal": "Team Bots: AI coworkers that learn from your team",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "امنح Grok Bot الملفات والتطبيقات والخبرات التي يحتاجها، ثم شاركها حتى يتمكن فريقك بأكمله من العمل من نفس السياق.",
-      "summaryOriginal": "Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/team-bots",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Team Bots: AI coworkers that learn from your team"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-01T06:34:35.057330+00:00",
-  "lastFastCheckAt": "2026-10-01T13:51:50.237705+00:00"
+  "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00"
 }
