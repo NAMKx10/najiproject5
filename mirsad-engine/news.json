@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T16:29:29.718357+00:00",
-  "checkedAt": "2026-10-01T16:29:29.718357+00:00",
-  "newestPublishedAt": "2026-10-01T16:28:14+00:00",
+  "updatedAt": "2026-10-01T16:34:31.652463+00:00",
+  "checkedAt": "2026-10-01T16:34:31.652463+00:00",
+  "newestPublishedAt": "2026-10-01T16:32:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "689b45340d6113447616",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تنفيذ الوصول متعدد البيئة لمنصة كلود على AWS",
+      "titleOriginal": "Implementing Multi-Environment Access for Claude Platform on AWS",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعلم كيفية تكوين وصول آمن ومتعدد البيئات إلى منصة كلود على AWS من اشتراك واحد: SigV4 عبر الحساب لأحمال عمل AWS وواجهة برمجة تطبيقات نطاق مساحة العمل",
+      "summaryOriginal": "Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-scoped API keys for developers, and OIDC federation for external environments, with workspace-level isolation in a dedicated AI Services account.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/implementing-multi-environment-access-for-claude-platform-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Implementing Multi-Environment Access for Claude Platform on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T16:32:23+00:00"
+    },
     {
       "id": "e042cf95576dda705979",
       "company": "Amazon",
@@ -659,6 +685,32 @@
       "searchAliases": "OpenAI Introducing dots"
     },
     {
+      "id": "b173aff47a3e08e219c1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
+      "titleOriginal": "Towards safety cases for frontier AI training",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
+      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Towards safety cases for frontier AI training",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T19:00:00+00:00"
+    },
+    {
       "id": "2cb85282a8b80d2ad2d8",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -709,51 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T07:00:00+00:00"
-    },
-    {
-      "id": "8880234edf0d8462f402",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "Grok 4.7 متاح الآن على Amazon Bedrock",
-      "titleOriginal": "Grok 4.7 is now available on Amazon Bedrock",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر Grok 4.7 من xAI الآن على Amazon Bedrock: نموذج حدودي للترميز والوكلاء الدائمين والعمل المعرفي. إنه يوفر نافذة سياق رمز 500K وأربعة مشاركين",
-      "summaryOriginal": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window and four configurable reasoning effort levels, reachable through the Responses, Chat Completions, and Converse APIs.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Grok 4.7 is now available on Amazon Bedrock"
-    },
-    {
-      "id": "1d36ec168992ba159495",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف سنفعل ما هو أفضل لأستراليا",
-      "titleOriginal": "How we will do better for Australia",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتذر OpenAI عن الحوادث التي تنطوي على مواقع الحكومة الأسترالية وتحدد ضمانات ودعم أقوى لتعزيز الدفاعات الإلكترونية الأسترالية.",
-      "summaryOriginal": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we will do better for Australia"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T16:29:29.718357+00:00"
+  "lastFastCheckAt": "2026-10-01T16:34:31.652463+00:00"
 }
