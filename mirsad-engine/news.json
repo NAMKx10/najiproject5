@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T16:49:42.392557+00:00",
-  "checkedAt": "2026-10-01T16:49:42.392557+00:00",
-  "newestPublishedAt": "2026-10-01T16:40:24+00:00",
+  "updatedAt": "2026-10-01T16:54:48.512150+00:00",
+  "checkedAt": "2026-10-01T16:54:48.512150+00:00",
+  "newestPublishedAt": "2026-10-01T16:51:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8471f79a14a2c2773fb5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "رفع مستوى التحويل عبر مسار الاستحواذ مع التخصيص باستخدام اللصوص السياقيين على AWS",
+      "titleOriginal": "Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "يجعل الذكاء الاصطناعي التوليدي من إنتاج محتوى مخصص على نطاق واسع أمرًا رخيصًا، ولكن ما هو الاختلاف الذي تعرضه لكل عميل ؟ استخدمت مدفوعات أمازون نهجًا سياقيًا متعدد الأهداف",
+      "summaryOriginal": "Generative AI makes it cheap to produce personalized content at scale, but which variation do you show each customer? Amazon Payments used a multi-objective contextual bandit on Amazon SageMaker AI to personalize an acquisition funnel, achieving a high single-digit conversion lift for one audience, and learning why content, not the model, was the constraint.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/uplifting-conversion-across-the-acquisition-funnel-with-personalization-using-contextual-bandits-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Uplifting conversion across the acquisition funnel with personalization using contextual bandits on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T16:51:04+00:00"
+    },
     {
       "id": "ab8e2d737763a94b9fa7",
       "company": "Amazon",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "1d36ec168992ba159495",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف سنفعل ما هو أفضل لأستراليا",
-      "titleOriginal": "How we will do better for Australia",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتذر OpenAI عن الحوادث التي تنطوي على مواقع الحكومة الأسترالية وتحدد ضمانات ودعم أقوى لتعزيز الدفاعات الإلكترونية الأسترالية.",
-      "summaryOriginal": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we will do better for Australia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T16:49:42.392557+00:00"
+  "lastFastCheckAt": "2026-10-01T16:54:48.512150+00:00"
 }
