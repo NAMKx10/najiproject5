@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T21:28:24.404141+00:00",
-  "checkedAt": "2026-10-01T21:28:24.404141+00:00",
+  "updatedAt": "2026-10-01T21:33:26.369658+00:00",
+  "checkedAt": "2026-10-01T21:33:26.369658+00:00",
   "newestPublishedAt": "2026-10-01T19:49:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -348,6 +348,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
+    },
+    {
+      "id": "f9319283a523a80374ae",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحرر DEN 10-15 ساعة في الأسبوع للنمو مع عمل ChatGPT",
+      "titleOriginal": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع افتتاح موقع جديد، يقوم النادي الاجتماعي بإعداد طلبات المنح في ساعتين بدلاً من 3 أيام ومواد ترخيص الخمور في 3 ساعات بدلاً من 4 أيام.",
+      "summaryOriginal": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/the-den-family-social",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T00:00:00+00:00"
     },
     {
       "id": "bb0dd22505822cdb5d5d",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "2cb85282a8b80d2ad2d8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
-      "titleOriginal": "Holo4: powering generalist computer-use agents",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Hcompany/holo4",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T09:44:05+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T19:32:12.690044+00:00",
-  "lastFastCheckAt": "2026-10-01T21:28:24.404141+00:00"
+  "lastFastCheckAt": "2026-10-01T21:33:26.369658+00:00"
 }
