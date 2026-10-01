@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T19:36:29.198597+00:00",
-  "checkedAt": "2026-10-01T19:36:29.198597+00:00",
+  "updatedAt": "2026-10-01T19:41:32.578886+00:00",
+  "checkedAt": "2026-10-01T19:41:32.578886+00:00",
   "newestPublishedAt": "2026-10-01T17:34:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -639,6 +639,32 @@
       "searchAliases": "OpenAI Introducing dots"
     },
     {
+      "id": "2cb85282a8b80d2ad2d8",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
+      "titleOriginal": "Holo4: powering generalist computer-use agents",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Hcompany/holo4",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T09:44:05+00:00"
+    },
+    {
       "id": "7d15e54be87e48a2c982",
       "company": "OpenAI",
       "logoText": "AI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How we will do better for Australia"
-    },
-    {
-      "id": "38b52fb3970198109dd9",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "ميسترال تفتتح مركز ميونيخ لتطوير الذكاء الاصطناعي الصناعي في ألمانيا",
-      "titleOriginal": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تفتتح ميسترال مركزًا في ميونيخ لأبحاث الفيزياء والذكاء الاصطناعي الصناعي، بالشراكة مع الصناعة الألمانية.",
-      "summaryOriginal": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/hallo-deutschland/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Mistral Opens Munich Hub to Advance Industrial AI in Germany"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T19:32:12.690044+00:00",
-  "lastFastCheckAt": "2026-10-01T19:36:29.198597+00:00"
+  "lastFastCheckAt": "2026-10-01T19:41:32.578886+00:00"
 }
