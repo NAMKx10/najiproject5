@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T19:46:40.983141+00:00",
-  "checkedAt": "2026-10-01T19:46:40.983141+00:00",
-  "newestPublishedAt": "2026-10-01T17:34:56+00:00",
+  "updatedAt": "2026-10-01T19:51:44.780173+00:00",
+  "checkedAt": "2026-10-01T19:51:44.780173+00:00",
+  "newestPublishedAt": "2026-10-01T19:49:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e7968d221753d83ccd2e",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "خدمة البيانات الحية والمحكومة في التطبيقات المبنية بالذكاء الاصطناعي باستخدام Amazon Quick",
+      "titleOriginal": "Serve live, governed data in AI-built apps with Amazon Quick",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "policy",
+      "importance": 88,
+      "summary": "باستخدام البيانات المباشرة في التطبيقات في Amazon Quick، تستعلم التطبيقات المبنية بالذكاء الاصطناعي عن مجموعات بيانات Quick Sight التي تحكمها في الوقت الفعلي بدلاً من لقطات ثابتة ووقت الإنشاء. يتم تشغيل كل استعلام على النحو التالي",
+      "summaryOriginal": "With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. Each query runs as the person viewing the app, so row-level and column-level security apply per reader. Learn how to build, publish, and share a live-data app using natural language.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Serve live, governed data in AI-built apps with Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T19:49:06+00:00"
+    },
     {
       "id": "5eed7891b2c15f9aa7f4",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Towards safety cases for frontier AI training"
-    },
-    {
-      "id": "1d36ec168992ba159495",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف سنفعل ما هو أفضل لأستراليا",
-      "titleOriginal": "How we will do better for Australia",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتذر OpenAI عن الحوادث التي تنطوي على مواقع الحكومة الأسترالية وتحدد ضمانات ودعم أقوى لتعزيز الدفاعات الإلكترونية الأسترالية.",
-      "summaryOriginal": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we will do better for Australia"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T19:32:12.690044+00:00",
-  "lastFastCheckAt": "2026-10-01T19:46:40.983141+00:00"
+  "lastFastCheckAt": "2026-10-01T19:51:44.780173+00:00"
 }
