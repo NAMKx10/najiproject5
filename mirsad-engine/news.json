@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T23:52:58.389821+00:00",
-  "checkedAt": "2026-10-01T23:52:58.389821+00:00",
+  "updatedAt": "2026-10-01T23:58:02.291785+00:00",
+  "checkedAt": "2026-10-01T23:58:02.291785+00:00",
   "newestPublishedAt": "2026-10-01T23:44:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -712,33 +712,33 @@
       "publishedAt": "2026-09-28T19:00:00+00:00"
     },
     {
-      "id": "2cb85282a8b80d2ad2d8",
-      "company": "Hugging Face",
-      "logoText": "HF",
+      "id": "1d36ec168992ba159495",
+      "company": "OpenAI",
+      "logoText": "AI",
       "type": "مستجد تقني",
-      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
-      "titleOriginal": "Holo4: powering generalist computer-use agents",
+      "title": "كيف سنفعل ما هو أفضل لأستراليا",
+      "titleOriginal": "How we will do better for Australia",
       "dateLabel": "28 سبتمبر 2026",
       "dateISO": "2026-09-28",
       "category": "tools",
       "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
+      "summary": "تعتذر OpenAI عن الحوادث التي تنطوي على مواقع الحكومة الأسترالية وتحدد ضمانات ودعم أقوى لتعزيز الدفاعات الإلكترونية الأسترالية.",
+      "summaryOriginal": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Hcompany/holo4",
-      "sourceLabel": "Hugging Face Blog",
+      "source": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
+      "searchAliases": "OpenAI How we will do better for Australia",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-09-28T09:44:05+00:00"
+      "publishedAt": "2026-09-28T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T23:26:43.178152+00:00",
-  "lastFastCheckAt": "2026-10-01T23:52:58.389821+00:00"
+  "lastFastCheckAt": "2026-10-01T23:58:02.291785+00:00"
 }
