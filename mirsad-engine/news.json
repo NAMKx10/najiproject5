@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T22:04:03.356795+00:00",
-  "checkedAt": "2026-10-01T22:04:03.356795+00:00",
-  "newestPublishedAt": "2026-10-01T19:49:06+00:00",
+  "updatedAt": "2026-10-01T22:09:04.730716+00:00",
+  "checkedAt": "2026-10-01T22:09:04.730716+00:00",
+  "newestPublishedAt": "2026-10-01T22:06:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f7d6d92a734600a541ec",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "توسيع نطاق عمليات الترحيل السحابية باستخدام الذكاء الاصطناعي الوكيل على Amazon Bedrock AgentCore",
+      "titleOriginal": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية استخدام AWS Professional Services لإطار متعدد الوكلاء مبني على Amazon Bedrock AgentCore لأتمتة عمليات الترحيل السحابية للمؤسسات من البداية إلى النهاية. الذكاء الاصطناعي المصمم لهذا الغرض",
+      "summaryOriginal": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T22:06:14+00:00"
+    },
     {
       "id": "e7968d221753d83ccd2e",
       "company": "Amazon",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "b173aff47a3e08e219c1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
-      "titleOriginal": "Towards safety cases for frontier AI training",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
-      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Towards safety cases for frontier AI training",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T19:32:12.690044+00:00",
-  "lastFastCheckAt": "2026-10-01T22:04:03.356795+00:00"
+  "lastFastCheckAt": "2026-10-01T22:09:04.730716+00:00"
 }
