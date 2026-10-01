@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T17:30:29.162186+00:00",
-  "checkedAt": "2026-10-01T17:30:29.162186+00:00",
-  "newestPublishedAt": "2026-10-01T17:00:00+00:00",
+  "updatedAt": "2026-10-01T17:35:31.432575+00:00",
+  "checkedAt": "2026-10-01T17:35:31.432575+00:00",
+  "newestPublishedAt": "2026-10-01T17:34:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1ebd439ac8f50c9ee1a1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "بناء ذاكرة الوكيل باستخدام مجموعة أدوات عامل NVIDIA NeMo ومتجهات Amazon S3",
+      "titleOriginal": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "research",
+      "importance": 86,
+      "summary": "تعرف على كيفية استخدام متجهات Amazon S3 كطبقة ذاكرة ثابتة داخل مجموعة أدوات NVIDIA NeMo Agent (NAT)، المنشورة على خدمة Amazon Elastic Kubernetes (Amazon EKS).",
+      "summaryOriginal": "Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Amazon EKS). This post shows how NAT's memory subsystem works and how to implement Amazon S3 Vectors as a custom memory provider, using a multi-agent investment research use case.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-agent-memory-with-nvidia-nemo-agent-toolkit-and-amazon-s3-vectors",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T17:34:56+00:00"
+    },
     {
       "id": "a75b0d274b181c04c332",
       "company": "OpenAI",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows"
-    },
-    {
-      "id": "d4b8dfb5e059841274d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم النقاط",
-      "titleOriginal": "Introducing dots",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "Dots by OpenAI هي مساعدين استباقيين يمكنهم الاستمرار في العمل عبر المشاريع المعقدة والمهام اليومية. تعلم كيف تساعدك النقاط على التحكم أثناء تقدم العمل",
-      "summaryOriginal": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-dots",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing dots"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T17:30:29.162186+00:00"
+  "lastFastCheckAt": "2026-10-01T17:35:31.432575+00:00"
 }
