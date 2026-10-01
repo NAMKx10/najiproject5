@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T16:14:22.088360+00:00",
-  "checkedAt": "2026-10-01T16:14:22.088360+00:00",
-  "newestPublishedAt": "2026-10-01T15:33:01+00:00",
+  "updatedAt": "2026-10-01T16:19:20.850354+00:00",
+  "checkedAt": "2026-10-01T16:19:20.850354+00:00",
+  "newestPublishedAt": "2026-10-01T16:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -44,9 +44,9 @@
     {
       "company": "Hugging Face",
       "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "0 entries"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "company": "Google",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "20ffb210b47048bba735",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعيد شركات ألبرتسون تصور البيع بالتجزئة من الداخل إلى الخارج",
+      "titleOriginal": "How Albertsons Companies is reimagining retail from the inside out",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Albertsons Cos. ChatGPT Enterprise وواجهة برمجة تطبيقات OpenAI لمساعدة الفرق على العمل بشكل أسرع وجعل تسوق البقالة أسهل لملايين العملاء.",
+      "summaryOriginal": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/albertsons-reimagining-retail",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T16:00:00+00:00"
+    },
     {
       "id": "c6a2101217e81046df1b",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents"
-    },
-    {
-      "id": "7d15e54be87e48a2c982",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "يطور معهد Lenfest برنامجًا بارزًا مع دعم OpenAI الموسع",
-      "titleOriginal": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقوم بتوسيع برنامج لينفيست للذكاء الاصطناعي التعاوني والزمالة بتمويل يصل إلى 5 ملايين $ وما يصل إلى 5 ملايين $ في ائتمانات البرامج والدعم الهندسي.",
-      "summaryOriginal": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Lenfest Institute grows landmark program with expanded OpenAI support"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T16:14:22.088360+00:00"
+  "lastFastCheckAt": "2026-10-01T16:19:20.850354+00:00"
 }
