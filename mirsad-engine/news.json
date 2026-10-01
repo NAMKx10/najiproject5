@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T14:57:49.948539+00:00",
-  "checkedAt": "2026-10-01T14:57:49.948539+00:00",
+  "updatedAt": "2026-10-01T15:02:56.856456+00:00",
+  "checkedAt": "2026-10-01T15:02:56.856456+00:00",
   "newestPublishedAt": "2026-10-01T15:19:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "dcfcd7a02b8fa9f9941b",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Olmo - core 3: بنية تحتية تدريبية مفتوحة وقابلة للتطوير لوزارة التربية والتعليم الكبيرة",
+      "titleOriginal": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/allenai/olmocore3",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T15:01:43+00:00"
+    },
     {
       "id": "53a2bf5bf18950f92367",
       "company": "Anthropic",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Are you a Codex Original?"
-    },
-    {
-      "id": "1f9086a48eac9fc689d9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يكمل BASIS كتاب عمل ضريبي مرتين بشكل أسرع مع GPT -6 ASTRA",
-      "titleOriginal": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "أكملت GPT -6 Astra كتاب عمل ضريبي 50 علامة تبويب أسرع مرتين من GPT-5.6 Sol، وفهمها الأقوى لنية المستخدم يعطي Basis مزيدًا من الثقة في الاستخدام في العالم الحقيقي.",
-      "summaryOriginal": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Basis completes a tax workbook 2x faster with GPT-6 Astra"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T14:57:49.948539+00:00"
+  "lastFastCheckAt": "2026-10-01T15:02:56.856456+00:00"
 }
