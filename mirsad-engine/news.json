@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T16:19:20.850354+00:00",
-  "checkedAt": "2026-10-01T16:19:20.850354+00:00",
+  "updatedAt": "2026-10-01T16:21:29.049722+00:00",
+  "checkedAt": "2026-10-01T16:21:29.049722+00:00",
   "newestPublishedAt": "2026-10-01T16:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -633,6 +633,32 @@
       "searchAliases": "OpenAI Introducing dots"
     },
     {
+      "id": "7d15e54be87e48a2c982",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "يطور معهد Lenfest برنامجًا بارزًا مع دعم OpenAI الموسع",
+      "titleOriginal": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم بتوسيع برنامج لينفيست للذكاء الاصطناعي التعاوني والزمالة بتمويل يصل إلى 5 ملايين $ وما يصل إلى 5 ملايين $ في ائتمانات البرامج والدعم الهندسي.",
+      "summaryOriginal": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T07:00:00+00:00"
+    },
+    {
       "id": "8880234edf0d8462f402",
       "company": "Amazon",
       "logoText": "AWS",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Mistral Opens Munich Hub to Advance Industrial AI in Germany"
-    },
-    {
-      "id": "2cb85282a8b80d2ad2d8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
-      "titleOriginal": "Holo4: powering generalist computer-use agents",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Hcompany/holo4",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T16:19:20.850354+00:00"
+  "lastFastCheckAt": "2026-10-01T16:21:29.049722+00:00"
 }
