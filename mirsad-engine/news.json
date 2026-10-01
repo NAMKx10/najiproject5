@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T19:51:44.780173+00:00",
-  "checkedAt": "2026-10-01T19:51:44.780173+00:00",
+  "updatedAt": "2026-10-01T19:56:54.948367+00:00",
+  "checkedAt": "2026-10-01T19:56:54.948367+00:00",
   "newestPublishedAt": "2026-10-01T19:49:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -665,6 +665,32 @@
       "searchAliases": "OpenAI Introducing dots"
     },
     {
+      "id": "1d36ec168992ba159495",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "كيف سنفعل ما هو أفضل لأستراليا",
+      "titleOriginal": "How we will do better for Australia",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعتذر OpenAI عن الحوادث التي تنطوي على مواقع الحكومة الأسترالية وتحدد ضمانات ودعم أقوى لتعزيز الدفاعات الإلكترونية الأسترالية.",
+      "summaryOriginal": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How we will do better for Australia",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T19:00:00+00:00"
+    },
+    {
       "id": "2cb85282a8b80d2ad2d8",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -715,30 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T07:00:00+00:00"
-    },
-    {
-      "id": "b173aff47a3e08e219c1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
-      "titleOriginal": "Towards safety cases for frontier AI training",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
-      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Towards safety cases for frontier AI training"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T19:32:12.690044+00:00",
-  "lastFastCheckAt": "2026-10-01T19:51:44.780173+00:00"
+  "lastFastCheckAt": "2026-10-01T19:56:54.948367+00:00"
 }
