@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T23:26:43.178152+00:00",
-  "checkedAt": "2026-10-01T23:26:43.178152+00:00",
+  "updatedAt": "2026-10-01T23:27:45.028857+00:00",
+  "checkedAt": "2026-10-01T23:27:45.028857+00:00",
   "newestPublishedAt": "2026-10-01T22:06:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -660,6 +660,32 @@
       "searchAliases": "OpenAI Introducing dots"
     },
     {
+      "id": "2cb85282a8b80d2ad2d8",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
+      "titleOriginal": "Holo4: powering generalist computer-use agents",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Hcompany/holo4",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T09:44:05+00:00"
+    },
+    {
       "id": "1d36ec168992ba159495",
       "company": "OpenAI",
       "logoText": "AI",
@@ -700,29 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Towards safety cases for frontier AI training"
-    },
-    {
-      "id": "38b52fb3970198109dd9",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "ميسترال تفتتح مركز ميونيخ لتطوير الذكاء الاصطناعي الصناعي في ألمانيا",
-      "titleOriginal": "Mistral Opens Munich Hub to Advance Industrial AI in Germany",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تفتتح ميسترال مركزًا في ميونيخ لأبحاث الفيزياء والذكاء الاصطناعي الصناعي، بالشراكة مع الصناعة الألمانية.",
-      "summaryOriginal": "Mistral opens a Munich hub for Physics AI and Industrial AI research, partnering with German industry.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/hallo-deutschland/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Mistral Opens Munich Hub to Advance Industrial AI in Germany"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-01T23:26:43.178152+00:00"
+  "lastDeepCheckAt": "2026-10-01T23:26:43.178152+00:00",
+  "lastFastCheckAt": "2026-10-01T23:27:45.028857+00:00"
 }
