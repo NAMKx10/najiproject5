@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T15:28:26.073427+00:00",
-  "checkedAt": "2026-10-01T15:28:26.073427+00:00",
-  "newestPublishedAt": "2026-10-01T15:19:00+00:00",
+  "updatedAt": "2026-10-01T15:33:31.908620+00:00",
+  "checkedAt": "2026-10-01T15:33:31.908620+00:00",
+  "newestPublishedAt": "2026-10-01T15:33:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c6a2101217e81046df1b",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف قامت شركة uniopen بتخصيص Amazon Nova لسياسات الإشراف على البيع بالتجزئة الخاصة بها لنشر الإنتاج",
+      "titleOriginal": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "شاهد كيف قامت uniopen، وهي منصة بيع بالتجزئة من مجموعة Uni - President Enterprises Group في تايوان، بتكييف Amazon Nova 2 Lite مع سياسات تعديل المحتوى الخاصة بها باستخدام ضبط دقيق خاضع للإشراف",
+      "summaryOriginal": "See how uniopen, a retail platform from Taiwan's Uni-President Enterprises Group, adapted Amazon Nova 2 Lite to its content-moderation policies using supervised fine-tuning in Amazon SageMaker AI and prompt optimization. Business-relevant evaluation and release gates kept quality in check.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T15:33:01+00:00"
+    },
     {
       "id": "dcfcd7a02b8fa9f9941b",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Lenfest Institute grows landmark program with expanded OpenAI support"
-    },
-    {
-      "id": "93debcf76b72be8b2f0f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "هل أنت أصلي في الدستور الغذائي ؟",
-      "titleOriginal": "Are you a Codex Original?",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "research",
-      "importance": 86,
-      "summary": "نحن نجمع قصصًا حقيقية عن البنائين واللاعبين والباحثين والمبدعين الذين يستخدمون الدستور الغذائي للقيام بأشياء لا تصدق. إذا كنت تريد أن تكون جزءًا من الفصل التالي",
-      "summaryOriginal": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/form/codex-originals",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Are you a Codex Original?"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T15:28:26.073427+00:00"
+  "lastFastCheckAt": "2026-10-01T15:33:31.908620+00:00"
 }
