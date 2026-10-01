@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-01T16:39:35.184206+00:00",
-  "checkedAt": "2026-10-01T16:39:35.184206+00:00",
-  "newestPublishedAt": "2026-10-01T16:32:23+00:00",
+  "updatedAt": "2026-10-01T16:44:39.459493+00:00",
+  "checkedAt": "2026-10-01T16:44:39.459493+00:00",
+  "newestPublishedAt": "2026-10-01T16:40:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ab8e2d737763a94b9fa7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء العوامل المحيطة باستخدام Amazon Bedrock AgentCore: من الإشارات التي يحركها الحدث إلى سير العمل البشري في الحلقة",
+      "titleOriginal": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يستجيب الوكلاء المحيطون لأحداث مثل تحميل Amazon S3 أو جدول زمني أو تنبيه بدلاً من انتظار مطالبة الدردشة. يتجول هذا المنشور في بناء إطار العمل",
+      "summaryOriginal": "Ambient agents respond to events such as an Amazon S3 upload, a schedule, or an alert instead of waiting for a chat prompt. This post walks through building framework-agnostic ambient agents on Amazon Bedrock AgentCore using Amazon SQS, AWS Lambda, and Amazon DynamoDB, with a single ask_human tool and a Jobs page for human-in-the-loop review.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-ambient-agents-with-amazon-bedrock-agentcore-from-event-driven-signals-to-human-in-the-loop-workflows",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T16:40:24+00:00"
+    },
     {
       "id": "689b45340d6113447616",
       "company": "Amazon",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "2cb85282a8b80d2ad2d8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
-      "titleOriginal": "Holo4: powering generalist computer-use agents",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Hcompany/holo4",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T09:44:05+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-01T13:55:30.600645+00:00",
-  "lastFastCheckAt": "2026-10-01T16:39:35.184206+00:00"
+  "lastFastCheckAt": "2026-10-01T16:44:39.459493+00:00"
 }
