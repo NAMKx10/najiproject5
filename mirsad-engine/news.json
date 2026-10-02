@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T02:35:15.894075+00:00",
-  "checkedAt": "2026-10-02T02:35:15.894075+00:00",
+  "updatedAt": "2026-10-02T02:40:22.849082+00:00",
+  "checkedAt": "2026-10-02T02:40:22.849082+00:00",
   "newestPublishedAt": "2026-10-01T23:44:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -681,6 +681,32 @@
       "searchAliases": "OpenAI Introducing dots"
     },
     {
+      "id": "2cb85282a8b80d2ad2d8",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Holo4: تشغيل وكلاء استخدام الكمبيوتر العامين",
+      "titleOriginal": "Holo4: powering generalist computer-use agents",
+      "dateLabel": "28 سبتمبر 2026",
+      "dateISO": "2026-09-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Hcompany/holo4",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Holo4: powering generalist computer-use agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-28T09:44:05+00:00"
+    },
+    {
       "id": "1d36ec168992ba159495",
       "company": "OpenAI",
       "logoText": "AI",
@@ -700,29 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How we will do better for Australia"
-    },
-    {
-      "id": "b173aff47a3e08e219c1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
-      "titleOriginal": "Towards safety cases for frontier AI training",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
-      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Towards safety cases for frontier AI training"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-02T02:35:15.894075+00:00"
+  "lastDeepCheckAt": "2026-10-02T02:35:15.894075+00:00",
+  "lastFastCheckAt": "2026-10-02T02:40:22.849082+00:00"
 }
