@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T17:17:46.891594+00:00",
-  "checkedAt": "2026-10-02T17:17:46.891594+00:00",
+  "updatedAt": "2026-10-02T17:22:46.496002+00:00",
+  "checkedAt": "2026-10-02T17:22:46.496002+00:00",
   "newestPublishedAt": "2026-10-02T16:15:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -243,6 +243,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face AutoSynthData: Generating Training Data for Enterprise Agents"
+    },
+    {
+      "id": "825d969fbe5263ea8825",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعمل تشاتام على توسيع نطاق خبرتها في أسواق رأس المال مع OpenAI",
+      "titleOriginal": "Chatham scales its capital markets expertise with OpenAI",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Chatham Financial Codex و GPT-5.6 لبناء التكنولوجيا وإعادة تصميم سير العمل، مما يقلل من التحقق من صحة التداول من 30 دقيقة إلى أقل من 4 دقائق.",
+      "summaryOriginal": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatham-financial",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T00:00:00+00:00"
     },
     {
       "id": "5153e48f671aba301aea",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI DevDay 2026 Recap"
-    },
-    {
-      "id": "72f8ca15acad02b17599",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "إطلاق أو تحديث",
-      "title": "تفتح ابتكارات بيانات Microsoft الجديدة ما لا يعرفه سوى شركتك",
-      "titleOriginal": "New Microsoft data innovations unlock what only your business knows",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "كل منظمة لديها معرفة فريدة خاصة بها: الطريقة التي تعمل بها أعمالها، والبيانات التي بنتها بمرور الوقت، وخبرة موظفيها والسياق",
-      "summaryOriginal": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... The post New Microsoft data innovations unlock what only your business knows appeared first on The Official Microsoft Blog .",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T15:50:16.454999+00:00",
-  "lastFastCheckAt": "2026-10-02T17:17:46.891594+00:00"
+  "lastFastCheckAt": "2026-10-02T17:22:46.496002+00:00"
 }
