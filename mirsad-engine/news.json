@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T13:02:16.610532+00:00",
-  "checkedAt": "2026-10-02T13:02:16.610532+00:00",
-  "newestPublishedAt": "2026-10-02T04:01:31+00:00",
+  "updatedAt": "2026-10-02T13:07:18.373505+00:00",
+  "checkedAt": "2026-10-02T13:07:18.373505+00:00",
+  "newestPublishedAt": "2026-10-02T13:00:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a5fa3e01ccd029855150",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "يمنح NVIDIA DGX Spark سعة 64 جيجابايت للمطورين المزيد من الطرق لبناء وتوسيع نطاق الذكاء الاصطناعي المحلي",
+      "titleOriginal": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصبح الذكاء الاصطناعي المحلي أكثر فائدة من خلال الرمز المميز. مع انتقال وكلاء الذكاء الاصطناعي من التجارب إلى التنمية اليومية، تتقلص النماذج المفتوحة ذات القدرة المتزايدة لتناسب المزيد",
+      "summaryOriginal": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T13:00:39+00:00"
+    },
     {
       "id": "1b72e7ec00f4947052ae",
       "company": "Hugging Face",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing dots"
-    },
-    {
-      "id": "b173aff47a3e08e219c1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نحو حالات السلامة للتدريب على الذكاء الاصطناعي على الحدود",
-      "titleOriginal": "Towards safety cases for frontier AI training",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تغطي إرشاداتنا المبكرة لحالات السلامة في التدريب على الذكاء الاصطناعي الحدودي الضمانات الفنية والممارسات التشغيلية والتحقيق في حوادث عدم الاتساق",
-      "summaryOriginal": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Towards safety cases for frontier AI training",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T09:01:26.960293+00:00",
-  "lastFastCheckAt": "2026-10-02T13:02:16.610532+00:00"
+  "lastFastCheckAt": "2026-10-02T13:07:18.373505+00:00"
 }
