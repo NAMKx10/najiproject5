@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T17:37:57.325114+00:00",
-  "checkedAt": "2026-10-02T17:37:57.325114+00:00",
+  "updatedAt": "2026-10-02T17:43:02.977203+00:00",
+  "checkedAt": "2026-10-02T17:43:02.977203+00:00",
   "newestPublishedAt": "2026-10-02T16:15:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -649,6 +649,32 @@
       "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
     },
     {
+      "id": "5c7175ed488aa58ea647",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الحصول على المصدر بشكل صحيح، وليس فقط الحقيقة: التحقق من إدراك المصدر لوكلاء MCP",
+      "titleOriginal": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-29T13:07:00+00:00"
+    },
+    {
       "id": "270f64ac4efe9d58a8d0",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-29T06:30:04+00:00"
-    },
-    {
-      "id": "d8ed866fdd45a5160e8d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تحدد NVIDIA KUMO Tabular حدًا جديدًا لكفاءة الدقة للتنبؤ الجدولي",
-      "titleOriginal": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T15:50:16.454999+00:00",
-  "lastFastCheckAt": "2026-10-02T17:37:57.325114+00:00"
+  "lastFastCheckAt": "2026-10-02T17:43:02.977203+00:00"
 }
