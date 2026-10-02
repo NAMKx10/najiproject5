@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T15:15:23.688194+00:00",
-  "checkedAt": "2026-10-02T15:15:23.688194+00:00",
-  "newestPublishedAt": "2026-10-02T13:00:39+00:00",
+  "updatedAt": "2026-10-02T15:20:28.456858+00:00",
+  "checkedAt": "2026-10-02T15:20:28.456858+00:00",
+  "newestPublishedAt": "2026-10-02T15:19:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7882fe904f78302734b1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "الاستعانة بمصادر مفتوحة AstaBrief، نموذج إنشاء التقارير السريع في ASTA",
+      "titleOriginal": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/allenai/astabrief",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T15:19:50+00:00"
+    },
     {
       "id": "a5fa3e01ccd029855150",
       "company": "NVIDIA",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows"
-    },
-    {
-      "id": "d4b8dfb5e059841274d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم النقاط",
-      "titleOriginal": "Introducing dots",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "Dots by OpenAI هي مساعدين استباقيين يمكنهم الاستمرار في العمل عبر المشاريع المعقدة والمهام اليومية. تعلم كيف تساعدك النقاط على التحكم أثناء تقدم العمل",
-      "summaryOriginal": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-dots",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing dots"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T09:01:26.960293+00:00",
-  "lastFastCheckAt": "2026-10-02T15:15:23.688194+00:00"
+  "lastFastCheckAt": "2026-10-02T15:20:28.456858+00:00"
 }
