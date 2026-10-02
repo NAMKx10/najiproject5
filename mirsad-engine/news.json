@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T15:40:58.097739+00:00",
-  "checkedAt": "2026-10-02T15:40:58.097739+00:00",
-  "newestPublishedAt": "2026-10-02T15:19:50+00:00",
+  "updatedAt": "2026-10-02T15:46:03.206466+00:00",
+  "checkedAt": "2026-10-02T15:46:03.206466+00:00",
+  "newestPublishedAt": "2026-10-02T15:44:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e7a355492d03535306d1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ضبط وكيل بحث باستخدام RL متعدد المنعطفات على Amazon SageMaker AI",
+      "titleOriginal": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعلم الضبط الدقيق وكيل بحث صغير أدواتك وبيئتك، مما يمنحه موثوقية نموذج الحدود بوقت استجابة وتكلفة أقل. في هذا المنشور، نقوم بضبط",
+      "summaryOriginal": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T15:44:20+00:00"
+    },
     {
       "id": "7882fe904f78302734b1",
       "company": "Hugging Face",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI DevDay 2026 Recap"
-    },
-    {
-      "id": "72f8ca15acad02b17599",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "إطلاق أو تحديث",
-      "title": "تفتح ابتكارات بيانات Microsoft الجديدة ما لا يعرفه سوى شركتك",
-      "titleOriginal": "New Microsoft data innovations unlock what only your business knows",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "كل منظمة لديها معرفة فريدة خاصة بها: الطريقة التي تعمل بها أعمالها، والبيانات التي بنتها بمرور الوقت، وخبرة موظفيها والسياق",
-      "summaryOriginal": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... The post New Microsoft data innovations unlock what only your business knows appeared first on The Official Microsoft Blog .",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T09:01:26.960293+00:00",
-  "lastFastCheckAt": "2026-10-02T15:40:58.097739+00:00"
+  "lastFastCheckAt": "2026-10-02T15:46:03.206466+00:00"
 }
