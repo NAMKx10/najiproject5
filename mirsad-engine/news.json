@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T17:43:02.977203+00:00",
-  "checkedAt": "2026-10-02T17:43:02.977203+00:00",
+  "updatedAt": "2026-10-02T17:48:06.042784+00:00",
+  "checkedAt": "2026-10-02T17:48:06.042784+00:00",
   "newestPublishedAt": "2026-10-02T16:15:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -649,6 +649,32 @@
       "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
     },
     {
+      "id": "d8ed866fdd45a5160e8d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تحدد NVIDIA KUMO Tabular حدًا جديدًا لكفاءة الدقة للتنبؤ الجدولي",
+      "titleOriginal": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-29T15:30:38+00:00"
+    },
+    {
       "id": "5c7175ed488aa58ea647",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-29T10:00:00+00:00"
-    },
-    {
-      "id": "10806f0c807ebe6c5855",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "إطلاق أو تحديث",
-      "title": "تفتح ابتكارات بيانات Microsoft الجديدة ما لا يعرفه سوى شركتك",
-      "titleOriginal": "New Microsoft data innovations unlock what only your business knows",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "كل منظمة لديها معرفة فريدة خاصة بها: الطريقة التي تعمل بها أعمالها، والبيانات التي بنتها بمرور الوقت، وخبرة موظفيها والسياق",
-      "summaryOriginal": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... The post New Microsoft data innovations unlock what only your business knows appeared first on The Official Microsoft Blog .",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T06:30:04+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T15:50:16.454999+00:00",
-  "lastFastCheckAt": "2026-10-02T17:43:02.977203+00:00"
+  "lastFastCheckAt": "2026-10-02T17:48:06.042784+00:00"
 }
