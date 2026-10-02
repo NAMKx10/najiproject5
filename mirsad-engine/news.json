@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T03:56:31.159504+00:00",
-  "checkedAt": "2026-10-02T03:56:31.159504+00:00",
-  "newestPublishedAt": "2026-10-01T23:44:13+00:00",
+  "updatedAt": "2026-10-02T04:01:38.718353+00:00",
+  "checkedAt": "2026-10-02T04:01:38.718353+00:00",
+  "newestPublishedAt": "2026-10-02T04:01:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1b72e7ec00f4947052ae",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أعمال وشراكات",
+      "title": "AutoSynthData: إنشاء بيانات التدريب لوكلاء المؤسسة",
+      "titleOriginal": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face AutoSynthData: Generating Training Data for Enterprise Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T04:01:31+00:00"
+    },
     {
       "id": "5153e48f671aba301aea",
       "company": "NVIDIA",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "id": "1d36ec168992ba159495",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف سنفعل ما هو أفضل لأستراليا",
-      "titleOriginal": "How we will do better for Australia",
-      "dateLabel": "28 سبتمبر 2026",
-      "dateISO": "2026-09-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتذر OpenAI عن الحوادث التي تنطوي على مواقع الحكومة الأسترالية وتحدد ضمانات ودعم أقوى لتعزيز الدفاعات الإلكترونية الأسترالية.",
-      "summaryOriginal": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we will do better for Australia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-28T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T02:35:15.894075+00:00",
-  "lastFastCheckAt": "2026-10-02T03:56:31.159504+00:00"
+  "lastFastCheckAt": "2026-10-02T04:01:38.718353+00:00"
 }
