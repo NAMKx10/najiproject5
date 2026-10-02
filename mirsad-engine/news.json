@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T16:11:24.955539+00:00",
-  "checkedAt": "2026-10-02T16:11:24.955539+00:00",
-  "newestPublishedAt": "2026-10-02T15:48:26+00:00",
+  "updatedAt": "2026-10-02T16:16:28.421169+00:00",
+  "checkedAt": "2026-10-02T16:16:28.421169+00:00",
+  "newestPublishedAt": "2026-10-02T16:15:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ba5f2f29e9c976f58bbb",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "دليل نموذجي لعائلة GPT -6",
+      "titleOriginal": "A model guide for the GPT-6 family",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعلم كيف يمكن للشركات الناشئة اختيار نماذج GPT -6، وضبط جهود التفكير، وتحسين المطالبات والمهارات، وتنسيق الأدوات، وإعداد سير العمل للإنتاج.",
+      "summaryOriginal": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/practical-guide-building-gpt-6",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI A model guide for the GPT-6 family",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T16:15:00+00:00"
+    },
     {
       "id": "58ae6422ae5c2c0328fc",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows"
-    },
-    {
-      "id": "d4b8dfb5e059841274d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم النقاط",
-      "titleOriginal": "Introducing dots",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "Dots by OpenAI هي مساعدين استباقيين يمكنهم الاستمرار في العمل عبر المشاريع المعقدة والمهام اليومية. تعلم كيف تساعدك النقاط على التحكم أثناء تقدم العمل",
-      "summaryOriginal": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-dots",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing dots"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-02T15:50:16.454999+00:00",
-  "lastFastCheckAt": "2026-10-02T16:11:24.955539+00:00"
+  "lastFastCheckAt": "2026-10-02T16:16:28.421169+00:00"
 }
