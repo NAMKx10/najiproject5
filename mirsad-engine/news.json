@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-02T15:46:03.206466+00:00",
-  "checkedAt": "2026-10-02T15:46:03.206466+00:00",
-  "newestPublishedAt": "2026-10-02T15:44:20+00:00",
+  "updatedAt": "2026-10-02T15:50:16.454999+00:00",
+  "checkedAt": "2026-10-02T15:50:16.454999+00:00",
+  "newestPublishedAt": "2026-10-02T15:48:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,49 @@
   ],
   "items": [
     {
-      "id": "e7a355492d03535306d1",
+      "id": "58ae6422ae5c2c0328fc",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "اكتساح الآلاف من عقود الإيجار للامتثال باستخدام Amazon Quick ونمط الاستعلام المحكوم به",
+      "titleOriginal": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يجمع نمط الاستعلام المحكوم به بين وكيل دردشة Amazon Quick وخادم MCP محدود على محرك قواعد حتمية لتقديم شكوى كاملة يمكن الدفاع عنها",
+      "summaryOriginal": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks through the reference architecture and a deployable AWS CDK sample, using lease compliance as the running example.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern"
+    },
+    {
+      "id": "b75dcce4fddf6ad082b3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إضافة بحث ويب آمن إلى سطح مكتب كلود باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقتصر كلود ديسكتوب على أمازون بيدروك على قطع معرفة النموذج دون البحث على شبكة الإنترنت. في هذا المنشور، نتصفح ربط كلود ديسكتوب بمستخدم بحث الويب",
+      "summaryOriginal": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gateway, with JWT-based inbound authentication through AWS IAM Identity Center and Amazon Cognito.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "c903438bb1e2527268d5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +148,12 @@
       "summary": "يعلم الضبط الدقيق وكيل بحث صغير أدواتك وبيئتك، مما يمنحه موثوقية نموذج الحدود بوقت استجابة وتكلفة أقل. في هذا المنشور، نقوم بضبط",
       "summaryOriginal": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T15:44:20+00:00"
+      "searchAliases": "Amazon Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI"
     },
     {
       "id": "7882fe904f78302734b1",
@@ -137,15 +174,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T15:19:50+00:00"
+      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta"
     },
     {
-      "id": "a5fa3e01ccd029855150",
+      "id": "92b20ded83e4953399d7",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -158,17 +190,12 @@
       "summary": "أصبح الذكاء الاصطناعي المحلي أكثر فائدة من خلال الرمز المميز. مع انتقال وكلاء الذكاء الاصطناعي من التجارب إلى التنمية اليومية، تتقلص النماذج المفتوحة ذات القدرة المتزايدة لتناسب المزيد",
       "summaryOriginal": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "source": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T13:00:39+00:00"
+      "searchAliases": "NVIDIA NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI"
     },
     {
       "id": "1b72e7ec00f4947052ae",
@@ -402,27 +429,6 @@
       "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out"
     },
     {
-      "id": "610d1fb1f4c313e6e7b1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف قامت شركة uniopen بتخصيص Amazon Nova لسياسات الإشراف على البيع بالتجزئة الخاصة بها لنشر الإنتاج",
-      "titleOriginal": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "شاهد كيف قامت uniopen، وهي منصة بيع بالتجزئة من مجموعة Uni - President Enterprises Group في تايوان، بتكييف Amazon Nova 2 Lite مع سياسات تعديل المحتوى الخاصة بها باستخدام ضبط دقيق خاضع للإشراف",
-      "summaryOriginal": "See how uniopen, a retail platform from Taiwan's Uni-President Enterprises Group, adapted Amazon Nova 2 Lite to its content-moderation policies using supervised fine-tuning in Amazon SageMaker AI and prompt optimization. Business-relevant evaluation and release gates kept quality in check.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-uniopen-customized-amazon-nova-to-their-retail-moderation-policies-for-production-deployment/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How uniopen customized Amazon Nova to their retail moderation policies for production deployment"
-    },
-    {
       "id": "53a2bf5bf18950f92367",
       "company": "Anthropic",
       "logoText": "A",
@@ -442,27 +448,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Barclays scales Claude to upgrade operations and improve client experience"
-    },
-    {
-      "id": "dcfcd7a02b8fa9f9941b",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Olmo - core 3: بنية تحتية تدريبية مفتوحة وقابلة للتطوير لوزارة التربية والتعليم الكبيرة",
-      "titleOriginal": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/allenai/olmocore3",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs"
     },
     {
       "id": "300c809600c58947ff95",
@@ -505,48 +490,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
-    },
-    {
-      "id": "bb0dd22505822cdb5d5d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "الاستعلام عن المطالبات باللغة الطبيعية باستخدام قواعد معرفة Amazon Bedrock",
-      "titleOriginal": "Query claims in natural language with Amazon Bedrock Knowledge Bases",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقوم هذه الطريقة التقنية ببناء مساعد مطالبات محادثة على قواعد معرفة Amazon Bedrock التي تجيب على أسئلة اللغة الطبيعية مع الاستشهادات. ويغطي ingesti",
-      "summaryOriginal": "This technical how-to builds a conversational claims assistant on Amazon Bedrock Knowledge Bases that answers natural-language questions with citations. It covers ingesting claim documents from Amazon S3, querying with the AgenticRetrieveStream API, multi-turn follow-ups, metadata filters, and contextual grounding guardrails.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Query claims in natural language with Amazon Bedrock Knowledge Bases"
-    },
-    {
-      "id": "afbf118b5040780b8cec",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء خط إنتاج موسيقي متعدد الوكلاء على Amazon Bedrock AgentCore Runtime Instances",
-      "titleOriginal": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "توفر Amazon Bedrock AgentCore Runtime Instances سير عمل متعدد الوكلاء للبنية التحتية التي تديرها AWS EC2 مع وحدات معالجة الرسومات، والأحجام المستمرة، والجلسات متعددة الأيام. في هذا المنشور،",
-      "summaryOriginal": "Amazon Bedrock AgentCore Runtime Instances gives multi-agent workflows AWS managed EC2 infrastructure with GPUs, persistent volumes, and multi-day sessions. In this post, we deploy a three-agent music production pipeline where the agents colocate on one GPU instance, share a filesystem, and hand work to each other to produce a finished track.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances"
     },
     {
       "id": "51189f852b98a1d99d7b",
@@ -736,9 +679,50 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI DevDay 2026 Recap"
+    },
+    {
+      "id": "72f8ca15acad02b17599",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "تفتح ابتكارات بيانات Microsoft الجديدة ما لا يعرفه سوى شركتك",
+      "titleOriginal": "New Microsoft data innovations unlock what only your business knows",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "كل منظمة لديها معرفة فريدة خاصة بها: الطريقة التي تعمل بها أعمالها، والبيانات التي بنتها بمرور الوقت، وخبرة موظفيها والسياق",
+      "summaryOriginal": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... The post New Microsoft data innovations unlock what only your business knows appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft New Microsoft data innovations unlock what only your business knows"
+    },
+    {
+      "id": "d4b8dfb5e059841274d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم النقاط",
+      "titleOriginal": "Introducing dots",
+      "dateLabel": "29 سبتمبر 2026",
+      "dateISO": "2026-09-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "Dots by OpenAI هي مساعدين استباقيين يمكنهم الاستمرار في العمل عبر المشاريع المعقدة والمهام اليومية. تعلم كيف تساعدك النقاط على التحكم أثناء تقدم العمل",
+      "summaryOriginal": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-dots",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing dots"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-02T09:01:26.960293+00:00",
-  "lastFastCheckAt": "2026-10-02T15:46:03.206466+00:00"
+  "lastDeepCheckAt": "2026-10-02T15:50:16.454999+00:00"
 }
