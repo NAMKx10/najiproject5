@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-03T14:54:08.871243+00:00",
-  "checkedAt": "2026-10-03T14:54:08.871243+00:00",
+  "updatedAt": "2026-10-03T14:55:57.278660+00:00",
+  "checkedAt": "2026-10-03T14:55:57.278660+00:00",
   "newestPublishedAt": "2026-10-02T23:01:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -678,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T15:30:38+00:00"
+      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
     },
     {
       "id": "5c7175ed488aa58ea647",
@@ -704,41 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T13:07:00+00:00"
+      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
     },
     {
-      "id": "bd1c50ebe0721f4ab126",
+      "id": "270f64ac4efe9d58a8d0",
       "company": "OpenAI",
       "logoText": "AI",
       "type": "إطلاق أو تحديث",
-      "title": "تقديم GPT-6.1 Sol",
-      "titleOriginal": "Introducing GPT-6.1 Sol",
+      "title": "ملخص يوم التطوير 2026",
+      "titleOriginal": "DevDay 2026 Recap",
       "dateLabel": "29 سبتمبر 2026",
       "dateISO": "2026-09-29",
       "category": "models",
       "importance": 92,
-      "summary": "تعرف على GPT-6.1 Sol: ذكاء NEAR - ASTRA للترميز واستخدام الكمبيوتر والعمل الاحترافي بخمس أسعار إدخال وإخراج API القياسية لـ ASTRA.",
-      "summaryOriginal": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "summary": "استكشف أكثر من 20 إعلانًا من OpenAI DevDay 2026، بما في ذلك GPT -6 Astra و ChatGPT و Codex و APIs والأمان والأدوات الجديدة للبنائين.",
+      "summaryOriginal": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "https://openai.com/index/devday-2026-recap",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing GPT-6.1 Sol",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T10:00:00+00:00"
+      "searchAliases": "OpenAI DevDay 2026 Recap"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-03T10:38:51.911280+00:00",
-  "lastFastCheckAt": "2026-10-03T14:54:08.871243+00:00"
+  "lastDeepCheckAt": "2026-10-03T14:55:57.278660+00:00"
 }
