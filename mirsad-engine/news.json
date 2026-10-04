@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-04T17:34:48.397474+00:00",
-  "checkedAt": "2026-10-04T17:34:48.397474+00:00",
+  "updatedAt": "2026-10-04T17:35:36.744939+00:00",
+  "checkedAt": "2026-10-04T17:35:36.744939+00:00",
   "newestPublishedAt": "2026-10-03T22:56:48+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,64 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face The Agent Said It Was Done. The Database Disagreed.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-03T22:56:48+00:00"
-    },
-    {
-      "id": "7882fe904f78302734b1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الاستعانة بمصادر مفتوحة AstaBrief، نموذج إنشاء التقارير السريع في ASTA",
-      "titleOriginal": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/allenai/astabrief",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T15:19:50+00:00"
-    },
-    {
-      "id": "1b72e7ec00f4947052ae",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أعمال وشراكات",
-      "title": "AutoSynthData: إنشاء بيانات التدريب لوكلاء المؤسسة",
-      "titleOriginal": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face AutoSynthData: Generating Training Data for Enterprise Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T04:01:31+00:00"
+      "searchAliases": "Hugging Face The Agent Said It Was Done. The Database Disagreed."
     },
     {
       "id": "64c4377f3e69ef9b6bf9",
@@ -276,6 +219,27 @@
       "searchAliases": "Amazon Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI"
     },
     {
+      "id": "7882fe904f78302734b1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "الاستعانة بمصادر مفتوحة AstaBrief، نموذج إنشاء التقارير السريع في ASTA",
+      "titleOriginal": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/allenai/astabrief",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta"
+    },
+    {
       "id": "92b20ded83e4953399d7",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -295,6 +259,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI"
+    },
+    {
+      "id": "1b72e7ec00f4947052ae",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أعمال وشراكات",
+      "title": "AutoSynthData: إنشاء بيانات التدريب لوكلاء المؤسسة",
+      "titleOriginal": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face AutoSynthData: Generating Training Data for Enterprise Agents"
     },
     {
       "id": "825d969fbe5263ea8825",
@@ -693,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T00:00:00+00:00"
+      "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
     },
     {
       "id": "d8ed866fdd45a5160e8d",
@@ -719,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T15:30:38+00:00"
+      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction"
     },
     {
       "id": "5c7175ed488aa58ea647",
@@ -745,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T13:07:00+00:00"
+      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-04T12:52:16.691001+00:00",
-  "lastFastCheckAt": "2026-10-04T17:34:48.397474+00:00"
+  "lastDeepCheckAt": "2026-10-04T17:35:36.744939+00:00"
 }
