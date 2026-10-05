@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T17:21:43.022701+00:00",
-  "checkedAt": "2026-10-05T17:21:43.022701+00:00",
-  "newestPublishedAt": "2026-10-05T15:56:28+00:00",
+  "updatedAt": "2026-10-05T17:26:45.348224+00:00",
+  "checkedAt": "2026-10-05T17:26:45.348224+00:00",
+  "newestPublishedAt": "2026-10-05T17:25:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "08056e3cd6150551e9ad",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "أعباء العمل الخاضعة للتنظيم مع كلود كود وأمازون بيدروك",
+      "titleOriginal": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر كل من Anthropic Claude Opus 5.5 و Claude Sonnet 5.5 على Amazon Bedrock في مناطق AWS GovCloud (الولايات المتحدة). تعلم كيفية استخدامها مع كلود كود، وكالة أنثروبيك",
+      "summaryOriginal": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Supercharge regulated workloads with Claude Code and Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T17:25:20+00:00"
+    },
+    {
+      "id": "fadc909c096f83092581",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مهارة الوكيل الجديد: قام Amazon SageMaker بتحسين استنتاج الذكاء الاصطناعي التوليدي لوكيل الترميز الخاص بك",
+      "titleOriginal": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم استدلال الذكاء الاصطناعي التوليدي المحسن من Amazon SageMaker مهارة aws - ai - ml من خلال مجموعة أدوات الوكيل لـ AWS، مما يمنح وكلاء الترميز مثل Kiro و Claude Code و Code",
+      "summaryOriginal": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker Python SDK v3 code to benchmark, recommend, and compare deployments.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T17:23:19+00:00"
+    },
     {
       "id": "41f1ec078eaa8f28c0d7",
       "company": "Amazon",
@@ -714,51 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Barclays scales Claude to upgrade operations and improve client experience"
-    },
-    {
-      "id": "300c809600c58947ff95",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "منتج، متين، قابل للاستبدال: كيف تحقق مصانع NVIDIA AI أقصى عائد على الاستثمار",
-      "titleOriginal": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يتم بناء مصانع الذكاء الاصطناعي بالميجاوات، حتى بالجيجاوات. يكلف كل مصنع ميجاوات حوالي 60 مليون $، وسوف يلتزم مشغلو مصانع الذكاء الاصطناعي فقط برأس المال على ذلك",
-      "summaryOriginal": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
-    },
-    {
-      "id": "f9319283a523a80374ae",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحرر DEN 10-15 ساعة في الأسبوع للنمو مع عمل ChatGPT",
-      "titleOriginal": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع افتتاح موقع جديد، يقوم النادي الاجتماعي بإعداد طلبات المنح في ساعتين بدلاً من 3 أيام ومواد ترخيص الخمور في 3 ساعات بدلاً من 4 أيام.",
-      "summaryOriginal": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/the-den-family-social",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T09:37:06.487608+00:00",
-  "lastFastCheckAt": "2026-10-05T17:21:43.022701+00:00"
+  "lastFastCheckAt": "2026-10-05T17:26:45.348224+00:00"
 }
