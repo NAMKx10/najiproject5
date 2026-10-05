@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T17:26:45.348224+00:00",
-  "checkedAt": "2026-10-05T17:26:45.348224+00:00",
+  "updatedAt": "2026-10-05T17:31:51.094537+00:00",
+  "checkedAt": "2026-10-05T17:31:51.094537+00:00",
   "newestPublishedAt": "2026-10-05T17:25:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -537,6 +537,32 @@
       "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
     },
     {
+      "id": "8b67c676d39c33bbddde",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "منتج، متين، قابل للاستبدال: كيف تحقق مصانع NVIDIA AI أقصى عائد على الاستثمار",
+      "titleOriginal": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يتم بناء مصانع الذكاء الاصطناعي بالميجاوات، حتى بالجيجاوات. يكلف كل مصنع ميجاوات حوالي 60 مليون $، وسوف يلتزم مشغلو مصانع الذكاء الاصطناعي فقط برأس المال على ذلك",
+      "summaryOriginal": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T13:00:49+00:00"
+    },
+    {
       "id": "5153e48f671aba301aea",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out"
-    },
-    {
-      "id": "53a2bf5bf18950f92367",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم باركليز بتوسيع نطاق عمل كلود لترقية العمليات وتحسين تجربة العميل",
-      "titleOriginal": "Barclays scales Claude to upgrade operations and improve client experience",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "باركليز، البنك العالمي البريطاني، يوسع تعاونه الاستراتيجي مع أنثروبيك لدمج أنظمة الذكاء الاصطناعي الآمنة على مستوى المؤسسات عبر عملياته العالمية",
-      "summaryOriginal": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/barclays-scales-claude",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Barclays scales Claude to upgrade operations and improve client experience"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T09:37:06.487608+00:00",
-  "lastFastCheckAt": "2026-10-05T17:26:45.348224+00:00"
+  "lastFastCheckAt": "2026-10-05T17:31:51.094537+00:00"
 }
