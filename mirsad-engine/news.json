@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T10:24:56.514280+00:00",
-  "checkedAt": "2026-10-05T10:24:56.514280+00:00",
-  "newestPublishedAt": "2026-10-03T22:56:48+00:00",
+  "updatedAt": "2026-10-05T10:29:58.215263+00:00",
+  "checkedAt": "2026-10-05T10:29:58.215263+00:00",
+  "newestPublishedAt": "2026-10-05T10:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fae2b87d51d0dc3b3dd0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء إعلانات للطريقة التي يستخدم بها الناس الذكاء الاصطناعي",
+      "titleOriginal": "Building advertising for the way people use AI",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI تنسيقًا جديدًا للإعلان المرئي في ChatGPT وتوسع أدوات القياس وشراكات الإسناد وملاءمة العلامة التجارية للمعلنين.",
+      "summaryOriginal": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Building advertising for the way people use AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T10:00:00+00:00"
+    },
     {
       "id": "be6798e030a0cac9f34d",
       "company": "Hugging Face",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-29T15:30:38+00:00"
-    },
-    {
-      "id": "5c7175ed488aa58ea647",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "الحصول على المصدر بشكل صحيح، وليس فقط الحقيقة: التحقق من إدراك المصدر لوكلاء MCP",
-      "titleOriginal": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T13:07:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T09:37:06.487608+00:00",
-  "lastFastCheckAt": "2026-10-05T10:24:56.514280+00:00"
+  "lastFastCheckAt": "2026-10-05T10:29:58.215263+00:00"
 }
