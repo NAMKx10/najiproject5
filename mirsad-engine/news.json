@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T13:02:31.174059+00:00",
-  "checkedAt": "2026-10-05T13:02:31.174059+00:00",
-  "newestPublishedAt": "2026-10-05T10:00:00+00:00",
+  "updatedAt": "2026-10-05T13:07:27.922683+00:00",
+  "checkedAt": "2026-10-05T13:07:27.922683+00:00",
+  "newestPublishedAt": "2026-10-05T13:00:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b35ceb3fac8752044169",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "من المسح الضوئي إلى خطة العلاج، يساعد الذكاء الاصطناعي على سد الفجوات الأكثر فتكًا في سرطان الثدي",
+      "titleOriginal": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "tools",
+      "importance": 78,
+      "summary": "سرطان الثدي هو أكثر أنواع السرطان التي يتم تشخيصها شيوعًا بين النساء الأمريكيات — ومع ذلك فإن الفجوات في الرعاية واسعة. غالبية النساء فوق سن الأربعين يتخطين الفحص السنوي الموصى به",
+      "summaryOriginal": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T13:00:57+00:00"
+    },
     {
       "id": "fae2b87d51d0dc3b3dd0",
       "company": "OpenAI",
@@ -705,35 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
-    },
-    {
-      "id": "d8ed866fdd45a5160e8d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تحدد NVIDIA KUMO Tabular حدًا جديدًا لكفاءة الدقة للتنبؤ الجدولي",
-      "titleOriginal": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "dateLabel": "29 سبتمبر 2026",
-      "dateISO": "2026-09-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-29T15:30:38+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T09:37:06.487608+00:00",
-  "lastFastCheckAt": "2026-10-05T13:02:31.174059+00:00"
+  "lastFastCheckAt": "2026-10-05T13:07:27.922683+00:00"
 }
