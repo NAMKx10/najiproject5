@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T15:55:21.654419+00:00",
-  "checkedAt": "2026-10-05T15:55:21.654419+00:00",
-  "newestPublishedAt": "2026-10-05T15:53:56+00:00",
+  "updatedAt": "2026-10-05T16:00:24.159527+00:00",
+  "checkedAt": "2026-10-05T16:00:24.159527+00:00",
+  "newestPublishedAt": "2026-10-05T15:56:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "41f1ec078eaa8f28c0d7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "جعل أمازون سريعًا جاهزًا للمؤسسات: ترويج موارد مؤتمتة وقابلة للتدقيق عبر الحسابات",
+      "titleOriginal": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "business",
+      "importance": 82,
+      "summary": "الترويج لموارد Amazon السريعة (الوكلاء، وموصلات العمل، وقواعد المعرفة، والتدفقات، والمسافات) من التطوير إلى حساب AWS للإنتاج كان دليلًا، خطأ- p",
+      "summaryOriginal": "Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T15:56:28+00:00"
+    },
     {
       "id": "03ff8c28a4dc79e9b3ed",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
-    },
-    {
-      "id": "51189f852b98a1d99d7b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "من التدريب إلى الإنتاج، تغلق NVIDIA و CoreWeave الحلقة على الذكاء الاصطناعي الوكيل",
-      "titleOriginal": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
-      "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T09:37:06.487608+00:00",
-  "lastFastCheckAt": "2026-10-05T15:55:21.654419+00:00"
+  "lastFastCheckAt": "2026-10-05T16:00:24.159527+00:00"
 }
