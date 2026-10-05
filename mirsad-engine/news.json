@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T23:17:01.283152+00:00",
-  "checkedAt": "2026-10-05T23:17:01.283152+00:00",
-  "newestPublishedAt": "2026-10-05T17:25:20+00:00",
+  "updatedAt": "2026-10-05T23:27:10.762976+00:00",
+  "checkedAt": "2026-10-05T23:27:10.762976+00:00",
+  "newestPublishedAt": "2026-10-05T23:25:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b30e06130826e69ae4fb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم GLM 5.3 على Amazon Bedrock",
+      "titleOriginal": "Introducing GLM 5.3 on Amazon Bedrock",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر GLM 5.3 من Z.ai الآن على Amazon Bedrock: وهو نموذج مزيج من الخبراء بمعيار 753B مصمم للترميز والمهام الوكيلة طويلة الأفق. تعلم كيفية استدعائه مع",
+      "summaryOriginal": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing GLM 5.3 on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T23:25:17+00:00"
+    },
     {
       "id": "140f52f06e841f66b8be",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign"
-    },
-    {
-      "id": "84426df134c70ed663c0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "مساعدة الشركات الصغيرة على تشغيل الذكاء الاصطناعي",
-      "titleOriginal": "Helping small businesses put AI to work",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "business",
-      "importance": 82,
-      "summary": "تتعاون OpenAI مع SBDC الأمريكية لتوسيع التدريب العملي على الذكاء الاصطناعي والدعم المحلي للشركات الصغيرة، إلى جانب تقرير جديد حول كيفية استخدام الفرق الصغيرة للذكاء الاصطناعي.",
-      "summaryOriginal": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping small businesses put AI to work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T18:50:45.618238+00:00",
-  "lastFastCheckAt": "2026-10-05T23:17:01.283152+00:00"
+  "lastFastCheckAt": "2026-10-05T23:27:10.762976+00:00"
 }
