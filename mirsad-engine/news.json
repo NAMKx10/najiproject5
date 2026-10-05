@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-05T15:14:33.110197+00:00",
-  "checkedAt": "2026-10-05T15:14:33.110197+00:00",
-  "newestPublishedAt": "2026-10-05T13:00:57+00:00",
+  "updatedAt": "2026-10-05T15:19:35.757128+00:00",
+  "checkedAt": "2026-10-05T15:19:35.757128+00:00",
+  "newestPublishedAt": "2026-10-05T15:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "babed4f73e0b2f7ff8b6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "نهجنا في قواعد منشأ النص في الاتحاد الأوروبي",
+      "titleOriginal": "Our approach to EU text provenance rules",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "research",
+      "importance": 86,
+      "summary": "كيف تقترب OpenAI من وضع علامة مائية على النص بموجب قواعد الاتحاد الأوروبي. تعرف على مكان تطبيق العلامات المائية، وكيفية عمل الكشف، ولماذا يبدأ الوصول بالباحثين.",
+      "summaryOriginal": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/eu-text-provenance",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our approach to EU text provenance rules",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T15:00:00+00:00"
+    },
     {
       "id": "b35ceb3fac8752044169",
       "company": "NVIDIA",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Cohere Embed 5: Frontier Embedding Models for Enterprise | Cohere"
-    },
-    {
-      "id": "77eea666183fd04c8375",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "Open TTS Leaderboard: تقييم قابل للتطوير لاستنساخ النص إلى الكلام والصوت متعدد اللغات",
-      "titleOriginal": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/open-tts-leaderboard",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-05T09:37:06.487608+00:00",
-  "lastFastCheckAt": "2026-10-05T15:14:33.110197+00:00"
+  "lastFastCheckAt": "2026-10-05T15:19:35.757128+00:00"
 }
