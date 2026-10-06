@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T19:43:43.755478+00:00",
-  "checkedAt": "2026-10-06T19:43:43.755478+00:00",
+  "updatedAt": "2026-10-06T19:51:01.085370+00:00",
+  "checkedAt": "2026-10-06T19:51:01.085370+00:00",
   "newestPublishedAt": "2026-10-06T19:19:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "b124c354a521767c04f2",
+      "id": "0530671237898ef0b4c1",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,17 +106,33 @@
       "summary": "ينساك مساعدو الذكاء الاصطناعي الجاهزون بين المحادثات. يوضح هذا المنشور كيفية بناء مساعد شخصي يراكم السياق باستخدام OpenClaw على Amazon Bedrock",
       "summaryOriginal": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T19:19:15+00:00"
+      "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw"
+    },
+    {
+      "id": "c13fb673ce135db2bbb7",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع برنامج التحقق السيبراني",
+      "titleOriginal": "Expanding the Cyber Verification Program",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "نحن بصدد إطلاق نسخة جديدة وموسعة من برنامج التحقق السيبراني (CVP)، مما يجعل القدرات السيبرانية المتقدمة وتقليل مصنفات الحجب متاحة",
+      "summaryOriginal": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/cyber-verification-program",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Expanding the Cyber Verification Program"
     },
     {
       "id": "7b66ac50a24b58612e51",
@@ -137,15 +153,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T16:00:00+00:00"
+      "searchAliases": "OpenAI Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
     },
     {
-      "id": "fef12182b00540535465",
+      "id": "5a3a7b4f0cc2570fb97d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -158,20 +169,15 @@
       "summary": "تستثمر AWS في الأدوات التي تساعد العملاء على التوافق مع المعايير الدولية للحوكمة المسؤولة للذكاء الاصطناعي. في هذا المنشور، نستكشف تقييم تأثير نظام الذكاء الاصطناعي: ما",
       "summaryOriginal": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterprise-wide risk management, and how ISO/IEC 42005:2025 codifies best practices for conducting and documenting these assessments.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025",
+      "source": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T15:53:28+00:00"
+      "searchAliases": "Amazon Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025"
     },
     {
-      "id": "45aea06ea216d3a60966",
+      "id": "2290e69f397ec1fdc251",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,20 +190,15 @@
       "summary": "تعرف على كيفية إدارة Amazon SageMaker HyperPod من خلال Amazon SageMaker Unified Studio مع الحفاظ على حوكمة المجموعة. يوضح هذا المنشور فرق المنصة كيفية تصميم",
       "summaryOriginal": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, govern access, allocate shared capacity, and operate HyperPod consistently across the organization, project, cluster, and workload control layers.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance",
+      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Best practices for Amazon SageMaker HyperPod administration and governance",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T15:50:23+00:00"
+      "searchAliases": "Amazon Best practices for Amazon SageMaker HyperPod administration and governance"
     },
     {
-      "id": "4d04a974f162bb6b5b16",
+      "id": "7eed12948382121904a3",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -210,20 +211,15 @@
       "summary": "يمكن لعلماء البيانات ومهندسي ML الآن إنشاء وتكوين وبدء وإيقاف وفتح مساحات Amazon SageMaker على مجموعات SageMaker HyperPod EKS مباشرة من SageMaker Studi",
       "summaryOriginal": "Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code Editor environments in a few clicks, without using command-line tools.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T15:47:02+00:00"
+      "searchAliases": "Amazon Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio"
     },
     {
-      "id": "80e3de70f2d901d213d3",
+      "id": "16cd99b6709482ec35d3",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -236,20 +232,15 @@
       "summary": "إضافة خدمة كونسيرج صوتية للسفر إلى تطبيق شركة طيران باستخدام Amazon Bedrock AgentCore وAmazon Nova Sonic للكلام في الوقت الفعلي وAmazon Bedrock Knowledge Bases للإجابة على السياسة",
       "summaryOriginal": "Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T15:45:42+00:00"
+      "searchAliases": "Amazon Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic"
     },
     {
-      "id": "80ac750c033f47c2a3de",
+      "id": "48fd59672ee40d38aede",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -262,17 +253,33 @@
       "summary": "يعمل مشغلو الاتصالات بشكل متزايد على بناء استراتيجيات الذكاء الاصطناعي الخاصة بهم على نماذج مفتوحة — وتتجاوز الأسباب مجرد التكلفة. تمنح النماذج المفتوحة شركات الاتصالات القدرة على الثقة والتحكم",
       "summaryOriginal": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T13:00:19+00:00"
+      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models"
+    },
+    {
+      "id": "b6efb20c360488449520",
+      "company": "Mistral AI",
+      "logoText": "MI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم ميسترال لارج 4 | ميسترال",
+      "titleOriginal": "Introducing Mistral Large 4 | Mistral",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "أقوى منصة ذكاء اصطناعي للمؤسسات. تخصيص وضبط ونشر مساعدي الذكاء الاصطناعي والوكلاء المستقلين والذكاء الاصطناعي متعدد الوسائط باستخدام نماذج مفتوحة.",
+      "summaryOriginal": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://mistral.ai/news/mistral-large-4/",
+      "sourceLabel": "Mistral News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Mistral AI Introducing Mistral Large 4 | Mistral"
     },
     {
       "id": "722ab04703c303ffe57a",
@@ -293,12 +300,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Advancing computer use with Ironclad",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T10:00:00+00:00"
+      "searchAliases": "OpenAI Advancing computer use with Ironclad"
     },
     {
       "id": "2fd6cf565e27d66df754",
@@ -425,48 +427,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases"
-    },
-    {
-      "id": "211b2b30d06e8735f457",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تقليل أدوار المستخدم في Amazon بسرعة",
-      "titleOriginal": "Downgrading user roles in Amazon Quick",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "لا تقدم Amazon Quick مسار وحدة تحكم مباشر لخفض مستوى المستخدم من مسؤول أو مؤلف إلى قارئ. يتناول هذا المنشور طريقتين موثوقتين: الحذف اليدوي والتكرار",
-      "summaryOriginal": "Amazon Quick doesn't offer a direct console path to downgrade a user from Admin or Author to Reader. This post walks through two reliable methods: a manual delete-and-recreate approach and an AWS CLI step-down sequence that downgrades roles safely while preserving asset ownership.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Downgrading user roles in Amazon Quick"
-    },
-    {
-      "id": "3cfb2146094fd6bb0f9b",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تقييم الأنظمة متعددة الوكلاء لقابلية التفسير والمساعدة مع Amazon Bedrock AgentCore",
-      "titleOriginal": "Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تحتاج الأنظمة متعددة العوامل إلى ضمانات أعمق من الاستجابات الطلاقة: يجب عليها اختيار الأدوات المناسبة واحترام القيود وشرح قراراتها. تعلم كيفية بناء",
-      "summaryOriginal": "Multi-agent systems need deeper guarantees than fluent responses: they must select the right tools, respect constraints, and explain their decisions. Learn how to build a Strands-based multi-agent supply chain decisioning system and evaluate it with Amazon Bedrock AgentCore Evaluations using built-in, custom, and explainability evaluators.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore"
     },
     {
       "id": "babed4f73e0b2f7ff8b6",
@@ -616,69 +576,6 @@
       "searchAliases": "OpenAI A model guide for the GPT-6 family"
     },
     {
-      "id": "58ae6422ae5c2c0328fc",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "اكتساح الآلاف من عقود الإيجار للامتثال باستخدام Amazon Quick ونمط الاستعلام المحكوم به",
-      "titleOriginal": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يجمع نمط الاستعلام المحكوم به بين وكيل دردشة Amazon Quick وخادم MCP محدود على محرك قواعد حتمية لتقديم شكوى كاملة يمكن الدفاع عنها",
-      "summaryOriginal": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks through the reference architecture and a deployable AWS CDK sample, using lease compliance as the running example.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern"
-    },
-    {
-      "id": "b75dcce4fddf6ad082b3",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "إضافة بحث ويب آمن إلى سطح مكتب كلود باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقتصر كلود ديسكتوب على أمازون بيدروك على قطع معرفة النموذج دون البحث على شبكة الإنترنت. في هذا المنشور، نتصفح ربط كلود ديسكتوب بمستخدم بحث الويب",
-      "summaryOriginal": "Claude Desktop on Amazon Bedrock is limited to the model's knowledge cutoff without web search. In this post, we walk through connecting Claude Desktop to Web Search using Amazon Bedrock AgentCore Gateway, with JWT-based inbound authentication through AWS IAM Identity Center and Amazon Cognito.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "c903438bb1e2527268d5",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ضبط وكيل بحث باستخدام RL متعدد المنعطفات على Amazon SageMaker AI",
-      "titleOriginal": "Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعلم الضبط الدقيق وكيل بحث صغير أدواتك وبيئتك، مما يمنحه موثوقية نموذج الحدود بوقت استجابة وتكلفة أقل. في هذا المنشور، نقوم بضبط",
-      "summaryOriginal": "Fine-tuning teaches a small search agent your tools and environment, giving it the reliability of a frontier model at lower latency and cost. In this post, we fine-tune an LLM-powered search agent with multi-turn reinforcement learning (MTRL) on Amazon SageMaker AI and share the gains we measured in retrieval quality and reliability.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI"
-    },
-    {
       "id": "7882fe904f78302734b1",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -761,9 +658,71 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
+    },
+    {
+      "id": "5153e48f671aba301aea",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تساعد وحدات معالجة الرسومات NVIDIA على تسريع GPT -6 Astra Ultrafast من OpenAI",
+      "titleOriginal": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر GPT -6 Astra Ultrafast، الذي يعمل على وحدات معالجة الرسومات NVIDIA Blackwell، الآن في واجهة برمجة تطبيقات OpenAI ولمستخدمي ChatGPT Work و Codex المؤهلين. تم التسريع عن طريق تحسين الاستدلال",
+      "summaryOriginal": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
+    },
+    {
+      "id": "a75b0d274b181c04c332",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "المكمل الأبدي",
+      "titleOriginal": "The eternal complement",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قد يكون الذكاء الاصطناعي المتقدم أكثر أهمية بالنسبة للعمل الروتيني وراء الأفكار المبتكرة. اكتشف لماذا يمكن أن يشكل التنفيذ الاقتصاد القادم ووتيرة التقدم.",
+      "summaryOriginal": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/the-eternal-complement",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The eternal complement"
+    },
+    {
+      "id": "20ffb210b47048bba735",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعيد شركات ألبرتسون تصور البيع بالتجزئة من الداخل إلى الخارج",
+      "titleOriginal": "How Albertsons Companies is reimagining retail from the inside out",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Albertsons Cos. ChatGPT Enterprise وواجهة برمجة تطبيقات OpenAI لمساعدة الفرق على العمل بشكل أسرع وجعل تسوق البقالة أسهل لملايين العملاء.",
+      "summaryOriginal": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/albertsons-reimagining-retail",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
-  "lastFastCheckAt": "2026-10-06T19:43:43.755478+00:00"
+  "lastDeepCheckAt": "2026-10-06T19:51:01.085370+00:00"
 }
