@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T00:48:22.442760+00:00",
-  "checkedAt": "2026-10-06T00:48:22.442760+00:00",
+  "updatedAt": "2026-10-06T00:49:45.693801+00:00",
+  "checkedAt": "2026-10-06T00:49:45.693801+00:00",
   "newestPublishedAt": "2026-10-05T23:25:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "b30e06130826e69ae4fb",
+      "id": "836a6a9af84d171bd858",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "يتوفر GLM 5.3 من Z.ai الآن على Amazon Bedrock: وهو نموذج مزيج من الخبراء بمعيار 753B مصمم للترميز والمهام الوكيلة طويلة الأفق. تعلم كيفية استدعائه مع",
       "summaryOriginal": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs, cut cost and latency with prompt caching, and run an authorized security test with the open-source Strix agent.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing GLM 5.3 on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-05T23:25:17+00:00"
+      "searchAliases": "Amazon Introducing GLM 5.3 on Amazon Bedrock"
     },
     {
       "id": "140f52f06e841f66b8be",
@@ -560,27 +555,6 @@
       "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
     },
     {
-      "id": "c83e3d854c4bb3ea26c6",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "توسيع نطاق عمليات الترحيل السحابية باستخدام الذكاء الاصطناعي الوكيل على Amazon Bedrock AgentCore",
-      "titleOriginal": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعرف على كيفية استخدام AWS Professional Services لإطار متعدد الوكلاء مبني على Amazon Bedrock AgentCore لأتمتة عمليات الترحيل السحابية للمؤسسات من البداية إلى النهاية. الذكاء الاصطناعي المصمم لهذا الغرض",
-      "summaryOriginal": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
-    },
-    {
       "id": "a75b0d274b181c04c332",
       "company": "OpenAI",
       "logoText": "AI",
@@ -686,7 +660,7 @@
       "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
     },
     {
-      "id": "5b7cc36d2b6a572605df",
+      "id": "51189f852b98a1d99d7b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -696,20 +670,15 @@
       "dateISO": "2026-09-30",
       "category": "tools",
       "importance": 78,
-      "summary": "أعلنت NVIDIA عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
       "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T15:00:00+00:00"
+      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
     },
     {
       "id": "614384c194a98fc2a1fa",
@@ -730,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T10:30:00+00:00"
+      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign"
+    },
+    {
+      "id": "84426df134c70ed663c0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "مساعدة الشركات الصغيرة على تشغيل الذكاء الاصطناعي",
+      "titleOriginal": "Helping small businesses put AI to work",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "business",
+      "importance": 82,
+      "summary": "تتعاون OpenAI مع SBDC الأمريكية لتوسيع التدريب العملي على الذكاء الاصطناعي والدعم المحلي للشركات الصغيرة، إلى جانب تقرير جديد حول كيفية استخدام الفرق الصغيرة للذكاء الاصطناعي.",
+      "summaryOriginal": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping small businesses put AI to work"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-05T18:50:45.618238+00:00",
-  "lastFastCheckAt": "2026-10-06T00:48:22.442760+00:00"
+  "lastDeepCheckAt": "2026-10-06T00:49:45.693801+00:00"
 }
