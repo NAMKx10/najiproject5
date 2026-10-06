@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T16:05:26.832589+00:00",
-  "checkedAt": "2026-10-06T16:05:26.832589+00:00",
+  "updatedAt": "2026-10-06T16:10:43.431119+00:00",
+  "checkedAt": "2026-10-06T16:10:43.431119+00:00",
   "newestPublishedAt": "2026-10-06T15:53:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -685,6 +685,32 @@
       "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
     },
     {
+      "id": "fbb8038121327d58cc61",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تساعد وحدات معالجة الرسومات NVIDIA على تسريع GPT -6 Astra Ultrafast من OpenAI",
+      "titleOriginal": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر GPT -6 Astra Ultrafast، الذي يعمل على وحدات معالجة الرسومات NVIDIA Blackwell، الآن في واجهة برمجة تطبيقات OpenAI ولمستخدمي ChatGPT Work و Codex المؤهلين. تم التسريع عن طريق تحسين الاستدلال",
+      "summaryOriginal": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T23:44:13+00:00"
+    },
+    {
       "id": "a75b0d274b181c04c332",
       "company": "OpenAI",
       "logoText": "AI",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-01T16:00:00+00:00"
-    },
-    {
-      "id": "8b67c676d39c33bbddde",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "منتج، متين، قابل للاستبدال: كيف تحقق مصانع NVIDIA AI أقصى عائد على الاستثمار",
-      "titleOriginal": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يتم بناء مصانع الذكاء الاصطناعي بالميجاوات، حتى بالجيجاوات. يكلف كل مصنع ميجاوات حوالي 60 مليون $، وسوف يلتزم مشغلو مصانع الذكاء الاصطناعي فقط برأس المال على ذلك",
-      "summaryOriginal": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T13:00:49+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
-  "lastFastCheckAt": "2026-10-06T16:05:26.832589+00:00"
+  "lastFastCheckAt": "2026-10-06T16:10:43.431119+00:00"
 }
