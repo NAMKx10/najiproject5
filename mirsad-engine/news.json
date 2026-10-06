@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T15:50:03.240822+00:00",
-  "checkedAt": "2026-10-06T15:50:03.240822+00:00",
-  "newestPublishedAt": "2026-10-06T15:47:02+00:00",
+  "updatedAt": "2026-10-06T15:55:23.192094+00:00",
+  "checkedAt": "2026-10-06T15:55:23.192094+00:00",
+  "newestPublishedAt": "2026-10-06T15:53:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "fef12182b00540535465",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "الحوكمة المسؤولة للذكاء الاصطناعي: كيف تضع AWS العملاء للتوافق مع ISO/IEC 42005:2025",
+      "titleOriginal": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "business",
+      "importance": 82,
+      "summary": "تستثمر AWS في الأدوات التي تساعد العملاء على التوافق مع المعايير الدولية للحوكمة المسؤولة للذكاء الاصطناعي. في هذا المنشور، نستكشف تقييم تأثير نظام الذكاء الاصطناعي: ما",
+      "summaryOriginal": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterprise-wide risk management, and how ISO/IEC 42005:2025 codifies best practices for conducting and documenting these assessments.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T15:53:28+00:00"
+    },
+    {
+      "id": "45aea06ea216d3a60966",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أفضل الممارسات لإدارة وحوكمة Amazon SageMaker HyperPod",
+      "titleOriginal": "Best practices for Amazon SageMaker HyperPod administration and governance",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية إدارة Amazon SageMaker HyperPod من خلال Amazon SageMaker Unified Studio مع الحفاظ على حوكمة المجموعة. يوضح هذا المنشور فرق المنصة كيفية تصميم",
+      "summaryOriginal": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, govern access, allocate shared capacity, and operate HyperPod consistently across the organization, project, cluster, and workload control layers.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Best practices for Amazon SageMaker HyperPod administration and governance",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T15:50:23+00:00"
+    },
     {
       "id": "4d04a974f162bb6b5b16",
       "company": "Amazon",
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out"
-    },
-    {
-      "id": "53a2bf5bf18950f92367",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم باركليز بتوسيع نطاق عمل كلود لترقية العمليات وتحسين تجربة العميل",
-      "titleOriginal": "Barclays scales Claude to upgrade operations and improve client experience",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "باركليز، البنك العالمي البريطاني، يوسع تعاونه الاستراتيجي مع أنثروبيك لدمج أنظمة الذكاء الاصطناعي الآمنة على مستوى المؤسسات عبر عملياته العالمية",
-      "summaryOriginal": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/barclays-scales-claude",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Barclays scales Claude to upgrade operations and improve client experience"
-    },
-    {
-      "id": "300c809600c58947ff95",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "منتج، متين، قابل للاستبدال: كيف تحقق مصانع NVIDIA AI أقصى عائد على الاستثمار",
-      "titleOriginal": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يتم بناء مصانع الذكاء الاصطناعي بالميجاوات، حتى بالجيجاوات. يكلف كل مصنع ميجاوات حوالي 60 مليون $، وسوف يلتزم مشغلو مصانع الذكاء الاصطناعي فقط برأس المال على ذلك",
-      "summaryOriginal": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
-  "lastFastCheckAt": "2026-10-06T15:50:03.240822+00:00"
+  "lastFastCheckAt": "2026-10-06T15:55:23.192094+00:00"
 }
