@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T19:18:27.677014+00:00",
-  "checkedAt": "2026-10-06T19:18:27.677014+00:00",
-  "newestPublishedAt": "2026-10-06T16:00:00+00:00",
+  "updatedAt": "2026-10-06T19:23:29.981539+00:00",
+  "checkedAt": "2026-10-06T19:23:29.981539+00:00",
+  "newestPublishedAt": "2026-10-06T19:19:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b124c354a521767c04f2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء مساعد ذكاء اصطناعي مدرك للسياق على AgentCore و OpenClaw",
+      "titleOriginal": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ينساك مساعدو الذكاء الاصطناعي الجاهزون بين المحادثات. يوضح هذا المنشور كيفية بناء مساعد شخصي يراكم السياق باستخدام OpenClaw على Amazon Bedrock",
+      "summaryOriginal": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T19:19:15+00:00"
+    },
     {
       "id": "7b66ac50a24b58612e51",
       "company": "OpenAI",
@@ -735,35 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
-    },
-    {
-      "id": "fbb8038121327d58cc61",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تساعد وحدات معالجة الرسومات NVIDIA على تسريع GPT -6 Astra Ultrafast من OpenAI",
-      "titleOriginal": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر GPT -6 Astra Ultrafast، الذي يعمل على وحدات معالجة الرسومات NVIDIA Blackwell، الآن في واجهة برمجة تطبيقات OpenAI ولمستخدمي ChatGPT Work و Codex المؤهلين. تم التسريع عن طريق تحسين الاستدلال",
-      "summaryOriginal": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T23:44:13+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
-  "lastFastCheckAt": "2026-10-06T19:18:27.677014+00:00"
+  "lastFastCheckAt": "2026-10-06T19:23:29.981539+00:00"
 }
