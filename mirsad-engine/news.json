@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T07:31:42.535974+00:00",
-  "checkedAt": "2026-10-06T07:31:42.535974+00:00",
+  "updatedAt": "2026-10-06T07:35:36.783858+00:00",
+  "checkedAt": "2026-10-06T07:35:36.783858+00:00",
   "newestPublishedAt": "2026-10-06T06:44:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T06:44:39+00:00"
+      "searchAliases": "Hugging Face Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
     },
     {
       "id": "836a6a9af84d171bd858",
@@ -686,7 +681,7 @@
       "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
     },
     {
-      "id": "5b7cc36d2b6a572605df",
+      "id": "51189f852b98a1d99d7b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -699,17 +694,12 @@
       "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
       "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T15:00:00+00:00"
+      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
     },
     {
       "id": "614384c194a98fc2a1fa",
@@ -730,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T10:30:00+00:00"
+      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-06T00:49:45.693801+00:00",
-  "lastFastCheckAt": "2026-10-06T07:31:42.535974+00:00"
+  "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00"
 }
