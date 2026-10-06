@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T23:47:22.955708+00:00",
-  "checkedAt": "2026-10-06T23:47:22.955708+00:00",
+  "updatedAt": "2026-10-06T23:49:13.862182+00:00",
+  "checkedAt": "2026-10-06T23:49:13.862182+00:00",
   "newestPublishedAt": "2026-10-06T19:19:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,58 +92,6 @@
     }
   ],
   "items": [
-    {
-      "id": "13e8e0912208d718fe68",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Sharing AI progress in mathematics",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sharing AI progress in mathematics",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T12:00:00+00:00"
-    },
-    {
-      "id": "25603b9f07cc333a713c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تعمل JUMP Trading على توسيع نطاق البحث الكمي باستخدام ChatGPT",
-      "titleOriginal": "How Jump Trading is scaling quant research with ChatGPT",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم JUMP Trading OpenAI لتوسيع البحث الكمي. تعرف على كيفية دمج سير عمل الذكاء الاصطناعي طويل الأمد بين مصادر البيانات المتعددة والمراجعة البشرية.",
-      "summaryOriginal": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/jump-trading",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Jump Trading is scaling quant research with ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T12:00:00+00:00"
-    },
     {
       "id": "0530671237898ef0b4c1",
       "company": "Amazon",
@@ -332,6 +280,48 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Introducing Mistral Large 4 | Mistral"
+    },
+    {
+      "id": "25603b9f07cc333a713c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعمل JUMP Trading على توسيع نطاق البحث الكمي باستخدام ChatGPT",
+      "titleOriginal": "How Jump Trading is scaling quant research with ChatGPT",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم JUMP Trading OpenAI لتوسيع البحث الكمي. تعرف على كيفية دمج سير عمل الذكاء الاصطناعي طويل الأمد بين مصادر البيانات المتعددة والمراجعة البشرية.",
+      "summaryOriginal": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/jump-trading",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Jump Trading is scaling quant research with ChatGPT"
+    },
+    {
+      "id": "13e8e0912208d718fe68",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Sharing AI progress in mathematics",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Sharing AI progress in mathematics"
     },
     {
       "id": "722ab04703c303ffe57a",
@@ -712,7 +702,7 @@
       "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
     },
     {
-      "id": "fbb8038121327d58cc61",
+      "id": "5153e48f671aba301aea",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -725,20 +715,14 @@
       "summary": "يتوفر GPT -6 Astra Ultrafast، الذي يعمل على وحدات معالجة الرسومات NVIDIA Blackwell، الآن في واجهة برمجة تطبيقات OpenAI ولمستخدمي ChatGPT Work و Codex المؤهلين. تم التسريع عن طريق تحسين الاستدلال",
       "summaryOriginal": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users. Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "source": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T23:44:13+00:00"
+      "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-06T19:51:01.085370+00:00",
-  "lastFastCheckAt": "2026-10-06T23:47:22.955708+00:00"
+  "lastDeepCheckAt": "2026-10-06T23:49:13.862182+00:00"
 }
