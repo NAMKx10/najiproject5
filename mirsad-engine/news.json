@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T19:53:51.038165+00:00",
-  "checkedAt": "2026-10-06T19:53:51.038165+00:00",
+  "updatedAt": "2026-10-06T20:04:20.127072+00:00",
+  "checkedAt": "2026-10-06T20:04:20.127072+00:00",
   "newestPublishedAt": "2026-10-06T19:19:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -660,6 +660,32 @@
       "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
     },
     {
+      "id": "20ffb210b47048bba735",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعيد شركات ألبرتسون تصور البيع بالتجزئة من الداخل إلى الخارج",
+      "titleOriginal": "How Albertsons Companies is reimagining retail from the inside out",
+      "dateLabel": "1 أكتوبر 2026",
+      "dateISO": "2026-10-01",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Albertsons Cos. ChatGPT Enterprise وواجهة برمجة تطبيقات OpenAI لمساعدة الفرق على العمل بشكل أسرع وجعل تسوق البقالة أسهل لملايين العملاء.",
+      "summaryOriginal": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/albertsons-reimagining-retail",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-01T16:00:00+00:00"
+    },
+    {
       "id": "8b67c676d39c33bbddde",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast"
-    },
-    {
-      "id": "a75b0d274b181c04c332",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "المكمل الأبدي",
-      "titleOriginal": "The eternal complement",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قد يكون الذكاء الاصطناعي المتقدم أكثر أهمية بالنسبة للعمل الروتيني وراء الأفكار المبتكرة. اكتشف لماذا يمكن أن يشكل التنفيذ الاقتصاد القادم ووتيرة التقدم.",
-      "summaryOriginal": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/the-eternal-complement",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The eternal complement"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T19:51:01.085370+00:00",
-  "lastFastCheckAt": "2026-10-06T19:53:51.038165+00:00"
+  "lastFastCheckAt": "2026-10-06T20:04:20.127072+00:00"
 }
