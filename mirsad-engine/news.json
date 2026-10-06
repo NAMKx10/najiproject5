@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T06:56:25.808560+00:00",
-  "checkedAt": "2026-10-06T06:56:25.808560+00:00",
+  "updatedAt": "2026-10-06T07:01:26.098923+00:00",
+  "checkedAt": "2026-10-06T07:01:26.098923+00:00",
   "newestPublishedAt": "2026-10-06T06:44:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -686,6 +686,32 @@
       "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
     },
     {
+      "id": "5b7cc36d2b6a572605df",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "من التدريب إلى الإنتاج، تغلق NVIDIA و CoreWeave الحلقة على الذكاء الاصطناعي الوكيل",
+      "titleOriginal": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
+      "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-30T15:00:00+00:00"
+    },
+    {
       "id": "614384c194a98fc2a1fa",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-30T10:30:00+00:00"
-    },
-    {
-      "id": "84426df134c70ed663c0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "مساعدة الشركات الصغيرة على تشغيل الذكاء الاصطناعي",
-      "titleOriginal": "Helping small businesses put AI to work",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "business",
-      "importance": 82,
-      "summary": "تتعاون OpenAI مع SBDC الأمريكية لتوسيع التدريب العملي على الذكاء الاصطناعي والدعم المحلي للشركات الصغيرة، إلى جانب تقرير جديد حول كيفية استخدام الفرق الصغيرة للذكاء الاصطناعي.",
-      "summaryOriginal": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping small businesses put AI to work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T10:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T00:49:45.693801+00:00",
-  "lastFastCheckAt": "2026-10-06T06:56:25.808560+00:00"
+  "lastFastCheckAt": "2026-10-06T07:01:26.098923+00:00"
 }
