@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T07:35:36.783858+00:00",
-  "checkedAt": "2026-10-06T07:35:36.783858+00:00",
+  "updatedAt": "2026-10-06T07:36:50.481727+00:00",
+  "checkedAt": "2026-10-06T07:36:50.481727+00:00",
   "newestPublishedAt": "2026-10-06T06:44:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -681,6 +681,32 @@
       "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
     },
     {
+      "id": "84426df134c70ed663c0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "مساعدة الشركات الصغيرة على تشغيل الذكاء الاصطناعي",
+      "titleOriginal": "Helping small businesses put AI to work",
+      "dateLabel": "30 سبتمبر 2026",
+      "dateISO": "2026-09-30",
+      "category": "business",
+      "importance": 82,
+      "summary": "تتعاون OpenAI مع SBDC الأمريكية لتوسيع التدريب العملي على الذكاء الاصطناعي والدعم المحلي للشركات الصغيرة، إلى جانب تقرير جديد حول كيفية استخدام الفرق الصغيرة للذكاء الاصطناعي.",
+      "summaryOriginal": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping small businesses put AI to work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-09-30T10:00:00+00:00"
+    },
+    {
       "id": "51189f852b98a1d99d7b",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -700,29 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI"
-    },
-    {
-      "id": "614384c194a98fc2a1fa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تعطيل حملة تقطير نموذجية منسقة",
-      "titleOriginal": "Disrupting a coordinated model-distillation campaign",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية قيام OpenAI بتعطيل حملة لاستخراج المنطق النموذجي المحمي وتقوية الدفاعات ضد التقطير العدائي.",
-      "summaryOriginal": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00"
+  "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
+  "lastFastCheckAt": "2026-10-06T07:36:50.481727+00:00"
 }
