@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T13:02:18.368702+00:00",
-  "checkedAt": "2026-10-06T13:02:18.368702+00:00",
-  "newestPublishedAt": "2026-10-06T06:44:39+00:00",
+  "updatedAt": "2026-10-06T13:07:37.710049+00:00",
+  "checkedAt": "2026-10-06T13:07:37.710049+00:00",
+  "newestPublishedAt": "2026-10-06T13:00:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "80ac750c033f47c2a3de",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "لماذا يبني مشغلو الاتصالات استراتيجيتهم للذكاء الاصطناعي على النماذج المفتوحة",
+      "titleOriginal": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعمل مشغلو الاتصالات بشكل متزايد على بناء استراتيجيات الذكاء الاصطناعي الخاصة بهم على نماذج مفتوحة — وتتجاوز الأسباب مجرد التكلفة. تمنح النماذج المفتوحة شركات الاتصالات القدرة على الثقة والتحكم",
+      "summaryOriginal": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T13:00:19+00:00"
+    },
     {
       "id": "2fd6cf565e27d66df754",
       "company": "Hugging Face",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-09-30T15:00:00+00:00"
-    },
-    {
-      "id": "614384c194a98fc2a1fa",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تعطيل حملة تقطير نموذجية منسقة",
-      "titleOriginal": "Disrupting a coordinated model-distillation campaign",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية قيام OpenAI بتعطيل حملة لاستخراج المنطق النموذجي المحمي وتقوية الدفاعات ضد التقطير العدائي.",
-      "summaryOriginal": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T10:30:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
-  "lastFastCheckAt": "2026-10-06T13:02:18.368702+00:00"
+  "lastFastCheckAt": "2026-10-06T13:07:37.710049+00:00"
 }
