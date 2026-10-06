@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T22:41:19.058446+00:00",
-  "checkedAt": "2026-10-06T22:41:19.058446+00:00",
+  "updatedAt": "2026-10-06T22:46:24.599940+00:00",
+  "checkedAt": "2026-10-06T22:46:24.599940+00:00",
   "newestPublishedAt": "2026-10-06T19:19:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "13e8e0912208d718fe68",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Sharing AI progress in mathematics",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Sharing AI progress in mathematics",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T12:00:00+00:00"
+    },
     {
       "id": "0530671237898ef0b4c1",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-01T17:00:00+00:00"
-    },
-    {
-      "id": "20ffb210b47048bba735",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تعيد شركات ألبرتسون تصور البيع بالتجزئة من الداخل إلى الخارج",
-      "titleOriginal": "How Albertsons Companies is reimagining retail from the inside out",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم Albertsons Cos. ChatGPT Enterprise وواجهة برمجة تطبيقات OpenAI لمساعدة الفرق على العمل بشكل أسرع وجعل تسوق البقالة أسهل لملايين العملاء.",
-      "summaryOriginal": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/albertsons-reimagining-retail",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Albertsons Companies is reimagining retail from the inside out",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-01T16:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T19:51:01.085370+00:00",
-  "lastFastCheckAt": "2026-10-06T22:41:19.058446+00:00"
+  "lastFastCheckAt": "2026-10-06T22:46:24.599940+00:00"
 }
