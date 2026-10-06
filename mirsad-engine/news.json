@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T15:45:00.853192+00:00",
-  "checkedAt": "2026-10-06T15:45:00.853192+00:00",
-  "newestPublishedAt": "2026-10-06T13:00:19+00:00",
+  "updatedAt": "2026-10-06T15:50:03.240822+00:00",
+  "checkedAt": "2026-10-06T15:50:03.240822+00:00",
+  "newestPublishedAt": "2026-10-06T15:47:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "4d04a974f162bb6b5b16",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إدارة مساحات Amazon SageMaker HyperPod مباشرة من SageMaker Studio",
+      "titleOriginal": "Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمكن لعلماء البيانات ومهندسي ML الآن إنشاء وتكوين وبدء وإيقاف وفتح مساحات Amazon SageMaker على مجموعات SageMaker HyperPod EKS مباشرة من SageMaker Studi",
+      "summaryOriginal": "Data scientists and ML engineers can now create, configure, start, stop, and open Amazon SageMaker Spaces on SageMaker HyperPod EKS clusters directly from SageMaker Studio. Launch JupyterLab and Code Editor environments in a few clicks, without using command-line tools.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T15:47:02+00:00"
+    },
+    {
+      "id": "80e3de70f2d901d213d3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "بناء خدمة كونسيرج صوتية للسفر مع Amazon Bedrock AgentCore و Managed Knowledge Base و Nova Sonic",
+      "titleOriginal": "Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "policy",
+      "importance": 88,
+      "summary": "إضافة خدمة كونسيرج صوتية للسفر إلى تطبيق شركة طيران باستخدام Amazon Bedrock AgentCore وAmazon Nova Sonic للكلام في الوقت الفعلي وAmazon Bedrock Knowledge Bases للإجابة على السياسة",
+      "summaryOriginal": "Add a voice travel concierge to an airline app with Amazon Bedrock AgentCore, Amazon Nova Sonic for real-time speech, and Amazon Bedrock Knowledge Bases for policy answers. Travelers change seats, check delays, and ask policy questions by voice, while the agent reaches your backend through MCP tools and confirms every change before it writes.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T15:45:42+00:00"
+    },
     {
       "id": "80ac750c033f47c2a3de",
       "company": "NVIDIA",
@@ -684,56 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment"
-    },
-    {
-      "id": "f9319283a523a80374ae",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحرر DEN 10-15 ساعة في الأسبوع للنمو مع عمل ChatGPT",
-      "titleOriginal": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "dateLabel": "1 أكتوبر 2026",
-      "dateISO": "2026-10-01",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع افتتاح موقع جديد، يقوم النادي الاجتماعي بإعداد طلبات المنح في ساعتين بدلاً من 3 أيام ومواد ترخيص الخمور في 3 ساعات بدلاً من 4 أيام.",
-      "summaryOriginal": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/the-den-family-social",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Den frees up 10-15 hours a week to grow with ChatGPT Work"
-    },
-    {
-      "id": "5b7cc36d2b6a572605df",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "من التدريب إلى الإنتاج، تغلق NVIDIA و CoreWeave الحلقة على الذكاء الاصطناعي الوكيل",
-      "titleOriginal": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بناءً على ما يقرب من عقد من الهندسة المشتركة، قامت CoreWeave ببناء حوسبة وشبكات وبرمجيات NVIDIA في سحابة مصممة خصيصًا للذكاء الاصطناعي الذي لا يزال يعود على الفاتورة",
-      "summaryOriginal": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-09-30T15:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T07:35:36.783858+00:00",
-  "lastFastCheckAt": "2026-10-06T15:45:00.853192+00:00"
+  "lastFastCheckAt": "2026-10-06T15:50:03.240822+00:00"
 }
