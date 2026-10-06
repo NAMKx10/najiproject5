@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-06T06:41:03.800347+00:00",
-  "checkedAt": "2026-10-06T06:41:03.800347+00:00",
-  "newestPublishedAt": "2026-10-05T23:25:17+00:00",
+  "updatedAt": "2026-10-06T06:46:18.291346+00:00",
+  "checkedAt": "2026-10-06T06:46:18.291346+00:00",
+  "newestPublishedAt": "2026-10-06T06:44:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2fd6cf565e27d66df754",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "فالكون الإماراتي: عندما يتعلم ماجستير اللغة اللهجة والثقافة والفروق الدقيقة",
+      "titleOriginal": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T06:44:39+00:00"
+    },
     {
       "id": "836a6a9af84d171bd858",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Disrupting a coordinated model-distillation campaign"
-    },
-    {
-      "id": "84426df134c70ed663c0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "مساعدة الشركات الصغيرة على تشغيل الذكاء الاصطناعي",
-      "titleOriginal": "Helping small businesses put AI to work",
-      "dateLabel": "30 سبتمبر 2026",
-      "dateISO": "2026-09-30",
-      "category": "business",
-      "importance": 82,
-      "summary": "تتعاون OpenAI مع SBDC الأمريكية لتوسيع التدريب العملي على الذكاء الاصطناعي والدعم المحلي للشركات الصغيرة، إلى جانب تقرير جديد حول كيفية استخدام الفرق الصغيرة للذكاء الاصطناعي.",
-      "summaryOriginal": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping small businesses put AI to work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-06T00:49:45.693801+00:00",
-  "lastFastCheckAt": "2026-10-06T06:41:03.800347+00:00"
+  "lastFastCheckAt": "2026-10-06T06:46:18.291346+00:00"
 }
