@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T13:17:35.735887+00:00",
-  "checkedAt": "2026-10-07T13:17:35.735887+00:00",
-  "newestPublishedAt": "2026-10-07T12:45:31+00:00",
+  "updatedAt": "2026-10-07T13:22:56.101217+00:00",
+  "checkedAt": "2026-10-07T13:22:56.101217+00:00",
+  "newestPublishedAt": "2026-10-07T13:21:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "27b19ae2cd36a58ebae4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Falcon ASR",
+      "titleOriginal": "Introducing Falcon ASR",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing Falcon ASR",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T13:21:03+00:00"
+    },
     {
       "id": "c5da9225ca3226206a4c",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face AutoSynthData: Generating Training Data for Enterprise Agents"
-    },
-    {
-      "id": "825d969fbe5263ea8825",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تعمل تشاتام على توسيع نطاق خبرتها في أسواق رأس المال مع OpenAI",
-      "titleOriginal": "Chatham scales its capital markets expertise with OpenAI",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم Chatham Financial Codex و GPT-5.6 لبناء التكنولوجيا وإعادة تصميم سير العمل، مما يقلل من التحقق من صحة التداول من 30 دقيقة إلى أقل من 4 دقائق.",
-      "summaryOriginal": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatham-financial",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T06:02:02.555598+00:00",
-  "lastFastCheckAt": "2026-10-07T13:17:35.735887+00:00"
+  "lastFastCheckAt": "2026-10-07T13:22:56.101217+00:00"
 }
