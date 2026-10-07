@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T13:23:58.944531+00:00",
-  "checkedAt": "2026-10-07T13:23:58.944531+00:00",
+  "updatedAt": "2026-10-07T13:26:09.912777+00:00",
+  "checkedAt": "2026-10-07T13:26:09.912777+00:00",
   "newestPublishedAt": "2026-10-07T13:21:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Introducing Falcon ASR",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T13:21:03+00:00"
+      "searchAliases": "Hugging Face Introducing Falcon ASR"
     },
     {
       "id": "c5da9225ca3226206a4c",
@@ -137,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T12:45:31+00:00"
+      "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO"
     },
     {
       "id": "0530671237898ef0b4c1",
@@ -395,27 +385,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advancing computer use with Ironclad"
-    },
-    {
-      "id": "2fd6cf565e27d66df754",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "فالكون الإماراتي: عندما يتعلم ماجستير اللغة اللهجة والثقافة والفروق الدقيقة",
-      "titleOriginal": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
     },
     {
       "id": "836a6a9af84d171bd858",
@@ -731,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face AutoSynthData: Generating Training Data for Enterprise Agents"
+    },
+    {
+      "id": "825d969fbe5263ea8825",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعمل تشاتام على توسيع نطاق خبرتها في أسواق رأس المال مع OpenAI",
+      "titleOriginal": "Chatham scales its capital markets expertise with OpenAI",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Chatham Financial Codex و GPT-5.6 لبناء التكنولوجيا وإعادة تصميم سير العمل، مما يقلل من التحقق من صحة التداول من 30 دقيقة إلى أقل من 4 دقائق.",
+      "summaryOriginal": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatham-financial",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Chatham scales its capital markets expertise with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-07T06:02:02.555598+00:00",
-  "lastFastCheckAt": "2026-10-07T13:23:58.944531+00:00"
+  "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00"
 }
