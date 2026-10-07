@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T17:48:08.920680+00:00",
-  "checkedAt": "2026-10-07T17:48:08.920680+00:00",
+  "updatedAt": "2026-10-07T17:53:12.891651+00:00",
+  "checkedAt": "2026-10-07T17:53:12.891651+00:00",
   "newestPublishedAt": "2026-10-07T16:54:33+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -595,6 +595,32 @@
       "searchAliases": "OpenAI Advancing computer use with Ironclad"
     },
     {
+      "id": "fae2b87d51d0dc3b3dd0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء إعلانات للطريقة التي يستخدم بها الناس الذكاء الاصطناعي",
+      "titleOriginal": "Building advertising for the way people use AI",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI تنسيقًا جديدًا للإعلان المرئي في ChatGPT وتوسع أدوات القياس وشراكات الإسناد وملاءمة العلامة التجارية للمعلنين.",
+      "summaryOriginal": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Building advertising for the way people use AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T10:00:00+00:00"
+    },
+    {
       "id": "836a6a9af84d171bd858",
       "company": "Amazon",
       "logoText": "AWS",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Cohere North 2: Enterprise AI Without Compromises"
-    },
-    {
-      "id": "b4f9279051351bc918de",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "من المسح الضوئي إلى خطة العلاج، يساعد الذكاء الاصطناعي على سد الفجوات الأكثر فتكًا في سرطان الثدي",
-      "titleOriginal": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "سرطان الثدي هو أكثر أنواع السرطان التي يتم تشخيصها شيوعًا بين النساء الأمريكيات — ومع ذلك فإن الفجوات في الرعاية واسعة. غالبية النساء فوق سن الأربعين يتخطين الفحص السنوي الموصى به",
-      "summaryOriginal": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T17:48:08.920680+00:00"
+  "lastFastCheckAt": "2026-10-07T17:53:12.891651+00:00"
 }
