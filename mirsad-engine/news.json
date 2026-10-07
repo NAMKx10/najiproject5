@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T18:28:47.234815+00:00",
-  "checkedAt": "2026-10-07T18:28:47.234815+00:00",
+  "updatedAt": "2026-10-07T18:34:28.575983+00:00",
+  "checkedAt": "2026-10-07T18:34:28.575983+00:00",
   "newestPublishedAt": "2026-10-07T16:54:33+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -341,6 +341,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO"
+    },
+    {
+      "id": "916a3279540fd4a61d22",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "GPT -6 وواجهة المستخدم الذكية للجميع",
+      "titleOriginal": "GPT-6 and Intelligent UI for everyone",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتم طرح GPT‑6 عالميًا في ChatGPT مع واجهة مستخدم ذكية، مما يوفر استجابات أسرع مع صور وتجارب تفاعلية يمكنك استكشافها واستخدامها مباشرة.",
+      "summaryOriginal": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/gpt-6-for-everyone",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T00:00:00+00:00"
     },
     {
       "id": "0530671237898ef0b4c1",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases"
-    },
-    {
-      "id": "babed4f73e0b2f7ff8b6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "نهجنا في قواعد منشأ النص في الاتحاد الأوروبي",
-      "titleOriginal": "Our approach to EU text provenance rules",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "research",
-      "importance": 86,
-      "summary": "كيف تقترب OpenAI من وضع علامة مائية على النص بموجب قواعد الاتحاد الأوروبي. تعرف على مكان تطبيق العلامات المائية، وكيفية عمل الكشف، ولماذا يبدأ الوصول بالباحثين.",
-      "summaryOriginal": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/eu-text-provenance",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our approach to EU text provenance rules"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T18:28:47.234815+00:00"
+  "lastFastCheckAt": "2026-10-07T18:34:28.575983+00:00"
 }
