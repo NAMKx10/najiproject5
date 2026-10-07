@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T18:34:28.575983+00:00",
-  "checkedAt": "2026-10-07T18:34:28.575983+00:00",
-  "newestPublishedAt": "2026-10-07T16:54:33+00:00",
+  "updatedAt": "2026-10-07T18:38:56.823654+00:00",
+  "checkedAt": "2026-10-07T18:38:56.823654+00:00",
+  "newestPublishedAt": "2026-10-07T18:34:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ccc9d87b736e4ec11568",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إعادة التفكير في التحكم في الوصول إلى RAG باستخدام Amazon Quick و Amazon Bedrock",
+      "titleOriginal": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "business",
+      "importance": 82,
+      "summary": "تفتح Enterprise RAG رؤى من مصادر المعرفة مثل SharePoint و Google Drive و Confluence، لكن هذه المصادر تحمل أذونات معقدة. تعرف على كيفية سرعة أمازون",
+      "summaryOriginal": "Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Learn how Amazon Quick and Amazon Bedrock Knowledge Bases enforce document-level access controls in real time, verifying permissions directly with authoritative sources at query time.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T18:34:44+00:00"
+    },
     {
       "id": "b077ae3baa4076b760bc",
       "company": "Hugging Face",
@@ -621,6 +647,32 @@
       "searchAliases": "OpenAI Advancing computer use with Ironclad"
     },
     {
+      "id": "babed4f73e0b2f7ff8b6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "نهجنا في قواعد منشأ النص في الاتحاد الأوروبي",
+      "titleOriginal": "Our approach to EU text provenance rules",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "research",
+      "importance": 86,
+      "summary": "كيف تقترب OpenAI من وضع علامة مائية على النص بموجب قواعد الاتحاد الأوروبي. تعرف على مكان تطبيق العلامات المائية، وكيفية عمل الكشف، ولماذا يبدأ الوصول بالباحثين.",
+      "summaryOriginal": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/eu-text-provenance",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our approach to EU text provenance rules",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T15:00:00+00:00"
+    },
+    {
       "id": "b35ceb3fac8752044169",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -734,51 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent"
-    },
-    {
-      "id": "136e88a73040dd02cb47",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "جعل أمازون سريعًا جاهزًا للمؤسسات: ترويج موارد مؤتمتة وقابلة للتدقيق عبر الحسابات",
-      "titleOriginal": "Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "business",
-      "importance": 82,
-      "summary": "الترويج لموارد Amazon السريعة (الوكلاء، وموصلات العمل، وقواعد المعرفة، والتدفقات، والمسافات) من التطوير إلى حساب AWS للإنتاج كان دليلًا، خطأ- p",
-      "summaryOriginal": "Promoting Amazon Quick resources (agents, action connectors, knowledge bases, flows, and spaces) from a development to a production AWS account has been a manual, error-prone chore. This post shows how to automate cross-account promotion with an idempotent, auditable MCP server on Amazon Bedrock AgentCore.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion"
-    },
-    {
-      "id": "4dd4f47925ff2b7ef949",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "استرجاع العوامل باستخدام قواعد المعرفة LangChain وAmazon Bedrock",
-      "titleOriginal": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "إنشاء تطبيق استرجاع الجيل المعزز (RAG) على قاعدة المعارف المدارة من Amazon Bedrock باستخدام LangChain، ومعرفة كيفية تعامل الاسترجاع الوكيل مع قائمة الأسئلة متعددة الأجزاء",
-      "summaryOriginal": "Build a Retrieval Augmented Generation (RAG) application on Amazon Bedrock Managed Knowledge Base with LangChain, and see how agentic retrieval handles the multi-part questions that single-shot retrieval answers poorly. Run the same query through both paths, read the trace events, and compare what each retrieval path costs.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T18:34:28.575983+00:00"
+  "lastFastCheckAt": "2026-10-07T18:38:56.823654+00:00"
 }
