@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T16:52:17.665908+00:00",
-  "checkedAt": "2026-10-07T16:52:17.665908+00:00",
-  "newestPublishedAt": "2026-10-07T15:50:00+00:00",
+  "updatedAt": "2026-10-07T17:02:24.950048+00:00",
+  "checkedAt": "2026-10-07T17:02:24.950048+00:00",
+  "newestPublishedAt": "2026-10-07T16:54:33+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b077ae3baa4076b760bc",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج قرار مفتوحة متعددة الوسائط d1 للحافة",
+      "titleOriginal": "Multimodal open d1 decision models for the edge",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Multimodal open d1 decision models for the edge",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T16:54:33+00:00"
+    },
     {
       "id": "6d253888ff52fb6cb282",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Building advertising for the way people use AI"
-    },
-    {
-      "id": "be6798e030a0cac9f34d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "قال الوكيل أن الأمر قد تم. قاعدة البيانات غير موافق.",
-      "titleOriginal": "The Agent Said It Was Done. The Database Disagreed.",
-      "dateLabel": "3 أكتوبر 2026",
-      "dateISO": "2026-10-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face The Agent Said It Was Done. The Database Disagreed."
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T16:52:17.665908+00:00"
+  "lastFastCheckAt": "2026-10-07T17:02:24.950048+00:00"
 }
