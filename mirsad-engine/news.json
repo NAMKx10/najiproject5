@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T18:49:05.772919+00:00",
-  "checkedAt": "2026-10-07T18:49:05.772919+00:00",
-  "newestPublishedAt": "2026-10-07T18:45:28+00:00",
+  "updatedAt": "2026-10-07T18:54:07.252466+00:00",
+  "checkedAt": "2026-10-07T18:54:07.252466+00:00",
+  "newestPublishedAt": "2026-10-07T18:52:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "87f36b6714846e9742b8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم كلود هايكو 5.5 على AWS",
+      "titleOriginal": "Introducing Claude Haiku 5.5 on AWS",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "كلود هايكو 5.5 متاح الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. وفقًا لـ أنثروبيك، إنه النموذج الأسرع والأكثر كفاءة في عائلة كلود 5.5،",
+      "summaryOriginal": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This post covers its improvements and how to get started.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Claude Haiku 5.5 on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T18:52:10+00:00"
+    },
     {
       "id": "d0c0663c6b37cf7a53a0",
       "company": "NVIDIA",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Introducing GLM 5.3 on Amazon Bedrock"
-    },
-    {
-      "id": "140f52f06e841f66b8be",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "أعباء العمل الخاضعة للتنظيم مع كلود كود وأمازون بيدروك",
-      "titleOriginal": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر كل من Anthropic Claude Opus 5.5 و Claude Sonnet 5.5 على Amazon Bedrock في مناطق AWS GovCloud (الولايات المتحدة). تعلم كيفية استخدامها مع كلود كود، وكالة أنثروبيك",
-      "summaryOriginal": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthropic's agentic coding tool, for compliance-aligned, AI-assisted development on regulated and ITAR workloads.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Supercharge regulated workloads with Claude Code and Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T18:49:05.772919+00:00"
+  "lastFastCheckAt": "2026-10-07T18:54:07.252466+00:00"
 }
