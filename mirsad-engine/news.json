@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T18:44:05.757923+00:00",
-  "checkedAt": "2026-10-07T18:44:05.757923+00:00",
-  "newestPublishedAt": "2026-10-07T18:34:44+00:00",
+  "updatedAt": "2026-10-07T18:49:05.772919+00:00",
+  "checkedAt": "2026-10-07T18:49:05.772919+00:00",
+  "newestPublishedAt": "2026-10-07T18:45:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d0c0663c6b37cf7a53a0",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "NVIDIA و Microsoft تطلقان بداية جديدة لأجهزة الكمبيوتر التي تعمل بنظام Windows مع وكلاء RTX Spark و AI",
+      "titleOriginal": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في حدث مايكروسوفت في سان فرانسيسكو يوم الأربعاء، أوضح جينسن هوانغ وساتيا ناديلا كيف تشارك NVIDIA و Microsoft في هندسة الأجهزة والبرامج لوكيل الذكاء الاصطناعي",
+      "summaryOriginal": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look at the entire journey of […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T18:45:28+00:00"
+    },
     {
       "id": "ccc9d87b736e4ec11568",
       "company": "Amazon",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Supercharge regulated workloads with Claude Code and Amazon Bedrock"
-    },
-    {
-      "id": "d043e8de510b9560aa93",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "مهارة الوكيل الجديد: قام Amazon SageMaker بتحسين استنتاج الذكاء الاصطناعي التوليدي لوكيل الترميز الخاص بك",
-      "titleOriginal": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم استدلال الذكاء الاصطناعي التوليدي المحسن من Amazon SageMaker مهارة aws - ai - ml من خلال مجموعة أدوات الوكيل لـ AWS، مما يمنح وكلاء الترميز مثل Kiro و Claude Code و Code",
-      "summaryOriginal": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code, and Codex deep expertise in inference optimization and benchmarking. Describe what you want, and your agent generates executable SageMaker Python SDK v3 code to benchmark, recommend, and compare deployments.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T18:44:05.757923+00:00"
+  "lastFastCheckAt": "2026-10-07T18:49:05.772919+00:00"
 }
