@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T19:32:41.584169+00:00",
-  "checkedAt": "2026-10-07T19:32:41.584169+00:00",
+  "updatedAt": "2026-10-07T19:34:48.223556+00:00",
+  "checkedAt": "2026-10-07T19:34:48.223556+00:00",
   "newestPublishedAt": "2026-10-07T18:52:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -681,48 +681,59 @@
       "searchAliases": "Hugging Face The Agent Said It Was Done. The Database Disagreed."
     },
     {
-      "id": "64c4377f3e69ef9b6bf9",
-      "company": "Anthropic",
-      "logoText": "A",
+      "id": "7882fe904f78302734b1",
+      "company": "Hugging Face",
+      "logoText": "HF",
       "type": "إطلاق أو تحديث",
-      "title": "أكاديمية كلود فرونتير: 100 مليون $ 10,000 مهندس",
-      "titleOriginal": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "title": "الاستعانة بمصادر مفتوحة AstaBrief، نموذج إنشاء التقارير السريع في ASTA",
+      "titleOriginal": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "dateLabel": "2 أكتوبر 2026",
       "dateISO": "2026-10-02",
       "category": "models",
       "importance": 92,
-      "summary": "تقوم بتدريب المهندسين الذين تم نشرهم على مستوى أنثروبيك — التزام بقيمة 100 مليون $ 10,000 بحلول نهاية عام 2027.",
-      "summaryOriginal": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/claude-frontier-academy",
-      "sourceLabel": "Anthropic Newsroom",
+      "source": "https://huggingface.co/blog/allenai/astabrief",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Anthropic Claude Frontier Academy: $100M to train 10,000 engineers"
+      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T15:19:50+00:00"
     },
     {
-      "id": "ba5f2f29e9c976f58bbb",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "a5fa3e01ccd029855150",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "دليل نموذجي لعائلة GPT -6",
-      "titleOriginal": "A model guide for the GPT-6 family",
+      "title": "يمنح NVIDIA DGX Spark سعة 64 جيجابايت للمطورين المزيد من الطرق لبناء وتوسيع نطاق الذكاء الاصطناعي المحلي",
+      "titleOriginal": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
       "dateLabel": "2 أكتوبر 2026",
       "dateISO": "2026-10-02",
       "category": "models",
       "importance": 92,
-      "summary": "تعلم كيف يمكن للشركات الناشئة اختيار نماذج GPT -6، وضبط جهود التفكير، وتحسين المطالبات والمهارات، وتنسيق الأدوات، وإعداد سير العمل للإنتاج.",
-      "summaryOriginal": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "summary": "أصبح الذكاء الاصطناعي المحلي أكثر فائدة من خلال الرمز المميز. مع انتقال وكلاء الذكاء الاصطناعي من التجارب إلى التنمية اليومية، تتقلص النماذج المفتوحة ذات القدرة المتزايدة لتناسب المزيد",
+      "summaryOriginal": "Local AI is becoming more useful by the token. As AI agents move from experiments into everyday development, increasingly capable open models are shrinking to fit on more devices, giving builders more to run locally. Coming this month, NVIDIA DGX Spark will be available with 64GB of unified memory from top manufacturer partners — Acer, […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/practical-guide-building-gpt-6",
-      "sourceLabel": "OpenAI",
+      "source": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI A model guide for the GPT-6 family"
+      "searchAliases": "NVIDIA NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-02T13:00:39+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-07T19:32:41.584169+00:00"
+  "lastDeepCheckAt": "2026-10-07T19:32:41.584169+00:00",
+  "lastFastCheckAt": "2026-10-07T19:34:48.223556+00:00"
 }
