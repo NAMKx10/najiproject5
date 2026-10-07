@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-07T17:43:08.466310+00:00",
-  "checkedAt": "2026-10-07T17:43:08.466310+00:00",
+  "updatedAt": "2026-10-07T17:48:08.920680+00:00",
+  "checkedAt": "2026-10-07T17:48:08.920680+00:00",
   "newestPublishedAt": "2026-10-07T16:54:33+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -273,6 +273,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T12:00:00+00:00"
+    },
+    {
+      "id": "120ccf5eb8d6f612afc5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تجلب مجموعة فنادق راديسون اكتشاف الفنادق إلى ChatGPT",
+      "titleOriginal": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "دخلت Radisson في شراكة مع Accenture لإنشاء مكون إضافي لـ ChatGPT باستخدام تقنية OpenAI، مما يساعد المسافرين على العثور على الفنادق ومقارنتها وحجزها أثناء التخطيط لرحلاتهم.",
+      "summaryOriginal": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/radisson",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T07:00:00+00:00"
     },
     {
       "id": "27b19ae2cd36a58ebae4",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps"
-    },
-    {
-      "id": "fae2b87d51d0dc3b3dd0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء إعلانات للطريقة التي يستخدم بها الناس الذكاء الاصطناعي",
-      "titleOriginal": "Building advertising for the way people use AI",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI تنسيقًا جديدًا للإعلان المرئي في ChatGPT وتوسع أدوات القياس وشراكات الإسناد وملاءمة العلامة التجارية للمعلنين.",
-      "summaryOriginal": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Building advertising for the way people use AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-07T13:26:09.912777+00:00",
-  "lastFastCheckAt": "2026-10-07T17:43:08.466310+00:00"
+  "lastFastCheckAt": "2026-10-07T17:48:08.920680+00:00"
 }
