@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T13:57:13.392384+00:00",
-  "checkedAt": "2026-10-08T13:57:13.392384+00:00",
+  "updatedAt": "2026-10-08T14:02:18.825272+00:00",
+  "checkedAt": "2026-10-08T14:02:18.825272+00:00",
   "newestPublishedAt": "2026-10-07T18:52:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "27b19ae2cd36a58ebae4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Falcon ASR",
+      "titleOriginal": "Introducing Falcon ASR",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing Falcon ASR",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T13:21:03+00:00"
+    },
     {
       "id": "8a7cca1a8553f8c85919",
       "company": "Amazon",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-02T16:15:00+00:00"
-    },
-    {
-      "id": "7882fe904f78302734b1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الاستعانة بمصادر مفتوحة AstaBrief، نموذج إنشاء التقارير السريع في ASTA",
-      "titleOriginal": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/allenai/astabrief",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T15:19:50+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00",
-  "lastFastCheckAt": "2026-10-08T13:57:13.392384+00:00"
+  "lastFastCheckAt": "2026-10-08T14:02:18.825272+00:00"
 }
