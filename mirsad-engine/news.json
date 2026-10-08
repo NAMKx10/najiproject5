@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T18:29:27.672217+00:00",
-  "checkedAt": "2026-10-08T18:29:27.672217+00:00",
-  "newestPublishedAt": "2026-10-08T16:20:04+00:00",
+  "updatedAt": "2026-10-08T18:34:35.329982+00:00",
+  "checkedAt": "2026-10-08T18:34:35.329982+00:00",
+  "newestPublishedAt": "2026-10-08T18:33:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b5320e184af6a0c088c7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الدفع لكل استنتاج لوكلاء الذكاء الاصطناعي: كيف تستخدم BlockRun و Incarna مدفوعات Amazon Bedrock AgentCore",
+      "titleOriginal": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "تمنح مدفوعات Amazon Bedrock AgentCore وكلاء الذكاء الاصطناعي طريقة مدارة للدفع مقابل الخدمات عند الطلب، مع فرض حدود الإنفاق من قبل البنية التحتية. شاهد كيف يعمل وكيل Incarna",
+      "summaryOriginal": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T18:33:29+00:00"
+    },
     {
       "id": "4c7ee628aba042382119",
       "company": "Amazon",
@@ -730,30 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-05T13:00:57+00:00"
-    },
-    {
-      "id": "babed4f73e0b2f7ff8b6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "نهجنا في قواعد منشأ النص في الاتحاد الأوروبي",
-      "titleOriginal": "Our approach to EU text provenance rules",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "research",
-      "importance": 86,
-      "summary": "كيف تقترب OpenAI من وضع علامة مائية على النص بموجب قواعد الاتحاد الأوروبي. تعرف على مكان تطبيق العلامات المائية، وكيفية عمل الكشف، ولماذا يبدأ الوصول بالباحثين.",
-      "summaryOriginal": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/eu-text-provenance",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our approach to EU text provenance rules"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00",
-  "lastFastCheckAt": "2026-10-08T18:29:27.672217+00:00"
+  "lastFastCheckAt": "2026-10-08T18:34:35.329982+00:00"
 }
