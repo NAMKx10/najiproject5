@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T17:38:45.015869+00:00",
-  "checkedAt": "2026-10-08T17:38:45.015869+00:00",
+  "updatedAt": "2026-10-08T17:43:47.511305+00:00",
+  "checkedAt": "2026-10-08T17:43:47.511305+00:00",
   "newestPublishedAt": "2026-10-08T16:20:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-08T16:20:04+00:00"
+    },
+    {
+      "id": "8b148cf79b1b84cb9073",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تحول أوراكل أيام العمل إلى دقائق باستخدام ChatGPT و Codex",
+      "titleOriginal": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "عبر التوظيف والهندسة والعمليات، تحول أوراكل المعرفة المتخصصة إلى سير عمل سريع وقابل للتكرار مع عمل ChatGPT والدستور الغذائي.",
+      "summaryOriginal": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/oracle",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T16:00:00+00:00"
+    },
+    {
+      "id": "d0b337f22f099a7f00f4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحول Pollo AI الأفكار الإبداعية إلى حملات مع OpenAI",
+      "titleOriginal": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT-5.6 و GPT -6 Astra و GPT‑Image‑2.5، يساعد Pollo AI منشئي المحتوى على تحويل الأفكار الجريئة إلى صور مفصلة وإعلانات فيديو سينمائية.",
+      "summaryOriginal": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/pollo-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T12:00:00+00:00"
     },
     {
       "id": "351a3936345bfa3a3f92",
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Cohere North 2: Enterprise AI Without Compromises"
-    },
-    {
-      "id": "b4f9279051351bc918de",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "من المسح الضوئي إلى خطة العلاج، يساعد الذكاء الاصطناعي على سد الفجوات الأكثر فتكًا في سرطان الثدي",
-      "titleOriginal": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "سرطان الثدي هو أكثر أنواع السرطان التي يتم تشخيصها شيوعًا بين النساء الأمريكيات — ومع ذلك فإن الفجوات في الرعاية واسعة. غالبية النساء فوق سن الأربعين يتخطين الفحص السنوي الموصى به",
-      "summaryOriginal": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps"
-    },
-    {
-      "id": "fae2b87d51d0dc3b3dd0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء إعلانات للطريقة التي يستخدم بها الناس الذكاء الاصطناعي",
-      "titleOriginal": "Building advertising for the way people use AI",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI تنسيقًا جديدًا للإعلان المرئي في ChatGPT وتوسع أدوات القياس وشراكات الإسناد وملاءمة العلامة التجارية للمعلنين.",
-      "summaryOriginal": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Building advertising for the way people use AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00",
-  "lastFastCheckAt": "2026-10-08T17:38:45.015869+00:00"
+  "lastFastCheckAt": "2026-10-08T17:43:47.511305+00:00"
 }
