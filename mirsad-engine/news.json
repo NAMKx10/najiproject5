@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T23:35:36.837316+00:00",
-  "checkedAt": "2026-10-08T23:35:36.837316+00:00",
+  "updatedAt": "2026-10-08T23:40:41.703669+00:00",
+  "checkedAt": "2026-10-08T23:40:41.703669+00:00",
   "newestPublishedAt": "2026-10-08T21:06:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-08T21:06:35+00:00"
+    },
+    {
+      "id": "a13e16f89e5be705d13d",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "LegalOn يخفض تكاليف الدستور الغذائي إلى النصف مع الحفاظ على سرعة التطوير",
+      "titleOriginal": "LegalOn halves Codex costs while maintaining development speed",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "خفضت LegalOn التكاليف اليومية المقدرة للدستور الغذائي بنسبة 65 ٪ مع الحفاظ على سرعة التطوير. لقد طابقت Astra و Sol و Luna مع المهام وأدارت الميزانيات بشكل استراتيجي.",
+      "summaryOriginal": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/legalon-halves-codex-costs",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T12:00:00+00:00"
     },
     {
       "id": "f0c16f68ad3c52a56d56",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-06T12:00:00+00:00"
-    },
-    {
-      "id": "13e8e0912208d718fe68",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مشاركة تقدم الذكاء الاصطناعي في الرياضيات",
-      "titleOriginal": "Sharing AI progress in mathematics",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "تنشر OpenAI نتائج جديدة حول المشكلات المفتوحة في الرياضيات من نموذج الحدود الداخلية وتشارك إضفاء الطابع الرسمي على الدليل الضعيف وتفاصيل البحث على GitHub.",
-      "summaryOriginal": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sharing AI progress in mathematics",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T19:27:49.009093+00:00",
-  "lastFastCheckAt": "2026-10-08T23:35:36.837316+00:00"
+  "lastFastCheckAt": "2026-10-08T23:40:41.703669+00:00"
 }
