@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T17:43:47.511305+00:00",
-  "checkedAt": "2026-10-08T17:43:47.511305+00:00",
+  "updatedAt": "2026-10-08T17:48:49.046036+00:00",
+  "checkedAt": "2026-10-08T17:48:49.046036+00:00",
   "newestPublishedAt": "2026-10-08T16:20:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -706,6 +706,32 @@
       "searchAliases": "OpenAI Advancing computer use with Ironclad"
     },
     {
+      "id": "b35ceb3fac8752044169",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "من المسح الضوئي إلى خطة العلاج، يساعد الذكاء الاصطناعي على سد الفجوات الأكثر فتكًا في سرطان الثدي",
+      "titleOriginal": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "dateLabel": "5 أكتوبر 2026",
+      "dateISO": "2026-10-05",
+      "category": "tools",
+      "importance": 78,
+      "summary": "سرطان الثدي هو أكثر أنواع السرطان التي يتم تشخيصها شيوعًا بين النساء الأمريكيات — ومع ذلك فإن الفجوات في الرعاية واسعة. غالبية النساء فوق سن الأربعين يتخطين الفحص السنوي الموصى به",
+      "summaryOriginal": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-05T13:00:57+00:00"
+    },
+    {
       "id": "babed4f73e0b2f7ff8b6",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Our approach to EU text provenance rules"
-    },
-    {
-      "id": "271916330ef4652d1efb",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "أمان وسياسات",
-      "title": "NORTH 2: الذكاء الاصطناعي للمؤسسات دون تنازلات",
-      "titleOriginal": "North 2: Enterprise AI Without Compromises",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "policy",
-      "importance": 88,
-      "summary": "نورث 2 هي أكبر ترقية لـ Cohere حتى الآن، حيث توحد الأمان على مستوى المؤسسة، والذكاء، وحوكمة التكاليف، والتحكم الكامل في المكدس في منصة ذكاء اصطناعي واحدة",
-      "summaryOriginal": "North 2 is Cohere’s biggest upgrade yet, unifying enterprise‑grade security, intelligence, cost governance, and full‑stack control into a single agentic AI platform that runs wherever your data lives.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://cohere.com/blog/introducing-north-2",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere North 2: Enterprise AI Without Compromises"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00",
-  "lastFastCheckAt": "2026-10-08T17:43:47.511305+00:00"
+  "lastFastCheckAt": "2026-10-08T17:48:49.046036+00:00"
 }
