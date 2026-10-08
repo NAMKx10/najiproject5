@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T15:23:35.795521+00:00",
-  "checkedAt": "2026-10-08T15:23:35.795521+00:00",
-  "newestPublishedAt": "2026-10-07T18:52:10+00:00",
+  "updatedAt": "2026-10-08T15:28:37.187024+00:00",
+  "checkedAt": "2026-10-08T15:28:37.187024+00:00",
+  "newestPublishedAt": "2026-10-08T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "351a3936345bfa3a3f92",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تعطيل عمليات \"الواجهة الخاطئة\" التي تدعم الذكاء الاصطناعي",
+      "titleOriginal": "Disrupting AI-enabled “false front” operations",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "عطلت OpenAI عمليتي تأثير مدعومتين بالذكاء الاصطناعي استخدمتا صحفيين مزيفين ومركز أبحاث لنشر الرسائل الجيوسياسية.",
+      "summaryOriginal": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Disrupting AI-enabled “false front” operations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T00:00:00+00:00"
+    },
     {
       "id": "27b19ae2cd36a58ebae4",
       "company": "Hugging Face",
@@ -705,35 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face The Agent Said It Was Done. The Database Disagreed."
-    },
-    {
-      "id": "ba5f2f29e9c976f58bbb",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "دليل نموذجي لعائلة GPT -6",
-      "titleOriginal": "A model guide for the GPT-6 family",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعلم كيف يمكن للشركات الناشئة اختيار نماذج GPT -6، وضبط جهود التفكير، وتحسين المطالبات والمهارات، وتنسيق الأدوات، وإعداد سير العمل للإنتاج.",
-      "summaryOriginal": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/practical-guide-building-gpt-6",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI A model guide for the GPT-6 family",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T16:15:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00",
-  "lastFastCheckAt": "2026-10-08T15:23:35.795521+00:00"
+  "lastFastCheckAt": "2026-10-08T15:28:37.187024+00:00"
 }
