@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T21:32:12.926495+00:00",
-  "checkedAt": "2026-10-08T21:32:12.926495+00:00",
+  "updatedAt": "2026-10-08T21:37:17.578567+00:00",
+  "checkedAt": "2026-10-08T21:37:17.578567+00:00",
   "newestPublishedAt": "2026-10-08T21:06:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -607,6 +607,32 @@
       "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
     },
     {
+      "id": "7b66ac50a24b58612e51",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع Atlassian و OpenAI الشراكة لتحويل معرفة المؤسسة إلى عمل",
+      "titleOriginal": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل Atlassian وOpenAI على توسيع شراكتهما لربط النماذج الرائدة بمعرفة المؤسسة ومساعدة الفرق على تخطيط العمل وبنائه وتسليمه.",
+      "summaryOriginal": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/atlassian-partnership",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T16:00:00+00:00"
+    },
+    {
       "id": "80ac750c033f47c2a3de",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw"
-    },
-    {
-      "id": "c13fb673ce135db2bbb7",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع برنامج التحقق السيبراني",
-      "titleOriginal": "Expanding the Cyber Verification Program",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "نحن بصدد إطلاق نسخة جديدة وموسعة من برنامج التحقق السيبراني (CVP)، مما يجعل القدرات السيبرانية المتقدمة وتقليل مصنفات الحجب متاحة",
-      "summaryOriginal": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/cyber-verification-program",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Expanding the Cyber Verification Program"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T19:27:49.009093+00:00",
-  "lastFastCheckAt": "2026-10-08T21:32:12.926495+00:00"
+  "lastFastCheckAt": "2026-10-08T21:37:17.578567+00:00"
 }
