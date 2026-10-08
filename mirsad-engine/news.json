@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T13:31:44.200056+00:00",
-  "checkedAt": "2026-10-08T13:31:44.200056+00:00",
+  "updatedAt": "2026-10-08T13:32:21.438398+00:00",
+  "checkedAt": "2026-10-08T13:32:21.438398+00:00",
   "newestPublishedAt": "2026-10-07T18:52:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -681,6 +681,27 @@
       "searchAliases": "Hugging Face The Agent Said It Was Done. The Database Disagreed."
     },
     {
+      "id": "64c4377f3e69ef9b6bf9",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "أكاديمية كلود فرونتير: 100 مليون $ 10,000 مهندس",
+      "titleOriginal": "Claude Frontier Academy: $100M to train 10,000 engineers",
+      "dateLabel": "2 أكتوبر 2026",
+      "dateISO": "2026-10-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم بتدريب المهندسين الذين تم نشرهم على مستوى أنثروبيك — التزام بقيمة 100 مليون $ 10,000 بحلول نهاية عام 2027.",
+      "summaryOriginal": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/claude-frontier-academy",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Claude Frontier Academy: $100M to train 10,000 engineers"
+    },
+    {
       "id": "ba5f2f29e9c976f58bbb",
       "company": "OpenAI",
       "logoText": "AI",
@@ -699,41 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI A model guide for the GPT-6 family",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T16:15:00+00:00"
-    },
-    {
-      "id": "7882fe904f78302734b1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الاستعانة بمصادر مفتوحة AstaBrief، نموذج إنشاء التقارير السريع في ASTA",
-      "titleOriginal": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "dateLabel": "2 أكتوبر 2026",
-      "dateISO": "2026-10-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/allenai/astabrief",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-02T15:19:50+00:00"
+      "searchAliases": "OpenAI A model guide for the GPT-6 family"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-08T06:06:28.602161+00:00",
-  "lastFastCheckAt": "2026-10-08T13:31:44.200056+00:00"
+  "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00"
 }
