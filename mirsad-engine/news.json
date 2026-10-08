@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T22:15:03.185187+00:00",
-  "checkedAt": "2026-10-08T22:15:03.185187+00:00",
+  "updatedAt": "2026-10-08T22:19:34.942805+00:00",
+  "checkedAt": "2026-10-08T22:19:34.942805+00:00",
   "newestPublishedAt": "2026-10-08T21:06:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -311,6 +311,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Disrupting AI-enabled “false front” operations"
+    },
+    {
+      "id": "64decf2600f05fe635cf",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "النموذج الذي لم يكن موجودًا، لذلك صنعته بنفسك",
+      "titleOriginal": "The model that didn't exist, so you made it yourself",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/building-with-ml-intern",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T00:00:00+00:00"
     },
     {
       "id": "8a7cca1a8553f8c85919",
@@ -735,30 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-06T10:00:00+00:00"
-    },
-    {
-      "id": "0530671237898ef0b4c1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء مساعد ذكاء اصطناعي مدرك للسياق على AgentCore و OpenClaw",
-      "titleOriginal": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ينساك مساعدو الذكاء الاصطناعي الجاهزون بين المحادثات. يوضح هذا المنشور كيفية بناء مساعد شخصي يراكم السياق باستخدام OpenClaw على Amazon Bedrock",
-      "summaryOriginal": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T19:27:49.009093+00:00",
-  "lastFastCheckAt": "2026-10-08T22:15:03.185187+00:00"
+  "lastFastCheckAt": "2026-10-08T22:19:34.942805+00:00"
 }
