@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-08T19:25:20.648856+00:00",
-  "checkedAt": "2026-10-08T19:25:20.648856+00:00",
+  "updatedAt": "2026-10-08T19:27:49.009093+00:00",
+  "checkedAt": "2026-10-08T19:27:49.009093+00:00",
   "newestPublishedAt": "2026-10-08T18:33:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "b5320e184af6a0c088c7",
+      "id": "f0c16f68ad3c52a56d56",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,36 @@
       "summary": "تمنح مدفوعات Amazon Bedrock AgentCore وكلاء الذكاء الاصطناعي طريقة مدارة للدفع مقابل الخدمات عند الطلب، مع فرض حدود الإنفاق من قبل البنية التحتية. شاهد كيف يعمل وكيل Incarna",
       "summaryOriginal": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments",
+      "source": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T18:33:29+00:00"
+      "searchAliases": "Amazon Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments"
     },
     {
-      "id": "4c7ee628aba042382119",
+      "id": "7f4f6d08abc52d765bec",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "أمان وسياسات",
+      "title": "تحديث سياسة الاستخدام لعام 2026",
+      "titleOriginal": "2026 Usage Policy update",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "policy",
+      "importance": 88,
+      "summary": "سننشر إصدارًا جديدًا من سياسة الاستخدام الخاصة بنا. في هذا المنشور، نلخص التغييرات التي أجريناها.",
+      "summaryOriginal": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic 2026 Usage Policy update"
+    },
+    {
+      "id": "197e32cb46c17ae2fae8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,17 +148,12 @@
       "summary": "بنية مرجعية لمشاركة مجموعة HyperPod EKS واحدة من Amazon SageMaker بشكل آمن عبر فرق متعددة، باستخدام مركز هوية AWS IAM للمصادقة، لكل فريق",
       "summaryOriginal": "A reference architecture for securely sharing one Amazon SageMaker HyperPod EKS cluster across multiple teams, using AWS IAM Identity Center for authentication, per-team SageMaker Domains and Kubernetes namespaces for isolation, HyperPod Task Governance for fairness, and namespace-level cost allocation for chargeback.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod",
+      "source": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T16:20:04+00:00"
+      "searchAliases": "Amazon Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod"
     },
     {
       "id": "8b148cf79b1b84cb9073",
@@ -163,12 +174,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T16:00:00+00:00"
+      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex"
+    },
+    {
+      "id": "c3d18bcde10d7890f4b8",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "البناء على التزامنا بالاكتشافات العلمية الأمريكية",
+      "titleOriginal": "Building on our commitment to American scientific discovery",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تلتزم Anthropic بمبلغ 150 مليون دولار على مدى ثلاث سنوات لبعثة Genesis، وهي مبادرة فيدرالية لتسريع الاكتشاف العلمي والتكنولوجي من خلال الذكاء الاصطناعي.",
+      "summaryOriginal": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Building on our commitment to American scientific discovery"
     },
     {
       "id": "d0b337f22f099a7f00f4",
@@ -189,12 +216,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T12:00:00+00:00"
+      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI"
+    },
+    {
+      "id": "1b12c2833e87b165a120",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "التعريف بالمهمة السيبرانية الأنثروبية",
+      "titleOriginal": "Introducing the Anthropic Cyber Mission",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Introducing the Anthropic Cyber Mission"
     },
     {
       "id": "351a3936345bfa3a3f92",
@@ -215,38 +258,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Disrupting AI-enabled “false front” operations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T00:00:00+00:00"
-    },
-    {
-      "id": "27b19ae2cd36a58ebae4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Falcon ASR",
-      "titleOriginal": "Introducing Falcon ASR",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing Falcon ASR",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T13:21:03+00:00"
+      "searchAliases": "OpenAI Disrupting AI-enabled “false front” operations"
     },
     {
       "id": "8a7cca1a8553f8c85919",
@@ -438,6 +450,27 @@
       "searchAliases": "Amazon How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock"
     },
     {
+      "id": "27b19ae2cd36a58ebae4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Falcon ASR",
+      "titleOriginal": "Introducing Falcon ASR",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing Falcon ASR"
+    },
+    {
       "id": "c5da9225ca3226206a4c",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -585,48 +618,6 @@
       "searchAliases": "OpenAI Atlassian and OpenAI expand partnership to turn enterprise knowledge into action"
     },
     {
-      "id": "5a3a7b4f0cc2570fb97d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "الحوكمة المسؤولة للذكاء الاصطناعي: كيف تضع AWS العملاء للتوافق مع ISO/IEC 42005:2025",
-      "titleOriginal": "Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "business",
-      "importance": 82,
-      "summary": "تستثمر AWS في الأدوات التي تساعد العملاء على التوافق مع المعايير الدولية للحوكمة المسؤولة للذكاء الاصطناعي. في هذا المنشور، نستكشف تقييم تأثير نظام الذكاء الاصطناعي: ما",
-      "summaryOriginal": "AWS invests in tools that help customers align with international standards for responsible AI governance. In this post, we explore the AI system impact assessment: what it is, how it improves enterprise-wide risk management, and how ISO/IEC 42005:2025 codifies best practices for conducting and documenting these assessments.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025"
-    },
-    {
-      "id": "2290e69f397ec1fdc251",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "أفضل الممارسات لإدارة وحوكمة Amazon SageMaker HyperPod",
-      "titleOriginal": "Best practices for Amazon SageMaker HyperPod administration and governance",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية إدارة Amazon SageMaker HyperPod من خلال Amazon SageMaker Unified Studio مع الحفاظ على حوكمة المجموعة. يوضح هذا المنشور فرق المنصة كيفية تصميم",
-      "summaryOriginal": "Learn how to administer Amazon SageMaker HyperPod through Amazon SageMaker Unified Studio while preserving cluster governance. This post shows platform teams how to design infrastructure boundaries, govern access, allocate shared capacity, and operate HyperPod consistently across the organization, project, cluster, and workload control layers.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Best practices for Amazon SageMaker HyperPod administration and governance"
-    },
-    {
       "id": "48fd59672ee40d38aede",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,35 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advancing computer use with Ironclad"
-    },
-    {
-      "id": "b35ceb3fac8752044169",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "من المسح الضوئي إلى خطة العلاج، يساعد الذكاء الاصطناعي على سد الفجوات الأكثر فتكًا في سرطان الثدي",
-      "titleOriginal": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "dateLabel": "5 أكتوبر 2026",
-      "dateISO": "2026-10-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "سرطان الثدي هو أكثر أنواع السرطان التي يتم تشخيصها شيوعًا بين النساء الأمريكيات — ومع ذلك فإن الفجوات في الرعاية واسعة. غالبية النساء فوق سن الأربعين يتخطين الفحص السنوي الموصى به",
-      "summaryOriginal": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-05T13:00:57+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-08T13:32:21.438398+00:00",
-  "lastFastCheckAt": "2026-10-08T19:25:20.648856+00:00"
+  "lastDeepCheckAt": "2026-10-08T19:27:49.009093+00:00"
 }
