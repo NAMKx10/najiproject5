@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T18:58:34.069409+00:00",
-  "checkedAt": "2026-10-09T18:58:34.069409+00:00",
+  "updatedAt": "2026-10-09T19:00:48.996926+00:00",
+  "checkedAt": "2026-10-09T19:00:48.996926+00:00",
   "newestPublishedAt": "2026-10-09T15:38:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "61360e7d1382a61ae47c",
+      "id": "b8dcceb26e0c78aceb22",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "ملخص شهري لأحدث تحديثات Amazon Bedrock و Amazon Bedrock AgentCore و Strands من سبتمبر 2026: اختيار نموذج أوسع، وكلاء أسرع بدون خادم مع",
       "summaryOriginal": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
+      "source": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon ICYMI: What landed for AI builders in September 2026",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T15:38:39+00:00"
+      "searchAliases": "Amazon ICYMI: What landed for AI builders in September 2026"
     },
     {
-      "id": "78574eec4d7d285427c2",
+      "id": "bb5f27d54530b3f89abc",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,17 +127,12 @@
       "summary": "يعد بناء وكيل ذكاء اصطناعي يعمل في عرض توضيحي مشكلة مختلفة عن تشغيل واحد لـ 40 مليون مطور. يشترك ساعي البريد و AWS في الأنماط المعمارية وراء الوكيل",
       "summaryOriginal": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T15:35:02+00:00"
+      "searchAliases": "Amazon How Postman runs Agent Mode for 40 million developers on Amazon Bedrock"
     },
     {
       "id": "a45cab2b414bcf3b6b5c",
@@ -163,38 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Impactful scheduling for GPU clusters",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T15:20:29+00:00"
-    },
-    {
-      "id": "0f1eab57236c05e21cdb",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يكلف طراز Asana تخفيضات 76x في اختبارات المتصفح باستخدام GPT-6.1 Sol",
-      "titleOriginal": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "باستخدام GPT -6 Astra في Codex، جعلت Asana وكيل المتصفح الخاص بها أرخص 76 مرة وأسرع 5 مرات في الاختبارات لتزويد العملاء بنماذج أكثر قدرة.",
-      "summaryOriginal": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/asana-browser-agent",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T07:00:00+00:00"
+      "searchAliases": "Hugging Face Impactful scheduling for GPU clusters"
     },
     {
       "id": "c2bd9140cf451f0fd2b2",
@@ -216,6 +175,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+    },
+    {
+      "id": "0f1eab57236c05e21cdb",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يكلف طراز Asana تخفيضات 76x في اختبارات المتصفح باستخدام GPT-6.1 Sol",
+      "titleOriginal": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "dateLabel": "9 أكتوبر 2026",
+      "dateISO": "2026-10-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "باستخدام GPT -6 Astra في Codex، جعلت Asana وكيل المتصفح الخاص بها أرخص 76 مرة وأسرع 5 مرات في الاختبارات لتزويد العملاء بنماذج أكثر قدرة.",
+      "summaryOriginal": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/asana-browser-agent",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     },
     {
       "id": "17ff82eab5b698cdfceb",
@@ -617,27 +597,6 @@
       "searchAliases": "Amazon Building AI builders: Playbook for closing the AI knowledge-capability gap"
     },
     {
-      "id": "bf76e276e1ed14c4dc8e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف خفض Cornerstone OnDemand تشخيص قاعدة البيانات بنسبة 78 ٪ مع Amazon Bedrock",
-      "titleOriginal": "How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قامت شركة Cornerstone OnDemand ببناء نظام Orion AI، وهو نظام متعدد الوكلاء على Amazon Bedrock و Strands Agents، لتحويل عمليات قاعدة البيانات من مكافحة الحرائق التفاعلية إلى السيارات الاستباقية",
-      "summaryOriginal": "Cornerstone OnDemand built Orion AI, a multi-agent system on Amazon Bedrock and Strands Agents, to turn database operations from reactive firefighting into proactive automation. A three-person team cut database diagnosis from 45 minutes to 10, a 78% reduction, in six months. See the design decisions other teams can reuse.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-cornerstone-ondemand-cut-database-diagnosis-by-78-with-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Cornerstone OnDemand cut database diagnosis by 78% with Amazon Bedrock"
-    },
-    {
       "id": "27b19ae2cd36a58ebae4",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -741,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
+    },
+    {
+      "id": "c13fb673ce135db2bbb7",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع برنامج التحقق السيبراني",
+      "titleOriginal": "Expanding the Cyber Verification Program",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "نحن بصدد إطلاق نسخة جديدة وموسعة من برنامج التحقق السيبراني (CVP)، مما يجعل القدرات السيبرانية المتقدمة وتقليل مصنفات الحجب متاحة",
+      "summaryOriginal": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/cyber-verification-program",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Expanding the Cyber Verification Program"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-09T13:19:13.594076+00:00",
-  "lastFastCheckAt": "2026-10-09T18:58:34.069409+00:00"
+  "lastDeepCheckAt": "2026-10-09T19:00:48.996926+00:00"
 }
