@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T15:35:53.661387+00:00",
-  "checkedAt": "2026-10-09T15:35:53.661387+00:00",
-  "newestPublishedAt": "2026-10-09T15:35:02+00:00",
+  "updatedAt": "2026-10-09T15:41:10.580591+00:00",
+  "checkedAt": "2026-10-09T15:41:10.580591+00:00",
+  "newestPublishedAt": "2026-10-09T15:38:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "61360e7d1382a61ae47c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ICYMI: ما الذي هبط لبناة الذكاء الاصطناعي في سبتمبر 2026",
+      "titleOriginal": "ICYMI: What landed for AI builders in September 2026",
+      "dateLabel": "9 أكتوبر 2026",
+      "dateISO": "2026-10-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "ملخص شهري لأحدث تحديثات Amazon Bedrock و Amazon Bedrock AgentCore و Strands من سبتمبر 2026: اختيار نموذج أوسع، وكلاء أسرع بدون خادم مع",
+      "summaryOriginal": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon ICYMI: What landed for AI builders in September 2026",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-09T15:38:39+00:00"
+    },
     {
       "id": "78574eec4d7d285427c2",
       "company": "Amazon",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-06T19:19:15+00:00"
-    },
-    {
-      "id": "80ac750c033f47c2a3de",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "لماذا يبني مشغلو الاتصالات استراتيجيتهم للذكاء الاصطناعي على النماذج المفتوحة",
-      "titleOriginal": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعمل مشغلو الاتصالات بشكل متزايد على بناء استراتيجيات الذكاء الاصطناعي الخاصة بهم على نماذج مفتوحة — وتتجاوز الأسباب مجرد التكلفة. تمنح النماذج المفتوحة شركات الاتصالات القدرة على الثقة والتحكم",
-      "summaryOriginal": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T13:00:19+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-09T13:19:13.594076+00:00",
-  "lastFastCheckAt": "2026-10-09T15:35:53.661387+00:00"
+  "lastFastCheckAt": "2026-10-09T15:41:10.580591+00:00"
 }
