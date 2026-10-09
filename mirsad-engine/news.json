@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T20:24:56.513420+00:00",
-  "checkedAt": "2026-10-09T20:24:56.513420+00:00",
+  "updatedAt": "2026-10-09T20:29:57.758849+00:00",
+  "checkedAt": "2026-10-09T20:29:57.758849+00:00",
   "newestPublishedAt": "2026-10-09T15:38:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -730,5 +730,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-09T19:00:48.996926+00:00",
-  "lastFastCheckAt": "2026-10-09T20:24:56.513420+00:00"
+  "lastFastCheckAt": "2026-10-09T20:29:57.758849+00:00"
 }
