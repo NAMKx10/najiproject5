@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T18:28:08.175834+00:00",
-  "checkedAt": "2026-10-09T18:28:08.175834+00:00",
+  "updatedAt": "2026-10-09T18:33:14.581298+00:00",
+  "checkedAt": "2026-10-09T18:33:14.581298+00:00",
   "newestPublishedAt": "2026-10-09T15:38:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -169,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-09T15:20:29+00:00"
+    },
+    {
+      "id": "0f1eab57236c05e21cdb",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يكلف طراز Asana تخفيضات 76x في اختبارات المتصفح باستخدام GPT-6.1 Sol",
+      "titleOriginal": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "dateLabel": "9 أكتوبر 2026",
+      "dateISO": "2026-10-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "باستخدام GPT -6 Astra في Codex، جعلت Asana وكيل المتصفح الخاص بها أرخص 76 مرة وأسرع 5 مرات في الاختبارات لتزويد العملاء بنماذج أكثر قدرة.",
+      "summaryOriginal": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/asana-browser-agent",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-09T07:00:00+00:00"
     },
     {
       "id": "c2bd9140cf451f0fd2b2",
@@ -715,35 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
-    },
-    {
-      "id": "b124c354a521767c04f2",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء مساعد ذكاء اصطناعي مدرك للسياق على AgentCore و OpenClaw",
-      "titleOriginal": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ينساك مساعدو الذكاء الاصطناعي الجاهزون بين المحادثات. يوضح هذا المنشور كيفية بناء مساعد شخصي يراكم السياق باستخدام OpenClaw على Amazon Bedrock",
-      "summaryOriginal": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T19:19:15+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-09T13:19:13.594076+00:00",
-  "lastFastCheckAt": "2026-10-09T18:28:08.175834+00:00"
+  "lastFastCheckAt": "2026-10-09T18:33:14.581298+00:00"
 }
