@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T15:20:45.472475+00:00",
-  "checkedAt": "2026-10-09T15:20:45.472475+00:00",
+  "updatedAt": "2026-10-09T15:25:46.370018+00:00",
+  "checkedAt": "2026-10-09T15:25:46.370018+00:00",
   "newestPublishedAt": "2026-10-09T15:20:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -665,6 +665,32 @@
       "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
     },
     {
+      "id": "b124c354a521767c04f2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء مساعد ذكاء اصطناعي مدرك للسياق على AgentCore و OpenClaw",
+      "titleOriginal": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ينساك مساعدو الذكاء الاصطناعي الجاهزون بين المحادثات. يوضح هذا المنشور كيفية بناء مساعد شخصي يراكم السياق باستخدام OpenClaw على Amazon Bedrock",
+      "summaryOriginal": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazon Bedrock AgentCore runtime, with AgentCore memory turning disposable chats into durable, structured knowledge you can retrieve with metadata filters.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building a context-aware AI assistant on AgentCore and OpenClaw",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T19:19:15+00:00"
+    },
+    {
       "id": "80ac750c033f47c2a3de",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-06T12:00:00+00:00"
-    },
-    {
-      "id": "13e8e0912208d718fe68",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مشاركة تقدم الذكاء الاصطناعي في الرياضيات",
-      "titleOriginal": "Sharing AI progress in mathematics",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "تنشر OpenAI نتائج جديدة حول المشكلات المفتوحة في الرياضيات من نموذج الحدود الداخلية وتشارك إضفاء الطابع الرسمي على الدليل الضعيف وتفاصيل البحث على GitHub.",
-      "summaryOriginal": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sharing AI progress in mathematics",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-09T13:19:13.594076+00:00",
-  "lastFastCheckAt": "2026-10-09T15:20:45.472475+00:00"
+  "lastFastCheckAt": "2026-10-09T15:25:46.370018+00:00"
 }
