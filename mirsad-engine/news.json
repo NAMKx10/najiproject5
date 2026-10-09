@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T00:01:33.764334+00:00",
-  "checkedAt": "2026-10-09T00:01:33.764334+00:00",
+  "updatedAt": "2026-10-09T00:06:09.812084+00:00",
+  "checkedAt": "2026-10-09T00:06:09.812084+00:00",
   "newestPublishedAt": "2026-10-08T21:06:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -644,6 +644,32 @@
       "publishedAt": "2026-10-06T12:00:00+00:00"
     },
     {
+      "id": "25603b9f07cc333a713c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تعمل JUMP Trading على توسيع نطاق البحث الكمي باستخدام ChatGPT",
+      "titleOriginal": "How Jump Trading is scaling quant research with ChatGPT",
+      "dateLabel": "6 أكتوبر 2026",
+      "dateISO": "2026-10-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم JUMP Trading OpenAI لتوسيع البحث الكمي. تعرف على كيفية دمج سير عمل الذكاء الاصطناعي طويل الأمد بين مصادر البيانات المتعددة والمراجعة البشرية.",
+      "summaryOriginal": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/jump-trading",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Jump Trading is scaling quant research with ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T12:00:00+00:00"
+    },
+    {
       "id": "722ab04703c303ffe57a",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Expanding the Cyber Verification Program"
-    },
-    {
-      "id": "48fd59672ee40d38aede",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "لماذا يبني مشغلو الاتصالات استراتيجيتهم للذكاء الاصطناعي على النماذج المفتوحة",
-      "titleOriginal": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعمل مشغلو الاتصالات بشكل متزايد على بناء استراتيجيات الذكاء الاصطناعي الخاصة بهم على نماذج مفتوحة — وتتجاوز الأسباب مجرد التكلفة. تمنح النماذج المفتوحة شركات الاتصالات القدرة على الثقة والتحكم",
-      "summaryOriginal": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-08T23:57:58.702941+00:00",
-  "lastFastCheckAt": "2026-10-09T00:01:33.764334+00:00"
+  "lastFastCheckAt": "2026-10-09T00:06:09.812084+00:00"
 }
