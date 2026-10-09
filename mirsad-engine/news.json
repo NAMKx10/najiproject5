@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-09T15:30:52.929560+00:00",
-  "checkedAt": "2026-10-09T15:30:52.929560+00:00",
-  "newestPublishedAt": "2026-10-09T15:20:29+00:00",
+  "updatedAt": "2026-10-09T15:35:53.661387+00:00",
+  "checkedAt": "2026-10-09T15:35:53.661387+00:00",
+  "newestPublishedAt": "2026-10-09T15:35:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "78574eec4d7d285427c2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف يدير ساعي البريد وضع الوكيل لـ 40 مليون مطور على Amazon Bedrock",
+      "titleOriginal": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "dateLabel": "9 أكتوبر 2026",
+      "dateISO": "2026-10-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يعد بناء وكيل ذكاء اصطناعي يعمل في عرض توضيحي مشكلة مختلفة عن تشغيل واحد لـ 40 مليون مطور. يشترك ساعي البريد و AWS في الأنماط المعمارية وراء الوكيل",
+      "summaryOriginal": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-09T15:35:02+00:00"
+    },
     {
       "id": "a45cab2b414bcf3b6b5c",
       "company": "Hugging Face",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-06T13:00:19+00:00"
-    },
-    {
-      "id": "25603b9f07cc333a713c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تعمل JUMP Trading على توسيع نطاق البحث الكمي باستخدام ChatGPT",
-      "titleOriginal": "How Jump Trading is scaling quant research with ChatGPT",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم JUMP Trading OpenAI لتوسيع البحث الكمي. تعرف على كيفية دمج سير عمل الذكاء الاصطناعي طويل الأمد بين مصادر البيانات المتعددة والمراجعة البشرية.",
-      "summaryOriginal": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/jump-trading",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Jump Trading is scaling quant research with ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-09T13:19:13.594076+00:00",
-  "lastFastCheckAt": "2026-10-09T15:30:52.929560+00:00"
+  "lastFastCheckAt": "2026-10-09T15:35:53.661387+00:00"
 }
