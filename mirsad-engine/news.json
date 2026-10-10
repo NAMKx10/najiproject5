@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-10T02:24:47.622011+00:00",
-  "checkedAt": "2026-10-10T02:24:47.622011+00:00",
+  "updatedAt": "2026-10-10T02:25:35.157855+00:00",
+  "checkedAt": "2026-10-10T02:25:35.157855+00:00",
   "newestPublishedAt": "2026-10-09T15:38:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -702,27 +702,33 @@
       "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
     },
     {
-      "id": "c13fb673ce135db2bbb7",
-      "company": "Anthropic",
-      "logoText": "A",
+      "id": "80ac750c033f47c2a3de",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "توسيع برنامج التحقق السيبراني",
-      "titleOriginal": "Expanding the Cyber Verification Program",
+      "title": "لماذا يبني مشغلو الاتصالات استراتيجيتهم للذكاء الاصطناعي على النماذج المفتوحة",
+      "titleOriginal": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
       "dateLabel": "6 أكتوبر 2026",
       "dateISO": "2026-10-06",
       "category": "models",
       "importance": 92,
-      "summary": "نحن بصدد إطلاق نسخة جديدة وموسعة من برنامج التحقق السيبراني (CVP)، مما يجعل القدرات السيبرانية المتقدمة وتقليل مصنفات الحجب متاحة",
-      "summaryOriginal": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+      "summary": "يعمل مشغلو الاتصالات بشكل متزايد على بناء استراتيجيات الذكاء الاصطناعي الخاصة بهم على نماذج مفتوحة — وتتجاوز الأسباب مجرد التكلفة. تمنح النماذج المفتوحة شركات الاتصالات القدرة على الثقة والتحكم",
+      "summaryOriginal": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/cyber-verification-program",
-      "sourceLabel": "Anthropic Newsroom",
+      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Anthropic Expanding the Cyber Verification Program"
+      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-06T13:00:19+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-10T02:24:47.622011+00:00"
+  "lastDeepCheckAt": "2026-10-10T02:24:47.622011+00:00",
+  "lastFastCheckAt": "2026-10-10T02:25:35.157855+00:00"
 }
