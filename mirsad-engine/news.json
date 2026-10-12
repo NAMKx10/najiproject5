@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-12T15:48:43.072444+00:00",
-  "checkedAt": "2026-10-12T15:48:43.072444+00:00",
-  "newestPublishedAt": "2026-10-12T15:00:25+00:00",
+  "updatedAt": "2026-10-12T15:53:41.427266+00:00",
+  "checkedAt": "2026-10-12T15:53:41.427266+00:00",
+  "newestPublishedAt": "2026-10-12T15:51:46+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "fe417a9b6403f85eb6b3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نشر نماذج القرار باستخدام llama.cpp على Amazon SageMaker AI",
+      "titleOriginal": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "dateLabel": "12 أكتوبر 2026",
+      "dateISO": "2026-10-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية نشر نماذج القرار باستخدام llama.cpp على Amazon SageMaker AI. تخدم هذه الكيفية التقنية عمليات إكمال الدردشة المتوافقة مع OpenAI مع AWS Deep Learning Cont",
+      "summaryOriginal": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Deploy decision models with llama.cpp on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-12T15:51:46+00:00"
+    },
+    {
+      "id": "74a2e354260727ac3867",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تشغيل أحمال عمل الاستدلال متعدد العقد باستخدام حاويات التعلم العميق RAY LLM",
+      "titleOriginal": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "dateLabel": "12 أكتوبر 2026",
+      "dateISO": "2026-10-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعلم كيفية نشر نموذج لغة واحد كبير عبر عقدتي GPU على Amazon EKS باستخدام حاويات التعلم العميق Ray LLM متعددة العقد، مع ملء مسبق وفك تشفير منفصلين",
+      "summaryOriginal": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-12T15:50:14+00:00"
+    },
     {
       "id": "9e5bb16b617e7b1070fd",
       "company": "NVIDIA",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO"
-    },
-    {
-      "id": "c35a7b85b06fd58acfb5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة المراهقين على تعلم وتخطيط وتشكيل مستقبل الذكاء الاصطناعي",
-      "titleOriginal": "Helping teens learn, plan, and shape the future of AI",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "يأتي مخطط الكلية إلى ChatGPT للمراهقين لمساعدة الطلاب على إدارة تطبيقات الكلية، إلى جانب البطاقات التعليمية الجديدة والاختبارات ومجلس الذكاء الاصطناعي للمراهقين.",
-      "summaryOriginal": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/teens-learn-and-plan",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping teens learn, plan, and shape the future of AI"
-    },
-    {
-      "id": "120ccf5eb8d6f612afc5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب مجموعة فنادق راديسون اكتشاف الفنادق إلى ChatGPT",
-      "titleOriginal": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "دخلت Radisson في شراكة مع Accenture لإنشاء مكون إضافي لـ ChatGPT باستخدام تقنية OpenAI، مما يساعد المسافرين على العثور على الفنادق ومقارنتها وحجزها أثناء التخطيط لرحلاتهم.",
-      "summaryOriginal": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/radisson",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-12T09:46:56.309478+00:00",
-  "lastFastCheckAt": "2026-10-12T15:48:43.072444+00:00"
+  "lastFastCheckAt": "2026-10-12T15:53:41.427266+00:00"
 }
