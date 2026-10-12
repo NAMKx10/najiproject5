@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-12T17:50:30.486224+00:00",
-  "checkedAt": "2026-10-12T17:50:30.486224+00:00",
-  "newestPublishedAt": "2026-10-12T15:51:46+00:00",
+  "updatedAt": "2026-10-12T17:54:28.119621+00:00",
+  "checkedAt": "2026-10-12T17:54:28.119621+00:00",
+  "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "305d7070d34ea2e8bee6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الوصول إلى نماذج OpenAI GPT على Amazon Bedrock باستدلال عالمي عبر المناطق في تايلاند وماليزيا وسنغافورة وإندونيسيا وتايوان",
+      "titleOriginal": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "dateLabel": "12 أكتوبر 2026",
+      "dateISO": "2026-10-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعلم كيفية تشغيل OpenAI GPT -6 Sol و Luna و Astra على Amazon Bedrock من خلال الاستدلال العالمي عبر المناطق من سنغافورة وجاكرتا وتايلاند وماليزيا وتايبيه. هذه الصفحة",
+      "summaryOriginal": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-12T17:52:22+00:00"
+    },
     {
       "id": "fe417a9b6403f85eb6b3",
       "company": "Amazon",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Beyond hours saved: Building the business case for agentic automation"
-    },
-    {
-      "id": "d3e40e6b6a2a0b831939",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "كيف قامت شركة كليك ببناء ذكاء اصطناعي على مستوى المؤسسة باستخدام أمازون بيدروك",
-      "titleOriginal": "How Qlik built grounded, enterprise-scale AI with Amazon Bedrock",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "business",
-      "importance": 82,
-      "summary": "قامت Qlik ببناء إجابات Qlik على Amazon Bedrock لمنح عملائها الذين يزيد عددهم عن 40,000 إجابة تستند إلى بيانات المؤسسة المهيكلة وغير المهيكلة. تعرف على كيفية استخدام الطبقات،",
-      "summaryOriginal": "Qlik built Qlik Answers on Amazon Bedrock to give its 40,000+ customers grounded, sourced answers across structured and unstructured enterprise data. Learn how a layered, multi-agent architecture with cross-Region inference and Amazon Bedrock Guardrails delivers trusted AI at global scale.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-qlik-built-grounded-enterprise-scale-ai-with-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Qlik built grounded, enterprise-scale AI with Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-12T09:46:56.309478+00:00",
-  "lastFastCheckAt": "2026-10-12T17:50:30.486224+00:00"
+  "lastFastCheckAt": "2026-10-12T17:54:28.119621+00:00"
 }
