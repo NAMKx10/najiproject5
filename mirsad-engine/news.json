@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-12T13:00:59.842206+00:00",
-  "checkedAt": "2026-10-12T13:00:59.842206+00:00",
-  "newestPublishedAt": "2026-10-09T15:38:39+00:00",
+  "updatedAt": "2026-10-12T13:06:10.699306+00:00",
+  "checkedAt": "2026-10-12T13:06:10.699306+00:00",
+  "newestPublishedAt": "2026-10-12T13:01:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b75a0c1b7a10dea029f8",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "مستجد تقني",
+      "title": "مايكروسوفت توسع نظام Azure Maia ليشمل عمليات نشر بعدة جيجاوات",
+      "titleOriginal": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "dateLabel": "12 أكتوبر 2026",
+      "dateISO": "2026-10-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "Azure Maia 200 قيد الإنتاج الآن ؛ Azure Maia 300 قادم في عام 2027 مع انتقالنا إلى عصر الذكاء الفائق، تدخل Microsoft مرحلة جديدة من البنية التحتية. سوف",
+      "summaryOriginal": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services. The multigenerational... The post Microsoft to expand Azure Maia system to multi-gigawatt deployments appeared first on The Official Microsoft Blog .",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-12T13:01:29+00:00"
+    },
     {
       "id": "b8dcceb26e0c78aceb22",
       "company": "Amazon",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
-    },
-    {
-      "id": "80ac750c033f47c2a3de",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "لماذا يبني مشغلو الاتصالات استراتيجيتهم للذكاء الاصطناعي على النماذج المفتوحة",
-      "titleOriginal": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "dateLabel": "6 أكتوبر 2026",
-      "dateISO": "2026-10-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعمل مشغلو الاتصالات بشكل متزايد على بناء استراتيجيات الذكاء الاصطناعي الخاصة بهم على نماذج مفتوحة — وتتجاوز الأسباب مجرد التكلفة. تمنح النماذج المفتوحة شركات الاتصالات القدرة على الثقة والتحكم",
-      "summaryOriginal": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/telecom-operators-open-models",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Why Telecom Operators Are Building Their AI Strategy on Open Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-06T13:00:19+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-12T09:46:56.309478+00:00",
-  "lastFastCheckAt": "2026-10-12T13:00:59.842206+00:00"
+  "lastFastCheckAt": "2026-10-12T13:06:10.699306+00:00"
 }
