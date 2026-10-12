@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-12T15:02:56.136918+00:00",
-  "checkedAt": "2026-10-12T15:02:56.136918+00:00",
-  "newestPublishedAt": "2026-10-12T13:01:29+00:00",
+  "updatedAt": "2026-10-12T15:08:02.735213+00:00",
+  "checkedAt": "2026-10-12T15:08:02.735213+00:00",
+  "newestPublishedAt": "2026-10-12T15:00:25+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9e5bb16b617e7b1070fd",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "القمة العالمية للمجمع الشريف للفوسفاط: وسط اعتماد النظام البيئي، تفتتح NVIDIA بنية فيرا روبن للمساعدة في توسيع نطاق مصانع الذكاء الاصطناعي في جميع أنحاء العالم",
+      "titleOriginal": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "dateLabel": "12 أكتوبر 2026",
+      "dateISO": "2026-10-12",
+      "category": "business",
+      "importance": 82,
+      "summary": "مع نمو مصانع الذكاء الاصطناعي من ميجاوات إلى جيجاوات، فإن بنائها يتطلب أكثر من الحوسبة المتقدمة. تساعد المعايير المفتوحة البنية التحتية للذكاء الاصطناعي على نطاق الصناعة بشكل أسرع",
+      "summaryOriginal": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-12T15:00:25+00:00"
+    },
     {
       "id": "b75a0c1b7a10dea029f8",
       "company": "Microsoft",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT"
-    },
-    {
-      "id": "916a3279540fd4a61d22",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT -6 وواجهة المستخدم الذكية للجميع",
-      "titleOriginal": "GPT-6 and Intelligent UI for everyone",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتم طرح GPT‑6 عالميًا في ChatGPT مع واجهة مستخدم ذكية، مما يوفر استجابات أسرع مع صور وتجارب تفاعلية يمكنك استكشافها واستخدامها مباشرة.",
-      "summaryOriginal": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-for-everyone",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6 and Intelligent UI for everyone"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-12T09:46:56.309478+00:00",
-  "lastFastCheckAt": "2026-10-12T15:02:56.136918+00:00"
+  "lastFastCheckAt": "2026-10-12T15:08:02.735213+00:00"
 }
