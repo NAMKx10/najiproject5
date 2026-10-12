@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-12T19:20:41.301276+00:00",
-  "checkedAt": "2026-10-12T19:20:41.301276+00:00",
+  "updatedAt": "2026-10-12T19:23:39.925922+00:00",
+  "checkedAt": "2026-10-12T19:23:39.925922+00:00",
   "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "305d7070d34ea2e8bee6",
+      "id": "cd9c7afc09d255a5cbf6",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "تعلم كيفية تشغيل OpenAI GPT -6 Sol و Luna و Astra على Amazon Bedrock من خلال الاستدلال العالمي عبر المناطق من سنغافورة وجاكرتا وتايلاند وماليزيا وتايبيه. هذه الصفحة",
       "summaryOriginal": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-12T17:52:22+00:00"
+      "searchAliases": "Amazon Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan"
     },
     {
-      "id": "fe417a9b6403f85eb6b3",
+      "id": "ae2468b8fd36a2304f90",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "تعرف على كيفية نشر نماذج القرار باستخدام llama.cpp على Amazon SageMaker AI. تخدم هذه الكيفية التقنية عمليات إكمال الدردشة المتوافقة مع OpenAI مع AWS Deep Learning Cont",
       "summaryOriginal": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-12T15:51:46+00:00"
+      "searchAliases": "Amazon Deploy decision models with llama.cpp on Amazon SageMaker AI"
     },
     {
-      "id": "74a2e354260727ac3867",
+      "id": "d2840f479e1f9b59c8e7",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "تعلم كيفية نشر نموذج لغة واحد كبير عبر عقدتي GPU على Amazon EKS باستخدام حاويات التعلم العميق Ray LLM متعددة العقد، مع ملء مسبق وفك تشفير منفصلين",
       "summaryOriginal": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-12T15:50:14+00:00"
+      "searchAliases": "Amazon Run multi-node inference workloads using Ray LLM Deep Learning Containers"
     },
     {
-      "id": "9e5bb16b617e7b1070fd",
+      "id": "5236d246906dc8230c20",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -184,20 +169,15 @@
       "summary": "مع نمو مصانع الذكاء الاصطناعي من ميجاوات إلى جيجاوات، فإن بنائها يتطلب أكثر من الحوسبة المتقدمة. تساعد المعايير المفتوحة البنية التحتية للذكاء الاصطناعي على نطاق الصناعة بشكل أسرع",
       "summaryOriginal": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
+      "source": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-12T15:00:25+00:00"
+      "searchAliases": "NVIDIA OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide"
     },
     {
-      "id": "b75a0c1b7a10dea029f8",
+      "id": "82c2e3a60f885c7ab5f6",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "مستجد تقني",
@@ -210,17 +190,12 @@
       "summary": "Azure Maia 200 قيد الإنتاج الآن ؛ Azure Maia 300 قادم في عام 2027 مع انتقالنا إلى عصر الذكاء الفائق، تدخل Microsoft مرحلة جديدة من البنية التحتية. سوف",
       "summaryOriginal": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services. The multigenerational... The post Microsoft to expand Azure Maia system to multi-gigawatt deployments appeared first on The Official Microsoft Blog .",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+      "source": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Microsoft to expand Azure Maia system to multi-gigawatt deployments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-12T13:01:29+00:00"
+      "searchAliases": "Microsoft Microsoft to expand Azure Maia system to multi-gigawatt deployments"
     },
     {
       "id": "b8dcceb26e0c78aceb22",
@@ -559,110 +534,6 @@
       "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself"
     },
     {
-      "id": "27b19ae2cd36a58ebae4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Falcon ASR",
-      "titleOriginal": "Introducing Falcon ASR",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing Falcon ASR",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T13:21:03+00:00"
-    },
-    {
-      "id": "c5da9225ca3226206a4c",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "عائلة نموذجية واحدة، نتيجتان على المستوى الذهبي: نيموترون دقيق الضبط لـ IOI و IMO",
-      "titleOriginal": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T12:45:31+00:00"
-    },
-    {
-      "id": "c35a7b85b06fd58acfb5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة المراهقين على تعلم وتخطيط وتشكيل مستقبل الذكاء الاصطناعي",
-      "titleOriginal": "Helping teens learn, plan, and shape the future of AI",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "يأتي مخطط الكلية إلى ChatGPT للمراهقين لمساعدة الطلاب على إدارة تطبيقات الكلية، إلى جانب البطاقات التعليمية الجديدة والاختبارات ومجلس الذكاء الاصطناعي للمراهقين.",
-      "summaryOriginal": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/teens-learn-and-plan",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping teens learn, plan, and shape the future of AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T12:00:00+00:00"
-    },
-    {
-      "id": "120ccf5eb8d6f612afc5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب مجموعة فنادق راديسون اكتشاف الفنادق إلى ChatGPT",
-      "titleOriginal": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "دخلت Radisson في شراكة مع Accenture لإنشاء مكون إضافي لـ ChatGPT باستخدام تقنية OpenAI، مما يساعد المسافرين على العثور على الفنادق ومقارنتها وحجزها أثناء التخطيط لرحلاتهم.",
-      "summaryOriginal": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/radisson",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T07:00:00+00:00"
-    },
-    {
       "id": "8a7cca1a8553f8c85919",
       "company": "Amazon",
       "logoText": "AWS",
@@ -766,9 +637,92 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Beyond hours saved: Building the business case for agentic automation"
+    },
+    {
+      "id": "27b19ae2cd36a58ebae4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Falcon ASR",
+      "titleOriginal": "Introducing Falcon ASR",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing Falcon ASR"
+    },
+    {
+      "id": "c5da9225ca3226206a4c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "عائلة نموذجية واحدة، نتيجتان على المستوى الذهبي: نيموترون دقيق الضبط لـ IOI و IMO",
+      "titleOriginal": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO"
+    },
+    {
+      "id": "c35a7b85b06fd58acfb5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مساعدة المراهقين على تعلم وتخطيط وتشكيل مستقبل الذكاء الاصطناعي",
+      "titleOriginal": "Helping teens learn, plan, and shape the future of AI",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "يأتي مخطط الكلية إلى ChatGPT للمراهقين لمساعدة الطلاب على إدارة تطبيقات الكلية، إلى جانب البطاقات التعليمية الجديدة والاختبارات ومجلس الذكاء الاصطناعي للمراهقين.",
+      "summaryOriginal": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/teens-learn-and-plan",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping teens learn, plan, and shape the future of AI"
+    },
+    {
+      "id": "120ccf5eb8d6f612afc5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تجلب مجموعة فنادق راديسون اكتشاف الفنادق إلى ChatGPT",
+      "titleOriginal": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "دخلت Radisson في شراكة مع Accenture لإنشاء مكون إضافي لـ ChatGPT باستخدام تقنية OpenAI، مما يساعد المسافرين على العثور على الفنادق ومقارنتها وحجزها أثناء التخطيط لرحلاتهم.",
+      "summaryOriginal": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/radisson",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-12T09:46:56.309478+00:00",
-  "lastFastCheckAt": "2026-10-12T19:20:41.301276+00:00"
+  "lastDeepCheckAt": "2026-10-12T19:23:39.925922+00:00"
 }
