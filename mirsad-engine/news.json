@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T21:29:27.879187+00:00",
-  "checkedAt": "2026-10-13T21:29:27.879187+00:00",
+  "updatedAt": "2026-10-13T21:33:44.625541+00:00",
+  "checkedAt": "2026-10-13T21:33:44.625541+00:00",
   "newestPublishedAt": "2026-10-13T20:10:33+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "7690b49123111efb3208",
+      "id": "c497a36771a8f2e10c15",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,20 +106,15 @@
       "summary": "تعرف على كيفية قيام مركز AWS Generative AI Innovation Center Partner Agent Factory و Anchor Browser ببناء وكلاء الذكاء الاصطناعي الذين يدفعون بشكل مستقل مقابل موارد الويب وواجهات برمجة التطبيقات المحمية بـ x402",
       "summaryOriginal": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T20:10:33+00:00"
+      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments"
     },
     {
-      "id": "a652426db565c1f5be71",
+      "id": "46175664c1a5a84377ee",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,17 +127,12 @@
       "summary": "تؤدي إدارة الوصول إلى نموذج الذكاء الاصطناعي عبر العشرات أو المئات من حسابات AWS إلى حدوث احتكاك عندما يجب على كل حساب قبول عروض التسعير الخاصة لسوق AWS بشكل فردي.",
       "summaryOriginal": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK automation for ongoing event-driven processing.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T17:17:25+00:00"
+      "searchAliases": "Amazon Manage private pricing offers for Amazon Bedrock with managed entitlements"
     },
     {
       "id": "37c4b5eef3b7587e9e46",
@@ -163,38 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T17:05:48+00:00"
-    },
-    {
-      "id": "739048b80dae375c9198",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يأخذ هيغزفيلد فيديو الذكاء الاصطناعي من دقيقة واحدة إلى أكثر من 10 دقائق",
-      "titleOriginal": "Higgsfield takes AI video from 1 minute to over 10",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "يوفر هيغزفيلد للمبدعين مقاطع فيديو أطول مع GPT -6 Astra، ومرئيات دقيقة مع GPT-Image-2.5، ومسارًا لصناعة الأفلام الصوتية مع GPT - Live.",
-      "summaryOriginal": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Higgsfield takes AI video from 1 minute to over 10",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:00:00+00:00"
+      "searchAliases": "Hugging Face Run fast, private agents on-device with LFM2.5-24B-A2B"
     },
     {
       "id": "694f0128730dddc7851a",
@@ -344,12 +303,33 @@
       "searchAliases": "NVIDIA All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark"
     },
     {
-      "id": "df5af4605271c4154c32",
+      "id": "739048b80dae375c9198",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يأخذ هيغزفيلد فيديو الذكاء الاصطناعي من دقيقة واحدة إلى أكثر من 10 دقائق",
+      "titleOriginal": "Higgsfield takes AI video from 1 minute to over 10",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "يوفر هيغزفيلد للمبدعين مقاطع فيديو أطول مع GPT -6 Astra، ومرئيات دقيقة مع GPT-Image-2.5، ومسارًا لصناعة الأفلام الصوتية مع GPT - Live.",
+      "summaryOriginal": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Higgsfield takes AI video from 1 minute to over 10"
+    },
+    {
+      "id": "c6406d2899a916128de3",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
-      "title": "من الأرض إلى المدار، يوفر النظام البيئي الفرنسي حوسبة الوكلاء على نطاق واسع باستخدام NVIDIA",
-      "titleOriginal": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "title": "NVIDIA تعلن عن استثمارات جديدة في الشركات الناشئة في فرنسا",
+      "titleOriginal": "NVIDIA Announces New Investments in France’s Startups",
       "dateLabel": "13 أكتوبر 2026",
       "dateISO": "2026-10-13",
       "category": "research",
@@ -362,7 +342,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA"
+      "searchAliases": "NVIDIA NVIDIA Announces New Investments in France’s Startups"
     },
     {
       "id": "cd9c7afc09d255a5cbf6",
@@ -512,27 +492,6 @@
       "searchAliases": "Amazon ICYMI: What landed for AI builders in September 2026"
     },
     {
-      "id": "bb5f27d54530b3f89abc",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف يدير ساعي البريد وضع الوكيل لـ 40 مليون مطور على Amazon Bedrock",
-      "titleOriginal": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يعد بناء وكيل ذكاء اصطناعي يعمل في عرض توضيحي مشكلة مختلفة عن تشغيل واحد لـ 40 مليون مطور. يشترك ساعي البريد و AWS في الأنماط المعمارية وراء الوكيل",
-      "summaryOriginal": "Building an AI agent that works in a demo is a different problem from running one for 40 million developers. Postman and AWS share the architectural patterns behind Agent Mode: controlling tool sprawl, exposing schema-based reads, and treating context as the real bottleneck, plus how it runs on Amazon Bedrock at scale.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Postman runs Agent Mode for 40 million developers on Amazon Bedrock"
-    },
-    {
       "id": "a45cab2b414bcf3b6b5c",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -615,27 +574,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "f0c16f68ad3c52a56d56",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الدفع لكل استنتاج لوكلاء الذكاء الاصطناعي: كيف تستخدم BlockRun و Incarna مدفوعات Amazon Bedrock AgentCore",
-      "titleOriginal": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "تمنح مدفوعات Amazon Bedrock AgentCore وكلاء الذكاء الاصطناعي طريقة مدارة للدفع مقابل الخدمات عند الطلب، مع فرض حدود الإنفاق من قبل البنية التحتية. شاهد كيف يعمل وكيل Incarna",
-      "summaryOriginal": "Amazon Bedrock AgentCore payments gives AI agents a managed way to pay for services on demand, with spending limits enforced by the infrastructure. See how Incarna's agents pay BlockRun for model inference one request at a time over x402, cutting the work of adding x402 payment support from months to days.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments"
     },
     {
       "id": "7f4f6d08abc52d765bec",
@@ -741,9 +679,50 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed"
+    },
+    {
+      "id": "1b12c2833e87b165a120",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "التعريف بالمهمة السيبرانية الأنثروبية",
+      "titleOriginal": "Introducing the Anthropic Cyber Mission",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Introducing the Anthropic Cyber Mission"
+    },
+    {
+      "id": "351a3936345bfa3a3f92",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تعطيل عمليات \"الواجهة الخاطئة\" التي تدعم الذكاء الاصطناعي",
+      "titleOriginal": "Disrupting AI-enabled “false front” operations",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "عطلت OpenAI عمليتي تأثير مدعومتين بالذكاء الاصطناعي استخدمتا صحفيين مزيفين ومركز أبحاث لنشر الرسائل الجيوسياسية.",
+      "summaryOriginal": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Disrupting AI-enabled “false front” operations"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-13T16:27:40.084369+00:00",
-  "lastFastCheckAt": "2026-10-13T21:29:27.879187+00:00"
+  "lastDeepCheckAt": "2026-10-13T21:33:44.625541+00:00"
 }
