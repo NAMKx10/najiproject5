@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T05:06:38.063221+00:00",
-  "checkedAt": "2026-10-13T05:06:38.063221+00:00",
-  "newestPublishedAt": "2026-10-12T17:52:22+00:00",
+  "updatedAt": "2026-10-13T05:11:42.525107+00:00",
+  "checkedAt": "2026-10-13T05:11:42.525107+00:00",
+  "newestPublishedAt": "2026-10-13T05:00:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a0367567e48b6b946b3a",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "من الأرض إلى المدار، يوفر النظام البيئي الفرنسي حوسبة الوكلاء على نطاق واسع باستخدام NVIDIA",
+      "titleOriginal": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "research",
+      "importance": 86,
+      "summary": "تقوم الشركات في فرنسا بنشر الحوسبة الوكيلة عبر الصناعات التي تغطي الفضاء والخدمات المالية والقطاع العام والبحث العلمي، مما يدل على كيفية",
+      "summaryOriginal": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T05:00:31+00:00"
+    },
     {
       "id": "cd9c7afc09d255a5cbf6",
       "company": "Amazon",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T12:45:31+00:00"
-    },
-    {
-      "id": "c35a7b85b06fd58acfb5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة المراهقين على تعلم وتخطيط وتشكيل مستقبل الذكاء الاصطناعي",
-      "titleOriginal": "Helping teens learn, plan, and shape the future of AI",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "يأتي مخطط الكلية إلى ChatGPT للمراهقين لمساعدة الطلاب على إدارة تطبيقات الكلية، إلى جانب البطاقات التعليمية الجديدة والاختبارات ومجلس الذكاء الاصطناعي للمراهقين.",
-      "summaryOriginal": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/teens-learn-and-plan",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping teens learn, plan, and shape the future of AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T01:38:00.367090+00:00",
-  "lastFastCheckAt": "2026-10-13T05:06:38.063221+00:00"
+  "lastFastCheckAt": "2026-10-13T05:11:42.525107+00:00"
 }
