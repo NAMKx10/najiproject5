@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T01:48:52.212415+00:00",
-  "checkedAt": "2026-10-13T01:48:52.212415+00:00",
+  "updatedAt": "2026-10-13T01:53:55.562844+00:00",
+  "checkedAt": "2026-10-13T01:53:55.562844+00:00",
   "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -555,6 +555,32 @@
       "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself"
     },
     {
+      "id": "c5da9225ca3226206a4c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "عائلة نموذجية واحدة، نتيجتان على المستوى الذهبي: نيموترون دقيق الضبط لـ IOI و IMO",
+      "titleOriginal": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T12:45:31+00:00"
+    },
+    {
       "id": "c35a7b85b06fd58acfb5",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Beyond hours saved: Building the business case for agentic automation"
-    },
-    {
-      "id": "27b19ae2cd36a58ebae4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Falcon ASR",
-      "titleOriginal": "Introducing Falcon ASR",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing Falcon ASR"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T01:38:00.367090+00:00",
-  "lastFastCheckAt": "2026-10-13T01:48:52.212415+00:00"
+  "lastFastCheckAt": "2026-10-13T01:53:55.562844+00:00"
 }
