@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T02:19:12.358800+00:00",
-  "checkedAt": "2026-10-13T02:19:12.358800+00:00",
+  "updatedAt": "2026-10-13T02:24:16.711137+00:00",
+  "checkedAt": "2026-10-13T02:24:16.711137+00:00",
   "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -555,6 +555,32 @@
       "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself"
     },
     {
+      "id": "87f36b6714846e9742b8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم كلود هايكو 5.5 على AWS",
+      "titleOriginal": "Introducing Claude Haiku 5.5 on AWS",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "كلود هايكو 5.5 متاح الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. وفقًا لـ أنثروبيك، إنه النموذج الأسرع والأكثر كفاءة في عائلة كلود 5.5،",
+      "summaryOriginal": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This post covers its improvements and how to get started.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Claude Haiku 5.5 on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T18:52:10+00:00"
+    },
+    {
       "id": "d0c0663c6b37cf7a53a0",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T12:00:00+00:00"
-    },
-    {
-      "id": "120ccf5eb8d6f612afc5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب مجموعة فنادق راديسون اكتشاف الفنادق إلى ChatGPT",
-      "titleOriginal": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "دخلت Radisson في شراكة مع Accenture لإنشاء مكون إضافي لـ ChatGPT باستخدام تقنية OpenAI، مما يساعد المسافرين على العثور على الفنادق ومقارنتها وحجزها أثناء التخطيط لرحلاتهم.",
-      "summaryOriginal": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/radisson",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T01:38:00.367090+00:00",
-  "lastFastCheckAt": "2026-10-13T02:19:12.358800+00:00"
+  "lastFastCheckAt": "2026-10-13T02:24:16.711137+00:00"
 }
