@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T02:04:00.705163+00:00",
-  "checkedAt": "2026-10-13T02:04:00.705163+00:00",
+  "updatedAt": "2026-10-13T02:09:05.710591+00:00",
+  "checkedAt": "2026-10-13T02:09:05.710591+00:00",
   "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -555,6 +555,32 @@
       "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself"
     },
     {
+      "id": "b077ae3baa4076b760bc",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج قرار مفتوحة متعددة الوسائط d1 للحافة",
+      "titleOriginal": "Multimodal open d1 decision models for the edge",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Multimodal open d1 decision models for the edge",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T16:54:33+00:00"
+    },
+    {
       "id": "6d253888ff52fb6cb282",
       "company": "Amazon",
       "logoText": "AWS",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents"
-    },
-    {
-      "id": "7dc8b19a1439fe1c5f81",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "إعادة التفكير في التحكم في الوصول إلى RAG باستخدام Amazon Quick و Amazon Bedrock",
-      "titleOriginal": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "business",
-      "importance": 82,
-      "summary": "تفتح Enterprise RAG رؤى من مصادر المعرفة مثل SharePoint و Google Drive و Confluence، لكن هذه المصادر تحمل أذونات معقدة. تعرف على كيفية سرعة أمازون",
-      "summaryOriginal": "Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Learn how Amazon Quick and Amazon Bedrock Knowledge Bases enforce document-level access controls in real time, verifying permissions directly with authoritative sources at query time.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Rethinking access control for RAG with Amazon Quick and Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T01:38:00.367090+00:00",
-  "lastFastCheckAt": "2026-10-13T02:04:00.705163+00:00"
+  "lastFastCheckAt": "2026-10-13T02:09:05.710591+00:00"
 }
