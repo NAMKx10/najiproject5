@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T01:53:55.562844+00:00",
-  "checkedAt": "2026-10-13T01:53:55.562844+00:00",
+  "updatedAt": "2026-10-13T01:58:59.893551+00:00",
+  "checkedAt": "2026-10-13T01:58:59.893551+00:00",
   "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -555,6 +555,32 @@
       "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself"
     },
     {
+      "id": "27b19ae2cd36a58ebae4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Falcon ASR",
+      "titleOriginal": "Introducing Falcon ASR",
+      "dateLabel": "7 أكتوبر 2026",
+      "dateISO": "2026-10-07",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing Falcon ASR",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-07T13:21:03+00:00"
+    },
+    {
       "id": "c5da9225ca3226206a4c",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Multimodal open d1 decision models for the edge"
-    },
-    {
-      "id": "c006a4be2c89765a76c5",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ما بعد الساعات المحفوظة: بناء دراسة الجدوى لأتمتة الوكلاء",
-      "titleOriginal": "Beyond hours saved: Building the business case for agentic automation",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "يفتقد نموذج عائد الاستثمار في عصر RPA معظم عمليات أتمتة عوامل القيمة. يمنح هذا المنشور قادة مركز التميز في الذكاء الاصطناعي إطارًا لحجم القيمة الكاملة للوكلاء",
-      "summaryOriginal": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and to prioritize which workflows to automate first.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Beyond hours saved: Building the business case for agentic automation"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T01:38:00.367090+00:00",
-  "lastFastCheckAt": "2026-10-13T01:53:55.562844+00:00"
+  "lastFastCheckAt": "2026-10-13T01:58:59.893551+00:00"
 }
