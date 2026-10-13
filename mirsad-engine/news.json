@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T16:02:32.569927+00:00",
-  "checkedAt": "2026-10-13T16:02:32.569927+00:00",
-  "newestPublishedAt": "2026-10-13T15:54:49+00:00",
+  "updatedAt": "2026-10-13T16:07:36.516875+00:00",
+  "checkedAt": "2026-10-13T16:07:36.516875+00:00",
+  "newestPublishedAt": "2026-10-13T16:03:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "613cfdb0f7ed0b09a90b",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "استفسارات أمان اللغة الطبيعية في Orca Security باستخدام Amazon Bedrock",
+      "titleOriginal": "Natural language security queries at Orca Security using Amazon Bedrock",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "policy",
+      "importance": 88,
+      "summary": "قامت شركة Orca Security ببناء Discovery AI، وهو وكيل استعلام باللغة الطبيعية على Amazon Bedrock يحول الأسئلة البسيطة باللغة الإنجليزية إلى استعلامات Sonar. يشارك المنشور MULTI - STA",
+      "summaryOriginal": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the initial baseline.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Natural language security queries at Orca Security using Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T16:03:31+00:00"
+    },
     {
       "id": "7515c210da98a5e9ff9c",
       "company": "Amazon",
@@ -730,35 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face The model that didn't exist, so you made it yourself"
-    },
-    {
-      "id": "87f36b6714846e9742b8",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم كلود هايكو 5.5 على AWS",
-      "titleOriginal": "Introducing Claude Haiku 5.5 on AWS",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "كلود هايكو 5.5 متاح الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. وفقًا لـ أنثروبيك، إنه النموذج الأسرع والأكثر كفاءة في عائلة كلود 5.5،",
-      "summaryOriginal": "Claude Haiku 5.5 is now available on Amazon Bedrock and Claude Platform on AWS. According to Anthropic, it is the fastest, most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work, and costs around 75% less than Claude Haiku 4.5 for most tasks. This post covers its improvements and how to get started.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Claude Haiku 5.5 on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T18:52:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T08:28:46.096178+00:00",
-  "lastFastCheckAt": "2026-10-13T16:02:32.569927+00:00"
+  "lastFastCheckAt": "2026-10-13T16:07:36.516875+00:00"
 }
