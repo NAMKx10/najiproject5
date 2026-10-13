@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T12:57:09.975118+00:00",
-  "checkedAt": "2026-10-13T12:57:09.975118+00:00",
-  "newestPublishedAt": "2026-10-13T12:00:49+00:00",
+  "updatedAt": "2026-10-13T13:02:12.685641+00:00",
+  "checkedAt": "2026-10-13T13:02:12.685641+00:00",
+  "newestPublishedAt": "2026-10-13T12:58:10.680000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -38,7 +38,7 @@
       "company": "Apple",
       "kind": "feed-fast",
       "ok": true,
-      "items": 2,
+      "items": 4,
       "error": null
     },
     {
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "10893e5085168346ce9c",
+      "company": "Apple",
+      "logoText": "",
+      "type": "مستجد تقني",
+      "title": "Apple تكشف النقاب عن Apple TV 4K الجديد، بشحن فائق بواسطة Siri AI",
+      "titleOriginal": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Apple اليوم عن الجيل التالي من Apple TV 4K، مما يوفر تجربة المسرح المنزلي الأكثر غامرة حتى الآن.",
+      "summaryOriginal": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T12:58:10.680000+00:00"
+    },
+    {
+      "id": "31e61ca1b3f73e0abad4",
+      "company": "Apple",
+      "logoText": "",
+      "type": "مستجد تقني",
+      "title": "Apple تعلن عن الجيل القادم من HomePod mini",
+      "titleOriginal": "Apple announces the next generation of HomePod mini",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Apple اليوم عن HomePod mini 2، الذي يتميز بـ Siri AI، وألوان جديدة رائعة، وتجارب صوتية محسنة.",
+      "summaryOriginal": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple announces the next generation of HomePod mini",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T12:57:08.267000+00:00"
+    },
     {
       "id": "188d1be067910c2ab418",
       "company": "NVIDIA",
@@ -704,61 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T16:54:33+00:00"
-    },
-    {
-      "id": "6d253888ff52fb6cb282",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ما بعد الساعات المحفوظة: بناء دراسة الجدوى لأتمتة الوكلاء",
-      "titleOriginal": "Beyond hours saved: Building the business case for agentic automation",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "يفتقد نموذج عائد الاستثمار في عصر RPA معظم عمليات أتمتة عوامل القيمة. يمنح هذا المنشور قادة مركز التميز في الذكاء الاصطناعي إطارًا لحجم القيمة الكاملة للوكلاء",
-      "summaryOriginal": "The RPA-era ROI model misses most of the value agentic automation creates. This post gives AI center of excellence leaders a framework to size the full value of agents across time savings, exception handling, decision quality, and maintenance economics, and to prioritize which workflows to automate first.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-hours-saved-building-the-business-case-for-agentic-automation",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Beyond hours saved: Building the business case for agentic automation",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T15:50:00+00:00"
-    },
-    {
-      "id": "27b19ae2cd36a58ebae4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Falcon ASR",
-      "titleOriginal": "Introducing Falcon ASR",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing Falcon ASR",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T13:21:03+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T08:28:46.096178+00:00",
-  "lastFastCheckAt": "2026-10-13T12:57:09.975118+00:00"
+  "lastFastCheckAt": "2026-10-13T13:02:12.685641+00:00"
 }
