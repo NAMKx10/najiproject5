@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T12:06:19.318714+00:00",
-  "checkedAt": "2026-10-13T12:06:19.318714+00:00",
-  "newestPublishedAt": "2026-10-13T05:00:31+00:00",
+  "updatedAt": "2026-10-13T12:11:24.686550+00:00",
+  "checkedAt": "2026-10-13T12:11:24.686550+00:00",
+  "newestPublishedAt": "2026-10-13T12:00:49+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "188d1be067910c2ab418",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "All Systems Go: النظام البيئي العالمي لتطبيقات الكمبيوتر جاهز لـ NVIDIA RTX Spark",
+      "titleOriginal": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "NVIDIA RTX Spark هي بداية جديدة للكمبيوتر الشخصي — إعادة اختراع تجمع بين قدرات جهاز كمبيوتر الألعاب والاستوديو الإبداعي والكمبيوتر الشخصي الفائق للذكاء الاصطناعي في جهاز واحد",
+      "summaryOriginal": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T12:00:49+00:00"
+    },
     {
       "id": "df5af4605271c4154c32",
       "company": "NVIDIA",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T13:21:03+00:00"
-    },
-    {
-      "id": "c5da9225ca3226206a4c",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "عائلة نموذجية واحدة، نتيجتان على المستوى الذهبي: نيموترون دقيق الضبط لـ IOI و IMO",
-      "titleOriginal": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T12:45:31+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T08:28:46.096178+00:00",
-  "lastFastCheckAt": "2026-10-13T12:06:19.318714+00:00"
+  "lastFastCheckAt": "2026-10-13T12:11:24.686550+00:00"
 }
