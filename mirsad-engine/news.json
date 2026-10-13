@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T15:14:31.804460+00:00",
-  "checkedAt": "2026-10-13T15:14:31.804460+00:00",
-  "newestPublishedAt": "2026-10-13T12:58:10.680000+00:00",
+  "updatedAt": "2026-10-13T15:19:40.148853+00:00",
+  "checkedAt": "2026-10-13T15:19:40.148853+00:00",
+  "newestPublishedAt": "2026-10-13T15:17:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4b7dd4a137f187df5f16",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "هندسة نواة مزيج من الخبراء على Amazon SageMaker AI",
+      "titleOriginal": "Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "يشارك مهندسو AWS تحسينات النواة لنماذج مزيج من الخبراء (MoE) على Amazon SageMaker AI: Swap - AB لاستخدام WGMMA، وتوجيه Triton الخلفي لـ FP8 q",
+      "summaryOriginal": "AWS engineers share kernel optimizations for fused Mixture-of-Experts (MoE) models on Amazon SageMaker AI: Swap-AB for WGMMA utilization, Triton backend routing for FP8 quantization, and eliminating Triton JIT recompilation. Together they deliver up to 10% higher throughput and up to 9% faster Time to First Token on H200 GPUs.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/mixture-of-experts-kernel-engineering-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Mixture-of-Experts kernel engineering on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T15:17:09+00:00"
+    },
     {
       "id": "10893e5085168346ce9c",
       "company": "Apple",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T18:34:44+00:00"
-    },
-    {
-      "id": "b077ae3baa4076b760bc",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج قرار مفتوحة متعددة الوسائط d1 للحافة",
-      "titleOriginal": "Multimodal open d1 decision models for the edge",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Multimodal open d1 decision models for the edge",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T16:54:33+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T08:28:46.096178+00:00",
-  "lastFastCheckAt": "2026-10-13T15:14:31.804460+00:00"
+  "lastFastCheckAt": "2026-10-13T15:19:40.148853+00:00"
 }
