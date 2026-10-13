@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T15:52:23.983572+00:00",
-  "checkedAt": "2026-10-13T15:52:23.983572+00:00",
-  "newestPublishedAt": "2026-10-13T15:17:09+00:00",
+  "updatedAt": "2026-10-13T15:55:00.658551+00:00",
+  "checkedAt": "2026-10-13T15:55:00.658551+00:00",
+  "newestPublishedAt": "2026-10-13T15:54:49+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "7515c210da98a5e9ff9c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف قامت ShipStation Global ببناء مكتب مساعدة لتقنية المعلومات بالذكاء الاصطناعي على Amazon Bedrock AgentCore",
+      "titleOriginal": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قام فريق الهندسة في ShipStation Global ببناء Deckhand، وكيل مكتب مساعدة تكنولوجيا المعلومات للذكاء الاصطناعي لـ Slack على Amazon Bedrock AgentCore. يجيب على أسئلة تكنولوجيا المعلومات الروتينية من المعرفة المنسقة",
+      "summaryOriginal": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message screenshots, and files Jira tickets. In its first three months it resolved 97.5% of channel queries with a 96% positive feedback rating.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T15:54:49+00:00"
+    },
+    {
+      "id": "bc14f5daed23376053e1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء وكلاء الأفق الطويل مع Grok 4.7 على Amazon Bedrock",
+      "titleOriginal": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يتوفر Grok 4.7 الآن على Amazon Bedrock. في هذا المنشور، نبني عامل استدعاء للأدوات على Grok 4.7 ونقيمه على ثلاث مهام منطقية في أربع جهود منطقية",
+      "summaryOriginal": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T15:52:20+00:00"
+    },
     {
       "id": "4b7dd4a137f187df5f16",
       "company": "Amazon",
@@ -704,61 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-07T18:52:10+00:00"
-    },
-    {
-      "id": "d0c0663c6b37cf7a53a0",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA و Microsoft تطلقان بداية جديدة لأجهزة الكمبيوتر التي تعمل بنظام Windows مع وكلاء RTX Spark و AI",
-      "titleOriginal": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "tools",
-      "importance": 78,
-      "summary": "في حدث مايكروسوفت في سان فرانسيسكو يوم الأربعاء، أوضح المؤسس والرئيس التنفيذي لشركة إنفيديا جنسن هوانغ والرئيس التنفيذي لشركة مايكروسوفت ساتيا ناديلا كيف تشارك إنفيديا ومايكروسوفت في الهندسة",
-      "summaryOriginal": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T18:45:28+00:00"
-    },
-    {
-      "id": "ccc9d87b736e4ec11568",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "إعادة التفكير في التحكم في الوصول إلى RAG باستخدام Amazon Quick و Amazon Bedrock",
-      "titleOriginal": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "business",
-      "importance": 82,
-      "summary": "تفتح Enterprise RAG رؤى من مصادر المعرفة مثل SharePoint و Google Drive و Confluence، لكن هذه المصادر تحمل أذونات معقدة. تعرف على كيفية سرعة أمازون",
-      "summaryOriginal": "Enterprise RAG unlocks insights from knowledge sources like SharePoint, Google Drive, and Confluence, but those sources carry complex permissions. Learn how Amazon Quick and Amazon Bedrock Knowledge Bases enforce document-level access controls in real time, verifying permissions directly with authoritative sources at query time.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-07T18:34:44+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-13T08:28:46.096178+00:00",
-  "lastFastCheckAt": "2026-10-13T15:52:23.983572+00:00"
+  "lastFastCheckAt": "2026-10-13T15:55:00.658551+00:00"
 }
