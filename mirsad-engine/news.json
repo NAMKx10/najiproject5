@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-13T01:33:32.450088+00:00",
-  "checkedAt": "2026-10-13T01:33:32.450088+00:00",
+  "updatedAt": "2026-10-13T01:38:00.367090+00:00",
+  "checkedAt": "2026-10-13T01:38:00.367090+00:00",
   "newestPublishedAt": "2026-10-12T17:52:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -196,6 +196,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft Microsoft to expand Azure Maia system to multi-gigawatt deployments"
+    },
+    {
+      "id": "cf8bcbcc86e48d983ddb",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "إطلاق أو تحديث",
+      "title": "التعريف باشتراك X",
+      "titleOriginal": "Introducing The X Subscription",
+      "dateLabel": "12 أكتوبر 2026",
+      "dateISO": "2026-10-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "Grok و Grok Bot و Cursor و X Premium، كل ذلك في خطة واحدة.",
+      "summaryOriginal": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://x.ai/news/x-subscription",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Introducing The X Subscription"
     },
     {
       "id": "b8dcceb26e0c78aceb22",
@@ -700,30 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Helping teens learn, plan, and shape the future of AI"
-    },
-    {
-      "id": "120ccf5eb8d6f612afc5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب مجموعة فنادق راديسون اكتشاف الفنادق إلى ChatGPT",
-      "titleOriginal": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "dateLabel": "7 أكتوبر 2026",
-      "dateISO": "2026-10-07",
-      "category": "models",
-      "importance": 92,
-      "summary": "دخلت Radisson في شراكة مع Accenture لإنشاء مكون إضافي لـ ChatGPT باستخدام تقنية OpenAI، مما يساعد المسافرين على العثور على الفنادق ومقارنتها وحجزها أثناء التخطيط لرحلاتهم.",
-      "summaryOriginal": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/radisson",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Radisson Hotel Group brings hotel discovery into ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-12T19:23:39.925922+00:00",
-  "lastFastCheckAt": "2026-10-13T01:33:32.450088+00:00"
+  "lastDeepCheckAt": "2026-10-13T01:38:00.367090+00:00"
 }
