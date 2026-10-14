@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T09:39:17.652175+00:00",
-  "checkedAt": "2026-10-14T09:39:17.652175+00:00",
+  "updatedAt": "2026-10-14T09:44:20.485538+00:00",
+  "checkedAt": "2026-10-14T09:44:20.485538+00:00",
   "newestPublishedAt": "2026-10-14T06:04:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -659,6 +659,32 @@
       "publishedAt": "2026-10-08T12:00:00+00:00"
     },
     {
+      "id": "d0b337f22f099a7f00f4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحول Pollo AI الأفكار الإبداعية إلى حملات مع OpenAI",
+      "titleOriginal": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT-5.6 و GPT -6 Astra و GPT‑Image‑2.5، يساعد Pollo AI منشئي المحتوى على تحويل الأفكار الجريئة إلى صور مفصلة وإعلانات فيديو سينمائية.",
+      "summaryOriginal": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/pollo-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T12:00:00+00:00"
+    },
+    {
       "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex"
-    },
-    {
-      "id": "c3d18bcde10d7890f4b8",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "مستجد تقني",
-      "title": "البناء على التزامنا بالاكتشافات العلمية الأمريكية",
-      "titleOriginal": "Building on our commitment to American scientific discovery",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تلتزم Anthropic بمبلغ 150 مليون دولار على مدى ثلاث سنوات لبعثة Genesis، وهي مبادرة فيدرالية لتسريع الاكتشاف العلمي والتكنولوجي من خلال الذكاء الاصطناعي.",
-      "summaryOriginal": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Building on our commitment to American scientific discovery"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T05:26:04.182489+00:00",
-  "lastFastCheckAt": "2026-10-14T09:39:17.652175+00:00"
+  "lastFastCheckAt": "2026-10-14T09:44:20.485538+00:00"
 }
