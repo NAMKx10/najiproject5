@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T09:34:12.460186+00:00",
-  "checkedAt": "2026-10-14T09:34:12.460186+00:00",
+  "updatedAt": "2026-10-14T09:39:17.652175+00:00",
+  "checkedAt": "2026-10-14T09:39:17.652175+00:00",
   "newestPublishedAt": "2026-10-14T06:04:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -633,6 +633,32 @@
       "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     },
     {
+      "id": "a13e16f89e5be705d13d",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "LegalOn يخفض تكاليف الدستور الغذائي إلى النصف مع الحفاظ على سرعة التطوير",
+      "titleOriginal": "LegalOn halves Codex costs while maintaining development speed",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "خفضت LegalOn التكاليف اليومية المقدرة للدستور الغذائي بنسبة 65 ٪ مع الحفاظ على سرعة التطوير. لقد طابقت Astra و Sol و Luna مع المهام وأدارت الميزانيات بشكل استراتيجي.",
+      "summaryOriginal": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/legalon-halves-codex-costs",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T12:00:00+00:00"
+    },
+    {
       "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Building on our commitment to American scientific discovery"
-    },
-    {
-      "id": "d0b337f22f099a7f00f4",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحول Pollo AI الأفكار الإبداعية إلى حملات مع OpenAI",
-      "titleOriginal": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT-5.6 و GPT -6 Astra و GPT‑Image‑2.5، يساعد Pollo AI منشئي المحتوى على تحويل الأفكار الجريئة إلى صور مفصلة وإعلانات فيديو سينمائية.",
-      "summaryOriginal": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/pollo-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T05:26:04.182489+00:00",
-  "lastFastCheckAt": "2026-10-14T09:34:12.460186+00:00"
+  "lastFastCheckAt": "2026-10-14T09:39:17.652175+00:00"
 }
