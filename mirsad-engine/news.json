@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T09:28:58.255433+00:00",
-  "checkedAt": "2026-10-14T09:28:58.255433+00:00",
+  "updatedAt": "2026-10-14T09:34:12.460186+00:00",
+  "checkedAt": "2026-10-14T09:34:12.460186+00:00",
   "newestPublishedAt": "2026-10-14T06:04:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T06:00:28+00:00"
+    },
+    {
+      "id": "7e84c5b45615b15f86c9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "الفصل التالي للاتحاد الأوروبي في الذكاء الاصطناعي هو الوكيل",
+      "titleOriginal": "The EU’s next chapter in AI is agentic",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "يُظهر تحليل جديد كيف ينمو اعتماد الذكاء الاصطناعي الوكيل عبر شركات الاتحاد الأوروبي والشركات الصغيرة - وحيث يمكن أن يؤدي الاستخدام الأعمق إلى فتح المزيد من القيمة.",
+      "summaryOriginal": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The EU’s next chapter in AI is agentic",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T00:00:00+00:00"
     },
     {
       "id": "c497a36771a8f2e10c15",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI"
-    },
-    {
-      "id": "a13e16f89e5be705d13d",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "LegalOn يخفض تكاليف الدستور الغذائي إلى النصف مع الحفاظ على سرعة التطوير",
-      "titleOriginal": "LegalOn halves Codex costs while maintaining development speed",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "خفضت LegalOn التكاليف اليومية المقدرة للدستور الغذائي بنسبة 65 ٪ مع الحفاظ على سرعة التطوير. لقد طابقت Astra و Sol و Luna مع المهام وأدارت الميزانيات بشكل استراتيجي.",
-      "summaryOriginal": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/legalon-halves-codex-costs",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T05:26:04.182489+00:00",
-  "lastFastCheckAt": "2026-10-14T09:28:58.255433+00:00"
+  "lastFastCheckAt": "2026-10-14T09:34:12.460186+00:00"
 }
