@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T15:30:34.223219+00:00",
-  "checkedAt": "2026-10-14T15:30:34.223219+00:00",
+  "updatedAt": "2026-10-14T15:34:33.735132+00:00",
+  "checkedAt": "2026-10-14T15:34:33.735132+00:00",
   "newestPublishedAt": "2026-10-14T13:58:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -660,6 +660,58 @@
       "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
     },
     {
+      "id": "d0b337f22f099a7f00f4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحول Pollo AI الأفكار الإبداعية إلى حملات مع OpenAI",
+      "titleOriginal": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT-5.6 و GPT -6 Astra و GPT‑Image‑2.5، يساعد Pollo AI منشئي المحتوى على تحويل الأفكار الجريئة إلى صور مفصلة وإعلانات فيديو سينمائية.",
+      "summaryOriginal": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/pollo-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T12:00:00+00:00"
+    },
+    {
+      "id": "a13e16f89e5be705d13d",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "LegalOn يخفض تكاليف الدستور الغذائي إلى النصف مع الحفاظ على سرعة التطوير",
+      "titleOriginal": "LegalOn halves Codex costs while maintaining development speed",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "خفضت LegalOn التكاليف اليومية المقدرة للدستور الغذائي بنسبة 65 ٪ مع الحفاظ على سرعة التطوير. لقد طابقت Astra و Sol و Luna مع المهام وأدارت الميزانيات بشكل استراتيجي.",
+      "summaryOriginal": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/legalon-halves-codex-costs",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T12:00:00+00:00"
+    },
+    {
       "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -679,50 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "7f4f6d08abc52d765bec",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "أمان وسياسات",
-      "title": "تحديث سياسة الاستخدام لعام 2026",
-      "titleOriginal": "2026 Usage Policy update",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "سننشر إصدارًا جديدًا من سياسة الاستخدام الخاصة بنا. في هذا المنشور، نلخص التغييرات التي أجريناها.",
-      "summaryOriginal": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic 2026 Usage Policy update"
-    },
-    {
-      "id": "8b148cf79b1b84cb9073",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تحول أوراكل أيام العمل إلى دقائق باستخدام ChatGPT و Codex",
-      "titleOriginal": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "عبر التوظيف والهندسة والعمليات، تحول أوراكل المعرفة المتخصصة إلى سير عمل سريع وقابل للتكرار مع عمل ChatGPT والدستور الغذائي.",
-      "summaryOriginal": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/oracle",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00"
+  "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00",
+  "lastFastCheckAt": "2026-10-14T15:34:33.735132+00:00"
 }
