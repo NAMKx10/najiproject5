@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T22:39:23.299293+00:00",
-  "checkedAt": "2026-10-14T22:39:23.299293+00:00",
+  "updatedAt": "2026-10-14T22:39:50.231988+00:00",
+  "checkedAt": "2026-10-14T22:39:50.231988+00:00",
   "newestPublishedAt": "2026-10-14T18:33:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -313,8 +313,8 @@
       "dateISO": "2026-10-14",
       "category": "policy",
       "importance": 88,
-      "summary": "عبر الصناعات، تعمل المملكة المتحدة على تشغيل المجموعة الكاملة — ونطاق النشر ينمو بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة",
-      "summaryOriginal": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety […]",
+      "summary": "عبر الصناعات، تضع المملكة المتحدة المجموعة الكاملة موضع التنفيذ. يتزايد حجم النشر بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة التي تحل",
+      "summaryOriginal": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security […]",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
       "sourceLabel": "NVIDIA Blog",
@@ -702,33 +702,27 @@
       "searchAliases": "xAI Introducing The X Subscription"
     },
     {
-      "id": "c2bd9140cf451f0fd2b2",
+      "id": "0f1eab57236c05e21cdb",
       "company": "OpenAI",
       "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سوفوس تخفض وقت التحقيق في التهديدات بنسبة 96 ٪ مع OpenAI Daybreak",
-      "titleOriginal": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "type": "إطلاق أو تحديث",
+      "title": "يكلف طراز Asana تخفيضات 76x في اختبارات المتصفح باستخدام GPT-6.1 Sol",
+      "titleOriginal": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "dateLabel": "9 أكتوبر 2026",
       "dateISO": "2026-10-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "اكتشف كيف تستخدم سوفوس OpenAI's Daybreak لخفض وقت التحقيق في التهديدات الإلكترونية بنسبة 96 ٪ وأتمتة 52 ٪ من حالات MDR مع الحفاظ على الإشراف البشري.",
-      "summaryOriginal": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sophos",
+      "category": "models",
+      "importance": 92,
+      "summary": "باستخدام GPT -6 Astra في Codex، جعلت Asana وكيل المتصفح الخاص بها أرخص 76 مرة وأسرع 5 مرات في الاختبارات لتزويد العملاء بنماذج أكثر قدرة.",
+      "summaryOriginal": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/asana-browser-agent",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T07:00:00+00:00"
+      "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-14T19:42:14.160564+00:00",
-  "lastFastCheckAt": "2026-10-14T22:39:23.299293+00:00"
+  "lastDeepCheckAt": "2026-10-14T22:39:50.231988+00:00"
 }
