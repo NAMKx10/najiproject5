@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T16:10:06.275212+00:00",
-  "checkedAt": "2026-10-14T16:10:06.275212+00:00",
-  "newestPublishedAt": "2026-10-14T13:58:43+00:00",
+  "updatedAt": "2026-10-14T16:15:16.424334+00:00",
+  "checkedAt": "2026-10-14T16:15:16.424334+00:00",
+  "newestPublishedAt": "2026-10-14T16:12:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1da9fb32db8c00a65e1a",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "HiRO - ACEv2: محاكاة الطقس القاسي بدقة 3 كم مقابل جزء صغير من التكلفة",
+      "titleOriginal": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T16:12:42+00:00"
+    },
     {
       "id": "aeb2c38703273413d3fb",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-08T16:00:00+00:00"
-    },
-    {
-      "id": "d0b337f22f099a7f00f4",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحول Pollo AI الأفكار الإبداعية إلى حملات مع OpenAI",
-      "titleOriginal": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT-5.6 و GPT -6 Astra و GPT‑Image‑2.5، يساعد Pollo AI منشئي المحتوى على تحويل الأفكار الجريئة إلى صور مفصلة وإعلانات فيديو سينمائية.",
-      "summaryOriginal": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/pollo-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00",
-  "lastFastCheckAt": "2026-10-14T16:10:06.275212+00:00"
+  "lastFastCheckAt": "2026-10-14T16:15:16.424334+00:00"
 }
