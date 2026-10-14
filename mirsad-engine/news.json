@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T13:57:57.095970+00:00",
-  "checkedAt": "2026-10-14T13:57:57.095970+00:00",
-  "newestPublishedAt": "2026-10-14T13:53:33+00:00",
+  "updatedAt": "2026-10-14T14:03:04.484747+00:00",
+  "checkedAt": "2026-10-14T14:03:04.484747+00:00",
+  "newestPublishedAt": "2026-10-14T13:58:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "92de5fa49fc5315cc3cc",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إنشاء عروض تقديمية باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Generate presentations with Amazon Bedrock AgentCore",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "يرشدك هذا المنشور إلى بناء نظام وكيل للذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore الذي يعمل على أتمتة إنشاء عرض تقديمي PowerPoint من مستندات المؤسسة. مشرف",
+      "summaryOriginal": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T13:58:43+00:00"
+    },
     {
       "id": "5a422f6c46bcbf250880",
       "company": "Amazon",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-08T21:06:35+00:00"
-    },
-    {
-      "id": "8b148cf79b1b84cb9073",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تحول أوراكل أيام العمل إلى دقائق باستخدام ChatGPT و Codex",
-      "titleOriginal": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "عبر التوظيف والهندسة والعمليات، تحول أوراكل المعرفة المتخصصة إلى سير عمل سريع وقابل للتكرار مع عمل ChatGPT والدستور الغذائي.",
-      "summaryOriginal": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/oracle",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T16:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T10:37:36.125637+00:00",
-  "lastFastCheckAt": "2026-10-14T13:57:57.095970+00:00"
+  "lastFastCheckAt": "2026-10-14T14:03:04.484747+00:00"
 }
