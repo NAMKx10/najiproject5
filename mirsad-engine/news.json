@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T06:02:48.438541+00:00",
-  "checkedAt": "2026-10-14T06:02:48.438541+00:00",
-  "newestPublishedAt": "2026-10-13T20:10:33+00:00",
+  "updatedAt": "2026-10-14T06:07:49.696303+00:00",
+  "checkedAt": "2026-10-14T06:07:49.696303+00:00",
+  "newestPublishedAt": "2026-10-14T06:04:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "81ecb14252ba7b6ac170",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أمان وسياسات",
+      "title": "من المؤسسة إلى الأرض: النظام البيئي في المملكة المتحدة ينتقل من الطموح إلى التطبيق مع NVIDIA",
+      "titleOriginal": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "policy",
+      "importance": 88,
+      "summary": "عبر الصناعات، تعمل المملكة المتحدة على تشغيل المجموعة الكاملة — ونطاق النشر ينمو بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة",
+      "summaryOriginal": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety […]",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T06:04:15+00:00"
+    },
+    {
+      "id": "d5db12612390243d0b86",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "تنشر المدن الأوروبية وكلاء الذكاء الاصطناعي المدعومين من NVIDIA لتشغيل عمليات حضرية أكثر ذكاءً",
+      "titleOriginal": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "الحفاظ على سير المدينة يعني اتخاذ القرارات التي تؤثر على السكان كل يوم — من وقت إصلاح الطريق إلى كيفية استخدام الطاقة بشكل أكثر كفاءة. عبر منطقة أوروبا والشرق الأوسط وأفريقيا،",
+      "summaryOriginal": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T06:00:28+00:00"
+    },
     {
       "id": "c497a36771a8f2e10c15",
       "company": "Amazon",
@@ -679,51 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed"
-    },
-    {
-      "id": "1b12c2833e87b165a120",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "التعريف بالمهمة السيبرانية الأنثروبية",
-      "titleOriginal": "Introducing the Anthropic Cyber Mission",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Introducing the Anthropic Cyber Mission"
-    },
-    {
-      "id": "351a3936345bfa3a3f92",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تعطيل عمليات \"الواجهة الخاطئة\" التي تدعم الذكاء الاصطناعي",
-      "titleOriginal": "Disrupting AI-enabled “false front” operations",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "عطلت OpenAI عمليتي تأثير مدعومتين بالذكاء الاصطناعي استخدمتا صحفيين مزيفين ومركز أبحاث لنشر الرسائل الجيوسياسية.",
-      "summaryOriginal": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Disrupting AI-enabled “false front” operations"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T05:26:04.182489+00:00",
-  "lastFastCheckAt": "2026-10-14T06:02:48.438541+00:00"
+  "lastFastCheckAt": "2026-10-14T06:07:49.696303+00:00"
 }
