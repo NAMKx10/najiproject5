@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T18:12:03.896363+00:00",
-  "checkedAt": "2026-10-14T18:12:03.896363+00:00",
+  "updatedAt": "2026-10-14T18:17:08.460617+00:00",
+  "checkedAt": "2026-10-14T18:17:08.460617+00:00",
   "newestPublishedAt": "2026-10-14T16:24:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -164,6 +164,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00"
+    },
+    {
+      "id": "ee052fb882e50bfb7ba5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
+      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
+      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/sentinelone",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
-    },
-    {
-      "id": "c2bd9140cf451f0fd2b2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سوفوس تخفض وقت التحقيق في التهديدات بنسبة 96 ٪ مع OpenAI Daybreak",
-      "titleOriginal": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "اكتشف كيف تستخدم سوفوس OpenAI's Daybreak لخفض وقت التحقيق في التهديدات الإلكترونية بنسبة 96 ٪ وأتمتة 52 ٪ من حالات MDR مع الحفاظ على الإشراف البشري.",
-      "summaryOriginal": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sophos",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00",
-  "lastFastCheckAt": "2026-10-14T18:12:03.896363+00:00"
+  "lastFastCheckAt": "2026-10-14T18:17:08.460617+00:00"
 }
