@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T22:59:36.352984+00:00",
-  "checkedAt": "2026-10-14T22:59:36.352984+00:00",
+  "updatedAt": "2026-10-14T23:04:38.210745+00:00",
+  "checkedAt": "2026-10-14T23:04:38.210745+00:00",
   "newestPublishedAt": "2026-10-14T18:33:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e4954e682d9ac6e511a8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "كيف تبني Block الأمان المدعوم بالذكاء الاصطناعي باستخدام تقنية OpenAI",
+      "titleOriginal": "How Block is building AI-powered security with OpenAI technology",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تقوم Block ببناء أمان مدعوم بالذكاء الاصطناعي مع OpenAI. يحقق فريقها الأمني في التهديدات بشكل أسرع ويقترح التصحيحات في دقائق.",
+      "summaryOriginal": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/block-ai-powered-security",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Block is building AI-powered security with OpenAI technology",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T07:00:00+00:00"
+    },
     {
       "id": "1d575f28f5b86e824849",
       "company": "Anthropic",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Introducing The X Subscription"
-    },
-    {
-      "id": "c2bd9140cf451f0fd2b2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سوفوس تخفض وقت التحقيق في التهديدات بنسبة 96 ٪ مع OpenAI Daybreak",
-      "titleOriginal": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "اكتشف كيف تستخدم سوفوس OpenAI's Daybreak لخفض وقت التحقيق في التهديدات الإلكترونية بنسبة 96 ٪ وأتمتة 52 ٪ من حالات MDR مع الحفاظ على الإشراف البشري.",
-      "summaryOriginal": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sophos",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T22:39:50.231988+00:00",
-  "lastFastCheckAt": "2026-10-14T22:59:36.352984+00:00"
+  "lastFastCheckAt": "2026-10-14T23:04:38.210745+00:00"
 }
