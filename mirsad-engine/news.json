@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T10:35:05.189568+00:00",
-  "checkedAt": "2026-10-14T10:35:05.189568+00:00",
-  "newestPublishedAt": "2026-10-14T06:04:15+00:00",
+  "updatedAt": "2026-10-14T10:37:36.125637+00:00",
+  "checkedAt": "2026-10-14T10:37:36.125637+00:00",
+  "newestPublishedAt": "2026-10-14T08:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,28 @@
   ],
   "items": [
     {
-      "id": "81ecb14252ba7b6ac170",
+      "id": "022bcf47bfd17017c899",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "أمان وسياسات",
+      "title": "مذكرة تفاهم بين مكتب سنغافورة والحكومة | أنثروبيك",
+      "titleOriginal": "Singapore office and government MOU | Anthropic",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تفتتح أنثروبيك مكتبها الخامس في آسيا والمحيط الهادئ في سنغافورة وتوقع مذكرة تفاهم مع الحكومة بشأن سلامة الذكاء الاصطناعي وتقييمه واعتماده بشكل مسؤول.",
+      "summaryOriginal": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/singapore-office-opening",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Singapore office and government MOU | Anthropic"
+    },
+    {
+      "id": "9d5d1515275b225706c1",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أمان وسياسات",
@@ -106,20 +127,15 @@
       "summary": "عبر الصناعات، تعمل المملكة المتحدة على تشغيل المجموعة الكاملة — ونطاق النشر ينمو بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة",
       "summaryOriginal": "Across industries, the U.K. is putting the full stack to work — and the scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety […]",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
+      "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T06:04:15+00:00"
+      "searchAliases": "NVIDIA From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
     },
     {
-      "id": "d5db12612390243d0b86",
+      "id": "2eda1bcc244fe34bd63d",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -132,17 +148,12 @@
       "summary": "الحفاظ على سير المدينة يعني اتخاذ القرارات التي تؤثر على السكان كل يوم — من وقت إصلاح الطريق إلى كيفية استخدام الطاقة بشكل أكثر كفاءة. عبر منطقة أوروبا والشرق الأوسط وأفريقيا،",
       "summaryOriginal": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "source": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T06:00:28+00:00"
+      "searchAliases": "NVIDIA European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
     },
     {
       "id": "7e84c5b45615b15f86c9",
@@ -163,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI The EU’s next chapter in AI is agentic",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T00:00:00+00:00"
+      "searchAliases": "OpenAI The EU’s next chapter in AI is agentic"
     },
     {
       "id": "c497a36771a8f2e10c15",
@@ -633,58 +639,6 @@
       "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     },
     {
-      "id": "a13e16f89e5be705d13d",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "LegalOn يخفض تكاليف الدستور الغذائي إلى النصف مع الحفاظ على سرعة التطوير",
-      "titleOriginal": "LegalOn halves Codex costs while maintaining development speed",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "tools",
-      "importance": 78,
-      "summary": "خفضت LegalOn التكاليف اليومية المقدرة للدستور الغذائي بنسبة 65 ٪ مع الحفاظ على سرعة التطوير. لقد طابقت Astra و Sol و Luna مع المهام وأدارت الميزانيات بشكل استراتيجي.",
-      "summaryOriginal": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/legalon-halves-codex-costs",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LegalOn halves Codex costs while maintaining development speed",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T12:00:00+00:00"
-    },
-    {
-      "id": "d0b337f22f099a7f00f4",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحول Pollo AI الأفكار الإبداعية إلى حملات مع OpenAI",
-      "titleOriginal": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT-5.6 و GPT -6 Astra و GPT‑Image‑2.5، يساعد Pollo AI منشئي المحتوى على تحويل الأفكار الجريئة إلى صور مفصلة وإعلانات فيديو سينمائية.",
-      "summaryOriginal": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/pollo-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Pollo AI turns creative ideas into campaigns with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T12:00:00+00:00"
-    },
-    {
       "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -746,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex"
+    },
+    {
+      "id": "c3d18bcde10d7890f4b8",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "البناء على التزامنا بالاكتشافات العلمية الأمريكية",
+      "titleOriginal": "Building on our commitment to American scientific discovery",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تلتزم Anthropic بمبلغ 150 مليون دولار على مدى ثلاث سنوات لبعثة Genesis، وهي مبادرة فيدرالية لتسريع الاكتشاف العلمي والتكنولوجي من خلال الذكاء الاصطناعي.",
+      "summaryOriginal": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Building on our commitment to American scientific discovery"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-14T05:26:04.182489+00:00",
-  "lastFastCheckAt": "2026-10-14T10:35:05.189568+00:00"
+  "lastDeepCheckAt": "2026-10-14T10:37:36.125637+00:00"
 }
