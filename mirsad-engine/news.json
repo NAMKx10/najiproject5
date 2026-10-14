@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T15:29:27.249312+00:00",
-  "checkedAt": "2026-10-14T15:29:27.249312+00:00",
+  "updatedAt": "2026-10-14T15:30:34.223219+00:00",
+  "checkedAt": "2026-10-14T15:30:34.223219+00:00",
   "newestPublishedAt": "2026-10-14T13:58:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "92de5fa49fc5315cc3cc",
+      "id": "aeb2c38703273413d3fb",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,20 +106,15 @@
       "summary": "يرشدك هذا المنشور إلى بناء نظام وكيل للذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore الذي يعمل على أتمتة إنشاء عرض تقديمي PowerPoint من مستندات المؤسسة. مشرف",
       "summaryOriginal": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:58:43+00:00"
+      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore"
     },
     {
-      "id": "5a422f6c46bcbf250880",
+      "id": "c54a0947ca9cdaf94a72",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -132,20 +127,15 @@
       "summary": "تعرف على كيفية بناء Tami من قبل Tamnoon، وهو منسق معالجة سحابة الوكيل على Amazon Bedrock الذي يحقق بشكل مستقل ويعالج بأمان نتائج الأمن السحابي",
       "summaryOriginal": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:53:33+00:00"
+      "searchAliases": "Amazon How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
     },
     {
-      "id": "d6e8d5bf24070603145b",
+      "id": "ca20f0b7a903455dd97c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,17 +148,12 @@
       "summary": "تعرف على كيفية نشر نموذج متاح من Amazon SageMaker JumpStart، وقم بإجراء اختبار أداء خفيف الوزن وقابل للتكرار باستخدام SageMaker Python SDK، واحذف",
       "summaryOriginal": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:14:36+00:00"
+      "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart"
     },
     {
       "id": "022bcf47bfd17017c899",
@@ -190,6 +175,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Singapore office and government MOU | Anthropic"
+    },
+    {
+      "id": "2b6b35486a81e4163b64",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تدير شركة Third Moment Research 10000 عامل لمدة تزيد عن 36 ساعة",
+      "titleOriginal": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT -6 Astra و GPT-6.1 Sol و Codex و Daybreak للأمن السيبراني، يبني مختبر الذكاء الاصطناعي هذا وكلاء يركزون لأيام ويتحسنون مع الاستخدام.",
+      "summaryOriginal": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/third-moment-research",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Third Moment Research runs 10,000 agents for 36+ hours"
     },
     {
       "id": "9d5d1515275b225706c1",
@@ -528,48 +534,6 @@
       "searchAliases": "Amazon Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan"
     },
     {
-      "id": "ae2468b8fd36a2304f90",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "نشر نماذج القرار باستخدام llama.cpp على Amazon SageMaker AI",
-      "titleOriginal": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
-      "dateLabel": "12 أكتوبر 2026",
-      "dateISO": "2026-10-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية نشر نماذج القرار باستخدام llama.cpp على Amazon SageMaker AI. تخدم هذه الكيفية التقنية عمليات إكمال الدردشة المتوافقة مع OpenAI مع AWS Deep Learning Cont",
-      "summaryOriginal": "Learn how to deploy decision models with llama.cpp on Amazon SageMaker AI. This technical how-to serves OpenAI-compatible chat completions with the AWS Deep Learning Container for llama.cpp, then extends the runtime with SemIf to return probabilities over declared options on CPU or GPU.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Deploy decision models with llama.cpp on Amazon SageMaker AI"
-    },
-    {
-      "id": "d2840f479e1f9b59c8e7",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تشغيل أحمال عمل الاستدلال متعدد العقد باستخدام حاويات التعلم العميق RAY LLM",
-      "titleOriginal": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
-      "dateLabel": "12 أكتوبر 2026",
-      "dateISO": "2026-10-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعلم كيفية نشر نموذج لغة واحد كبير عبر عقدتي GPU على Amazon EKS باستخدام حاويات التعلم العميق Ray LLM متعددة العقد، مع ملء مسبق وفك تشفير منفصلين",
-      "summaryOriginal": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and decode nodes behind one OpenAI-compatible endpoint. The pre-built container ships the full inference stack, so you configure the deployment instead of assembling it.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Run multi-node inference workloads using Ray LLM Deep Learning Containers"
-    },
-    {
       "id": "5236d246906dc8230c20",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -633,27 +597,6 @@
       "searchAliases": "xAI Introducing The X Subscription"
     },
     {
-      "id": "b8dcceb26e0c78aceb22",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ICYMI: ما الذي هبط لبناة الذكاء الاصطناعي في سبتمبر 2026",
-      "titleOriginal": "ICYMI: What landed for AI builders in September 2026",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "ملخص شهري لأحدث تحديثات Amazon Bedrock و Amazon Bedrock AgentCore و Strands من سبتمبر 2026: اختيار نموذج أوسع، وكلاء أسرع بدون خادم مع",
-      "summaryOriginal": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated knowledge base syncing with native enterprise connectors.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon ICYMI: What landed for AI builders in September 2026"
-    },
-    {
       "id": "a45cab2b414bcf3b6b5c",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -673,27 +616,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Impactful scheduling for GPU clusters"
-    },
-    {
-      "id": "c2bd9140cf451f0fd2b2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سوفوس تخفض وقت التحقيق في التهديدات بنسبة 96 ٪ مع OpenAI Daybreak",
-      "titleOriginal": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "اكتشف كيف تستخدم سوفوس OpenAI's Daybreak لخفض وقت التحقيق في التهديدات الإلكترونية بنسبة 96 ٪ وأتمتة 52 ٪ من حالات MDR مع الحفاظ على الإشراف البشري.",
-      "summaryOriginal": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sophos",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
     },
     {
       "id": "0f1eab57236c05e21cdb",
@@ -717,7 +639,28 @@
       "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     },
     {
-      "id": "98cdb0248880b96c9434",
+      "id": "c2bd9140cf451f0fd2b2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "سوفوس تخفض وقت التحقيق في التهديدات بنسبة 96 ٪ مع OpenAI Daybreak",
+      "titleOriginal": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "dateLabel": "9 أكتوبر 2026",
+      "dateISO": "2026-10-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "اكتشف كيف تستخدم سوفوس OpenAI's Daybreak لخفض وقت التحقيق في التهديدات الإلكترونية بنسبة 96 ٪ وأتمتة 52 ٪ من حالات MDR مع الحفاظ على الإشراف البشري.",
+      "summaryOriginal": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/sophos",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+    },
+    {
+      "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -730,20 +673,56 @@
       "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
       "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T21:06:35+00:00"
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+    },
+    {
+      "id": "7f4f6d08abc52d765bec",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "أمان وسياسات",
+      "title": "تحديث سياسة الاستخدام لعام 2026",
+      "titleOriginal": "2026 Usage Policy update",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "policy",
+      "importance": 88,
+      "summary": "سننشر إصدارًا جديدًا من سياسة الاستخدام الخاصة بنا. في هذا المنشور، نلخص التغييرات التي أجريناها.",
+      "summaryOriginal": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic 2026 Usage Policy update"
+    },
+    {
+      "id": "8b148cf79b1b84cb9073",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تحول أوراكل أيام العمل إلى دقائق باستخدام ChatGPT و Codex",
+      "titleOriginal": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "عبر التوظيف والهندسة والعمليات، تحول أوراكل المعرفة المتخصصة إلى سير عمل سريع وقابل للتكرار مع عمل ChatGPT والدستور الغذائي.",
+      "summaryOriginal": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/oracle",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-14T10:37:36.125637+00:00",
-  "lastFastCheckAt": "2026-10-14T15:29:27.249312+00:00"
+  "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00"
 }
