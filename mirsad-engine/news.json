@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T16:55:49.638858+00:00",
-  "checkedAt": "2026-10-14T16:55:49.638858+00:00",
+  "updatedAt": "2026-10-14T17:00:55.620327+00:00",
+  "checkedAt": "2026-10-14T17:00:55.620327+00:00",
   "newestPublishedAt": "2026-10-14T16:24:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T16:12:42+00:00"
+    },
+    {
+      "id": "26aa4d763b49b1b2d8d2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
+      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
+      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/amp-beyond-coding",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00"
     },
     {
       "id": "aeb2c38703273413d3fb",
@@ -710,35 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
-    },
-    {
-      "id": "98cdb0248880b96c9434",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-08T21:06:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00",
-  "lastFastCheckAt": "2026-10-14T16:55:49.638858+00:00"
+  "lastFastCheckAt": "2026-10-14T17:00:55.620327+00:00"
 }
