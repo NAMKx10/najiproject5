@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T10:40:11.745092+00:00",
-  "checkedAt": "2026-10-14T10:40:11.745092+00:00",
+  "updatedAt": "2026-10-14T10:45:11.210793+00:00",
+  "checkedAt": "2026-10-14T10:45:11.210793+00:00",
   "newestPublishedAt": "2026-10-14T08:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -639,6 +639,32 @@
       "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     },
     {
+      "id": "8b148cf79b1b84cb9073",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تحول أوراكل أيام العمل إلى دقائق باستخدام ChatGPT و Codex",
+      "titleOriginal": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "dateLabel": "8 أكتوبر 2026",
+      "dateISO": "2026-10-08",
+      "category": "models",
+      "importance": 92,
+      "summary": "عبر التوظيف والهندسة والعمليات، تحول أوراكل المعرفة المتخصصة إلى سير عمل سريع وقابل للتكرار مع عمل ChatGPT والدستور الغذائي.",
+      "summaryOriginal": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/oracle",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-08T16:00:00+00:00"
+    },
+    {
       "id": "d0b337f22f099a7f00f4",
       "company": "OpenAI",
       "logoText": "AI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "7f4f6d08abc52d765bec",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "أمان وسياسات",
-      "title": "تحديث سياسة الاستخدام لعام 2026",
-      "titleOriginal": "2026 Usage Policy update",
-      "dateLabel": "8 أكتوبر 2026",
-      "dateISO": "2026-10-08",
-      "category": "policy",
-      "importance": 88,
-      "summary": "سننشر إصدارًا جديدًا من سياسة الاستخدام الخاصة بنا. في هذا المنشور، نلخص التغييرات التي أجريناها.",
-      "summaryOriginal": "We’re publishing a new version of our Usage Policy. In this post, we summarize the changes we’ve made.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic 2026 Usage Policy update"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-14T10:37:36.125637+00:00",
-  "lastFastCheckAt": "2026-10-14T10:40:11.745092+00:00"
+  "lastFastCheckAt": "2026-10-14T10:45:11.210793+00:00"
 }
