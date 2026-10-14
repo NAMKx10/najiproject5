@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-14T19:38:34.549488+00:00",
-  "checkedAt": "2026-10-14T19:38:34.549488+00:00",
-  "newestPublishedAt": "2026-10-14T16:24:07+00:00",
+  "updatedAt": "2026-10-14T19:42:14.160564+00:00",
+  "checkedAt": "2026-10-14T19:42:14.160564+00:00",
+  "newestPublishedAt": "2026-10-14T18:33:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,28 @@
   ],
   "items": [
     {
-      "id": "b37d745be0b304bbfcce",
+      "id": "1d575f28f5b86e824849",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "التحضير للامتحانات النصفية الأمريكية لعام 2026",
+      "titleOriginal": "Preparing for the 2026 US midterms",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في وقت سابق من هذا العام، شاركنا تحديثًا حول ضماناتنا الانتخابية. هنا، نوضح كيف واصلنا تعزيز هذه الضمانات قبل انتخابات التجديد النصفي في الولايات المتحدة هذا العام.",
+      "summaryOriginal": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/2026-us-midterms",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Preparing for the 2026 US midterms"
+    },
+    {
+      "id": "5366439ebfc0ae5ba418",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,17 +127,12 @@
       "summary": "تعلم كيفية بناء نظام معالجة المستندات الذكي (IDP) باستخدام Amazon Bedrock AgentCore الذي يصنف ويستخرج ويتحقق من صحة ويتعلم من الأعمال",
       "summaryOriginal": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T16:24:07+00:00"
+      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore"
     },
     {
       "id": "1da9fb32db8c00a65e1a",
@@ -137,64 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T16:12:42+00:00"
-    },
-    {
-      "id": "26aa4d763b49b1b2d8d2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
-      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
-      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/amp-beyond-coding",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "id": "ee052fb882e50bfb7ba5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
-      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
-      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sentinelone",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T12:00:00+00:00"
+      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
     },
     {
       "id": "aeb2c38703273413d3fb",
@@ -260,6 +219,48 @@
       "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart"
     },
     {
+      "id": "26aa4d763b49b1b2d8d2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
+      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
+      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/amp-beyond-coding",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models"
+    },
+    {
+      "id": "ee052fb882e50bfb7ba5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
+      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
+      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/sentinelone",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours"
+    },
+    {
       "id": "022bcf47bfd17017c899",
       "company": "Anthropic",
       "logoText": "A",
@@ -302,12 +303,12 @@
       "searchAliases": "OpenAI How Third Moment Research runs 10,000 agents for 36+ hours"
     },
     {
-      "id": "9d5d1515275b225706c1",
+      "id": "6c67b2529e8d5ab04d28",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أمان وسياسات",
-      "title": "من المؤسسة إلى الأرض: النظام البيئي في المملكة المتحدة ينتقل من الطموح إلى التطبيق مع NVIDIA",
-      "titleOriginal": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA",
+      "title": "NVIDIA تعلن عن استثمارات جديدة في النظام البيئي للشركات الناشئة في المملكة المتحدة",
+      "titleOriginal": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
       "dateLabel": "14 أكتوبر 2026",
       "dateISO": "2026-10-14",
       "category": "policy",
@@ -320,7 +321,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA"
+      "searchAliases": "NVIDIA NVIDIA Announces New Investments in the UK Startup Ecosystem"
     },
     {
       "id": "2eda1bcc244fe34bd63d",
@@ -363,6 +364,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The EU’s next chapter in AI is agentic"
+    },
+    {
+      "id": "233250a80c9c0740a4ff",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Grok Voice 3.0",
+      "titleOriginal": "Introducing Grok Voice 3.0",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "نموذج الصوت الأكثر ذكاءً في العالم.",
+      "summaryOriginal": "The world’s most intelligent voice model.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://x.ai/news/grok-voice-3",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Introducing Grok Voice 3.0"
     },
     {
       "id": "c497a36771a8f2e10c15",
@@ -617,27 +639,6 @@
       "searchAliases": "NVIDIA NVIDIA Announces New Investments in France’s Startups"
     },
     {
-      "id": "cd9c7afc09d255a5cbf6",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الوصول إلى نماذج OpenAI GPT على Amazon Bedrock باستدلال عالمي عبر المناطق في تايلاند وماليزيا وسنغافورة وإندونيسيا وتايوان",
-      "titleOriginal": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
-      "dateLabel": "12 أكتوبر 2026",
-      "dateISO": "2026-10-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعلم كيفية تشغيل OpenAI GPT -6 Sol و Luna و Astra على Amazon Bedrock من خلال الاستدلال العالمي عبر المناطق من سنغافورة وجاكرتا وتايلاند وماليزيا وتايبيه. هذه الصفحة",
-      "summaryOriginal": "Learn how to run OpenAI GPT-6 Sol, Luna, and Astra on Amazon Bedrock through global cross-Region inference from Singapore, Jakarta, Thailand, Malaysia, and Taipei. This post covers the Converse and OpenAI-compatible APIs, IAM and SCP permissions, quota sizing, and monitoring inference from your source Region.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan"
-    },
-    {
       "id": "5236d246906dc8230c20",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -701,32 +702,6 @@
       "searchAliases": "xAI Introducing The X Subscription"
     },
     {
-      "id": "c2bd9140cf451f0fd2b2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "سوفوس تخفض وقت التحقيق في التهديدات بنسبة 96 ٪ مع OpenAI Daybreak",
-      "titleOriginal": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "dateLabel": "9 أكتوبر 2026",
-      "dateISO": "2026-10-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "اكتشف كيف تستخدم سوفوس OpenAI's Daybreak لخفض وقت التحقيق في التهديدات الإلكترونية بنسبة 96 ٪ وأتمتة 52 ٪ من حالات MDR مع الحفاظ على الإشراف البشري.",
-      "summaryOriginal": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sophos",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T07:00:00+00:00"
-    },
-    {
       "id": "0f1eab57236c05e21cdb",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-09T07:00:00+00:00"
+      "searchAliases": "OpenAI Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-14T15:30:34.223219+00:00",
-  "lastFastCheckAt": "2026-10-14T19:38:34.549488+00:00"
+  "lastDeepCheckAt": "2026-10-14T19:42:14.160564+00:00"
 }
