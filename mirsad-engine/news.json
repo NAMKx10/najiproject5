@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T15:36:30.673637+00:00",
-  "checkedAt": "2026-10-15T15:36:30.673637+00:00",
+  "updatedAt": "2026-10-15T15:41:32.269492+00:00",
+  "checkedAt": "2026-10-15T15:41:32.269492+00:00",
   "newestPublishedAt": "2026-10-15T15:05:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -559,6 +559,58 @@
       "searchAliases": "xAI Introducing Grok Voice 3.0"
     },
     {
+      "id": "7690b49123111efb3208",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "وكلاء البناء الذين يتعاملون مع متصفح Anchor ومدفوعات AgentCore",
+      "titleOriginal": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية قيام مركز AWS Generative AI Innovation Center Partner Agent Factory و Anchor Browser ببناء وكلاء الذكاء الاصطناعي الذين يدفعون بشكل مستقل مقابل موارد الويب وواجهات برمجة التطبيقات المحمية بـ x402",
+      "summaryOriginal": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T20:10:33+00:00"
+    },
+    {
+      "id": "a652426db565c1f5be71",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إدارة عروض التسعير الخاصة لـ Amazon Bedrock مع الاستحقاقات المدارة",
+      "titleOriginal": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تؤدي إدارة الوصول إلى نموذج الذكاء الاصطناعي عبر العشرات أو المئات من حسابات AWS إلى حدوث احتكاك عندما يجب على كل حساب قبول عروض التسعير الخاصة لسوق AWS بشكل فردي.",
+      "summaryOriginal": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK automation for ongoing event-driven processing.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Manage private pricing offers for Amazon Bedrock with managed entitlements",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T17:17:25+00:00"
+    },
+    {
       "id": "37c4b5eef3b7587e9e46",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -739,61 +791,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T12:00:49+00:00"
-    },
-    {
-      "id": "739048b80dae375c9198",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يأخذ هيغزفيلد فيديو الذكاء الاصطناعي من دقيقة واحدة إلى أكثر من 10 دقائق",
-      "titleOriginal": "Higgsfield takes AI video from 1 minute to over 10",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "يوفر هيغزفيلد للمبدعين مقاطع فيديو أطول مع GPT -6 Astra، ومرئيات دقيقة مع GPT-Image-2.5، ومسارًا لصناعة الأفلام الصوتية مع GPT - Live.",
-      "summaryOriginal": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Higgsfield takes AI video from 1 minute to over 10",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:00:00+00:00"
-    },
-    {
-      "id": "9b1c2503da48f85457ed",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "NVIDIA تعلن عن استثمارات جديدة في الشركات الناشئة في فرنسا",
-      "titleOriginal": "NVIDIA Announces New Investments in France’s Startups",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقوم الشركات في فرنسا بنشر الحوسبة الوكيلة عبر الصناعات التي تغطي الفضاء والخدمات المالية والقطاع العام والبحث العلمي، مما يدل على كيفية",
-      "summaryOriginal": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Investments in France’s Startups",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T05:00:31+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T11:31:16.710576+00:00",
-  "lastFastCheckAt": "2026-10-15T15:36:30.673637+00:00"
+  "lastFastCheckAt": "2026-10-15T15:41:32.269492+00:00"
 }
