@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T15:05:53.876128+00:00",
-  "checkedAt": "2026-10-15T15:05:53.876128+00:00",
-  "newestPublishedAt": "2026-10-15T13:00:00+00:00",
+  "updatedAt": "2026-10-15T15:10:57.031777+00:00",
+  "checkedAt": "2026-10-15T15:10:57.031777+00:00",
+  "newestPublishedAt": "2026-10-15T15:05:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "77e0770b1013860193f3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "الثقة في العمق: منح الوكلاء المزيد من الاستقلالية دون فقدان السيطرة",
+      "titleOriginal": "Trust in Depth: Giving agents more autonomy without losing control",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "business",
+      "importance": 82,
+      "summary": "يريد قادة المؤسسات أن يتولى وكلاء الذكاء الاصطناعي المزيد من العمل ولكنهم لا يثقون بهم تمامًا في التصرف بشكل صحيح في كل مرة. الثقة في العمق هي نهج AWS متعدد الطبقات - النطاق والمعرفة والالتزام",
+      "summaryOriginal": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the decisions that need it.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Trust in Depth: Giving agents more autonomy without losing control",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T15:05:35+00:00"
+    },
+    {
+      "id": "3ca4c147e6e4d245baf7",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "مفتوح من مركز البيانات إلى سطح المكتب: توسع NVIDIA عائلة Nemotron بأعلى كفاءة طرازات Super VL و Bolt",
+      "titleOriginal": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصدرت NVIDIA اليوم Nemotron 3.5 Super VL، وهو نموذج مفتوح يبلغ 120 مليار معلمة يوفر أسرع إنجاز للمهام وأعلى دقة للتخصص دائمًا",
+      "summaryOriginal": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T15:00:24+00:00"
+    },
     {
       "id": "1fffc348f7c5ce2063d6",
       "company": "OpenAI",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark"
-    },
-    {
-      "id": "739048b80dae375c9198",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يأخذ هيغزفيلد فيديو الذكاء الاصطناعي من دقيقة واحدة إلى أكثر من 10 دقائق",
-      "titleOriginal": "Higgsfield takes AI video from 1 minute to over 10",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "يوفر هيغزفيلد للمبدعين مقاطع فيديو أطول مع GPT -6 Astra، ومرئيات دقيقة مع GPT-Image-2.5، ومسارًا لصناعة الأفلام الصوتية مع GPT - Live.",
-      "summaryOriginal": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Higgsfield takes AI video from 1 minute to over 10"
-    },
-    {
-      "id": "c6406d2899a916128de3",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "NVIDIA تعلن عن استثمارات جديدة في الشركات الناشئة في فرنسا",
-      "titleOriginal": "NVIDIA Announces New Investments in France’s Startups",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقوم الشركات في فرنسا بنشر الحوسبة الوكيلة عبر الصناعات التي تغطي الفضاء والخدمات المالية والقطاع العام والبحث العلمي، مما يدل على كيفية",
-      "summaryOriginal": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Investments in France’s Startups"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T11:31:16.710576+00:00",
-  "lastFastCheckAt": "2026-10-15T15:05:53.876128+00:00"
+  "lastFastCheckAt": "2026-10-15T15:10:57.031777+00:00"
 }
