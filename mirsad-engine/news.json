@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T20:29:50.442256+00:00",
-  "checkedAt": "2026-10-15T20:29:50.442256+00:00",
-  "newestPublishedAt": "2026-10-15T17:43:35+00:00",
+  "updatedAt": "2026-10-15T20:34:53.492637+00:00",
+  "checkedAt": "2026-10-15T20:34:53.492637+00:00",
+  "newestPublishedAt": "2026-10-15T20:34:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "58422c23d696b293ff00",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مفتاح الجرانيت 4.1: الدردشة والقرارات والكلام من نقطة نهاية واحدة",
+      "titleOriginal": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T20:34:01+00:00"
+    },
     {
       "id": "17694eda65b0ffea54b4",
       "company": "Hugging Face",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T17:05:48+00:00"
-    },
-    {
-      "id": "613cfdb0f7ed0b09a90b",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "استفسارات أمان اللغة الطبيعية في Orca Security باستخدام Amazon Bedrock",
-      "titleOriginal": "Natural language security queries at Orca Security using Amazon Bedrock",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "policy",
-      "importance": 88,
-      "summary": "قامت شركة Orca Security ببناء Discovery AI، وهو وكيل استعلام باللغة الطبيعية على Amazon Bedrock يحول الأسئلة البسيطة باللغة الإنجليزية إلى استعلامات Sonar. يشارك المنشور MULTI - STA",
-      "summaryOriginal": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the initial baseline.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Natural language security queries at Orca Security using Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T16:03:31+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T19:27:09.839846+00:00",
-  "lastFastCheckAt": "2026-10-15T20:29:50.442256+00:00"
+  "lastFastCheckAt": "2026-10-15T20:34:53.492637+00:00"
 }
