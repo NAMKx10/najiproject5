@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T17:43:26.408911+00:00",
-  "checkedAt": "2026-10-15T17:43:26.408911+00:00",
-  "newestPublishedAt": "2026-10-15T17:00:23+00:00",
+  "updatedAt": "2026-10-15T17:48:29.597440+00:00",
+  "checkedAt": "2026-10-15T17:48:29.597440+00:00",
+  "newestPublishedAt": "2026-10-15T17:43:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "667ad057280c392a4c76",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "Meta's Muse Spark Open متاح الآن في Amazon SageMaker JumpStart",
+      "titleOriginal": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "Muse Spark Open، نموذج الوزن المفتوح المحسّن للترميز من Meta، متاح الآن في Amazon SageMaker JumpStart. انشره على نقطة نهاية SageMaker AI في حساب AWS الخاص بك",
+      "summaryOriginal": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T17:43:35+00:00"
+    },
     {
       "id": "a4e7523ece3fa28ad4dd",
       "company": "NVIDIA",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T15:54:49+00:00"
-    },
-    {
-      "id": "bc14f5daed23376053e1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء وكلاء الأفق الطويل مع Grok 4.7 على Amazon Bedrock",
-      "titleOriginal": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يتوفر Grok 4.7 الآن على Amazon Bedrock. في هذا المنشور، نبني عامل استدعاء للأدوات على Grok 4.7 ونقيمه على ثلاث مهام منطقية في أربع جهود منطقية",
-      "summaryOriginal": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T15:52:20+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T15:44:54.082726+00:00",
-  "lastFastCheckAt": "2026-10-15T17:43:26.408911+00:00"
+  "lastFastCheckAt": "2026-10-15T17:48:29.597440+00:00"
 }
