@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T10:01:44.992980+00:00",
-  "checkedAt": "2026-10-15T10:01:44.992980+00:00",
-  "newestPublishedAt": "2026-10-14T18:33:00+00:00",
+  "updatedAt": "2026-10-15T10:06:41.409969+00:00",
+  "checkedAt": "2026-10-15T10:06:41.409969+00:00",
+  "newestPublishedAt": "2026-10-15T10:00:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d38d6fe7f8768c6ab5ae",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع NVIDIA وصول المجتمع العلمي الأوروبي إلى التكنولوجيا المتقدمة من خلال مصادر التعلم المفتوحة والتعاون والحوسبة",
+      "titleOriginal": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "يبدأ الكثير من التقدم العلمي اليوم بالحوسبة. لكن تحويل إمكانات الحوسبة المتسارعة إلى تقدم علمي — نمذجة النظم المناخية، تصميم",
+      "summaryOriginal": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T10:00:12+00:00"
+    },
     {
       "id": "1d575f28f5b86e824849",
       "company": "Anthropic",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft Microsoft to expand Azure Maia system to multi-gigawatt deployments"
-    },
-    {
-      "id": "cf8bcbcc86e48d983ddb",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "إطلاق أو تحديث",
-      "title": "التعريف باشتراك X",
-      "titleOriginal": "Introducing The X Subscription",
-      "dateLabel": "12 أكتوبر 2026",
-      "dateISO": "2026-10-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "Grok و Grok Bot و Cursor و X Premium، كل ذلك في خطة واحدة.",
-      "summaryOriginal": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://x.ai/news/x-subscription",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Introducing The X Subscription"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T05:55:04.538921+00:00",
-  "lastFastCheckAt": "2026-10-15T10:01:44.992980+00:00"
+  "lastFastCheckAt": "2026-10-15T10:06:41.409969+00:00"
 }
