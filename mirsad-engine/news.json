@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T15:21:20.775641+00:00",
-  "checkedAt": "2026-10-15T15:21:20.775641+00:00",
+  "updatedAt": "2026-10-15T15:26:22.690435+00:00",
+  "checkedAt": "2026-10-15T15:26:22.690435+00:00",
   "newestPublishedAt": "2026-10-15T15:05:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -216,6 +216,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
+    },
+    {
+      "id": "7a06ae48c9ed9de549ce",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مستجد جديد من Hugging Face",
+      "titleOriginal": "Welcome FLUX.3 Image Klein in Diffusers",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/flux-3",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00"
     },
     {
       "id": "1d575f28f5b86e824849",
@@ -533,6 +559,32 @@
       "searchAliases": "xAI Introducing Grok Voice 3.0"
     },
     {
+      "id": "10893e5085168346ce9c",
+      "company": "Apple",
+      "logoText": "",
+      "type": "مستجد تقني",
+      "title": "Apple تكشف النقاب عن Apple TV 4K الجديد، بشحن فائق بواسطة Siri AI",
+      "titleOriginal": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Apple اليوم عن الجيل التالي من Apple TV 4K، مما يوفر تجربة المسرح المنزلي الأكثر غامرة حتى الآن.",
+      "summaryOriginal": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T12:58:10.680000+00:00"
+    },
+    {
       "id": "31e61ca1b3f73e0abad4",
       "company": "Apple",
       "logoText": "",
@@ -719,51 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Natural language security queries at Orca Security using Amazon Bedrock"
-    },
-    {
-      "id": "f8254b7298f88a38cb5a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف قامت ShipStation Global ببناء مكتب مساعدة لتقنية المعلومات بالذكاء الاصطناعي على Amazon Bedrock AgentCore",
-      "titleOriginal": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام فريق الهندسة في ShipStation Global ببناء Deckhand، وكيل مكتب مساعدة تكنولوجيا المعلومات للذكاء الاصطناعي لـ Slack على Amazon Bedrock AgentCore. يجيب على أسئلة تكنولوجيا المعلومات الروتينية من المعرفة المنسقة",
-      "summaryOriginal": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message screenshots, and files Jira tickets. In its first three months it resolved 97.5% of channel queries with a 96% positive feedback rating.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "bb876e2ce1c6fe4e1676",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء وكلاء الأفق الطويل مع Grok 4.7 على Amazon Bedrock",
-      "titleOriginal": "Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يتوفر Grok 4.7 الآن على Amazon Bedrock. في هذا المنشور، نبني عامل استدعاء للأدوات على Grok 4.7 ونقيمه على ثلاث مهام منطقية في أربع جهود منطقية",
-      "summaryOriginal": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build long-horizon agents with Grok 4.7 on Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T11:31:16.710576+00:00",
-  "lastFastCheckAt": "2026-10-15T15:21:20.775641+00:00"
+  "lastFastCheckAt": "2026-10-15T15:26:22.690435+00:00"
 }
