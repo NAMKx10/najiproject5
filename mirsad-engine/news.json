@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T21:55:49.174504+00:00",
-  "checkedAt": "2026-10-15T21:55:49.174504+00:00",
+  "updatedAt": "2026-10-15T22:00:56.265109+00:00",
+  "checkedAt": "2026-10-15T22:00:56.265109+00:00",
   "newestPublishedAt": "2026-10-15T20:34:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-15T20:34:01+00:00"
+    },
+    {
+      "id": "6d9d156035ebcbb1f4d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "جلب GPT - Rosalind إلى مختبرات البحوث الأكاديمية",
+      "titleOriginal": "Bringing GPT-Rosalind to academic research labs",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقديم الخطة الأكاديمية لروزاليند، وتقديم مختبرات أكاديمية مؤهلة برعاية الوصول إلى GPT - Rosalind وأدوات للنهوض بأبحاث علوم الحياة.",
+      "summaryOriginal": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Bringing GPT-Rosalind to academic research labs",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T19:00:00+00:00"
     },
     {
       "id": "17694eda65b0ffea54b4",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T17:17:25+00:00"
-    },
-    {
-      "id": "37c4b5eef3b7587e9e46",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تشغيل سريع، وكلاء خاصين على الجهاز مع LFM2.5-24B-A2B",
-      "titleOriginal": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T17:05:48+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T19:27:09.839846+00:00",
-  "lastFastCheckAt": "2026-10-15T21:55:49.174504+00:00"
+  "lastFastCheckAt": "2026-10-15T22:00:56.265109+00:00"
 }
