@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T17:23:14.708488+00:00",
-  "checkedAt": "2026-10-15T17:23:14.708488+00:00",
+  "updatedAt": "2026-10-15T17:28:20.340034+00:00",
+  "checkedAt": "2026-10-15T17:28:20.340034+00:00",
   "newestPublishedAt": "2026-10-15T17:00:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -264,6 +264,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
+    },
+    {
+      "id": "277136ae7c1436ff8735",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "مرحبًا بكم في MUSE Spark Open: نموذج مزيج من الخبراء متعدد الوسائط مفتوح الوزن من META",
+      "titleOriginal": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/meta-muse-spark-open",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T00:00:00+00:00"
     },
     {
       "id": "1d575f28f5b86e824849",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T15:52:20+00:00"
-    },
-    {
-      "id": "10893e5085168346ce9c",
-      "company": "Apple",
-      "logoText": "",
-      "type": "مستجد تقني",
-      "title": "Apple تكشف النقاب عن Apple TV 4K الجديد، بشحن فائق بواسطة Siri AI",
-      "titleOriginal": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Apple اليوم عن الجيل التالي من Apple TV 4K، مما يوفر تجربة المسرح المنزلي الأكثر غامرة حتى الآن.",
-      "summaryOriginal": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:58:10.680000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T15:44:54.082726+00:00",
-  "lastFastCheckAt": "2026-10-15T17:23:14.708488+00:00"
+  "lastFastCheckAt": "2026-10-15T17:28:20.340034+00:00"
 }
