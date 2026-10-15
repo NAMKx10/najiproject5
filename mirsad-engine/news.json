@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T13:59:52.005280+00:00",
-  "checkedAt": "2026-10-15T13:59:52.005280+00:00",
-  "newestPublishedAt": "2026-10-15T10:00:12+00:00",
+  "updatedAt": "2026-10-15T14:05:00.717018+00:00",
+  "checkedAt": "2026-10-15T14:05:00.717018+00:00",
+  "newestPublishedAt": "2026-10-15T13:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1fffc348f7c5ce2063d6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "تعليم الطلاب التفكير والتعلم من خلال الأسئلة",
+      "titleOriginal": "Teaching students to think and learn through questions",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "research",
+      "importance": 86,
+      "summary": "احتفل بيوم المعلمين مع الذكاء الاصطناعي للمعلمين باللغة البرتغالية البرازيلية وشاهد كيف يمكن أن يساعد وضع الدراسة المعلمين على دعم التعلم النشط خطوة بخطوة.",
+      "summaryOriginal": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Teaching students to think and learn through questions",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T13:00:00+00:00"
+    },
     {
       "id": "17694eda65b0ffea54b4",
       "company": "Hugging Face",
@@ -705,35 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Announces New Investments in France’s Startups"
-    },
-    {
-      "id": "9e5bb16b617e7b1070fd",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "القمة العالمية للمجمع الشريف للفوسفاط: وسط اعتماد النظام البيئي، تفتتح NVIDIA بنية فيرا روبن للمساعدة في توسيع نطاق مصانع الذكاء الاصطناعي في جميع أنحاء العالم",
-      "titleOriginal": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "dateLabel": "12 أكتوبر 2026",
-      "dateISO": "2026-10-12",
-      "category": "business",
-      "importance": 82,
-      "summary": "مع نمو مصانع الذكاء الاصطناعي من ميجاوات إلى جيجاوات، فإن بنائها يتطلب أكثر من الحوسبة المتقدمة. تساعد المعايير المفتوحة البنية التحتية للذكاء الاصطناعي على نطاق الصناعة بشكل أسرع",
-      "summaryOriginal": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-12T15:00:25+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T11:31:16.710576+00:00",
-  "lastFastCheckAt": "2026-10-15T13:59:52.005280+00:00"
+  "lastFastCheckAt": "2026-10-15T14:05:00.717018+00:00"
 }
