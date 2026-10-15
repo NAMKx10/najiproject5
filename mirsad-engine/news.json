@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T15:41:32.269492+00:00",
-  "checkedAt": "2026-10-15T15:41:32.269492+00:00",
+  "updatedAt": "2026-10-15T15:44:54.082726+00:00",
+  "checkedAt": "2026-10-15T15:44:54.082726+00:00",
   "newestPublishedAt": "2026-10-15T15:05:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "77e0770b1013860193f3",
+      "id": "5b5b08e75438e6a69987",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,20 +106,15 @@
       "summary": "يريد قادة المؤسسات أن يتولى وكلاء الذكاء الاصطناعي المزيد من العمل ولكنهم لا يثقون بهم تمامًا في التصرف بشكل صحيح في كل مرة. الثقة في العمق هي نهج AWS متعدد الطبقات - النطاق والمعرفة والالتزام",
       "summaryOriginal": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the decisions that need it.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control",
+      "source": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Trust in Depth: Giving agents more autonomy without losing control",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T15:05:35+00:00"
+      "searchAliases": "Amazon Trust in Depth: Giving agents more autonomy without losing control"
     },
     {
-      "id": "3ca4c147e6e4d245baf7",
+      "id": "d59100344171ebc17a87",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -132,17 +127,12 @@
       "summary": "أصدرت NVIDIA اليوم Nemotron 3.5 Super VL، وهو نموذج مفتوح يبلغ 120 مليار معلمة يوفر أسرع إنجاز للمهام وأعلى دقة للتخصص دائمًا",
       "summaryOriginal": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T15:00:24+00:00"
+      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models"
     },
     {
       "id": "1fffc348f7c5ce2063d6",
@@ -163,38 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Teaching students to think and learn through questions",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T13:00:00+00:00"
-    },
-    {
-      "id": "17694eda65b0ffea54b4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "ملاحظات إصدار Apertus 1.5",
-      "titleOriginal": "Apertus 1.5 Release Notes",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Apertus 1.5 Release Notes",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T09:08:45+00:00"
+      "searchAliases": "OpenAI Teaching students to think and learn through questions"
     },
     {
       "id": "45dcc411396c83798963",
@@ -218,6 +177,48 @@
       "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
     },
     {
+      "id": "17694eda65b0ffea54b4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "ملاحظات إصدار Apertus 1.5",
+      "titleOriginal": "Apertus 1.5 Release Notes",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Apertus 1.5 Release Notes"
+    },
+    {
+      "id": "cfb388d27b114fe9f8e1",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "أمان وسياسات",
+      "title": "تماسك للحصول على ممر للذكاء الاصطناعي السيادي المرن على الإنترنت",
+      "titleOriginal": "Cohere to acquire AISLE for cyber-resilient sovereign AI",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "policy",
+      "importance": 88,
+      "summary": "يقترح كوهير الحصول على ممر لتعزيز أمن الذكاء الاصطناعي السيادي للشركات والحكومات.",
+      "summaryOriginal": "Cohere proposes acquiring AISLE to enhance sovereign AI security for enterprises and governments.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Cohere to acquire AISLE for cyber-resilient sovereign AI"
+    },
+    {
       "id": "7a06ae48c9ed9de549ce",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -236,12 +237,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T00:00:00+00:00"
+      "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
       "id": "1d575f28f5b86e824849",
@@ -559,7 +555,7 @@
       "searchAliases": "xAI Introducing Grok Voice 3.0"
     },
     {
-      "id": "7690b49123111efb3208",
+      "id": "c497a36771a8f2e10c15",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -572,20 +568,15 @@
       "summary": "تعرف على كيفية قيام مركز AWS Generative AI Innovation Center Partner Agent Factory و Anchor Browser ببناء وكلاء الذكاء الاصطناعي الذين يدفعون بشكل مستقل مقابل موارد الويب وواجهات برمجة التطبيقات المحمية بـ x402",
       "summaryOriginal": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T20:10:33+00:00"
+      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments"
     },
     {
-      "id": "a652426db565c1f5be71",
+      "id": "46175664c1a5a84377ee",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -598,17 +589,12 @@
       "summary": "تؤدي إدارة الوصول إلى نموذج الذكاء الاصطناعي عبر العشرات أو المئات من حسابات AWS إلى حدوث احتكاك عندما يجب على كل حساب قبول عروض التسعير الخاصة لسوق AWS بشكل فردي.",
       "summaryOriginal": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK automation for ongoing event-driven processing.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
+      "source": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T17:17:25+00:00"
+      "searchAliases": "Amazon Manage private pricing offers for Amazon Bedrock with managed entitlements"
     },
     {
       "id": "37c4b5eef3b7587e9e46",
@@ -629,15 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T17:05:48+00:00"
+      "searchAliases": "Hugging Face Run fast, private agents on-device with LFM2.5-24B-A2B"
     },
     {
-      "id": "613cfdb0f7ed0b09a90b",
+      "id": "694f0128730dddc7851a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -650,20 +631,15 @@
       "summary": "قامت شركة Orca Security ببناء Discovery AI، وهو وكيل استعلام باللغة الطبيعية على Amazon Bedrock يحول الأسئلة البسيطة باللغة الإنجليزية إلى استعلامات Sonar. يشارك المنشور MULTI - STA",
       "summaryOriginal": "Orca Security built Discovery AI, a natural language query agent on Amazon Bedrock that converts plain-English questions into Sonar queries. The post shares the multi-stage architecture and the results: 90% lower query cost, 93% fewer input tokens, and 75% lower latency than the initial baseline.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/natural-language-security-queries-at-orca-security-using-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Natural language security queries at Orca Security using Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T16:03:31+00:00"
+      "searchAliases": "Amazon Natural language security queries at Orca Security using Amazon Bedrock"
     },
     {
-      "id": "7515c210da98a5e9ff9c",
+      "id": "f8254b7298f88a38cb5a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -676,20 +652,15 @@
       "summary": "قام فريق الهندسة في ShipStation Global ببناء Deckhand، وكيل مكتب مساعدة تكنولوجيا المعلومات للذكاء الاصطناعي لـ Slack على Amazon Bedrock AgentCore. يجيب على أسئلة تكنولوجيا المعلومات الروتينية من المعرفة المنسقة",
       "summaryOriginal": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message screenshots, and files Jira tickets. In its first three months it resolved 97.5% of channel queries with a 96% positive feedback rating.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T15:54:49+00:00"
+      "searchAliases": "Amazon How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore"
     },
     {
-      "id": "bc14f5daed23376053e1",
+      "id": "bb876e2ce1c6fe4e1676",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -702,20 +673,15 @@
       "summary": "يتوفر Grok 4.7 الآن على Amazon Bedrock. في هذا المنشور، نبني عامل استدعاء للأدوات على Grok 4.7 ونقيمه على ثلاث مهام منطقية في أربع جهود منطقية",
       "summaryOriginal": "Grok 4.7 is now available on Amazon Bedrock. In this post, we build a tool-calling agent on Grok 4.7 and evaluate it on three reasoning tasks at four reasoning effort levels, measuring correctness and token cost per completed task. We show how to tune the trade-off per request and monitor it in production.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-long-horizon-agents-with-grok-4-7-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build long-horizon agents with Grok 4.7 on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T15:52:20+00:00"
+      "searchAliases": "Amazon Build long-horizon agents with Grok 4.7 on Amazon Bedrock"
     },
     {
-      "id": "10893e5085168346ce9c",
+      "id": "ef5bba5fadaf894a66e5",
       "company": "Apple",
       "logoText": "",
       "type": "مستجد تقني",
@@ -728,20 +694,15 @@
       "summary": "أعلنت Apple اليوم عن الجيل التالي من Apple TV 4K، مما يوفر تجربة المسرح المنزلي الأكثر غامرة حتى الآن.",
       "summaryOriginal": "Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Apple unveils the new Apple TV 4K, supercharged by Siri AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:58:10.680000+00:00"
+      "searchAliases": "Apple Apple unveils the new Apple TV 4K, supercharged by Siri AI"
     },
     {
-      "id": "31e61ca1b3f73e0abad4",
+      "id": "da4487278913e71f434f",
       "company": "Apple",
       "logoText": "",
       "type": "مستجد تقني",
@@ -754,46 +715,14 @@
       "summary": "أعلنت Apple اليوم عن HomePod mini 2، الذي يتميز بـ Siri AI، وألوان جديدة رائعة، وتجارب صوتية محسنة.",
       "summaryOriginal": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Apple announces the next generation of HomePod mini",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:57:08.267000+00:00"
-    },
-    {
-      "id": "188d1be067910c2ab418",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "All Systems Go: النظام البيئي العالمي لتطبيقات الكمبيوتر جاهز لـ NVIDIA RTX Spark",
-      "titleOriginal": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "NVIDIA RTX Spark هي بداية جديدة للكمبيوتر الشخصي — إعادة اختراع تجمع بين قدرات جهاز كمبيوتر الألعاب والاستوديو الإبداعي والكمبيوتر الشخصي الفائق للذكاء الاصطناعي في جهاز واحد",
-      "summaryOriginal": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:00:49+00:00"
+      "searchAliases": "Apple Apple announces the next generation of HomePod mini"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-15T11:31:16.710576+00:00",
-  "lastFastCheckAt": "2026-10-15T15:41:32.269492+00:00"
+  "lastDeepCheckAt": "2026-10-15T15:44:54.082726+00:00"
 }
