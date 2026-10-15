@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T19:39:07.289366+00:00",
-  "checkedAt": "2026-10-15T19:39:07.289366+00:00",
+  "updatedAt": "2026-10-15T19:44:09.085532+00:00",
+  "checkedAt": "2026-10-15T19:44:09.085532+00:00",
   "newestPublishedAt": "2026-10-15T17:43:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -659,6 +659,32 @@
       "searchAliases": "xAI Introducing Grok Voice 3.0"
     },
     {
+      "id": "7690b49123111efb3208",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "وكلاء البناء الذين يتعاملون مع متصفح Anchor ومدفوعات AgentCore",
+      "titleOriginal": "Building agents that transact with Anchor Browser and AgentCore payments",
+      "dateLabel": "13 أكتوبر 2026",
+      "dateISO": "2026-10-13",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية قيام مركز AWS Generative AI Innovation Center Partner Agent Factory و Anchor Browser ببناء وكلاء الذكاء الاصطناعي الذين يدفعون بشكل مستقل مقابل موارد الويب وواجهات برمجة التطبيقات المحمية بـ x402",
+      "summaryOriginal": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-13T20:10:33+00:00"
+    },
+    {
       "id": "a652426db565c1f5be71",
       "company": "Amazon",
       "logoText": "AWS",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T16:03:31+00:00"
-    },
-    {
-      "id": "7515c210da98a5e9ff9c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف قامت ShipStation Global ببناء مكتب مساعدة لتقنية المعلومات بالذكاء الاصطناعي على Amazon Bedrock AgentCore",
-      "titleOriginal": "How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام فريق الهندسة في ShipStation Global ببناء Deckhand، وكيل مكتب مساعدة تكنولوجيا المعلومات للذكاء الاصطناعي لـ Slack على Amazon Bedrock AgentCore. يجيب على أسئلة تكنولوجيا المعلومات الروتينية من المعرفة المنسقة",
-      "summaryOriginal": "ShipStation Global's engineering team built Deckhand, an AI IT help desk agent for Slack on Amazon Bedrock AgentCore. It answers routine IT questions from a curated knowledge base, reads error-message screenshots, and files Jira tickets. In its first three months it resolved 97.5% of channel queries with a 96% positive feedback rating.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-shipstation-global-built-an-ai-it-help-desk-on-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How ShipStation Global built an AI IT help desk on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T15:54:49+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T19:27:09.839846+00:00",
-  "lastFastCheckAt": "2026-10-15T19:39:07.289366+00:00"
+  "lastFastCheckAt": "2026-10-15T19:44:09.085532+00:00"
 }
