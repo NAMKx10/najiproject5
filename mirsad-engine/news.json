@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-15T16:57:47.057774+00:00",
-  "checkedAt": "2026-10-15T16:57:47.057774+00:00",
-  "newestPublishedAt": "2026-10-15T15:05:35+00:00",
+  "updatedAt": "2026-10-15T17:02:46.587530+00:00",
+  "checkedAt": "2026-10-15T17:02:46.587530+00:00",
+  "newestPublishedAt": "2026-10-15T17:00:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a4e7523ece3fa28ad4dd",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كن هناك من أجل البداية: احتفل بإطلاق NVIDIA RTX Spark",
+      "titleOriginal": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "تبدأ بداية جديدة لأجهزة الكمبيوتر التي تعمل بنظام Windows غدًا بإطلاق NVIDIA RTX Spark — جهاز كمبيوتر واحد مصمم لمنشئي المحتوى واللاعبين ووكلاء الذكاء الاصطناعي. الجميع مدعوون للاحتفال مع N",
+      "summaryOriginal": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T17:00:23+00:00"
+    },
     {
       "id": "5b5b08e75438e6a69987",
       "company": "Amazon",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T12:58:10.680000+00:00"
-    },
-    {
-      "id": "31e61ca1b3f73e0abad4",
-      "company": "Apple",
-      "logoText": "",
-      "type": "مستجد تقني",
-      "title": "Apple تعلن عن الجيل القادم من HomePod mini",
-      "titleOriginal": "Apple announces the next generation of HomePod mini",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Apple اليوم عن HomePod mini 2، الذي يتميز بـ Siri AI، وألوان جديدة رائعة، وتجارب صوتية محسنة.",
-      "summaryOriginal": "Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple announces the next generation of HomePod mini",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T12:57:08.267000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-15T15:44:54.082726+00:00",
-  "lastFastCheckAt": "2026-10-15T16:57:47.057774+00:00"
+  "lastFastCheckAt": "2026-10-15T17:02:46.587530+00:00"
 }
