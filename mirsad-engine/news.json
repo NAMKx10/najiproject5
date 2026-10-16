@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T23:28:40.636132+00:00",
-  "checkedAt": "2026-10-16T23:28:40.636132+00:00",
+  "updatedAt": "2026-10-16T23:33:42.506804+00:00",
+  "checkedAt": "2026-10-16T23:33:42.506804+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "ee052fb882e50bfb7ba5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
+      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
+      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/sentinelone",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00"
+    },
+    {
       "id": "e4954e682d9ac6e511a8",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart"
-    },
-    {
-      "id": "26aa4d763b49b1b2d8d2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
-      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
-      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/amp-beyond-coding",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T22:06:04.222180+00:00",
-  "lastFastCheckAt": "2026-10-16T23:28:40.636132+00:00"
+  "lastFastCheckAt": "2026-10-16T23:33:42.506804+00:00"
 }
