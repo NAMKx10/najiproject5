@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T13:01:17.886455+00:00",
-  "checkedAt": "2026-10-16T13:01:17.886455+00:00",
+  "updatedAt": "2026-10-16T13:06:23.100142+00:00",
+  "checkedAt": "2026-10-16T13:06:23.100142+00:00",
   "newestPublishedAt": "2026-10-16T01:44:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
+    },
+    {
+      "id": "8aa4f93382a999904513",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "شعاع الترحيب: طراز مفتوح 501B يمكنك امتلاكه وتخصيصه وتوسيع نطاقه",
+      "titleOriginal": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/reflection-beam",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+00:00"
     },
     {
       "id": "58422c23d696b293ff00",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Introducing Grok Voice 3.0"
-    },
-    {
-      "id": "7690b49123111efb3208",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "وكلاء البناء الذين يتعاملون مع متصفح Anchor ومدفوعات AgentCore",
-      "titleOriginal": "Building agents that transact with Anchor Browser and AgentCore payments",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعرف على كيفية قيام مركز AWS Generative AI Innovation Center Partner Agent Factory و Anchor Browser ببناء وكلاء الذكاء الاصطناعي الذين يدفعون بشكل مستقل مقابل موارد الويب وواجهات برمجة التطبيقات المحمية بـ x402",
-      "summaryOriginal": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T20:10:33+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T09:51:35.068384+00:00",
-  "lastFastCheckAt": "2026-10-16T13:01:17.886455+00:00"
+  "lastFastCheckAt": "2026-10-16T13:06:23.100142+00:00"
 }
