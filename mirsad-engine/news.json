@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T18:45:18.617977+00:00",
-  "checkedAt": "2026-10-16T18:45:18.617977+00:00",
+  "updatedAt": "2026-10-16T18:49:05.247527+00:00",
+  "checkedAt": "2026-10-16T18:49:05.247527+00:00",
   "newestPublishedAt": "2026-10-16T15:23:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "f2adadf2a11087e852f7",
+      "id": "8255189bab1b19d68757",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "شعاع الذكاء الاصطناعي الانعكاسي هو نموذج مفتوح الوزن للترميز الوكيل ومهام الأفق الطويل. يوضح هذا المنشور كيفية نشر Beam على AWS: ابدأ بـ Amazon SageMaker JumpStar",
       "summaryOriginal": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-16T15:23:10+00:00"
+      "searchAliases": "Amazon Introducing Reflection Beam: an open-weight model for agentic coding on AWS"
     },
     {
       "id": "a7982434530e1ece46a1",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-16T14:51:50.968002+00:00",
-  "lastFastCheckAt": "2026-10-16T18:45:18.617977+00:00"
+  "lastDeepCheckAt": "2026-10-16T18:49:05.247527+00:00"
 }
