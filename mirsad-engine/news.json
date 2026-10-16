@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T15:23:35.906345+00:00",
-  "checkedAt": "2026-10-16T15:23:35.906345+00:00",
-  "newestPublishedAt": "2026-10-16T01:44:47+00:00",
+  "updatedAt": "2026-10-16T15:28:33.355950+00:00",
+  "checkedAt": "2026-10-16T15:28:33.355950+00:00",
+  "newestPublishedAt": "2026-10-16T15:23:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f2adadf2a11087e852f7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم شعاع الانعكاس: نموذج مفتوح الوزن للترميز التوكيلي على AWS",
+      "titleOriginal": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "شعاع الذكاء الاصطناعي الانعكاسي هو نموذج مفتوح الوزن للترميز الوكيل ومهام الأفق الطويل. يوضح هذا المنشور كيفية نشر Beam على AWS: ابدأ بـ Amazon SageMaker JumpStar",
+      "summaryOriginal": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T15:23:10+00:00"
+    },
     {
       "id": "a7982434530e1ece46a1",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The EU’s next chapter in AI is agentic"
-    },
-    {
-      "id": "233250a80c9c0740a4ff",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم Grok Voice 3.0",
-      "titleOriginal": "Introducing Grok Voice 3.0",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "نموذج الصوت الأكثر ذكاءً في العالم.",
-      "summaryOriginal": "The world’s most intelligent voice model.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://x.ai/news/grok-voice-3",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Introducing Grok Voice 3.0"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T14:51:50.968002+00:00",
-  "lastFastCheckAt": "2026-10-16T15:23:35.906345+00:00"
+  "lastFastCheckAt": "2026-10-16T15:28:33.355950+00:00"
 }
