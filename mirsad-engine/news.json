@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T01:40:27.383602+00:00",
-  "checkedAt": "2026-10-16T01:40:27.383602+00:00",
-  "newestPublishedAt": "2026-10-15T20:34:01+00:00",
+  "updatedAt": "2026-10-16T01:45:29.730786+00:00",
+  "checkedAt": "2026-10-16T01:45:29.730786+00:00",
+  "newestPublishedAt": "2026-10-16T01:44:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a7982434530e1ece46a1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مؤشر التحجيم ما قبل التدريب: 2.8 تريليون رمز وخط أنابيب لتوليد البيانات المفتوحة",
+      "titleOriginal": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T01:44:47+00:00"
+    },
     {
       "id": "58422c23d696b293ff00",
       "company": "Hugging Face",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-13T20:10:33+00:00"
-    },
-    {
-      "id": "a652426db565c1f5be71",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "إدارة عروض التسعير الخاصة لـ Amazon Bedrock مع الاستحقاقات المدارة",
-      "titleOriginal": "Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "dateLabel": "13 أكتوبر 2026",
-      "dateISO": "2026-10-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "تؤدي إدارة الوصول إلى نموذج الذكاء الاصطناعي عبر العشرات أو المئات من حسابات AWS إلى حدوث احتكاك عندما يجب على كل حساب قبول عروض التسعير الخاصة لسوق AWS بشكل فردي.",
-      "summaryOriginal": "Managing AI model access across dozens or hundreds of AWS accounts creates friction when each account must accept AWS Marketplace Private Pricing Offers individually. This post shows two ways to activate MPPO entitlements in AWS License Manager: a lightweight script for a one-time fix, and CDK automation for ongoing event-driven processing.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Manage private pricing offers for Amazon Bedrock with managed entitlements",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T17:17:25+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T00:46:51.153511+00:00",
-  "lastFastCheckAt": "2026-10-16T01:40:27.383602+00:00"
+  "lastFastCheckAt": "2026-10-16T01:45:29.730786+00:00"
 }
