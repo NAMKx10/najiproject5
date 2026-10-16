@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T23:23:40.053910+00:00",
-  "checkedAt": "2026-10-16T23:23:40.053910+00:00",
+  "updatedAt": "2026-10-16T23:28:40.636132+00:00",
+  "checkedAt": "2026-10-16T23:28:40.636132+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "38657fde585cac00926f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "كيف تبني إيتاو الذكاء الاصطناعي التوليدي لقاعدة عملائها بأكملها",
+      "titleOriginal": "How Itaú is building generative AI for its entire customer base",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "business",
+      "importance": 82,
+      "summary": "مع ia.i، واجهة محادثة، ومنصة حوكمة IARA، تطبق Itaú استراتيجيتها AI First على العملاء والموظفين — في واحدة من أكثر الأنظمة تنظيمًا في البرازيل",
+      "summaryOriginal": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/itau-generative-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Itaú is building generative AI for its entire customer base",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T19:00:00+00:00"
+    },
     {
       "id": "faa9d985f7f4926e0796",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models"
-    },
-    {
-      "id": "ee052fb882e50bfb7ba5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
-      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
-      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sentinelone",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T22:06:04.222180+00:00",
-  "lastFastCheckAt": "2026-10-16T23:23:40.053910+00:00"
+  "lastFastCheckAt": "2026-10-16T23:28:40.636132+00:00"
 }
