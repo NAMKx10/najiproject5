@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T20:46:49.464806+00:00",
-  "checkedAt": "2026-10-16T20:46:49.464806+00:00",
-  "newestPublishedAt": "2026-10-16T15:23:10+00:00",
+  "updatedAt": "2026-10-16T20:51:52.565720+00:00",
+  "checkedAt": "2026-10-16T20:51:52.565720+00:00",
+  "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7c57b9b961603fd37211",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء الثقة في وكلاء الذكاء الاصطناعي: إطار تقييم جاهز للإنتاج مع Amazon Bedrock AgentCore",
+      "titleOriginal": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يفشل وكلاء الذكاء الاصطناعي المستقلون بهدوء: يبقى الكمون ثابتًا بينما تتآكل جودة الإجابة بهدوء. يشارك هذا المنشور إطار تقييم من تسع مراحل، مبني على Amazon Bedrock Agen",
+      "summaryOriginal": "Autonomous AI agents fail softly: latency stays flat while answer quality quietly erodes. This post shares a nine-stage evaluation framework, built on Amazon Bedrock AgentCore, that catches silent quality regressions across the full agent lifecycle, from first commit to live production.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T20:48:16+00:00"
+    },
     {
       "id": "8255189bab1b19d68757",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Announces New Investments in the UK Startup Ecosystem"
-    },
-    {
-      "id": "2eda1bcc244fe34bd63d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "تنشر المدن الأوروبية وكلاء الذكاء الاصطناعي المدعومين من NVIDIA لتشغيل عمليات حضرية أكثر ذكاءً",
-      "titleOriginal": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "business",
-      "importance": 82,
-      "summary": "الحفاظ على سير المدينة يعني اتخاذ القرارات التي تؤثر على السكان كل يوم — من وقت إصلاح الطريق إلى كيفية استخدام الطاقة بشكل أكثر كفاءة. عبر منطقة أوروبا والشرق الأوسط وأفريقيا،",
-      "summaryOriginal": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T18:49:05.247527+00:00",
-  "lastFastCheckAt": "2026-10-16T20:46:49.464806+00:00"
+  "lastFastCheckAt": "2026-10-16T20:51:52.565720+00:00"
 }
