@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T20:51:52.565720+00:00",
-  "checkedAt": "2026-10-16T20:51:52.565720+00:00",
+  "updatedAt": "2026-10-16T20:56:56.420910+00:00",
+  "checkedAt": "2026-10-16T20:56:56.420910+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -481,6 +481,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "d5db12612390243d0b86",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "تنشر المدن الأوروبية وكلاء الذكاء الاصطناعي المدعومين من NVIDIA لتشغيل عمليات حضرية أكثر ذكاءً",
+      "titleOriginal": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "الحفاظ على سير المدينة يعني اتخاذ القرارات التي تؤثر على السكان كل يوم — من وقت إصلاح الطريق إلى كيفية استخدام الطاقة بشكل أكثر كفاءة. عبر منطقة أوروبا والشرق الأوسط وأفريقيا،",
+      "summaryOriginal": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T06:00:28+00:00"
+    },
+    {
       "id": "1d575f28f5b86e824849",
       "company": "Anthropic",
       "logoText": "A",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Block is building AI-powered security with OpenAI technology"
-    },
-    {
-      "id": "6c67b2529e8d5ab04d28",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "NVIDIA تعلن عن استثمارات جديدة في النظام البيئي للشركات الناشئة في المملكة المتحدة",
-      "titleOriginal": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "policy",
-      "importance": 88,
-      "summary": "عبر الصناعات، تضع المملكة المتحدة المجموعة الكاملة موضع التنفيذ. يتزايد حجم النشر بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة التي تحل",
-      "summaryOriginal": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Investments in the UK Startup Ecosystem"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T18:49:05.247527+00:00",
-  "lastFastCheckAt": "2026-10-16T20:51:52.565720+00:00"
+  "lastFastCheckAt": "2026-10-16T20:56:56.420910+00:00"
 }
