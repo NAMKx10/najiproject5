@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T19:30:57.801178+00:00",
-  "checkedAt": "2026-10-16T19:30:57.801178+00:00",
+  "updatedAt": "2026-10-16T19:35:59.775064+00:00",
+  "checkedAt": "2026-10-16T19:35:59.775064+00:00",
   "newestPublishedAt": "2026-10-16T15:23:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -154,6 +154,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
+    },
+    {
+      "id": "58d2539a52ed194de18a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "زيادة عدد المشتركين في المكدس للوكلاء ثلاث مرات باستخدام المكون الإضافي ChatGPT",
+      "titleOriginal": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "قام اثنان من المهندسين بشحن Stack Overflow للوكلاء في غضون أسابيع قليلة مع Codex، وساعد مكون ChatGPT الإضافي في زيادة نمو إنشاء الوكيل إلى 10 أضعاف.",
+      "summaryOriginal": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T00:00:00+00:00"
     },
     {
       "id": "58422c23d696b293ff00",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
-    },
-    {
-      "id": "7e84c5b45615b15f86c9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "الفصل التالي للاتحاد الأوروبي في الذكاء الاصطناعي هو الوكيل",
-      "titleOriginal": "The EU’s next chapter in AI is agentic",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "business",
-      "importance": 82,
-      "summary": "يُظهر تحليل جديد كيف ينمو اعتماد الذكاء الاصطناعي الوكيل عبر شركات الاتحاد الأوروبي والشركات الصغيرة - وحيث يمكن أن يؤدي الاستخدام الأعمق إلى فتح المزيد من القيمة.",
-      "summaryOriginal": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The EU’s next chapter in AI is agentic"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T18:49:05.247527+00:00",
-  "lastFastCheckAt": "2026-10-16T19:30:57.801178+00:00"
+  "lastFastCheckAt": "2026-10-16T19:35:59.775064+00:00"
 }
