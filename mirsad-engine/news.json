@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T14:47:54.986359+00:00",
-  "checkedAt": "2026-10-16T14:47:54.986359+00:00",
+  "updatedAt": "2026-10-16T14:51:50.968002+00:00",
+  "checkedAt": "2026-10-16T14:51:50.968002+00:00",
   "newestPublishedAt": "2026-10-16T01:44:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -132,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-16T00:00:00+00:00"
+      "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     },
     {
       "id": "58422c23d696b293ff00",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-16T09:51:35.068384+00:00",
-  "lastFastCheckAt": "2026-10-16T14:47:54.986359+00:00"
+  "lastDeepCheckAt": "2026-10-16T14:51:50.968002+00:00"
 }
