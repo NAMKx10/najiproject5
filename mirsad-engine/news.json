@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T09:50:00.000312+00:00",
-  "checkedAt": "2026-10-16T09:50:00.000312+00:00",
+  "updatedAt": "2026-10-16T09:51:35.068384+00:00",
+  "checkedAt": "2026-10-16T09:51:35.068384+00:00",
   "newestPublishedAt": "2026-10-16T01:44:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -702,7 +702,7 @@
       "searchAliases": "xAI Introducing Grok Voice 3.0"
     },
     {
-      "id": "7690b49123111efb3208",
+      "id": "c497a36771a8f2e10c15",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -715,20 +715,14 @@
       "summary": "تعرف على كيفية قيام مركز AWS Generative AI Innovation Center Partner Agent Factory و Anchor Browser ببناء وكلاء الذكاء الاصطناعي الذين يدفعون بشكل مستقل مقابل موارد الويب وواجهات برمجة التطبيقات المحمية بـ x402",
       "summaryOriginal": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore payments checks budgets, signs transactions, and retries requests without exposing wallet credentials to the agent runtime.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-13T20:10:33+00:00"
+      "searchAliases": "Amazon Building agents that transact with Anchor Browser and AgentCore payments"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-16T05:09:03.773900+00:00",
-  "lastFastCheckAt": "2026-10-16T09:50:00.000312+00:00"
+  "lastDeepCheckAt": "2026-10-16T09:51:35.068384+00:00"
 }
