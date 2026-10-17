@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-17T00:56:16.523285+00:00",
-  "checkedAt": "2026-10-17T00:56:16.523285+00:00",
+  "updatedAt": "2026-10-17T01:01:18.535607+00:00",
+  "checkedAt": "2026-10-17T01:01:18.535607+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -492,6 +492,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "92de5fa49fc5315cc3cc",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إنشاء عروض تقديمية باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Generate presentations with Amazon Bedrock AgentCore",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "يرشدك هذا المنشور إلى بناء نظام وكيل للذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore الذي يعمل على أتمتة إنشاء عرض تقديمي PowerPoint من مستندات المؤسسة. مشرف",
+      "summaryOriginal": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T13:58:43+00:00"
+    },
+    {
       "id": "5a422f6c46bcbf250880",
       "company": "Amazon",
       "logoText": "AWS",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "1da9fb32db8c00a65e1a",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "HiRO - ACEv2: محاكاة الطقس القاسي بدقة 3 كم مقابل جزء صغير من التكلفة",
-      "titleOriginal": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-17T00:29:58.496261+00:00",
-  "lastFastCheckAt": "2026-10-17T00:56:16.523285+00:00"
+  "lastFastCheckAt": "2026-10-17T01:01:18.535607+00:00"
 }
