@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-17T05:13:40.624654+00:00",
-  "checkedAt": "2026-10-17T05:13:40.624654+00:00",
+  "updatedAt": "2026-10-17T05:18:41.877383+00:00",
+  "checkedAt": "2026-10-17T05:18:41.877383+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -518,6 +518,32 @@
       "publishedAt": "2026-10-14T12:00:00+00:00"
     },
     {
+      "id": "26aa4d763b49b1b2d8d2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
+      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
+      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/amp-beyond-coding",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00"
+    },
+    {
       "id": "2b6b35486a81e4163b64",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
-    },
-    {
-      "id": "ca20f0b7a903455dd97c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "نشر النماذج وتقييمها باستخدام Amazon SageMaker JumpStart",
-      "titleOriginal": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية نشر نموذج متاح من Amazon SageMaker JumpStart، وقم بإجراء اختبار أداء خفيف الوزن وقابل للتكرار باستخدام SageMaker Python SDK، واحذف",
-      "summaryOriginal": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-17T05:00:46.950751+00:00",
-  "lastFastCheckAt": "2026-10-17T05:13:40.624654+00:00"
+  "lastFastCheckAt": "2026-10-17T05:18:41.877383+00:00"
 }
