@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-17T13:17:31.785157+00:00",
-  "checkedAt": "2026-10-17T13:17:31.785157+00:00",
+  "updatedAt": "2026-10-17T13:22:36.067816+00:00",
+  "checkedAt": "2026-10-17T13:22:36.067816+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -513,6 +513,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "ee052fb882e50bfb7ba5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
+      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
+      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/sentinelone",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T12:00:00+00:00"
+    },
+    {
       "id": "e4954e682d9ac6e511a8",
       "company": "OpenAI",
       "logoText": "AI",
@@ -532,6 +558,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Block is building AI-powered security with OpenAI technology",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T07:00:00+00:00"
+    },
+    {
+      "id": "2b6b35486a81e4163b64",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تدير شركة Third Moment Research 10000 عامل لمدة تزيد عن 36 ساعة",
+      "titleOriginal": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع GPT -6 Astra و GPT-6.1 Sol و Codex و Daybreak للأمن السيبراني، يبني مختبر الذكاء الاصطناعي هذا وكلاء يركزون لأيام ويتحسنون مع الاستخدام.",
+      "summaryOriginal": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/third-moment-research",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Third Moment Research runs 10,000 agents for 36+ hours",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
-    },
-    {
-      "id": "ca20f0b7a903455dd97c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "نشر النماذج وتقييمها باستخدام Amazon SageMaker JumpStart",
-      "titleOriginal": "Deploy and evaluate models with Amazon SageMaker JumpStart",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية نشر نموذج متاح من Amazon SageMaker JumpStart، وقم بإجراء اختبار أداء خفيف الوزن وقابل للتكرار باستخدام SageMaker Python SDK، واحذف",
-      "summaryOriginal": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart"
-    },
-    {
-      "id": "26aa4d763b49b1b2d8d2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
-      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
-      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/amp-beyond-coding",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-17T13:14:04.972404+00:00",
-  "lastFastCheckAt": "2026-10-17T13:17:31.785157+00:00"
+  "lastFastCheckAt": "2026-10-17T13:22:36.067816+00:00"
 }
