@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-16T23:54:51.733339+00:00",
-  "checkedAt": "2026-10-16T23:54:51.733339+00:00",
+  "updatedAt": "2026-10-16T23:59:54.461822+00:00",
+  "checkedAt": "2026-10-16T23:59:54.461822+00:00",
   "newestPublishedAt": "2026-10-16T20:48:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "b37d745be0b304bbfcce",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إنشاء معالجة مستندات ذاتية التحسين باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعلم كيفية بناء نظام معالجة المستندات الذكي (IDP) باستخدام Amazon Bedrock AgentCore الذي يصنف ويستخرج ويتحقق من صحة ويتعلم من الأعمال",
+      "summaryOriginal": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T16:24:07+00:00"
+    },
+    {
       "id": "1da9fb32db8c00a65e1a",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -755,30 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T06:00:28+00:00"
-    },
-    {
-      "id": "1d575f28f5b86e824849",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "مستجد تقني",
-      "title": "التحضير للامتحانات النصفية الأمريكية لعام 2026",
-      "titleOriginal": "Preparing for the 2026 US midterms",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "في وقت سابق من هذا العام، شاركنا تحديثًا حول ضماناتنا الانتخابية. هنا، نوضح كيف واصلنا تعزيز هذه الضمانات قبل انتخابات التجديد النصفي في الولايات المتحدة هذا العام.",
-      "summaryOriginal": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/2026-us-midterms",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Preparing for the 2026 US midterms"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-16T22:06:04.222180+00:00",
-  "lastFastCheckAt": "2026-10-16T23:54:51.733339+00:00"
+  "lastFastCheckAt": "2026-10-16T23:59:54.461822+00:00"
 }
