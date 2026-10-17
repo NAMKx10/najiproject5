@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-17T21:12:13.849582+00:00",
-  "checkedAt": "2026-10-17T21:12:13.849582+00:00",
-  "newestPublishedAt": "2026-10-16T20:48:16+00:00",
+  "updatedAt": "2026-10-17T21:17:16.025104+00:00",
+  "checkedAt": "2026-10-17T21:17:16.025104+00:00",
+  "newestPublishedAt": "2026-10-17T21:00:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e99a9e163708b19d0762",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "RTX سبارك تشعل الاحتفالات العالمية مع وصول أجهزة كمبيوتر ويندوز الجديدة",
+      "titleOriginal": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "dateLabel": "17 أكتوبر 2026",
+      "dateISO": "2026-10-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أجهزة الكمبيوتر المحمولة NVIDIA RTX Spark متوفرة الآن، مما يوفر رسومات NVIDIA Blackwell RTX، وذاكرة موحدة تصل إلى 128 جيجابايت ومنصة NVIDIA AI الكاملة إلى نوافذ رفيعة ومتميزة",
+      "summaryOriginal": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-17T21:00:13+00:00"
+    },
     {
       "id": "faa9d985f7f4926e0796",
       "company": "Amazon",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "2bd241b993adae6a35cb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "NVIDIA تعلن عن استثمارات جديدة في النظام البيئي للشركات الناشئة في المملكة المتحدة",
-      "titleOriginal": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "policy",
-      "importance": 88,
-      "summary": "عبر الصناعات، تضع المملكة المتحدة المجموعة الكاملة موضع التنفيذ. يتزايد حجم النشر بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة التي تحل",
-      "summaryOriginal": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Investments in the UK Startup Ecosystem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T06:04:15+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-17T18:51:16.257685+00:00",
-  "lastFastCheckAt": "2026-10-17T21:12:13.849582+00:00"
+  "lastFastCheckAt": "2026-10-17T21:17:16.025104+00:00"
 }
