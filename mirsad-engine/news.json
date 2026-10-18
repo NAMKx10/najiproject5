@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-18T06:48:22.518969+00:00",
-  "checkedAt": "2026-10-18T06:48:22.518969+00:00",
+  "updatedAt": "2026-10-18T06:53:33.840020+00:00",
+  "checkedAt": "2026-10-18T06:53:33.840020+00:00",
   "newestPublishedAt": "2026-10-17T21:00:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -534,6 +534,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "b37d745be0b304bbfcce",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إنشاء معالجة مستندات ذاتية التحسين باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعلم كيفية بناء نظام معالجة المستندات الذكي (IDP) باستخدام Amazon Bedrock AgentCore الذي يصنف ويستخرج ويتحقق من صحة ويتعلم من الأعمال",
+      "summaryOriginal": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T16:24:07+00:00"
+    },
+    {
       "id": "1da9fb32db8c00a65e1a",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -740,35 +766,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "id": "2bd241b993adae6a35cb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أمان وسياسات",
-      "title": "NVIDIA تعلن عن استثمارات جديدة في النظام البيئي للشركات الناشئة في المملكة المتحدة",
-      "titleOriginal": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "policy",
-      "importance": 88,
-      "summary": "عبر الصناعات، تضع المملكة المتحدة المجموعة الكاملة موضع التنفيذ. يتزايد حجم النشر بسرعة، من الشركات التي تحول أعمالها إلى الشركات الناشئة التي تحل",
-      "summaryOriginal": "Across industries, the U.K. is putting the full stack to work. The scale of deployment is growing fast, from enterprises transforming their businesses to startups solving some of the planet’s hardest problems. NVIDIA is putting that principle into practice, including through a five-year, $250 million compute commitment to strengthen the U.K.’s agentic safety and security […]",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Investments in the UK Startup Ecosystem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T06:04:15+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-18T06:37:03.416721+00:00",
-  "lastFastCheckAt": "2026-10-18T06:48:22.518969+00:00"
+  "lastFastCheckAt": "2026-10-18T06:53:33.840020+00:00"
 }
