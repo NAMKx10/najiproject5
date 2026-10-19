@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T17:31:58.416355+00:00",
-  "checkedAt": "2026-10-19T17:31:58.416355+00:00",
+  "updatedAt": "2026-10-19T17:34:03.264274+00:00",
+  "checkedAt": "2026-10-19T17:34:03.264274+00:00",
   "newestPublishedAt": "2026-10-19T16:49:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "4d74ea422632e29664a8",
+      "id": "00e792db5ac8df44a4a8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "يتوفر TwelveLabs Pegasus 1.5 الآن في Amazon Bedrock. يحول نموذج لغة الفيديو الفيديو الفيديو الطويل إلى بيانات وصفية منظمة ومختومة زمنياً: حدد اللحظات التي",
       "summaryOriginal": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as JSON, with new video segmentation, multimodal prompting with reference images, and on-the-fly processing of up to two hours of video.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-19T16:49:19+00:00"
+      "searchAliases": "Amazon Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock"
     },
     {
-      "id": "5bf00988f07dcef4dbe8",
+      "id": "deab6dd32e7b0d45778c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "عملت Deepgram مع فريق AWS Forward Deployed Engineering لنقل نموذج Nova -3 لتحويل الكلام إلى نص إلى AWS Trainium2 لاستدلال الدفعة دون اتصال بالإنترنت. يغطي هذا المنشور الميناء",
       "summaryOriginal": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning, a data-parallel Rust runtime, and the throughput and cost results on batch transcription.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Deepgram optimized voice AI at scale with AWS Trainium",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-19T16:23:22+00:00"
+      "searchAliases": "Amazon How Deepgram optimized voice AI at scale with AWS Trainium"
     },
     {
-      "id": "3a0173e9dd8b357b6bb1",
+      "id": "737df7bb703007dba19f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "يقسم تصنيف فك التشفير المسبق لـ vLLM استدلال LLM عبر حالات المحرك ولكن يجب نقل ذاكرة التخزين المؤقت KV بينهما. يقدم هذا المنشور اتصال NIXL قائم على الدفع",
       "summaryOriginal": "vLLM's prefill-decode disaggregation splits LLM inference across engine instances but must transfer the KV cache between them. This post introduces a push-based NIXL connector that moves transfer coordination off the critical path, delivering up to 3x better TTFT and 30% better TPOT in benchmarks on Amazon EC2 P5en instances with AWS EFA.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm",
+      "source": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-19T16:05:17+00:00"
+      "searchAliases": "Amazon Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM"
     },
     {
-      "id": "3470c56f77c5261aa062",
+      "id": "58092422864ab2bb7762",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,20 +169,15 @@
       "summary": "تعمل أعباء العمل المتعددة العوامل على إعادة معالجة سياق المحادثة المتنامي في كل منعطف، مما يؤدي إلى زيادة الكمون. انظر كيف يتيح نقل ذاكرة التخزين المؤقت ثنائية الاتجاه KV ملء العقد مسبقًا وفك تشفيرها",
       "summaryOriginal": "Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and decode nodes reuse previously computed context across turns, cutting time to first token by up to 1.6x for Qwen3-32B and 3.3x for GLM-5-FP8 on Amazon EC2 P5en instances with EFA.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm",
+      "source": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-19T16:03:23+00:00"
+      "searchAliases": "Amazon Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM"
     },
     {
-      "id": "6ac94a85d8d0a8f8ae2f",
+      "id": "9228ba5e0f84b89871bc",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -210,20 +190,15 @@
       "summary": "في حدث صناعي إبداعي أقيم اليوم في برلين — تم استضافته بالتعاون مع Adobe و Bertelsmann و NVIDIA و UFA — أحدث التطورات في الذكاء",
       "summaryOriginal": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
+      "source": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-19T15:00:31+00:00"
+      "searchAliases": "NVIDIA NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production"
     },
     {
-      "id": "37d3eff40fd56801fd4e",
+      "id": "85ba5978e7d21508a94e",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "إطلاق أو تحديث",
@@ -236,17 +211,12 @@
       "summary": "في الأشهر القليلة الماضية، نشأت مخاوف بشأن سلامة الذكاء الاصطناعي حيث تم الكشف عن عدد متزايد من الحوادث علنًا. كشفت هذه الحوادث عن مدى قوة النماذج",
       "summaryOriginal": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more... The post Securing the agentic insider appeared first on The Official Microsoft Blog .",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider",
+      "source": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Securing the agentic insider",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-19T13:00:02+00:00"
+      "searchAliases": "Microsoft Securing the agentic insider"
     },
     {
       "id": "e6d54d3efadc13c50f3e",
@@ -732,33 +702,27 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
-      "id": "b37d745be0b304bbfcce",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "إنشاء معالجة مستندات ذاتية التحسين باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "id": "1d575f28f5b86e824849",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "التحضير للامتحانات النصفية الأمريكية لعام 2026",
+      "titleOriginal": "Preparing for the 2026 US midterms",
       "dateLabel": "14 أكتوبر 2026",
       "dateISO": "2026-10-14",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعلم كيفية بناء نظام معالجة المستندات الذكي (IDP) باستخدام Amazon Bedrock AgentCore الذي يصنف ويستخرج ويتحقق من صحة ويتعلم من الأعمال",
-      "summaryOriginal": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في وقت سابق من هذا العام، شاركنا تحديثًا حول ضماناتنا الانتخابية. هنا، نوضح كيف واصلنا تعزيز هذه الضمانات قبل انتخابات التجديد النصفي في الولايات المتحدة هذا العام.",
+      "summaryOriginal": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/2026-us-midterms",
+      "sourceLabel": "Anthropic Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T16:24:07+00:00"
+      "searchAliases": "Anthropic Preparing for the 2026 US midterms"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-19T11:17:07.857306+00:00",
-  "lastFastCheckAt": "2026-10-19T17:31:58.416355+00:00"
+  "lastDeepCheckAt": "2026-10-19T17:34:03.264274+00:00"
 }
