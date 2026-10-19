@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T15:11:10.300212+00:00",
-  "checkedAt": "2026-10-19T15:11:10.300212+00:00",
-  "newestPublishedAt": "2026-10-19T13:00:02+00:00",
+  "updatedAt": "2026-10-19T15:16:24.959533+00:00",
+  "checkedAt": "2026-10-19T15:16:24.959533+00:00",
+  "newestPublishedAt": "2026-10-19T15:00:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6ac94a85d8d0a8f8ae2f",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تقدم NVIDIA أمن الوكلاء لوسائل الإعلام، من البث الأوروبي للخدمة العامة إلى إنتاج المحتوى العالمي",
+      "titleOriginal": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "في حدث صناعي إبداعي أقيم اليوم في برلين — تم استضافته بالتعاون مع Adobe و Bertelsmann و NVIDIA و UFA — أحدث التطورات في الذكاء",
+      "summaryOriginal": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T15:00:31+00:00"
+    },
     {
       "id": "37d3eff40fd56801fd4e",
       "company": "Microsoft",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T13:14:36+00:00"
-    },
-    {
-      "id": "ee052fb882e50bfb7ba5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تخفض SentinelOne تحليل البرامج الضارة من أسابيع إلى ساعات",
-      "titleOriginal": "SentinelOne cuts malware analysis from weeks to hours",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "مع OpenAI Daybreak، تخفض SentinelOne أسابيع من تحليل البرامج الضارة إلى ساعات، مما يخلق القدرة على التحقيق في المزيد من التهديدات.",
-      "summaryOriginal": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sentinelone",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T11:17:07.857306+00:00",
-  "lastFastCheckAt": "2026-10-19T15:11:10.300212+00:00"
+  "lastFastCheckAt": "2026-10-19T15:16:24.959533+00:00"
 }
