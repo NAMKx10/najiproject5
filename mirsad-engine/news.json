@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T08:50:52.474276+00:00",
-  "checkedAt": "2026-10-19T08:50:52.474276+00:00",
+  "updatedAt": "2026-10-19T08:55:54.085277+00:00",
+  "checkedAt": "2026-10-19T08:55:54.085277+00:00",
   "newestPublishedAt": "2026-10-18T16:49:35.513000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -280,6 +280,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
+    },
+    {
+      "id": "17694eda65b0ffea54b4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "ملاحظات إصدار Apertus 1.5",
+      "titleOriginal": "Apertus 1.5 Release Notes",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Apertus 1.5 Release Notes",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T09:08:45+00:00"
     },
     {
       "id": "58422c23d696b293ff00",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "id": "2b6b35486a81e4163b64",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تدير شركة Third Moment Research 10000 عامل لمدة تزيد عن 36 ساعة",
-      "titleOriginal": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT -6 Astra و GPT-6.1 Sol و Codex و Daybreak للأمن السيبراني، يبني مختبر الذكاء الاصطناعي هذا وكلاء يركزون لأيام ويتحسنون مع الاستخدام.",
-      "summaryOriginal": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/third-moment-research",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Third Moment Research runs 10,000 agents for 36+ hours",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T05:21:31.623312+00:00",
-  "lastFastCheckAt": "2026-10-19T08:50:52.474276+00:00"
+  "lastFastCheckAt": "2026-10-19T08:55:54.085277+00:00"
 }
