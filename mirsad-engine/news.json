@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T12:59:20.363211+00:00",
-  "checkedAt": "2026-10-19T12:59:20.363211+00:00",
-  "newestPublishedAt": "2026-10-18T16:49:35.513000+00:00",
+  "updatedAt": "2026-10-19T13:04:23.166978+00:00",
+  "checkedAt": "2026-10-19T13:04:23.166978+00:00",
+  "newestPublishedAt": "2026-10-19T13:00:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "37d3eff40fd56801fd4e",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "تأمين المطلع الداخلي للوكيل",
+      "titleOriginal": "Securing the agentic insider",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "في الأشهر القليلة الماضية، نشأت مخاوف بشأن سلامة الذكاء الاصطناعي حيث تم الكشف عن عدد متزايد من الحوادث علنًا. كشفت هذه الحوادث عن مدى قوة النماذج",
+      "summaryOriginal": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more... The post Securing the agentic insider appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Securing the agentic insider",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T13:00:02+00:00"
+    },
     {
       "id": "e6d54d3efadc13c50f3e",
       "company": "Anthropic",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "id": "26aa4d763b49b1b2d8d2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يضع AMP وكلاء الذكاء الاصطناعي للعمل خارج التعليمات البرمجية مع نماذج OpenAI",
-      "titleOriginal": "Amp puts AI agents to work beyond code with OpenAI models",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية دفع AMP لما يمكن أن يفعله الوكلاء مع GPT -6 Astra و Ultrafast و GPT - Live -1 وتسجيل الدخول باستخدام ChatGPT.",
-      "summaryOriginal": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/amp-beyond-coding",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T11:17:07.857306+00:00",
-  "lastFastCheckAt": "2026-10-19T12:59:20.363211+00:00"
+  "lastFastCheckAt": "2026-10-19T13:04:23.166978+00:00"
 }
