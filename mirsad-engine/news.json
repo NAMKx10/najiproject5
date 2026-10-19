@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T00:31:14.627005+00:00",
-  "checkedAt": "2026-10-19T00:31:14.627005+00:00",
+  "updatedAt": "2026-10-19T00:31:58.076796+00:00",
+  "checkedAt": "2026-10-19T00:31:58.076796+00:00",
   "newestPublishedAt": "2026-10-18T16:49:35.513000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -555,7 +555,28 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
-      "id": "b37d745be0b304bbfcce",
+      "id": "1d575f28f5b86e824849",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "التحضير للامتحانات النصفية الأمريكية لعام 2026",
+      "titleOriginal": "Preparing for the 2026 US midterms",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في وقت سابق من هذا العام، شاركنا تحديثًا حول ضماناتنا الانتخابية. هنا، نوضح كيف واصلنا تعزيز هذه الضمانات قبل انتخابات التجديد النصفي في الولايات المتحدة هذا العام.",
+      "summaryOriginal": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/2026-us-midterms",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Preparing for the 2026 US midterms"
+    },
+    {
+      "id": "5366439ebfc0ae5ba418",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -568,17 +589,12 @@
       "summary": "تعلم كيفية بناء نظام معالجة المستندات الذكي (IDP) باستخدام Amazon Bedrock AgentCore الذي يصنف ويستخرج ويتحقق من صحة ويتعلم من الأعمال",
       "summaryOriginal": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T16:24:07+00:00"
+      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore"
     },
     {
       "id": "1da9fb32db8c00a65e1a",
@@ -599,15 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T16:12:42+00:00"
+      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost"
     },
     {
-      "id": "92de5fa49fc5315cc3cc",
+      "id": "aeb2c38703273413d3fb",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -620,20 +631,15 @@
       "summary": "يرشدك هذا المنشور إلى بناء نظام وكيل للذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore الذي يعمل على أتمتة إنشاء عرض تقديمي PowerPoint من مستندات المؤسسة. مشرف",
       "summaryOriginal": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:58:43+00:00"
+      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore"
     },
     {
-      "id": "5a422f6c46bcbf250880",
+      "id": "c54a0947ca9cdaf94a72",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -646,20 +652,15 @@
       "summary": "تعرف على كيفية بناء Tami من قبل Tamnoon، وهو منسق معالجة سحابة الوكيل على Amazon Bedrock الذي يحقق بشكل مستقل ويعالج بأمان نتائج الأمن السحابي",
       "summaryOriginal": "Learn how Tamnoon built Tami, an agentic cloud remediation orchestrator on Amazon Bedrock that autonomously investigates and safely remediates cloud security findings from CNAPP and cloud-native sources. The approach drove a 90%+ reduction in critical cloud exposure in 90 days with zero production issues.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:53:33+00:00"
+      "searchAliases": "Amazon How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock"
     },
     {
-      "id": "d6e8d5bf24070603145b",
+      "id": "ca20f0b7a903455dd97c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -672,17 +673,12 @@
       "summary": "تعرف على كيفية نشر نموذج متاح من Amazon SageMaker JumpStart، وقم بإجراء اختبار أداء خفيف الوزن وقابل للتكرار باستخدام SageMaker Python SDK، واحذف",
       "summaryOriginal": "Learn how to deploy an available model from Amazon SageMaker JumpStart, run a lightweight and repeatable performance test using the SageMaker Python SDK, and delete the endpoint when testing is complete.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:14:36+00:00"
+      "searchAliases": "Amazon Deploy and evaluate models with Amazon SageMaker JumpStart"
     },
     {
       "id": "26aa4d763b49b1b2d8d2",
@@ -703,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T12:00:00+00:00"
+      "searchAliases": "OpenAI Amp puts AI agents to work beyond code with OpenAI models"
     },
     {
       "id": "ee052fb882e50bfb7ba5",
@@ -729,41 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "id": "2b6b35486a81e4163b64",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تدير شركة Third Moment Research 10000 عامل لمدة تزيد عن 36 ساعة",
-      "titleOriginal": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT -6 Astra و GPT-6.1 Sol و Codex و Daybreak للأمن السيبراني، يبني مختبر الذكاء الاصطناعي هذا وكلاء يركزون لأيام ويتحسنون مع الاستخدام.",
-      "summaryOriginal": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/third-moment-research",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Third Moment Research runs 10,000 agents for 36+ hours",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T07:00:00+00:00"
+      "searchAliases": "OpenAI SentinelOne cuts malware analysis from weeks to hours"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-18T22:37:44.522127+00:00",
-  "lastFastCheckAt": "2026-10-19T00:31:14.627005+00:00"
+  "lastDeepCheckAt": "2026-10-19T00:31:58.076796+00:00"
 }
