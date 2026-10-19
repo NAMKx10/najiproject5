@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T11:22:55.770594+00:00",
-  "checkedAt": "2026-10-19T11:22:55.770594+00:00",
+  "updatedAt": "2026-10-19T11:27:58.846704+00:00",
+  "checkedAt": "2026-10-19T11:27:58.846704+00:00",
   "newestPublishedAt": "2026-10-18T16:49:35.513000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -576,6 +576,32 @@
       "searchAliases": "Hugging Face Welcome FLUX.3 Image Klein in Diffusers"
     },
     {
+      "id": "b37d745be0b304bbfcce",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إنشاء معالجة مستندات ذاتية التحسين باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "dateLabel": "14 أكتوبر 2026",
+      "dateISO": "2026-10-14",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعلم كيفية بناء نظام معالجة المستندات الذكي (IDP) باستخدام Amazon Bedrock AgentCore الذي يصنف ويستخرج ويتحقق من صحة ويتعلم من الأعمال",
+      "summaryOriginal": "Learn how to build an agentic intelligent document processing (IDP) system using Amazon Bedrock AgentCore that classifies, extracts, validates, and learns from business documents with minimal human intervention, automatically handling new document formats without manual template configuration.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build self-improving document processing using Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-14T16:24:07+00:00"
+    },
+    {
       "id": "1da9fb32db8c00a65e1a",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T12:00:00+00:00"
-    },
-    {
-      "id": "2b6b35486a81e4163b64",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تدير شركة Third Moment Research 10000 عامل لمدة تزيد عن 36 ساعة",
-      "titleOriginal": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع GPT -6 Astra و GPT-6.1 Sol و Codex و Daybreak للأمن السيبراني، يبني مختبر الذكاء الاصطناعي هذا وكلاء يركزون لأيام ويتحسنون مع الاستخدام.",
-      "summaryOriginal": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/third-moment-research",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Third Moment Research runs 10,000 agents for 36+ hours",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T11:17:07.857306+00:00",
-  "lastFastCheckAt": "2026-10-19T11:22:55.770594+00:00"
+  "lastFastCheckAt": "2026-10-19T11:27:58.846704+00:00"
 }
