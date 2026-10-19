@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T22:38:46.232874+00:00",
-  "checkedAt": "2026-10-19T22:38:46.232874+00:00",
-  "newestPublishedAt": "2026-10-19T21:14:44+00:00",
+  "updatedAt": "2026-10-19T22:43:50.033782+00:00",
+  "checkedAt": "2026-10-19T22:43:50.033782+00:00",
+  "newestPublishedAt": "2026-10-19T22:39:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "60de115f5a07575c940c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "يمكن للمطورين الآن الوصول إلى SageMaker Studio من خلال تجربة AWS الجديدة",
+      "titleOriginal": "Developers can now access SageMaker Studio through the new AWS experience",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "business",
+      "importance": 82,
+      "summary": "يمكن لعملاء Amazon SageMaker AI الجدد الآن الوصول إلى بيئة SageMaker Studio المهيأة بالكامل في خطوات قليلة فقط. سجّل بهوية لديك بالفعل، مثل",
+      "summaryOriginal": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have, such as Amazon, Apple, GitHub, or Google, with no advanced AWS account or credit card required for most customers, plus $100 in AWS Free Tier credits.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/developers-can-now-access-sagemaker-studio-through-the-new-aws-experience",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Developers can now access SageMaker Studio through the new AWS experience",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T22:39:24+00:00"
+    },
     {
       "id": "78f28699eaf23b4507b2",
       "company": "OpenAI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Apertus 1.5 Release Notes"
-    },
-    {
-      "id": "cfb388d27b114fe9f8e1",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "أمان وسياسات",
-      "title": "تماسك للحصول على ممر للذكاء الاصطناعي السيادي المرن على الإنترنت",
-      "titleOriginal": "Cohere to acquire AISLE for cyber-resilient sovereign AI",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "policy",
-      "importance": 88,
-      "summary": "يقترح كوهير الحصول على ممر لتعزيز أمن الذكاء الاصطناعي السيادي للشركات والحكومات.",
-      "summaryOriginal": "Cohere proposes acquiring AISLE to enhance sovereign AI security for enterprises and governments.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://cohere.com/blog/cohere-and-aisle-sign-letter-of-intent-to-advance-cyber-resilient-sovereign-ai",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere Cohere to acquire AISLE for cyber-resilient sovereign AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T21:44:49.615379+00:00",
-  "lastFastCheckAt": "2026-10-19T22:38:46.232874+00:00"
+  "lastFastCheckAt": "2026-10-19T22:43:50.033782+00:00"
 }
