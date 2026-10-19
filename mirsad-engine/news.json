@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T23:49:40.306654+00:00",
-  "checkedAt": "2026-10-19T23:49:40.306654+00:00",
+  "updatedAt": "2026-10-19T23:54:53.041170+00:00",
+  "checkedAt": "2026-10-19T23:54:53.041170+00:00",
   "newestPublishedAt": "2026-10-19T23:32:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -549,6 +549,32 @@
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     },
     {
+      "id": "3ca4c147e6e4d245baf7",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "مفتوح من مركز البيانات إلى سطح المكتب: توسع NVIDIA عائلة Nemotron بأعلى كفاءة طرازات Super VL و Bolt",
+      "titleOriginal": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصدرت NVIDIA اليوم Nemotron 3.5 Super VL، وهو نموذج مفتوح يبلغ 120 مليار معلمة يوفر أسرع إنجاز للمهام وأعلى دقة للتخصص دائمًا",
+      "summaryOriginal": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T15:00:24+00:00"
+    },
+    {
       "id": "1fffc348f7c5ce2063d6",
       "company": "OpenAI",
       "logoText": "AI",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark"
-    },
-    {
-      "id": "5b5b08e75438e6a69987",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "الثقة في العمق: منح الوكلاء المزيد من الاستقلالية دون فقدان السيطرة",
-      "titleOriginal": "Trust in Depth: Giving agents more autonomy without losing control",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "business",
-      "importance": 82,
-      "summary": "يريد قادة المؤسسات أن يتولى وكلاء الذكاء الاصطناعي المزيد من العمل ولكنهم لا يثقون بهم تمامًا في التصرف بشكل صحيح في كل مرة. الثقة في العمق هي نهج AWS متعدد الطبقات - النطاق والمعرفة والالتزام",
-      "summaryOriginal": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, know, bound, observe, and prove-that lets agents act on their own when their actions can be verified, reserving human judgment for the decisions that need it.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Trust in Depth: Giving agents more autonomy without losing control"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T21:44:49.615379+00:00",
-  "lastFastCheckAt": "2026-10-19T23:49:40.306654+00:00"
+  "lastFastCheckAt": "2026-10-19T23:54:53.041170+00:00"
 }
