@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T16:46:15.177334+00:00",
-  "checkedAt": "2026-10-19T16:46:15.177334+00:00",
-  "newestPublishedAt": "2026-10-19T16:23:22+00:00",
+  "updatedAt": "2026-10-19T16:51:20.411469+00:00",
+  "checkedAt": "2026-10-19T16:51:20.411469+00:00",
+  "newestPublishedAt": "2026-10-19T16:49:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4d74ea422632e29664a8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "Pegasus 1.5 من TwelveLabs متاح الآن في Amazon Bedrock",
+      "titleOriginal": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر TwelveLabs Pegasus 1.5 الآن في Amazon Bedrock. يحول نموذج لغة الفيديو الفيديو الفيديو الطويل إلى بيانات وصفية منظمة ومختومة زمنياً: حدد اللحظات التي",
+      "summaryOriginal": "TwelveLabs Pegasus 1.5 is now available in Amazon Bedrock. The video language model turns long-form video into structured, timestamped metadata: define the moments that matter and get every matching segment back as JSON, with new video segmentation, multimodal prompting with reference images, and on-the-fly processing of up to two hours of video.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T16:49:19+00:00"
+    },
     {
       "id": "5bf00988f07dcef4dbe8",
       "company": "Amazon",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T16:24:07+00:00"
-    },
-    {
-      "id": "1da9fb32db8c00a65e1a",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "HiRO - ACEv2: محاكاة الطقس القاسي بدقة 3 كم مقابل جزء صغير من التكلفة",
-      "titleOriginal": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T16:12:42+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T11:17:07.857306+00:00",
-  "lastFastCheckAt": "2026-10-19T16:46:15.177334+00:00"
+  "lastFastCheckAt": "2026-10-19T16:51:20.411469+00:00"
 }
