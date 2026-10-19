@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T23:29:27.994105+00:00",
-  "checkedAt": "2026-10-19T23:29:27.994105+00:00",
-  "newestPublishedAt": "2026-10-19T22:39:24+00:00",
+  "updatedAt": "2026-10-19T23:34:33.701465+00:00",
+  "checkedAt": "2026-10-19T23:34:33.701465+00:00",
+  "newestPublishedAt": "2026-10-19T23:32:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2837a38a9ab0e54f3bb3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "المخرجات المهيكلة لنماذج أنثروبيك كلود على Amazon Bedrock",
+      "titleOriginal": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "تدعم أمازون بيدروك الآن المخرجات المهيكلة لجميع طرازات أنثروبيك كلود على كل من نقطتي نهاية طبقة الأساس وطبقة الأساس. تلقي JSON متوافق مع المخطط",
+      "summaryOriginal": "Amazon Bedrock now supports structured outputs for all Anthropic Claude models on both the bedrock-runtime and bedrock-mantle endpoints. Receive schema-compliant JSON that conforms to a defined structure, without custom parsing, retry logic, or post-processing, using JSON Schema output format and strict tool use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Structured outputs for Anthropic Claude models on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T23:32:19+00:00"
+    },
     {
       "id": "60de115f5a07575c940c",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
-    },
-    {
-      "id": "17694eda65b0ffea54b4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "ملاحظات إصدار Apertus 1.5",
-      "titleOriginal": "Apertus 1.5 Release Notes",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Apertus 1.5 Release Notes"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T21:44:49.615379+00:00",
-  "lastFastCheckAt": "2026-10-19T23:29:27.994105+00:00"
+  "lastFastCheckAt": "2026-10-19T23:34:33.701465+00:00"
 }
