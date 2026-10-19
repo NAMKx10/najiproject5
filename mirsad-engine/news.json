@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T21:12:43.335886+00:00",
-  "checkedAt": "2026-10-19T21:12:43.335886+00:00",
-  "newestPublishedAt": "2026-10-19T19:27:08+00:00",
+  "updatedAt": "2026-10-19T21:17:47.207895+00:00",
+  "checkedAt": "2026-10-19T21:17:47.207895+00:00",
+  "newestPublishedAt": "2026-10-19T21:14:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "eb2e9cb798c14d06e5d4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "Amazon SageMaker JumpStart: عام 2026 حتى تاريخه قيد المراجعة",
+      "titleOriginal": "Amazon SageMaker JumpStart: 2026 year-to-date in review",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "قامت Amazon SageMaker JumpStart بضم أكثر من 100 طراز جديد من 30 مزودًا في الأرباع الثلاثة الأولى من عام 2026. يغطي هذا الملخص النقاط البارزة في إعداد النموذج والقفز",
+      "summaryOriginal": "Amazon SageMaker JumpStart onboarded over 100 new models from 30 providers in the first three quarters of 2026. This recap covers the model-onboarding highlights and JumpStart enhancements, including the simplified Model Hub, pre-configured deployment options, and Hugging Face deep link integration.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-2026-year-to-date-in-review",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon SageMaker JumpStart: 2026 year-to-date in review",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T21:14:44+00:00"
+    },
     {
       "id": "ec1a90726309d123a824",
       "company": "NVIDIA",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Sullivan & Cromwell brings legal expertise into agreement review"
-    },
-    {
-      "id": "277136ae7c1436ff8735",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحبًا بكم في MUSE Spark Open: نموذج مزيج من الخبراء متعدد الوسائط مفتوح الوزن من META",
-      "titleOriginal": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/meta-muse-spark-open",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T17:34:03.264274+00:00",
-  "lastFastCheckAt": "2026-10-19T21:12:43.335886+00:00"
+  "lastFastCheckAt": "2026-10-19T21:17:47.207895+00:00"
 }
