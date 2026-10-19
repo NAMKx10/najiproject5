@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T16:20:42.920762+00:00",
-  "checkedAt": "2026-10-19T16:20:42.920762+00:00",
-  "newestPublishedAt": "2026-10-19T16:05:17+00:00",
+  "updatedAt": "2026-10-19T16:25:48.217414+00:00",
+  "checkedAt": "2026-10-19T16:25:48.217414+00:00",
+  "newestPublishedAt": "2026-10-19T16:23:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5bf00988f07dcef4dbe8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف حسنت Deepgram الذكاء الاصطناعي الصوتي على نطاق واسع مع AWS Trainium",
+      "titleOriginal": "How Deepgram optimized voice AI at scale with AWS Trainium",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "عملت Deepgram مع فريق AWS Forward Deployed Engineering لنقل نموذج Nova -3 لتحويل الكلام إلى نص إلى AWS Trainium2 لاستدلال الدفعة دون اتصال بالإنترنت. يغطي هذا المنشور الميناء",
+      "summaryOriginal": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post covers porting to the AWS Neuron stack, kernel-level tuning, a data-parallel Rust runtime, and the throughput and cost results on batch transcription.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Deepgram optimized voice AI at scale with AWS Trainium",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T16:23:22+00:00"
+    },
     {
       "id": "3a0173e9dd8b357b6bb1",
       "company": "Amazon",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-14T16:12:42+00:00"
-    },
-    {
-      "id": "92de5fa49fc5315cc3cc",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "إنشاء عروض تقديمية باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Generate presentations with Amazon Bedrock AgentCore",
-      "dateLabel": "14 أكتوبر 2026",
-      "dateISO": "2026-10-14",
-      "category": "business",
-      "importance": 82,
-      "summary": "يرشدك هذا المنشور إلى بناء نظام وكيل للذكاء الاصطناعي باستخدام Amazon Bedrock AgentCore الذي يعمل على أتمتة إنشاء عرض تقديمي PowerPoint من مستندات المؤسسة. مشرف",
-      "summaryOriginal": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents. A supervisor agent, Retrieval Augmented Generation, and Amazon Bedrock Guardrails generate grounded presentations in under 90 seconds.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Generate presentations with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-14T13:58:43+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T11:17:07.857306+00:00",
-  "lastFastCheckAt": "2026-10-19T16:20:42.920762+00:00"
+  "lastFastCheckAt": "2026-10-19T16:25:48.217414+00:00"
 }
