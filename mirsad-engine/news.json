@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-19T22:28:39.699651+00:00",
-  "checkedAt": "2026-10-19T22:28:39.699651+00:00",
+  "updatedAt": "2026-10-19T22:33:41.863686+00:00",
+  "checkedAt": "2026-10-19T22:33:41.863686+00:00",
   "newestPublishedAt": "2026-10-19T21:14:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "78f28699eaf23b4507b2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تطوير البرمجة بلغات البرمجة منخفضة الموارد",
+      "titleOriginal": "Advancing Coding in Low-Resource Programming Languages",
+      "dateLabel": "19 أكتوبر 2026",
+      "dateISO": "2026-10-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية قيام OpenAI بتحسين ChatGPT عبر لغات البرمجة منخفضة الموارد، مع تقييمات جديدة لهندسة البرمجيات و SQLite وترحيل COBOL.",
+      "summaryOriginal": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/low-resource-programming-languages",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advancing Coding in Low-Resource Programming Languages",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-19T12:00:00+00:00"
+    },
     {
       "id": "8ccd5f4b60fdafffe6b6",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Cohere Cohere to acquire AISLE for cyber-resilient sovereign AI"
-    },
-    {
-      "id": "cc132f31158af842e350",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "يجلب سوليفان وكرومويل الخبرة القانونية في مراجعة الاتفاقية",
-      "titleOriginal": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بالتعاون مع OpenAI، طورت Sullivan & Cromwell محلل الاتفاقية، وهو أداة ذكاء اصطناعي لتحديد المشكلات في مسودة الاتفاقية.",
-      "summaryOriginal": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/sullivan-cromwell",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Sullivan & Cromwell brings legal expertise into agreement review"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-19T21:44:49.615379+00:00",
-  "lastFastCheckAt": "2026-10-19T22:28:39.699651+00:00"
+  "lastFastCheckAt": "2026-10-19T22:33:41.863686+00:00"
 }
