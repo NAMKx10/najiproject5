@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T10:23:23.299397+00:00",
-  "checkedAt": "2026-10-20T10:23:23.299397+00:00",
+  "updatedAt": "2026-10-20T10:26:09.298313+00:00",
+  "checkedAt": "2026-10-20T10:26:09.298313+00:00",
   "newestPublishedAt": "2026-10-20T08:20:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "a9555b3f00d3c20b9bc8",
+      "id": "045ce154ba12b61cf0a1",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "مستجد تقني",
@@ -106,17 +106,12 @@
       "summary": "من خلال محادثاتي مع القادة في الحكومة والبنية التحتية الحيوية والصناعات المنظمة، ترتفع إحدى الأولويات باستمرار إلى القمة: وضع التكنولوجيا",
       "summaryOriginal": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential... The post Advancing digital sovereignty with greater control and choice appeared first on The Official Microsoft Blog .",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice",
+      "source": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Advancing digital sovereignty with greater control and choice",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T08:20:02+00:00"
+      "searchAliases": "Microsoft Advancing digital sovereignty with greater control and choice"
     },
     {
       "id": "554889dadd7faf09caca",
@@ -599,12 +594,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T20:34:01+00:00"
+      "searchAliases": "Hugging Face Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
     },
     {
       "id": "6d9d156035ebcbb1f4d0",
@@ -625,15 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Bringing GPT-Rosalind to academic research labs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T19:00:00+00:00"
+      "searchAliases": "OpenAI Bringing GPT-Rosalind to academic research labs"
     },
     {
-      "id": "667ad057280c392a4c76",
+      "id": "bfa295e4cfe2ab36e57d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -646,20 +631,36 @@
       "summary": "Muse Spark Open، نموذج الوزن المفتوح المحسّن للترميز من Meta، متاح الآن في Amazon SageMaker JumpStart. انشره على نقطة نهاية SageMaker AI في حساب AWS الخاص بك",
       "summaryOriginal": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "source": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T17:43:35+00:00"
+      "searchAliases": "Amazon Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart"
     },
     {
-      "id": "a4e7523ece3fa28ad4dd",
+      "id": "7b14613f2ad694946ca3",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "تحديث أنثروبي حول المقيّمين المستقلين",
+      "titleOriginal": "Anthropic update on independent evaluators",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلن Anthropic عن تحديثات لتضمين مقيّمين مستقلين",
+      "summaryOriginal": "Anthropic announces updates to embedding independent evaluators",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Anthropic update on independent evaluators"
+    },
+    {
+      "id": "a5d6a88f614e86c7c9f4",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -672,20 +673,15 @@
       "summary": "تبدأ بداية جديدة لأجهزة الكمبيوتر التي تعمل بنظام Windows غدًا بإطلاق NVIDIA RTX Spark — جهاز كمبيوتر واحد مصمم لمنشئي المحتوى واللاعبين ووكلاء الذكاء الاصطناعي. الجميع مدعوون للاحتفال مع N",
       "summaryOriginal": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T17:00:23+00:00"
+      "searchAliases": "NVIDIA Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark"
     },
     {
-      "id": "3ca4c147e6e4d245baf7",
+      "id": "d59100344171ebc17a87",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -698,17 +694,12 @@
       "summary": "أصدرت NVIDIA اليوم Nemotron 3.5 Super VL، وهو نموذج مفتوح يبلغ 120 مليار معلمة يوفر أسرع إنجاز للمهام وأعلى دقة للتخصص دائمًا",
       "summaryOriginal": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl",
+      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T15:00:24+00:00"
+      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models"
     },
     {
       "id": "1fffc348f7c5ce2063d6",
@@ -729,41 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Teaching students to think and learn through questions",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T13:00:00+00:00"
-    },
-    {
-      "id": "d38d6fe7f8768c6ab5ae",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "توسع NVIDIA وصول المجتمع العلمي الأوروبي إلى التكنولوجيا المتقدمة من خلال مصادر التعلم المفتوحة والتعاون والحوسبة",
-      "titleOriginal": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "يبدأ الكثير من التقدم العلمي اليوم بالحوسبة. لكن تحويل إمكانات الحوسبة المتسارعة إلى تقدم علمي — نمذجة النظم المناخية، تصميم",
-      "summaryOriginal": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T10:00:12+00:00"
+      "searchAliases": "OpenAI Teaching students to think and learn through questions"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-20T05:21:50.861394+00:00",
-  "lastFastCheckAt": "2026-10-20T10:23:23.299397+00:00"
+  "lastDeepCheckAt": "2026-10-20T10:26:09.298313+00:00"
 }
