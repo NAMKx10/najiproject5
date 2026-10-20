@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T17:46:57.999034+00:00",
-  "checkedAt": "2026-10-20T17:46:57.999034+00:00",
-  "newestPublishedAt": "2026-10-20T17:34:04+00:00",
+  "updatedAt": "2026-10-20T17:51:59.847256+00:00",
+  "checkedAt": "2026-10-20T17:51:59.847256+00:00",
+  "newestPublishedAt": "2026-10-20T17:48:27+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "bb1d1502e0e41eab8d04",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ضبط GPT - OSS -20B بدقة للتفكير متعدد اللغات على Amazon SageMaker HyperPod",
+      "titleOriginal": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية ضبط GPT - OSS -20B للتفكير متعدد اللغات على Amazon SageMaker HyperPod، وكيفية الاختيار بين الضبط الدقيق الخاضع للإشراف (SFT) وتعلم التعزيز",
+      "summaryOriginal": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T17:48:27+00:00"
+    },
     {
       "id": "e82411178792db40a921",
       "company": "Amazon",
@@ -755,30 +781,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Investing in the public benefit"
-    },
-    {
-      "id": "d5ad23aaf7e4d26f527d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "RTX سبارك تشعل الاحتفالات العالمية مع وصول أجهزة كمبيوتر ويندوز الجديدة",
-      "titleOriginal": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "dateLabel": "17 أكتوبر 2026",
-      "dateISO": "2026-10-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أجهزة الكمبيوتر المحمولة NVIDIA RTX Spark متوفرة الآن، مما يوفر رسومات NVIDIA Blackwell RTX، وذاكرة موحدة تصل إلى 128 جيجابايت ومنصة NVIDIA AI الكاملة إلى نوافذ رفيعة ومتميزة",
-      "summaryOriginal": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T17:46:57.999034+00:00"
+  "lastFastCheckAt": "2026-10-20T17:51:59.847256+00:00"
 }
