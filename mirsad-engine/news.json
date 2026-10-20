@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T05:17:59.005458+00:00",
-  "checkedAt": "2026-10-20T05:17:59.005458+00:00",
+  "updatedAt": "2026-10-20T05:21:50.861394+00:00",
+  "checkedAt": "2026-10-20T05:21:50.861394+00:00",
   "newestPublishedAt": "2026-10-20T05:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "55c799c9c83de5b04084",
+      "id": "554889dadd7faf09caca",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -106,17 +106,12 @@
       "summary": "يتيح برنامج تسريع مصنع الذكاء الاصطناعي التابع لمركز برشلونة للحوسبة الفائقة (BSC)، والذي يعمل الآن بشكل كامل بعد مبادرة تجريبية، للشركات الناشئة الوصول إلى الكمبيوتر السيادي",
       "summaryOriginal": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "source": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T05:00:00+00:00"
+      "searchAliases": "NVIDIA Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center"
     },
     {
       "id": "bf065196d160cdd4d25a",
@@ -497,27 +492,6 @@
       "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
     },
     {
-      "id": "58d2539a52ed194de18a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "زيادة عدد المشتركين في المكدس للوكلاء ثلاث مرات باستخدام المكون الإضافي ChatGPT",
-      "titleOriginal": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "قام اثنان من المهندسين بشحن Stack Overflow للوكلاء في غضون أسابيع قليلة مع Codex، وساعد مكون ChatGPT الإضافي في زيادة نمو إنشاء الوكيل إلى 10 أضعاف.",
-      "summaryOriginal": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Stack Overflow for Agents triples signups with ChatGPT plugin"
-    },
-    {
       "id": "9fd1d498ac2108d2c550",
       "company": "OpenAI",
       "logoText": "AI",
@@ -539,6 +513,27 @@
       "searchAliases": "OpenAI Benefit Street Partners answers questions faster with Codex"
     },
     {
+      "id": "58d2539a52ed194de18a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "زيادة عدد المشتركين في المكدس للوكلاء ثلاث مرات باستخدام المكون الإضافي ChatGPT",
+      "titleOriginal": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "قام اثنان من المهندسين بشحن Stack Overflow للوكلاء في غضون أسابيع قليلة مع Codex، وساعد مكون ChatGPT الإضافي في زيادة نمو إنشاء الوكيل إلى 10 أضعاف.",
+      "summaryOriginal": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Stack Overflow for Agents triples signups with ChatGPT plugin"
+    },
+    {
       "id": "8aa4f93382a999904513",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -558,32 +553,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
-    },
-    {
-      "id": "17694eda65b0ffea54b4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "ملاحظات إصدار Apertus 1.5",
-      "titleOriginal": "Apertus 1.5 Release Notes",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Apertus 1.5 Release Notes",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T09:08:45+00:00"
     },
     {
       "id": "58422c23d696b293ff00",
@@ -731,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Teaching students to think and learn through questions"
+    },
+    {
+      "id": "45dcc411396c83798963",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع NVIDIA وصول المجتمع العلمي الأوروبي إلى التكنولوجيا المتقدمة من خلال مصادر التعلم المفتوحة والتعاون والحوسبة",
+      "titleOriginal": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "يبدأ الكثير من التقدم العلمي اليوم بالحوسبة. لكن تحويل إمكانات الحوسبة المتسارعة إلى تقدم علمي — نمذجة النظم المناخية، تصميم",
+      "summaryOriginal": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-20T00:42:56.228401+00:00",
-  "lastFastCheckAt": "2026-10-20T05:17:59.005458+00:00"
+  "lastDeepCheckAt": "2026-10-20T05:21:50.861394+00:00"
 }
