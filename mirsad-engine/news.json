@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T15:37:26.082837+00:00",
-  "checkedAt": "2026-10-20T15:37:26.082837+00:00",
-  "newestPublishedAt": "2026-10-20T15:36:39+00:00",
+  "updatedAt": "2026-10-20T15:42:27.253063+00:00",
+  "checkedAt": "2026-10-20T15:42:27.253063+00:00",
+  "newestPublishedAt": "2026-10-20T15:39:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ea3bb2bd727b8b79a69a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "بناء طبقة دلالية للذكاء الاصطناعي الوكيل على AWS مع Denodo وAmazon Bedrock AgentCore",
+      "titleOriginal": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "business",
+      "importance": 82,
+      "summary": "قم ببناء طبقة دلالية محكومة للذكاء الاصطناعي الوكيل على AWS باستخدام منصة Denodo وAmazon Bedrock AgentCore. وهي تجمع بين Amazon Aurora وAmazon Redshift وOn - Premis",
+      "summaryOriginal": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and row- and column-level access control enforced at the semantic layer.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T15:39:04+00:00"
+    },
     {
       "id": "deb4e7972b458e75abb3",
       "company": "Amazon",
@@ -248,6 +274,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face MPS in PyTorch 2.15"
+    },
+    {
+      "id": "de3f3e63d203fdf906db",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مشعل الوجه ❤️ المعانق TPU: TPUs، أصليًا",
+      "titleOriginal": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/hf-torchtpu",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T00:00:00+00:00"
     },
     {
       "id": "bf065196d160cdd4d25a",
@@ -689,61 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
-    },
-    {
-      "id": "58422c23d696b293ff00",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مفتاح الجرانيت 4.1: الدردشة والقرارات والكلام من نقطة نهاية واحدة",
-      "titleOriginal": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T20:34:01+00:00"
-    },
-    {
-      "id": "6d9d156035ebcbb1f4d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "جلب GPT - Rosalind إلى مختبرات البحوث الأكاديمية",
-      "titleOriginal": "Bringing GPT-Rosalind to academic research labs",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم الخطة الأكاديمية لروزاليند، وتقديم مختبرات أكاديمية مؤهلة برعاية الوصول إلى GPT - Rosalind وأدوات للنهوض بأبحاث علوم الحياة.",
-      "summaryOriginal": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Bringing GPT-Rosalind to academic research labs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T15:37:26.082837+00:00"
+  "lastFastCheckAt": "2026-10-20T15:42:27.253063+00:00"
 }
