@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T17:31:49.767488+00:00",
-  "checkedAt": "2026-10-20T17:31:49.767488+00:00",
-  "newestPublishedAt": "2026-10-20T16:42:53+00:00",
+  "updatedAt": "2026-10-20T17:36:52.679812+00:00",
+  "checkedAt": "2026-10-20T17:36:52.679812+00:00",
+  "newestPublishedAt": "2026-10-20T17:34:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e82411178792db40a921",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock",
+      "titleOriginal": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock، باستخدام Cohere Embed v4 للتضمينات و Amazon Bedrock AgentCore لتنفيذ الوكيل المعزول، إلى أمر الشراء",
+      "summaryOriginal": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant boundaries.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T17:34:04+00:00"
+    },
     {
       "id": "1071e7231ff647308fd3",
       "company": "Amazon",
@@ -750,35 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
-    },
-    {
-      "id": "38657fde585cac00926f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تبني إيتاو الذكاء الاصطناعي التوليدي لقاعدة عملائها بأكملها",
-      "titleOriginal": "How Itaú is building generative AI for its entire customer base",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "مع ia.i، واجهة محادثة، ومنصة حوكمة IARA، تطبق Itaú استراتيجيتها AI First على العملاء والموظفين — في واحدة من أكثر الأنظمة تنظيمًا في البرازيل",
-      "summaryOriginal": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/itau-generative-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Itaú is building generative AI for its entire customer base",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-16T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T17:31:49.767488+00:00"
+  "lastFastCheckAt": "2026-10-20T17:36:52.679812+00:00"
 }
