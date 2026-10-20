@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T15:57:37.719651+00:00",
-  "checkedAt": "2026-10-20T15:57:37.719651+00:00",
-  "newestPublishedAt": "2026-10-20T15:39:04+00:00",
+  "updatedAt": "2026-10-20T16:02:42.128662+00:00",
+  "checkedAt": "2026-10-20T16:02:42.128662+00:00",
+  "newestPublishedAt": "2026-10-20T15:57:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f5b5a08e5fc81e108e0d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف قامت Eon ببناء تحقيق متعدد السحابة باستخدام بوابة MCP على Amazon Bedrock AgentCore",
+      "titleOriginal": "How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية استبدال Eon لبيانات الاعتماد لكل أداة وعمليات MCP المحلية عبر AWS و GCP و Azure ببوابة Amazon Bedrock AgentCore واحدة مصادق عليها، مما يعطي المزيد من",
+      "summaryOriginal": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and cutting new-engineer onboarding from two days to two minutes.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T15:57:57+00:00"
+    },
     {
       "id": "ea3bb2bd727b8b79a69a",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Stack Overflow for Agents triples signups with ChatGPT plugin"
-    },
-    {
-      "id": "8aa4f93382a999904513",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "شعاع الترحيب: طراز مفتوح 501B يمكنك امتلاكه وتخصيصه وتوسيع نطاقه",
-      "titleOriginal": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/reflection-beam",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T15:57:37.719651+00:00"
+  "lastFastCheckAt": "2026-10-20T16:02:42.128662+00:00"
 }
