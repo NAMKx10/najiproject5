@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T16:07:45.321546+00:00",
-  "checkedAt": "2026-10-20T16:07:45.321546+00:00",
-  "newestPublishedAt": "2026-10-20T16:03:48+00:00",
+  "updatedAt": "2026-10-20T16:12:46.575491+00:00",
+  "checkedAt": "2026-10-20T16:12:46.575491+00:00",
+  "newestPublishedAt": "2026-10-20T16:09:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c80f3ce0ea96d43b8c2f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "FairStress: تقييم أعمق للعدالة في صنع القرار في LLM",
+      "titleOriginal": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/fairstress",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T16:09:19+00:00"
+    },
     {
       "id": "2748d040770fd9d05957",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
-    },
-    {
-      "id": "9fd1d498ac2108d2c550",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "يجيب شركاء Benefit Street على الأسئلة بشكل أسرع مع الدستور الغذائي",
-      "titleOriginal": "Benefit Street Partners answers questions faster with Codex",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "يبني أنانت كومار أدوات لمقارنة تقييمات القروض وتحليل اتفاقيات الائتمان، باستخدام الدستور الغذائي لمراجعة التعليمات البرمجية والمتابعة الأسرع.",
-      "summaryOriginal": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/benefit-street-partners",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Benefit Street Partners answers questions faster with Codex"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T16:07:45.321546+00:00"
+  "lastFastCheckAt": "2026-10-20T16:12:46.575491+00:00"
 }
