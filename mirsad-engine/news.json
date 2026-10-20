@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T16:18:05.398243+00:00",
-  "checkedAt": "2026-10-20T16:18:05.398243+00:00",
-  "newestPublishedAt": "2026-10-20T16:09:19+00:00",
+  "updatedAt": "2026-10-20T16:23:10.037729+00:00",
+  "checkedAt": "2026-10-20T16:23:10.037729+00:00",
+  "newestPublishedAt": "2026-10-20T16:22:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3d07c0478cf75dda4963",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "اكتشف الأدوات في وقت التشغيل مع سجل وكيل AWS",
+      "titleOriginal": "Discover tools at runtime with AWS Agent Registry",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تنهار أسلاك الأدوات المشفرة مع نمو كتالوج الوكيل من حفنة من الأدوات إلى المئات. يمشي هذا المنشور عبر حلقة وقت التشغيل Discover, Instantiate, Execute b",
+      "summaryOriginal": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator discovers MCP servers and A2A agents through semantic search at runtime instead of compiling every tool at build time.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Discover tools at runtime with AWS Agent Registry",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T16:22:24+00:00"
+    },
     {
       "id": "c80f3ce0ea96d43b8c2f",
       "company": "Hugging Face",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Introducing Reflection Beam: an open-weight model for agentic coding on AWS"
-    },
-    {
-      "id": "a7982434530e1ece46a1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مؤشر التحجيم ما قبل التدريب: 2.8 تريليون رمز وخط أنابيب لتوليد البيانات المفتوحة",
-      "titleOriginal": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T16:18:05.398243+00:00"
+  "lastFastCheckAt": "2026-10-20T16:23:10.037729+00:00"
 }
