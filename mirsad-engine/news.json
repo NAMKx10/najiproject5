@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T18:12:28.352633+00:00",
-  "checkedAt": "2026-10-20T18:12:28.352633+00:00",
+  "updatedAt": "2026-10-20T18:17:34.887868+00:00",
+  "checkedAt": "2026-10-20T18:17:34.887868+00:00",
   "newestPublishedAt": "2026-10-20T17:59:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -562,6 +562,32 @@
       "publishedAt": "2026-10-20T00:00:00+00:00"
     },
     {
+      "id": "0dd0d569b729ba5e5a26",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "OpenAI تستحوذ على Orchestra Bio",
+      "titleOriginal": "OpenAI acquires Orchestra Bio",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "research",
+      "importance": 86,
+      "summary": "تستحوذ OpenAI على Orchestra Bio لجلب العمليات التي تعمل بالذكاء الاصطناعي إلى البحث والتطوير في علوم الحياة، مما يساعد فرق الصيدلة الحيوية على تسريع تطوير الأدوية وتطوير علاجات جديدة.",
+      "summaryOriginal": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI acquires Orchestra Bio",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T00:00:00+00:00"
+    },
+    {
       "id": "bf065196d160cdd4d25a",
       "company": "Amazon",
       "logoText": "AWS",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft Securing the agentic insider"
-    },
-    {
-      "id": "f68a9f656eae974130ac",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تطوير الترميز بلغات البرمجة منخفضةالموارد",
-      "titleOriginal": "Advancing coding in low‑resource programming languages",
-      "dateLabel": "19 أكتوبر 2026",
-      "dateISO": "2026-10-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية قيام OpenAI بتحسين ChatGPT عبر لغات البرمجة منخفضة الموارد، مع تقييمات جديدة لهندسة البرمجيات و SQLite وترحيل COBOL.",
-      "summaryOriginal": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/low-resource-programming-languages",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advancing coding in low‑resource programming languages"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T18:12:28.352633+00:00"
+  "lastFastCheckAt": "2026-10-20T18:17:34.887868+00:00"
 }
