@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T21:10:49.436917+00:00",
-  "checkedAt": "2026-10-20T21:10:49.436917+00:00",
-  "newestPublishedAt": "2026-10-20T18:17:47+00:00",
+  "updatedAt": "2026-10-20T21:15:54.876234+00:00",
+  "checkedAt": "2026-10-20T21:15:54.876234+00:00",
+  "newestPublishedAt": "2026-10-20T21:14:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9fbd637d0d2122a12ea2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ما وراء ذاكرة التخزين المؤقت لـ KV: تدريب وخدمة نموذج الاهتمام الخطي Laplace 3B من i14 على AWS Trainium2 مع PyTorch الأصلي",
+      "titleOriginal": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية تدريب i14 وتقديم لابلاس 3B، نموذج الاهتمام الخطي، على AWS Trainium2 باستخدام PyTorch الأصلي. تظل حالته المتكررة ثابتة عند 29.5 ميجابايت لكل تسلسل ريجا",
+      "summaryOriginal": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T21:14:10+00:00"
+    },
     {
       "id": "bf6be0510a917394ee16",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Investing in the public benefit"
-    },
-    {
-      "id": "d5ad23aaf7e4d26f527d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "RTX سبارك تشعل الاحتفالات العالمية مع وصول أجهزة كمبيوتر ويندوز الجديدة",
-      "titleOriginal": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
-      "dateLabel": "17 أكتوبر 2026",
-      "dateISO": "2026-10-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أجهزة الكمبيوتر المحمولة NVIDIA RTX Spark متوفرة الآن، مما يوفر رسومات NVIDIA Blackwell RTX، وذاكرة موحدة تصل إلى 128 جيجابايت ومنصة NVIDIA AI الكاملة إلى نوافذ رفيعة ومتميزة",
-      "summaryOriginal": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T19:37:07.472054+00:00",
-  "lastFastCheckAt": "2026-10-20T21:10:49.436917+00:00"
+  "lastFastCheckAt": "2026-10-20T21:15:54.876234+00:00"
 }
