@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T16:23:10.037729+00:00",
-  "checkedAt": "2026-10-20T16:23:10.037729+00:00",
+  "updatedAt": "2026-10-20T16:28:10.271515+00:00",
+  "checkedAt": "2026-10-20T16:28:10.271515+00:00",
   "newestPublishedAt": "2026-10-20T16:22:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -700,6 +700,32 @@
       "searchAliases": "NVIDIA RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
     },
     {
+      "id": "a7982434530e1ece46a1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مؤشر التحجيم ما قبل التدريب: 2.8 تريليون رمز وخط أنابيب لتوليد البيانات المفتوحة",
+      "titleOriginal": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "dateLabel": "16 أكتوبر 2026",
+      "dateISO": "2026-10-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-16T01:44:47+00:00"
+    },
+    {
       "id": "faa9d985f7f4926e0796",
       "company": "Amazon",
       "logoText": "AWS",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Itaú is building generative AI for its entire customer base"
-    },
-    {
-      "id": "8255189bab1b19d68757",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم شعاع الانعكاس: نموذج مفتوح الوزن للترميز التوكيلي على AWS",
-      "titleOriginal": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "شعاع الذكاء الاصطناعي الانعكاسي هو نموذج مفتوح الوزن للترميز الوكيل ومهام الأفق الطويل. يوضح هذا المنشور كيفية نشر Beam على AWS: ابدأ بـ Amazon SageMaker JumpStar",
-      "summaryOriginal": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMaker JumpStart real-time endpoint, or use Amazon SageMaker HyperPod Inference with JumpStart, SGLang, or vLLM for Kubernetes-native control over distributed GPU infrastructure.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Reflection Beam: an open-weight model for agentic coding on AWS"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T16:23:10.037729+00:00"
+  "lastFastCheckAt": "2026-10-20T16:28:10.271515+00:00"
 }
