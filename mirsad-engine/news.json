@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T21:05:51.283123+00:00",
-  "checkedAt": "2026-10-20T21:05:51.283123+00:00",
+  "updatedAt": "2026-10-20T21:10:49.436917+00:00",
+  "checkedAt": "2026-10-20T21:10:49.436917+00:00",
   "newestPublishedAt": "2026-10-20T18:17:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -23,9 +23,9 @@
     {
       "company": "NVIDIA",
       "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='blogs.nvidia.com', port=443): Read timed out. (read timeout=25)"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "company": "Amazon",
@@ -725,5 +725,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T19:37:07.472054+00:00",
-  "lastFastCheckAt": "2026-10-20T21:05:51.283123+00:00"
+  "lastFastCheckAt": "2026-10-20T21:10:49.436917+00:00"
 }
