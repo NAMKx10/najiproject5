@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T05:07:57.409427+00:00",
-  "checkedAt": "2026-10-20T05:07:57.409427+00:00",
-  "newestPublishedAt": "2026-10-19T23:32:19+00:00",
+  "updatedAt": "2026-10-20T05:12:56.423295+00:00",
+  "checkedAt": "2026-10-20T05:12:56.423295+00:00",
+  "newestPublishedAt": "2026-10-20T05:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "55c799c9c83de5b04084",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "تقدم الشركات الناشئة التي تتخذ من إسبانيا مقراً لها الابتكار الإقليمي مع مركز برشلونة للحوسبة الفائقة",
+      "titleOriginal": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يتيح برنامج تسريع مصنع الذكاء الاصطناعي التابع لمركز برشلونة للحوسبة الفائقة (BSC)، والذي يعمل الآن بشكل كامل بعد مبادرة تجريبية، للشركات الناشئة الوصول إلى الكمبيوتر السيادي",
+      "summaryOriginal": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T05:00:00+00:00"
+    },
     {
       "id": "bf065196d160cdd4d25a",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute"
-    },
-    {
-      "id": "17694eda65b0ffea54b4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "ملاحظات إصدار Apertus 1.5",
-      "titleOriginal": "Apertus 1.5 Release Notes",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Apertus 1.5 Release Notes"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T00:42:56.228401+00:00",
-  "lastFastCheckAt": "2026-10-20T05:07:57.409427+00:00"
+  "lastFastCheckAt": "2026-10-20T05:12:56.423295+00:00"
 }
