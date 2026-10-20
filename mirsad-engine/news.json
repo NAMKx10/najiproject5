@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T10:33:29.884556+00:00",
-  "checkedAt": "2026-10-20T10:33:29.884556+00:00",
+  "updatedAt": "2026-10-20T10:38:32.400324+00:00",
+  "checkedAt": "2026-10-20T10:38:32.400324+00:00",
   "newestPublishedAt": "2026-10-20T08:20:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -576,6 +576,32 @@
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     },
     {
+      "id": "a4e7523ece3fa28ad4dd",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كن هناك من أجل البداية: احتفل بإطلاق NVIDIA RTX Spark",
+      "titleOriginal": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "تبدأ بداية جديدة لأجهزة الكمبيوتر التي تعمل بنظام Windows غدًا بإطلاق NVIDIA RTX Spark — جهاز كمبيوتر واحد مصمم لمنشئي المحتوى واللاعبين ووكلاء الذكاء الاصطناعي. الجميع مدعوون للاحتفال مع N",
+      "summaryOriginal": "A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI agents. All are invited to celebrate with NVIDIA and partners at launch events around the world. Share Your Spark Every PC has a story. What was your first Windows PC, and […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T17:00:23+00:00"
+    },
+    {
       "id": "3ca4c147e6e4d245baf7",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Bringing GPT-Rosalind to academic research labs"
-    },
-    {
-      "id": "bfa295e4cfe2ab36e57d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "Meta's Muse Spark Open متاح الآن في Amazon SageMaker JumpStart",
-      "titleOriginal": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "Muse Spark Open، نموذج الوزن المفتوح المحسّن للترميز من Meta، متاح الآن في Amazon SageMaker JumpStart. انشره على نقطة نهاية SageMaker AI في حساب AWS الخاص بك",
-      "summaryOriginal": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T10:26:09.298313+00:00",
-  "lastFastCheckAt": "2026-10-20T10:33:29.884556+00:00"
+  "lastFastCheckAt": "2026-10-20T10:38:32.400324+00:00"
 }
