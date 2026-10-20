@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T17:51:59.847256+00:00",
-  "checkedAt": "2026-10-20T17:51:59.847256+00:00",
-  "newestPublishedAt": "2026-10-20T17:48:27+00:00",
+  "updatedAt": "2026-10-20T17:57:03.530824+00:00",
+  "checkedAt": "2026-10-20T17:57:03.530824+00:00",
+  "newestPublishedAt": "2026-10-20T17:52:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "11309d3909690d233210",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "من البيانات إلى القرارات: ذكاء سلسلة التوريد للمحادثة مع Amazon Quick وAmazon Bedrock AgentCore",
+      "titleOriginal": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "business",
+      "importance": 82,
+      "summary": "سلاسل التوريد الخاصة بالمؤسسات غنية بالبيانات ولكنها تفتقر إلى البصيرة، حيث تكون البيانات التي يتم تحديدها متناثرة عبر تخطيط موارد المؤسسات والمراقبة والمشتريات والبريد الإلكتروني. يوضح هذا المنشور كيف أن Amazon Bedr",
+      "summaryOriginal": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed tool layer, and how Amazon Quick turns them into one conversational experience for business users, with a deploy-it-yourself walkthrough.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T17:52:50+00:00"
+    },
     {
       "id": "bb1d1502e0e41eab8d04",
       "company": "Amazon",
@@ -760,30 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face TorchNeuron: running HF models on AWS Trainium is easier than ever"
-    },
-    {
-      "id": "e6d54d3efadc13c50f3e",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "مستجد تقني",
-      "title": "الاستثمار في المنفعة العامة",
-      "titleOriginal": "Investing in the public benefit",
-      "dateLabel": "18 أكتوبر 2026",
-      "dateISO": "2026-10-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "نحن نلتزم بجزء من أسهم Anthropic لصندوق المنفعة العامة Anthropic، وهو كيان جديد له هيكل يزيد من الحصة مع نمو الشركة.",
-      "summaryOriginal": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/public-benefit-fund",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Investing in the public benefit"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T17:51:59.847256+00:00"
+  "lastFastCheckAt": "2026-10-20T17:57:03.530824+00:00"
 }
