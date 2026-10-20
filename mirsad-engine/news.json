@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T17:57:03.530824+00:00",
-  "checkedAt": "2026-10-20T17:57:03.530824+00:00",
-  "newestPublishedAt": "2026-10-20T17:52:50+00:00",
+  "updatedAt": "2026-10-20T18:02:16.145453+00:00",
+  "checkedAt": "2026-10-20T18:02:16.145453+00:00",
+  "newestPublishedAt": "2026-10-20T17:59:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4f027b9327f7398173ad",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "سياق إدارة العمل لوكلاء الذكاء الاصطناعي مع Smartsheet MCP على AWS",
+      "titleOriginal": "Work management context for AI agents with Smartsheet MCP on AWS",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتيح خادم بروتوكول سياق نموذج الورقة الذكية (MCP) لوكلاء الذكاء الاصطناعي قراءة بيانات إدارة العمل المباشرة وتحديثها والتصرف بناءً عليها. يوضح هذا المنشور طريقتين لربطه على AWS: Amazo",
+      "summaryOriginal": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Work management context for AI agents with Smartsheet MCP on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T17:59:07+00:00"
+    },
     {
       "id": "11309d3909690d233210",
       "company": "Amazon",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advancing coding in low‑resource programming languages"
-    },
-    {
-      "id": "4eaa73e1a89238152a35",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "TorchNeuron: تشغيل طرازات HF على AWS Trainium أسهل من أي وقت مضى",
-      "titleOriginal": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "dateLabel": "19 أكتوبر 2026",
-      "dateISO": "2026-10-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/hf-torchneuron",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face TorchNeuron: running HF models on AWS Trainium is easier than ever"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T17:57:03.530824+00:00"
+  "lastFastCheckAt": "2026-10-20T18:02:16.145453+00:00"
 }
