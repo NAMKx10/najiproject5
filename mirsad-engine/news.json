@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T17:16:41.268619+00:00",
-  "checkedAt": "2026-10-20T17:16:41.268619+00:00",
+  "updatedAt": "2026-10-20T17:21:41.918375+00:00",
+  "checkedAt": "2026-10-20T17:21:41.918375+00:00",
   "newestPublishedAt": "2026-10-20T16:42:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -299,6 +299,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T15:33:54+00:00"
+    },
+    {
+      "id": "2e330bd03bcad3c478b5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم المستفيد بتسوية النقد في وقت أقل بنسبة 94 ٪ مع عمل ChatGPT",
+      "titleOriginal": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "خفض صاحب امتياز Schlotzsky's و Cinnabon وقت إعادة تسعير القائمة بنسبة 95 ٪ وبنى سير عمل يمكن أن يحرر 100 ألف $ من.",
+      "summaryOriginal": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/ted-taylor-restaurant",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T10:00:00+00:00"
     },
     {
       "id": "4cc43fc29258401f8ba7",
@@ -750,35 +776,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-16T19:00:00+00:00"
-    },
-    {
-      "id": "a7982434530e1ece46a1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مؤشر التحجيم ما قبل التدريب: 2.8 تريليون رمز وخط أنابيب لتوليد البيانات المفتوحة",
-      "titleOriginal": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-16T01:44:47+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T17:16:41.268619+00:00"
+  "lastFastCheckAt": "2026-10-20T17:21:41.918375+00:00"
 }
