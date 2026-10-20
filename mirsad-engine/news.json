@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T16:02:42.128662+00:00",
-  "checkedAt": "2026-10-20T16:02:42.128662+00:00",
-  "newestPublishedAt": "2026-10-20T15:57:57+00:00",
+  "updatedAt": "2026-10-20T16:07:45.321546+00:00",
+  "checkedAt": "2026-10-20T16:07:45.321546+00:00",
+  "newestPublishedAt": "2026-10-20T16:03:48+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2748d040770fd9d05957",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تأمين هوية وكيل الذكاء الاصطناعي باستخدام X.509 PKI على AWS",
+      "titleOriginal": "Securing AI agent identity with X.509 PKI on AWS",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية تأمين أنظمة الذكاء الاصطناعي متعددة الوكلاء باستخدام هوية التشفير باستخدام خدمات Keyfactor EJBCA و AWS. تجمع هذه البنية المرجعية بين ظرف الطلب الموقع",
+      "summaryOriginal": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to prove agent identity and prevent request forgery across agent-to-agent and MCP tool calls.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Securing AI agent identity with X.509 PKI on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T16:03:48+00:00"
+    },
     {
       "id": "f5b5a08e5fc81e108e0d",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Benefit Street Partners answers questions faster with Codex"
-    },
-    {
-      "id": "58d2539a52ed194de18a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "زيادة عدد المشتركين في المكدس للوكلاء ثلاث مرات باستخدام المكون الإضافي ChatGPT",
-      "titleOriginal": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "قام اثنان من المهندسين بشحن Stack Overflow للوكلاء في غضون أسابيع قليلة مع Codex، وساعد مكون ChatGPT الإضافي في زيادة نمو إنشاء الوكيل إلى 10 أضعاف.",
-      "summaryOriginal": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Stack Overflow for Agents triples signups with ChatGPT plugin"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T16:02:42.128662+00:00"
+  "lastFastCheckAt": "2026-10-20T16:07:45.321546+00:00"
 }
