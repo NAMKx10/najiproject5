@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T12:44:20.448846+00:00",
-  "checkedAt": "2026-10-20T12:44:20.448846+00:00",
+  "updatedAt": "2026-10-20T12:49:24.855491+00:00",
+  "checkedAt": "2026-10-20T12:49:24.855491+00:00",
   "newestPublishedAt": "2026-10-20T08:20:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -154,6 +154,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face MPS in PyTorch 2.15",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T00:00:00+00:00"
+    },
+    {
+      "id": "e9d832b353a5bb62eff8",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "AnyLanguageModel 1.0: سنة واحدة من النماذج المحلية على منصات Apple",
+      "titleOriginal": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-15T15:00:24+00:00"
-    },
-    {
-      "id": "1fffc348f7c5ce2063d6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تعليم الطلاب التفكير والتعلم من خلال الأسئلة",
-      "titleOriginal": "Teaching students to think and learn through questions",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "research",
-      "importance": 86,
-      "summary": "احتفل بيوم المعلمين مع الذكاء الاصطناعي للمعلمين باللغة البرتغالية البرازيلية وشاهد كيف يمكن أن يساعد وضع الدراسة المعلمين على دعم التعلم النشط خطوة بخطوة.",
-      "summaryOriginal": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Teaching students to think and learn through questions",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T13:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T10:26:09.298313+00:00",
-  "lastFastCheckAt": "2026-10-20T12:44:20.448846+00:00"
+  "lastFastCheckAt": "2026-10-20T12:49:24.855491+00:00"
 }
