@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T16:38:18.155496+00:00",
-  "checkedAt": "2026-10-20T16:38:18.155496+00:00",
-  "newestPublishedAt": "2026-10-20T16:22:24+00:00",
+  "updatedAt": "2026-10-20T16:43:25.391513+00:00",
+  "checkedAt": "2026-10-20T16:43:25.391513+00:00",
+  "newestPublishedAt": "2026-10-20T16:42:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1071e7231ff647308fd3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الوصول إلى نماذج OpenAI GPT على Amazon Bedrock من كندا مع الاستدلال عبر المنطقة",
+      "titleOriginal": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمكن للمنظمات الكندية الآن الوصول إلى نماذج OpenAI GPT-5.6 و GPT -6 و GPT-6.1 على Amazon Bedrock من مناطق كندا (الوسطى) وغرب كندا (كالجاري) باستخدام",
+      "summaryOriginal": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and inference profiles, how to set up permissions, and how to invoke them with the Responses, Chat Completions, and Converse APIs.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T16:42:53+00:00"
+    },
     {
       "id": "3d07c0478cf75dda4963",
       "company": "Amazon",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "38657fde585cac00926f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "كيف تبني إيتاو الذكاء الاصطناعي التوليدي لقاعدة عملائها بأكملها",
-      "titleOriginal": "How Itaú is building generative AI for its entire customer base",
-      "dateLabel": "16 أكتوبر 2026",
-      "dateISO": "2026-10-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "مع ia.i، واجهة محادثة، ومنصة حوكمة IARA، تطبق Itaú استراتيجيتها AI First على العملاء والموظفين — في واحدة من أكثر الأنظمة تنظيمًا في البرازيل",
-      "summaryOriginal": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/itau-generative-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Itaú is building generative AI for its entire customer base"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T15:23:08.397990+00:00",
-  "lastFastCheckAt": "2026-10-20T16:38:18.155496+00:00"
+  "lastFastCheckAt": "2026-10-20T16:43:25.391513+00:00"
 }
