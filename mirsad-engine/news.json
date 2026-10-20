@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T08:21:47.827674+00:00",
-  "checkedAt": "2026-10-20T08:21:47.827674+00:00",
+  "updatedAt": "2026-10-20T08:26:54.489751+00:00",
+  "checkedAt": "2026-10-20T08:26:54.489751+00:00",
   "newestPublishedAt": "2026-10-20T08:20:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -581,6 +581,32 @@
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     },
     {
+      "id": "667ad057280c392a4c76",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "Meta's Muse Spark Open متاح الآن في Amazon SageMaker JumpStart",
+      "titleOriginal": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "Muse Spark Open، نموذج الوزن المفتوح المحسّن للترميز من Meta، متاح الآن في Amazon SageMaker JumpStart. انشره على نقطة نهاية SageMaker AI في حساب AWS الخاص بك",
+      "summaryOriginal": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS account using SageMaker Studio or the SageMaker Python SDK, and run your first inference request.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T17:43:35+00:00"
+    },
+    {
       "id": "a4e7523ece3fa28ad4dd",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint"
-    },
-    {
-      "id": "6d9d156035ebcbb1f4d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "جلب GPT - Rosalind إلى مختبرات البحوث الأكاديمية",
-      "titleOriginal": "Bringing GPT-Rosalind to academic research labs",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم الخطة الأكاديمية لروزاليند، وتقديم مختبرات أكاديمية مؤهلة برعاية الوصول إلى GPT - Rosalind وأدوات للنهوض بأبحاث علوم الحياة.",
-      "summaryOriginal": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Bringing GPT-Rosalind to academic research labs"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T05:21:50.861394+00:00",
-  "lastFastCheckAt": "2026-10-20T08:21:47.827674+00:00"
+  "lastFastCheckAt": "2026-10-20T08:26:54.489751+00:00"
 }
