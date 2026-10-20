@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T08:31:56.509085+00:00",
-  "checkedAt": "2026-10-20T08:31:56.509085+00:00",
+  "updatedAt": "2026-10-20T08:37:00.795618+00:00",
+  "checkedAt": "2026-10-20T08:37:00.795618+00:00",
   "newestPublishedAt": "2026-10-20T08:20:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -581,6 +581,32 @@
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     },
     {
+      "id": "58422c23d696b293ff00",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مفتاح الجرانيت 4.1: الدردشة والقرارات والكلام من نقطة نهاية واحدة",
+      "titleOriginal": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T20:34:01+00:00"
+    },
+    {
       "id": "6d9d156035ebcbb1f4d0",
       "company": "OpenAI",
       "logoText": "AI",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-15T10:00:12+00:00"
-    },
-    {
-      "id": "17694eda65b0ffea54b4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "ملاحظات إصدار Apertus 1.5",
-      "titleOriginal": "Apertus 1.5 Release Notes",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Apertus 1.5 Release Notes",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-15T09:08:45+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-20T05:21:50.861394+00:00",
-  "lastFastCheckAt": "2026-10-20T08:31:56.509085+00:00"
+  "lastFastCheckAt": "2026-10-20T08:37:00.795618+00:00"
 }
