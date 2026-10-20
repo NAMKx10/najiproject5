@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-20T10:26:09.298313+00:00",
-  "checkedAt": "2026-10-20T10:26:09.298313+00:00",
+  "updatedAt": "2026-10-20T10:28:25.495816+00:00",
+  "checkedAt": "2026-10-20T10:28:25.495816+00:00",
   "newestPublishedAt": "2026-10-20T08:20:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -576,6 +576,58 @@
       "searchAliases": "Hugging Face Welcome Beam: a 501B open model you can own, customize, and scale"
     },
     {
+      "id": "d38d6fe7f8768c6ab5ae",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع NVIDIA وصول المجتمع العلمي الأوروبي إلى التكنولوجيا المتقدمة من خلال مصادر التعلم المفتوحة والتعاون والحوسبة",
+      "titleOriginal": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "يبدأ الكثير من التقدم العلمي اليوم بالحوسبة. لكن تحويل إمكانات الحوسبة المتسارعة إلى تقدم علمي — نمذجة النظم المناخية، تصميم",
+      "summaryOriginal": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes before the science: […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T10:00:12+00:00"
+    },
+    {
+      "id": "17694eda65b0ffea54b4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "ملاحظات إصدار Apertus 1.5",
+      "titleOriginal": "Apertus 1.5 Release Notes",
+      "dateLabel": "15 أكتوبر 2026",
+      "dateISO": "2026-10-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Apertus 1.5 Release Notes",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-15T09:08:45+00:00"
+    },
+    {
       "id": "58422c23d696b293ff00",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -679,50 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark"
-    },
-    {
-      "id": "d59100344171ebc17a87",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "مفتوح من مركز البيانات إلى سطح المكتب: توسع NVIDIA عائلة Nemotron بأعلى كفاءة طرازات Super VL و Bolt",
-      "titleOriginal": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "models",
-      "importance": 92,
-      "summary": "أصدرت NVIDIA اليوم Nemotron 3.5 Super VL، وهو نموذج مفتوح يبلغ 120 مليار معلمة يوفر أسرع إنجاز للمهام وأعلى دقة للتخصص دائمًا",
-      "summaryOriginal": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models"
-    },
-    {
-      "id": "1fffc348f7c5ce2063d6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تعليم الطلاب التفكير والتعلم من خلال الأسئلة",
-      "titleOriginal": "Teaching students to think and learn through questions",
-      "dateLabel": "15 أكتوبر 2026",
-      "dateISO": "2026-10-15",
-      "category": "research",
-      "importance": 86,
-      "summary": "احتفل بيوم المعلمين مع الذكاء الاصطناعي للمعلمين باللغة البرتغالية البرازيلية وشاهد كيف يمكن أن يساعد وضع الدراسة المعلمين على دعم التعلم النشط خطوة بخطوة.",
-      "summaryOriginal": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Teaching students to think and learn through questions"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-20T10:26:09.298313+00:00"
+  "lastDeepCheckAt": "2026-10-20T10:26:09.298313+00:00",
+  "lastFastCheckAt": "2026-10-20T10:28:25.495816+00:00"
 }
