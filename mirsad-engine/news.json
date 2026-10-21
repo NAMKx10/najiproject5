@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T10:12:51.414489+00:00",
-  "checkedAt": "2026-10-21T10:12:51.414489+00:00",
-  "newestPublishedAt": "2026-10-21T10:00:07+00:00",
+  "updatedAt": "2026-10-21T10:17:54.005352+00:00",
+  "checkedAt": "2026-10-21T10:17:54.005352+00:00",
+  "newestPublishedAt": "2026-10-21T10:10:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0c2e4073343c7454255c",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "توسع مجموعة أدوات وكيل NVIDIA، وتأريض وكلاء المؤسسة في بيانات الشركة",
+      "titleOriginal": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "business",
+      "importance": 82,
+      "summary": "الوكلاء مفيدون فقط بقدر ما يعرفون، وجديرون بالثقة فقط مثل الحدود التي يعملون فيها. تستخدم الشركات الرائدة مجموعة أدوات وكيل NVIDIA مفتوحة المصدر",
+      "summaryOriginal": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T10:10:01+00:00"
+    },
     {
       "id": "df6dcada8b741de8425e",
       "company": "NVIDIA",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advancing coding in low‑resource programming languages"
-    },
-    {
-      "id": "4eaa73e1a89238152a35",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "TorchNeuron: تشغيل طرازات HF على AWS Trainium أسهل من أي وقت مضى",
-      "titleOriginal": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "dateLabel": "19 أكتوبر 2026",
-      "dateISO": "2026-10-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/hf-torchneuron",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face TorchNeuron: running HF models on AWS Trainium is easier than ever"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T06:02:31.872192+00:00",
-  "lastFastCheckAt": "2026-10-21T10:12:51.414489+00:00"
+  "lastFastCheckAt": "2026-10-21T10:17:54.005352+00:00"
 }
