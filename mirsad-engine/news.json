@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T13:15:29.246428+00:00",
-  "checkedAt": "2026-10-21T13:15:29.246428+00:00",
+  "updatedAt": "2026-10-21T13:20:32.040593+00:00",
+  "checkedAt": "2026-10-21T13:20:32.040593+00:00",
   "newestPublishedAt": "2026-10-21T12:51:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -381,6 +381,32 @@
       "searchAliases": "NVIDIA GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote"
     },
     {
+      "id": "a9555b3f00d3c20b9bc8",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "مستجد تقني",
+      "title": "تعزيز السيادة الرقمية مع قدر أكبر من السيطرة والاختيار",
+      "titleOriginal": "Advancing digital sovereignty with greater control and choice",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "من خلال محادثاتي مع القادة في الحكومة والبنية التحتية الحيوية والصناعات المنظمة، ترتفع إحدى الأولويات باستمرار إلى القمة: وضع التكنولوجيا",
+      "summaryOriginal": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential... The post Advancing digital sovereignty with greater control and choice appeared first on The Official Microsoft Blog .",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Advancing digital sovereignty with greater control and choice",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T08:20:02+00:00"
+    },
+    {
       "id": "664de976daa3398069d9",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure"
-    },
-    {
-      "id": "2e330bd03bcad3c478b5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم المستفيد بتسوية النقد في وقت أقل بنسبة 94 ٪ مع عمل ChatGPT",
-      "titleOriginal": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "خفض صاحب امتياز Schlotzsky's و Cinnabon وقت إعادة تسعير القائمة بنسبة 95 ٪ وبنى سير عمل يمكن أن يحرر 100 ألف $ من.",
-      "summaryOriginal": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/ted-taylor-restaurant",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Franchisee reconciles cash in 94% less time with ChatGPT Work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T13:15:29.246428+00:00"
+  "lastFastCheckAt": "2026-10-21T13:20:32.040593+00:00"
 }
