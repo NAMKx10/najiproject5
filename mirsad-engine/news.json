@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T16:00:26.552055+00:00",
-  "checkedAt": "2026-10-21T16:00:26.552055+00:00",
-  "newestPublishedAt": "2026-10-21T14:58:18+00:00",
+  "updatedAt": "2026-10-21T16:05:31.900753+00:00",
+  "checkedAt": "2026-10-21T16:05:31.900753+00:00",
+  "newestPublishedAt": "2026-10-21T16:04:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "566befa98676561a83ff",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "التنميط TorchNeuron (الجزء 1): التنميط على مستوى النظام في AWS Trainium.",
+      "titleOriginal": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T16:04:43+00:00"
+    },
     {
       "id": "15990ce5e51618766087",
       "company": "Hugging Face",
@@ -795,35 +821,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T15:39:04+00:00"
-    },
-    {
-      "id": "4cc43fc29258401f8ba7",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "ALTK - Evolve: كيف تتصدر الذاكرة المكتسبة لوحة المتصدرين τ² في مهام خدمة العملاء دون نموذج حدودي",
-      "titleOriginal": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T15:19:48+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T16:00:26.552055+00:00"
+  "lastFastCheckAt": "2026-10-21T16:05:31.900753+00:00"
 }
