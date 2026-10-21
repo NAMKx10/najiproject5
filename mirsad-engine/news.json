@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T10:38:09.313516+00:00",
-  "checkedAt": "2026-10-21T10:38:09.313516+00:00",
-  "newestPublishedAt": "2026-10-21T10:10:01+00:00",
+  "updatedAt": "2026-10-21T10:43:12.759346+00:00",
+  "checkedAt": "2026-10-21T10:43:12.759346+00:00",
+  "newestPublishedAt": "2026-10-21T10:41:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "1e2fe2f41a1dd268c4c1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Hugging Face",
+      "titleOriginal": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T10:41:36+00:00"
+    },
     {
       "id": "0c2e4073343c7454255c",
       "company": "NVIDIA",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft Securing the agentic insider"
-    },
-    {
-      "id": "f68a9f656eae974130ac",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تطوير الترميز بلغات البرمجة منخفضةالموارد",
-      "titleOriginal": "Advancing coding in low‑resource programming languages",
-      "dateLabel": "19 أكتوبر 2026",
-      "dateISO": "2026-10-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية قيام OpenAI بتحسين ChatGPT عبر لغات البرمجة منخفضة الموارد، مع تقييمات جديدة لهندسة البرمجيات و SQLite وترحيل COBOL.",
-      "summaryOriginal": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/low-resource-programming-languages",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advancing coding in low‑resource programming languages"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T06:02:31.872192+00:00",
-  "lastFastCheckAt": "2026-10-21T10:38:09.313516+00:00"
+  "lastFastCheckAt": "2026-10-21T10:43:12.759346+00:00"
 }
