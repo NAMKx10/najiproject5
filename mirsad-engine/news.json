@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T10:53:17.137128+00:00",
-  "checkedAt": "2026-10-21T10:53:17.137128+00:00",
-  "newestPublishedAt": "2026-10-21T10:41:36+00:00",
+  "updatedAt": "2026-10-21T10:58:22.406120+00:00",
+  "checkedAt": "2026-10-21T10:58:22.406120+00:00",
+  "newestPublishedAt": "2026-10-21T10:50:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "9cc4b5a472917da7fd6d",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "جلب الشرارة إلى أوروبا: قوى الاستخبارات المحلية الموجة التالية من العملاء",
+      "titleOriginal": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "في GTC Berlin، تعرض NVIDIA مجموعتها الكاملة من أجهزة الذكاء الاصطناعي المحلية. تعمل RTX Spark، التي تم إطلاقها الأسبوع الماضي، على تشغيل الوكلاء الشخصيين على أجهزة الكمبيوتر التي تعمل بنظام Windows ؛ تدعم DGX Spark",
+      "summaryOriginal": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T10:50:37+00:00"
+    },
+    {
+      "id": "75b2a83788d92f7a5410",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "تعلن Google Cloud و NVIDIA عن التوفر العام للبنية التحتية لـ NVIDIA Vera Rubin",
+      "titleOriginal": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "business",
+      "importance": 82,
+      "summary": "سيأتي التوافر العام للحالات الشهر المقبل، مع التوسع المخطط في التوافر إلى أوروبا — مما يوفر منصة متكاملة للتدريب والاستدلال و",
+      "summaryOriginal": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling technology for demanding […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T10:45:17+00:00"
+    },
     {
       "id": "1e2fe2f41a1dd268c4c1",
       "company": "Hugging Face",
@@ -719,51 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Hugging Face ❤️ TorchTPU: TPUs, Natively"
-    },
-    {
-      "id": "e9d832b353a5bb62eff8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "AnyLanguageModel 1.0: سنة واحدة من النماذج المحلية على منصات Apple",
-      "titleOriginal": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms"
-    },
-    {
-      "id": "4db8b80e1523adf3a63e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مستجد جديد من Hugging Face",
-      "titleOriginal": "MPS in PyTorch 2.15",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face MPS in PyTorch 2.15"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T06:02:31.872192+00:00",
-  "lastFastCheckAt": "2026-10-21T10:53:17.137128+00:00"
+  "lastFastCheckAt": "2026-10-21T10:58:22.406120+00:00"
 }
