@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T13:20:32.040593+00:00",
-  "checkedAt": "2026-10-21T13:20:32.040593+00:00",
+  "updatedAt": "2026-10-21T13:25:38.575169+00:00",
+  "checkedAt": "2026-10-21T13:25:38.575169+00:00",
   "newestPublishedAt": "2026-10-21T12:51:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -381,6 +381,32 @@
       "searchAliases": "NVIDIA GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote"
     },
     {
+      "id": "2e330bd03bcad3c478b5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يقوم المستفيد بتسوية النقد في وقت أقل بنسبة 94 ٪ مع عمل ChatGPT",
+      "titleOriginal": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "خفض صاحب امتياز Schlotzsky's و Cinnabon وقت إعادة تسعير القائمة بنسبة 95 ٪ وبنى سير عمل يمكن أن يحرر 100 ألف $ من.",
+      "summaryOriginal": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/ted-taylor-restaurant",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T10:00:00+00:00"
+    },
+    {
       "id": "a9555b3f00d3c20b9bc8",
       "company": "Microsoft",
       "logoText": "MS",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages"
-    },
-    {
-      "id": "5d31c18c986394f99b1f",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "يلجأ القادة الأوروبيون إلى وحدات المعالجة المركزية NVIDIA Vera لبناء البنية التحتية المحلية",
-      "titleOriginal": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعد Nebius و Nscale من بين شركاء التكنولوجيا العالميين الذين يتطلعون إلى وحدات المعالجة المركزية NVIDIA Vera لبناء الموجة التالية من البنية التحتية. ويعكس زخمهم التقدم السريع في",
-      "summaryOriginal": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T13:20:32.040593+00:00"
+  "lastFastCheckAt": "2026-10-21T13:25:38.575169+00:00"
 }
