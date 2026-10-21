@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T13:10:25.400115+00:00",
-  "checkedAt": "2026-10-21T13:10:25.400115+00:00",
+  "updatedAt": "2026-10-21T13:15:29.246428+00:00",
+  "checkedAt": "2026-10-21T13:15:29.246428+00:00",
   "newestPublishedAt": "2026-10-21T12:51:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -381,6 +381,32 @@
       "searchAliases": "NVIDIA GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote"
     },
     {
+      "id": "664de976daa3398069d9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تتطابق المحطة X مع حكم كبار المستثمرين بنسبة 88.6 ٪ مع GPT-6.1",
+      "titleOriginal": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقوم وكيل التقييم في المحطة الطرفية X بتصنيف المخرجات مقابل معيار تقييم مكون من 54 معيارًا، مما يؤدي إلى زيادة الانحرافات بنسبة 25 ٪ عن تفويض الصندوق مع GPT-6.1 Sol.",
+      "summaryOriginal": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/terminal-x",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-20T07:00:00+00:00"
+    },
+    {
       "id": "55c799c9c83de5b04084",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Franchisee reconciles cash in 94% less time with ChatGPT Work"
-    },
-    {
-      "id": "045ce154ba12b61cf0a1",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "مستجد تقني",
-      "title": "تعزيز السيادة الرقمية مع قدر أكبر من السيطرة والاختيار",
-      "titleOriginal": "Advancing digital sovereignty with greater control and choice",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "tools",
-      "importance": 78,
-      "summary": "من خلال محادثاتي مع القادة في الحكومة والبنية التحتية الحيوية والصناعات المنظمة، ترتفع إحدى الأولويات باستمرار إلى القمة: وضع التكنولوجيا",
-      "summaryOriginal": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential... The post Advancing digital sovereignty with greater control and choice appeared first on The Official Microsoft Blog .",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft Advancing digital sovereignty with greater control and choice"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T13:10:25.400115+00:00"
+  "lastFastCheckAt": "2026-10-21T13:15:29.246428+00:00"
 }
