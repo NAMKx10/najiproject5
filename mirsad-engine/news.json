@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T19:18:34.564545+00:00",
-  "checkedAt": "2026-10-21T19:18:34.564545+00:00",
-  "newestPublishedAt": "2026-10-21T18:26:30+00:00",
+  "updatedAt": "2026-10-21T19:23:36.201381+00:00",
+  "checkedAt": "2026-10-21T19:23:36.201381+00:00",
+  "newestPublishedAt": "2026-10-21T19:19:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ffd4b117fd0fdfe41bbb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "كيف يربط الجوع في الولايات المتحدة بين القادة والبيانات باستخدام Amazon Quick",
+      "titleOriginal": "How U.S. Hunger connects leaders and data using Amazon Quick",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "تستخدم منظمة الجوع في الولايات المتحدة، وهي منظمة غير ربحية تعالج انعدام الأمن الغذائي، Amazon Quick لربط البيانات التنظيمية بقرارات القيادة. يستكشف القادة بيانات المتقدمين مباشرة،",
+      "summaryOriginal": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and financial context in Quick Spaces, and investigate policy questions with Quick Research.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How U.S. Hunger connects leaders and data using Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T19:19:50+00:00"
+    },
     {
       "id": "cd481da0851fdb08dc64",
       "company": "Hugging Face",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T17:48:27+00:00"
-    },
-    {
-      "id": "e82411178792db40a921",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock",
-      "titleOriginal": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock، باستخدام Cohere Embed v4 للتضمينات و Amazon Bedrock AgentCore لتنفيذ الوكيل المعزول، إلى أمر الشراء",
-      "summaryOriginal": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant boundaries.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:34:04+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00",
-  "lastFastCheckAt": "2026-10-21T19:18:34.564545+00:00"
+  "lastFastCheckAt": "2026-10-21T19:23:36.201381+00:00"
 }
