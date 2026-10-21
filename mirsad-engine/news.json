@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T17:11:41.404629+00:00",
-  "checkedAt": "2026-10-21T17:11:41.404629+00:00",
+  "updatedAt": "2026-10-21T17:13:51.299781+00:00",
+  "checkedAt": "2026-10-21T17:13:51.299781+00:00",
   "newestPublishedAt": "2026-10-21T16:04:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,32 +93,6 @@
   ],
   "items": [
     {
-      "id": "566befa98676561a83ff",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "التنميط TorchNeuron (الجزء 1): التنميط على مستوى النظام في AWS Trainium.",
-      "titleOriginal": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T16:04:43+00:00"
-    },
-    {
       "id": "c12358425db7df37a66f",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -137,12 +111,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T16:04:43+00:00"
+      "searchAliases": "Hugging Face Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium."
+    },
+    {
+      "id": "88e4de98e336decae598",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "مستجد تقني",
+      "title": "تصنيف التماسك 5 | سياق أكثر صلة بالقطعة والوكلاء",
+      "titleOriginal": "Cohere Rerank 5 | More Relevant Context for RAG and Agents",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "شحذ بحثك عن الذكاء الاصطناعي باستخدام Rerank 5. وهو يحدد الآن المقاطع الدقيقة التي يحتاجها LLM لكل استعلام، حتى تحصل على إجابات أفضل من عدد أقل من الرموز.",
+      "summaryOriginal": "Sharpen your AI search with Rerank 5. It now pinpoints the exact passages your LLM needs for each query, so you get better answers from fewer tokens.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://cohere.com/blog/rerank-5",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Cohere Rerank 5 | More Relevant Context for RAG and Agents"
     },
     {
       "id": "15990ce5e51618766087",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T14:58:18+00:00"
+      "searchAliases": "Hugging Face Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
     },
     {
       "id": "de2258b2de2f3df2ec88",
@@ -189,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T13:00:00+00:00"
+      "searchAliases": "OpenAI ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
     },
     {
       "id": "7f8df14a4ba784b55e0b",
@@ -215,142 +195,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T12:51:24+00:00"
-    },
-    {
-      "id": "32a7f2ae393b241b723c",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تصميم البروتين مع RFD4 - Proteina ومساحات الوجه المعانقة",
-      "titleOriginal": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Protein Design with RFD4-Proteina and Hugging Face Spaces",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T12:39:49+00:00"
-    },
-    {
-      "id": "f09925d358ee434cdf42",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج OpenAI قادمة إلى Google Cloud",
-      "titleOriginal": "OpenAI models are coming to Google Cloud",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI و Google Cloud نماذج الحدود وسير عمل الدستور الغذائي إلى Gemini's Model Garden، المتاحة من خلال Google Cloud Marketplace.",
-      "summaryOriginal": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/openai-models-google-cloud",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI models are coming to Google Cloud",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T12:00:00+00:00"
-    },
-    {
-      "id": "0cd004630d484bee1f52",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/building-chatgpt-ad-stack",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T07:00:00+00:00"
-    },
-    {
-      "id": "739f8f70d2ba9e7a5246",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تصحيح الكوكب: تنسيق الاستجابة العالمية حيث يكشف الوكلاء عن نقاط الضعف الحرجة",
-      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "يربط Patch the Planet الباحثين الأمنيين والمشرفين والمستجيبين للحوادث للمساعدة في معالجة نقاط الضعف الحرجة عبر المصادر المفتوحة.",
-      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T07:00:00+00:00"
-    },
-    {
-      "id": "d8a2ee244675d00be990",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Using thousands of AI agents to uncover new leads in biological data",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Using thousands of AI agents to uncover new leads in biological data",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T04:50:00+00:00"
+      "searchAliases": "Hugging Face NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability"
     },
     {
       "id": "e09bd3ecf76c10fc1893",
@@ -374,25 +219,25 @@
       "searchAliases": "Mistral AI Mistral Advances AI for Engineering with NVIDIA | Mistral"
     },
     {
-      "id": "31712ca60358095a5c59",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "الإعلان عن SimReady Central: مكتبة مفتوحة للأصول ثلاثية الأبعاد الجاهزة للمحاكاة لمصانع الروبوتات والذكاء الاصطناعي",
-      "titleOriginal": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "id": "f09925d358ee434cdf42",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج OpenAI قادمة إلى Google Cloud",
+      "titleOriginal": "OpenAI models are coming to Google Cloud",
       "dateLabel": "21 أكتوبر 2026",
       "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-      "sourceLabel": "Hugging Face Blog",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI و Google Cloud نماذج الحدود وسير عمل الدستور الغذائي إلى Gemini's Model Garden، المتاحة من خلال Google Cloud Marketplace.",
+      "summaryOriginal": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/openai-models-google-cloud",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories"
+      "searchAliases": "OpenAI OpenAI models are coming to Google Cloud"
     },
     {
       "id": "afe7b5e27822f1e60eaa",
@@ -563,7 +408,112 @@
       "searchAliases": "NVIDIA GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote"
     },
     {
-      "id": "9fbd637d0d2122a12ea2",
+      "id": "739f8f70d2ba9e7a5246",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "تصحيح الكوكب: تنسيق الاستجابة العالمية حيث يكشف الوكلاء عن نقاط الضعف الحرجة",
+      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "يربط Patch the Planet الباحثين الأمنيين والمشرفين والمستجيبين للحوادث للمساعدة في معالجة نقاط الضعف الحرجة عبر المصادر المفتوحة.",
+      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
+    },
+    {
+      "id": "0cd004630d484bee1f52",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/building-chatgpt-ad-stack",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance"
+    },
+    {
+      "id": "d8a2ee244675d00be990",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Using thousands of AI agents to uncover new leads in biological data",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Using thousands of AI agents to uncover new leads in biological data"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
+      "id": "6c4ce1bdac7e4ce58fd7",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "عالم الفيزياء كريستوفر ستابس ينضم إلى صندوق أنثروبيك طويل الأجل للمنافع",
+      "titleOriginal": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "انضم الدكتور كريستوفر ستابس، عالم الفيزياء التجريبية وعميد العلوم السابق في جامعة هارفارد، إلى صندوق Anthropic's Long - Term Benefit Trust. إنه يحضر إلى الصندوق الاستئماني",
+      "summaryOriginal": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard questions they raise. As a grandfather, I want to help ensure that AI is developed and deployed for the long-term benefit of humanity.” Stubbs is the Samuel C. Moncher Professor of Physics and of Astronomy at Harvard, where he served as Dean of Science from 2018 to 2024. In 1998, as a member of the High-Z Supernova Search Team, he helped discover the accelerating expansion of the universe, work that later earned the team the Breakthrough Prize in Fundamental Physics. He was also the inaugural project scientist for what is now the Vera C. Rubin Observatory, which started a 10-year survey of the southern sky in June. One of its aims is to study the accelerating expansion he helped discover. More recently, he’s written about how to keep AI-assisted research reproducible when models can give different answers to the same question. He’s a member of JASON, an independent group of scientists who have advised the US government on defense and technology since 1960. \"When Chris found evidence that the universe was expanding at a rate no one expected, he and his team followed the data even when it went against the prevailing wisdom of the field. As AI starts to transform how science itself is done, Chris’s intellectual honesty, rigor, and commitment to the truth are the values we want shaping the future of this technology, and I’m grateful he’s bringing his deep expertise to the Trust,\" said Daniela Amodei, Co-founder and President of Anthropic. Anthropic is a Public Benefit Corporation, which means we’re structured to balance commercial growth with our public benefit purpose. The Trust exists to help us hold that balance over the long term. It has the authority to appoint a majority of Anthropic’s board, and Trustees advise the board and our leadership on critical decisions, particularly those involving risks and societal impacts of AI. This week we published our first Public Benefit Report [link], a public account of how we’re working toward our mission and where we’re falling short. The Trustees helped define the five mission pillars it measures us against, and the report closes with their assessment of our progress to date. Subject to stockholder approval, we’ve also committed to setting aside a portion of Anthropic’s shares to Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. “Anthropic's Public Benefit Report sets out what we’re all working toward: helping the world build powerful AI safely, and making sure the technology drives advances that meaningfully improve people’s lives and society as a whole,” added Neil Buddy Shah, Chair of the Long-Term Benefit Trust. “Both goals depend on a deep understanding of frontier science and leading with integrity. Not only has Chris worked on some of the hardest problems in science, but he has consistently been a high-integrity leader of large, complex, collaborative scientific endeavors across academia, government, and the national laboratories. That will be of great value to the Trust as we support Anthropic in developing AI for the long-term benefit of humanity.” Stubbs, the Trust’s first physicist, joins Shah, national security expert Richard Fontaine, and former Federal Reserve Chair Ben Bernanke. Trustees are independent of the company’s management and investors.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust"
+    },
+    {
+      "id": "79d70d6b0d09d719ed8a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -576,20 +526,15 @@
       "summary": "تعرف على كيفية تدريب i14 وتقديم لابلاس 3B، نموذج الاهتمام الخطي، على AWS Trainium2 باستخدام PyTorch الأصلي. تظل حالته المتكررة ثابتة عند 29.5 ميجابايت لكل تسلسل ريجا",
       "summaryOriginal": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
+      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T21:14:10+00:00"
+      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch"
     },
     {
-      "id": "4f027b9327f7398173ad",
+      "id": "d275516814b1c34b52f9",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -602,20 +547,15 @@
       "summary": "يتيح خادم بروتوكول سياق نموذج الورقة الذكية (MCP) لوكلاء الذكاء الاصطناعي قراءة بيانات إدارة العمل المباشرة وتحديثها والتصرف بناءً عليها. يوضح هذا المنشور طريقتين لربطه على AWS: Amazo",
       "summaryOriginal": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Work management context for AI agents with Smartsheet MCP on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:59:07+00:00"
+      "searchAliases": "Amazon Work management context for AI agents with Smartsheet MCP on AWS"
     },
     {
-      "id": "11309d3909690d233210",
+      "id": "9be8b26e4c480b117743",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -628,20 +568,15 @@
       "summary": "سلاسل التوريد الخاصة بالمؤسسات غنية بالبيانات ولكنها تفتقر إلى البصيرة، حيث تكون البيانات التي يتم تحديدها متناثرة عبر تخطيط موارد المؤسسات والمراقبة والمشتريات والبريد الإلكتروني. يوضح هذا المنشور كيف أن Amazon Bedr",
       "summaryOriginal": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed tool layer, and how Amazon Quick turns them into one conversational experience for business users, with a deploy-it-yourself walkthrough.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:52:50+00:00"
+      "searchAliases": "Amazon From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore"
     },
     {
-      "id": "bb1d1502e0e41eab8d04",
+      "id": "2c06249f86c3880e3398",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -654,20 +589,15 @@
       "summary": "تعرف على كيفية ضبط GPT - OSS -20B للتفكير متعدد اللغات على Amazon SageMaker HyperPod، وكيفية الاختيار بين الضبط الدقيق الخاضع للإشراف (SFT) وتعلم التعزيز",
       "summaryOriginal": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:48:27+00:00"
+      "searchAliases": "Amazon Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod"
     },
     {
-      "id": "e82411178792db40a921",
+      "id": "71fdb00a19f5a02c9d4d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -680,20 +610,15 @@
       "summary": "بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock، باستخدام Cohere Embed v4 للتضمينات و Amazon Bedrock AgentCore لتنفيذ الوكيل المعزول، إلى أمر الشراء",
       "summaryOriginal": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant boundaries.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:34:04+00:00"
+      "searchAliases": "Amazon How Octave built a secure multi-tenant AI foundation on Amazon Bedrock"
     },
     {
-      "id": "1071e7231ff647308fd3",
+      "id": "c40b90e3097895eb3d88",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -706,20 +631,15 @@
       "summary": "يمكن للمنظمات الكندية الآن الوصول إلى نماذج OpenAI GPT-5.6 و GPT -6 و GPT-6.1 على Amazon Bedrock من مناطق كندا (الوسطى) وغرب كندا (كالجاري) باستخدام",
       "summaryOriginal": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and inference profiles, how to set up permissions, and how to invoke them with the Responses, Chat Completions, and Converse APIs.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
+      "source": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T16:42:53+00:00"
+      "searchAliases": "Amazon Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference"
     },
     {
-      "id": "3d07c0478cf75dda4963",
+      "id": "fb78f48ab1a5bc03cf19",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -732,17 +652,12 @@
       "summary": "تنهار أسلاك الأدوات المشفرة مع نمو كتالوج الوكيل من حفنة من الأدوات إلى المئات. يمشي هذا المنشور عبر حلقة وقت التشغيل Discover, Instantiate, Execute b",
       "summaryOriginal": "Hardcoded tool wiring breaks down as an agent's catalog grows from a handful of tools to hundreds. This post walks through a runtime Discover, Instantiate, Execute loop built on AWS Agent Registry, where an orchestrator discovers MCP servers and A2A agents through semantic search at runtime instead of compiling every tool at build time.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry",
+      "source": "https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Discover tools at runtime with AWS Agent Registry",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T16:22:24+00:00"
+      "searchAliases": "Amazon Discover tools at runtime with AWS Agent Registry"
     },
     {
       "id": "c80f3ce0ea96d43b8c2f",
@@ -763,15 +678,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T16:09:19+00:00"
+      "searchAliases": "Hugging Face FairStress: A deeper evaluation of fairness in LLM decision-making"
     },
     {
-      "id": "2748d040770fd9d05957",
+      "id": "464bce41476312ebc29b",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -784,20 +694,15 @@
       "summary": "تعرف على كيفية تأمين أنظمة الذكاء الاصطناعي متعددة الوكلاء باستخدام هوية التشفير باستخدام خدمات Keyfactor EJBCA و AWS. تجمع هذه البنية المرجعية بين ظرف الطلب الموقع",
       "summaryOriginal": "Learn how to secure multi-agent AI systems with cryptographic identity using Keyfactor EJBCA and AWS services. This reference architecture combines signed request envelopes, user-signed delegation assertions, RFC 8693 audience-scoped tokens, and real-time OCSP revocation to prove agent identity and prevent request forgery across agent-to-agent and MCP tool calls.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Securing AI agent identity with X.509 PKI on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T16:03:48+00:00"
+      "searchAliases": "Amazon Securing AI agent identity with X.509 PKI on AWS"
     },
     {
-      "id": "f5b5a08e5fc81e108e0d",
+      "id": "00cf1e58091995b7b4c7",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -810,20 +715,14 @@
       "summary": "تعرف على كيفية استبدال Eon لبيانات الاعتماد لكل أداة وعمليات MCP المحلية عبر AWS و GCP و Azure ببوابة Amazon Bedrock AgentCore واحدة مصادق عليها، مما يعطي المزيد من",
       "summaryOriginal": "Learn how Eon replaced per-tool credentials and local MCP processes across AWS, GCP, and Azure with a single authenticated Amazon Bedrock AgentCore gateway, giving more than 100 developers and autonomous agents unified access to production investigation and cutting new-engineer onboarding from two days to two minutes.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-eon-built-multi-cloud-investigation-with-an-mcp-gateway-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T15:57:57+00:00"
+      "searchAliases": "Amazon How Eon built multi-cloud investigation with an MCP Gateway on Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T17:11:41.404629+00:00"
+  "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00"
 }
