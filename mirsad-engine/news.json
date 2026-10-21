@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T09:32:34.727146+00:00",
-  "checkedAt": "2026-10-21T09:32:34.727146+00:00",
-  "newestPublishedAt": "2026-10-20T21:14:10+00:00",
+  "updatedAt": "2026-10-21T09:37:41.727380+00:00",
+  "checkedAt": "2026-10-21T09:37:41.727380+00:00",
+  "newestPublishedAt": "2026-10-21T09:30:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "edf1113c895d4c8570ec",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "جي تي سي برلين 2026: تحديثات مباشرة من الكلمة الرئيسية للرئيس التنفيذي لشركة إنفيديا جنسن هوانغ",
+      "titleOriginal": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تأسست في خيمة بالقرب من جدار برلين في عام 1980، انتقلت Tempodrom عدة مرات قبل أن تستقر بالقرب من Anhalter Bahnhof في عام 2001. استضاف موطنها الدائم منذ ذلك الحين",
+      "summaryOriginal": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T09:30:16+00:00"
+    },
     {
       "id": "79d70d6b0d09d719ed8a",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "e6d54d3efadc13c50f3e",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "مستجد تقني",
-      "title": "الاستثمار في المنفعة العامة",
-      "titleOriginal": "Investing in the public benefit",
-      "dateLabel": "18 أكتوبر 2026",
-      "dateISO": "2026-10-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "نحن نلتزم بجزء من أسهم Anthropic لصندوق المنفعة العامة Anthropic، وهو كيان جديد له هيكل يزيد من الحصة مع نمو الشركة.",
-      "summaryOriginal": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/public-benefit-fund",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Investing in the public benefit"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T06:02:31.872192+00:00",
-  "lastFastCheckAt": "2026-10-21T09:32:34.727146+00:00"
+  "lastFastCheckAt": "2026-10-21T09:37:41.727380+00:00"
 }
