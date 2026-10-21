@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T23:37:12.527999+00:00",
-  "checkedAt": "2026-10-21T23:37:12.527999+00:00",
-  "newestPublishedAt": "2026-10-21T21:23:26+00:00",
+  "updatedAt": "2026-10-21T23:39:43.807980+00:00",
+  "checkedAt": "2026-10-21T23:39:43.807980+00:00",
+  "newestPublishedAt": "2026-10-21T23:38:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,49 @@
   ],
   "items": [
     {
-      "id": "bc077a6b99ac8b030424",
+      "id": "2a42be2b03baa0cd8ca8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تأمين الوصول السريع من شبكات الشركات مع AWS PrivateLink",
+      "titleOriginal": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية توصيل مصادر البيانات المحلية بأمازون Quick بشكل خاص مع AWS PrivateLink، مما يحافظ على حركة مرور التحليلات خارج الإنترنت العام. يغطي هذا العرض التفصيلي V",
+      "summaryOriginal": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink"
+    },
+    {
+      "id": "65fccf92d47838175e7c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "5 تحديات في الإنتاج في الأنظمة متعددة الوكلاء وكيف حلتها Deep Insight",
+      "titleOriginal": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "تبني العديد من الفرق نموذجًا أوليًا للذكاء الاصطناعي متعدد الوكلاء في غضون أيام، لكنها تصطدم بجدار في الإنتاج. يحدد هذا المنشور خمسة تحديات للإنتاج (التنسيق، واختيار نموذج لكل وكيل،",
+      "summaryOriginal": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them"
+    },
+    {
+      "id": "6666ba88f896d6dbc1dd",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +148,12 @@
       "summary": "يتعامل إطار الذكاء التكيفي التكيفي (AAIF)، الذي تم إنشاؤه مع وكلاء Strands، مع المهام الروتينية محليًا باستخدام نماذج لغوية صغيرة ويوجه الطلبات المعقدة إلى",
       "summaryOriginal": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Amazon Bedrock, using an Internet of Things monitoring scenario.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
+      "source": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Adaptive agentic intelligence framework using Strands Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T21:23:26+00:00"
+      "searchAliases": "Amazon Adaptive agentic intelligence framework using Strands Agents"
     },
     {
       "id": "c0355709093c56581818",
@@ -137,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Broad access through consistent standards",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T21:00:00+00:00"
+      "searchAliases": "OpenAI Broad access through consistent standards"
     },
     {
       "id": "229ca7dc36938864d2fa",
@@ -670,7 +702,7 @@
       "searchAliases": "Anthropic Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust"
     },
     {
-      "id": "9fbd637d0d2122a12ea2",
+      "id": "79d70d6b0d09d719ed8a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -683,72 +715,14 @@
       "summary": "تعرف على كيفية تدريب i14 وتقديم لابلاس 3B، نموذج الاهتمام الخطي، على AWS Trainium2 باستخدام PyTorch الأصلي. تظل حالته المتكررة ثابتة عند 29.5 ميجابايت لكل تسلسل ريجا",
       "summaryOriginal": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
+      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T21:14:10+00:00"
-    },
-    {
-      "id": "4f027b9327f7398173ad",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "سياق إدارة العمل لوكلاء الذكاء الاصطناعي مع Smartsheet MCP على AWS",
-      "titleOriginal": "Work management context for AI agents with Smartsheet MCP on AWS",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتيح خادم بروتوكول سياق نموذج الورقة الذكية (MCP) لوكلاء الذكاء الاصطناعي قراءة بيانات إدارة العمل المباشرة وتحديثها والتصرف بناءً عليها. يوضح هذا المنشور طريقتين لربطه على AWS: Amazo",
-      "summaryOriginal": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Work management context for AI agents with Smartsheet MCP on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:59:07+00:00"
-    },
-    {
-      "id": "11309d3909690d233210",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "من البيانات إلى القرارات: ذكاء سلسلة التوريد للمحادثة مع Amazon Quick وAmazon Bedrock AgentCore",
-      "titleOriginal": "From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "business",
-      "importance": 82,
-      "summary": "سلاسل التوريد الخاصة بالمؤسسات غنية بالبيانات ولكنها تفتقر إلى البصيرة، حيث تكون البيانات التي يتم تحديدها متناثرة عبر تخطيط موارد المؤسسات والمراقبة والمشتريات والبريد الإلكتروني. يوضح هذا المنشور كيف أن Amazon Bedr",
-      "summaryOriginal": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed tool layer, and how Amazon Quick turns them into one conversational experience for business users, with a deploy-it-yourself walkthrough.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:52:50+00:00"
+      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-21T20:39:14.125392+00:00",
-  "lastFastCheckAt": "2026-10-21T23:37:12.527999+00:00"
+  "lastDeepCheckAt": "2026-10-21T23:39:43.807980+00:00"
 }
