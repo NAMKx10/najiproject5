@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T15:02:08.776641+00:00",
-  "checkedAt": "2026-10-21T15:02:08.776641+00:00",
+  "updatedAt": "2026-10-21T15:07:09.020766+00:00",
+  "checkedAt": "2026-10-21T15:07:09.020766+00:00",
   "newestPublishedAt": "2026-10-21T14:58:18+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -242,6 +242,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "id": "739f8f70d2ba9e7a5246",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "تصحيح الكوكب: تنسيق الاستجابة العالمية حيث يكشف الوكلاء عن نقاط الضعف الحرجة",
+      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "يربط Patch the Planet الباحثين الأمنيين والمشرفين والمستجيبين للحوادث للمساعدة في معالجة نقاط الضعف الحرجة عبر المصادر المفتوحة.",
+      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -795,35 +821,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T15:19:48+00:00"
-    },
-    {
-      "id": "d8c38b418c7e61ba2fce",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "يلجأ القادة الأوروبيون إلى وحدات المعالجة المركزية NVIDIA Vera لبناء البنية التحتية المحلية",
-      "titleOriginal": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعد Nebius و Nscale من بين شركاء التكنولوجيا العالميين الذين يتطلعون إلى وحدات المعالجة المركزية NVIDIA Vera لبناء الموجة التالية من البنية التحتية. ويعكس زخمهم التقدم السريع في",
-      "summaryOriginal": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T10:30:11+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T15:02:08.776641+00:00"
+  "lastFastCheckAt": "2026-10-21T15:07:09.020766+00:00"
 }
