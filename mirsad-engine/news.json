@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T16:36:07.181474+00:00",
-  "checkedAt": "2026-10-21T16:36:07.181474+00:00",
+  "updatedAt": "2026-10-21T16:41:09.028280+00:00",
+  "checkedAt": "2026-10-21T16:41:09.028280+00:00",
   "newestPublishedAt": "2026-10-21T16:04:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -107,6 +107,32 @@
       "summaryOriginal": "",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T16:04:43+00:00"
+    },
+    {
+      "id": "c12358425db7df37a66f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "التنميط TorchNeuron (الجزء 1): التنميط على مستوى النظام في AWS Trainium.",
+      "titleOriginal": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
@@ -795,35 +821,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T15:57:57+00:00"
-    },
-    {
-      "id": "ea3bb2bd727b8b79a69a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "بناء طبقة دلالية للذكاء الاصطناعي الوكيل على AWS مع Denodo وAmazon Bedrock AgentCore",
-      "titleOriginal": "Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "business",
-      "importance": 82,
-      "summary": "قم ببناء طبقة دلالية محكومة للذكاء الاصطناعي الوكيل على AWS باستخدام منصة Denodo وAmazon Bedrock AgentCore. وهي تجمع بين Amazon Aurora وAmazon Redshift وOn - Premis",
-      "summaryOriginal": "Build a governed semantic layer for agentic AI on AWS with the Denodo Platform and Amazon Bedrock AgentCore. It federates Amazon Aurora, Amazon Redshift, and an on-premises PostgreSQL database into a single customer 360 view an agent queries in VQL, with identity propagation and row- and column-level access control enforced at the semantic layer.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-denodo-and-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build a semantic layer for agentic AI on AWS with Denodo and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T15:39:04+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T16:36:07.181474+00:00"
+  "lastFastCheckAt": "2026-10-21T16:41:09.028280+00:00"
 }
