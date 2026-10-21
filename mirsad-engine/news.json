@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T12:34:47.180186+00:00",
-  "checkedAt": "2026-10-21T12:34:47.180186+00:00",
-  "newestPublishedAt": "2026-10-21T12:00:20+00:00",
+  "updatedAt": "2026-10-21T12:39:49.097775+00:00",
+  "checkedAt": "2026-10-21T12:39:49.097775+00:00",
+  "newestPublishedAt": "2026-10-21T12:39:49+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "32a7f2ae393b241b723c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تصميم البروتين مع RFD4 - Proteina ومساحات الوجه المعانقة",
+      "titleOriginal": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Protein Design with RFD4-Proteina and Hugging Face Spaces",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T12:39:49+00:00"
+    },
     {
       "id": "e09bd3ecf76c10fc1893",
       "company": "Mistral AI",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI OpenAI acquires Orchestra Bio"
-    },
-    {
-      "id": "de3f3e63d203fdf906db",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مشعل الوجه ❤️ المعانق TPU: TPUs، أصليًا",
-      "titleOriginal": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/hf-torchtpu",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Hugging Face ❤️ TorchTPU: TPUs, Natively"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T12:34:47.180186+00:00"
+  "lastFastCheckAt": "2026-10-21T12:39:49.097775+00:00"
 }
