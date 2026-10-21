@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T09:57:44.970111+00:00",
-  "checkedAt": "2026-10-21T09:57:44.970111+00:00",
-  "newestPublishedAt": "2026-10-21T09:30:16+00:00",
+  "updatedAt": "2026-10-21T10:02:47.891459+00:00",
+  "checkedAt": "2026-10-21T10:02:47.891459+00:00",
+  "newestPublishedAt": "2026-10-21T10:00:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "df6dcada8b741de8425e",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA Open Models Advance Europe's Sovereign Intelligence عبر الصناعات",
+      "titleOriginal": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم NVIDIA بتوسيع عائلتها من النماذج المفتوحة عبر اللغة والروبوتات والبيولوجيا والحوسبة الكمية، مما يمنح المطورين والباحثين والمؤسسات ما يحتاجون إليه",
+      "summaryOriginal": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/open-models-europe-industry",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T10:00:07+00:00"
+    },
     {
       "id": "edf1113c895d4c8570ec",
       "company": "NVIDIA",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face TorchNeuron: running HF models on AWS Trainium is easier than ever"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "18 أكتوبر 2026",
-      "dateISO": "2026-10-18",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T06:02:31.872192+00:00",
-  "lastFastCheckAt": "2026-10-21T09:57:44.970111+00:00"
+  "lastFastCheckAt": "2026-10-21T10:02:47.891459+00:00"
 }
