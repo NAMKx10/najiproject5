@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T21:55:39.413467+00:00",
-  "checkedAt": "2026-10-21T21:55:39.413467+00:00",
+  "updatedAt": "2026-10-21T22:00:40.494703+00:00",
+  "checkedAt": "2026-10-21T22:00:40.494703+00:00",
   "newestPublishedAt": "2026-10-21T21:23:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T21:23:26+00:00"
+    },
+    {
+      "id": "c0355709093c56581818",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "وصول واسع من خلال معايير متسقة",
+      "titleOriginal": "Broad access through consistent standards",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "business",
+      "importance": 82,
+      "summary": "كيف تعمل OpenAI مع شركاء التوزيع لدعم الضمانات المتسقة، ودعم الوصول المسؤول، وتوضيح التوقعات في سياسات الاستخدام الخاصة بنا.",
+      "summaryOriginal": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/broad-access-through-consistent-standards",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Broad access through consistent standards",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T21:00:00+00:00"
     },
     {
       "id": "229ca7dc36938864d2fa",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T17:52:50+00:00"
-    },
-    {
-      "id": "bb1d1502e0e41eab8d04",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ضبط GPT - OSS -20B بدقة للتفكير متعدد اللغات على Amazon SageMaker HyperPod",
-      "titleOriginal": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية ضبط GPT - OSS -20B للتفكير متعدد اللغات على Amazon SageMaker HyperPod، وكيفية الاختيار بين الضبط الدقيق الخاضع للإشراف (SFT) وتعلم التعزيز",
-      "summaryOriginal": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:48:27+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T20:39:14.125392+00:00",
-  "lastFastCheckAt": "2026-10-21T21:55:39.413467+00:00"
+  "lastFastCheckAt": "2026-10-21T22:00:40.494703+00:00"
 }
