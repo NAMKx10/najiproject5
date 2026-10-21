@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T20:34:41.442615+00:00",
-  "checkedAt": "2026-10-21T20:34:41.442615+00:00",
+  "updatedAt": "2026-10-21T20:39:14.125392+00:00",
+  "checkedAt": "2026-10-21T20:39:14.125392+00:00",
   "newestPublishedAt": "2026-10-21T20:00:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "cd0856563cfd3f2ffca8",
+      "id": "229ca7dc36938864d2fa",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "تدريب Qwen3 على AWS Trainium مع Torchtitan بثلاث طرق على trn2.48xlarge واحد: محولات الوجه المعانقة v5 لنمذجة الواجهة الخلفية، و Qwen3 الأصلي لـ Torchtitan، و NKI mi",
       "summaryOriginal": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The same torchrun launcher and config structure work unchanged across all three paths, including loading and saving published Hugging Face safetensors.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan",
+      "source": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Train Qwen3 on AWS Trainium with torchtitan",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T20:00:22+00:00"
+      "searchAliases": "Amazon Train Qwen3 on AWS Trainium with torchtitan"
     },
     {
-      "id": "ffd4b117fd0fdfe41bbb",
+      "id": "e38755ccfef687de0529",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -132,17 +127,12 @@
       "summary": "تستخدم منظمة الجوع في الولايات المتحدة، وهي منظمة غير ربحية تعالج انعدام الأمن الغذائي، Amazon Quick لربط البيانات التنظيمية بقرارات القيادة. يستكشف القادة بيانات المتقدمين مباشرة،",
       "summaryOriginal": "U.S. Hunger, a nonprofit addressing food insecurity, uses Amazon Quick to connect organizational data with leadership decisions. Leaders explore applicant data directly, share KPI definitions and financial context in Quick Spaces, and investigate policy questions with Quick Research.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-s-hunger-connects-leaders-and-data-using-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How U.S. Hunger connects leaders and data using Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T19:19:50+00:00"
+      "searchAliases": "Amazon How U.S. Hunger connects leaders and data using Amazon Quick"
     },
     {
       "id": "cd481da0851fdb08dc64",
@@ -163,38 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T18:26:30+00:00"
-    },
-    {
-      "id": "f05d3d08744f1aae2414",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "التدريب على المحاكاة، النشر على روبوت حقيقي: Microduck مع Isaac Lab 3.0",
-      "titleOriginal": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T17:58:42+00:00"
+      "searchAliases": "Hugging Face NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
     },
     {
       "id": "e85eba07371d4e195d1e",
@@ -215,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T17:35:36+00:00"
+      "searchAliases": "Hugging Face How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
     },
     {
       "id": "a4fcc190bfcba0e3ee1b",
@@ -241,12 +195,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How AT&T is rethinking in-house legal work with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T17:00:00+00:00"
+      "searchAliases": "OpenAI How AT&T is rethinking in-house legal work with OpenAI"
     },
     {
       "id": "c12358425db7df37a66f",
@@ -331,27 +280,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
-    },
-    {
-      "id": "7f8df14a4ba784b55e0b",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تجمع توقعات NVIDIA KUMO بين تمثيلات السلاسل الزمنية المدربة مسبقًا واسترجاع الأنماط التاريخية وقابلية التفسير",
-      "titleOriginal": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability"
     },
     {
       "id": "e09bd3ecf76c10fc1893",
@@ -627,6 +555,27 @@
       "searchAliases": "OpenAI Using thousands of AI agents to uncover new leads in biological data"
     },
     {
+      "id": "0a6cd6f02201f3301e0f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "الحوكمة الديمقراطية للذكاء الاصطناعي الحدودي، الجزء الثاني: تمكين المدافعين عن الإنترنت",
+      "titleOriginal": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تحدد OpenAI مخططًا لتمكين المدافعين السيبرانيين من خلال الذكاء الاصطناعي الحدودي، والضمانات الأقوى، والأمن السيبراني الحديث، والمؤسسات العامة الأكثر مرونة.",
+      "summaryOriginal": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/empowering-cyber-defenders",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Democratic governance of frontier AI, part II: Empowering cyber defenders"
+    },
+    {
       "id": "b628f90659f5543457bd",
       "company": "Anthropic",
       "logoText": "A",
@@ -669,33 +618,7 @@
       "searchAliases": "Anthropic Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust"
     },
     {
-      "id": "0a6cd6f02201f3301e0f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "الحوكمة الديمقراطية للذكاء الاصطناعي الحدودي، الجزء الثاني: تمكين المدافعين عن الإنترنت",
-      "titleOriginal": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تحدد OpenAI مخططًا لتمكين المدافعين السيبرانيين من خلال الذكاء الاصطناعي الحدودي، والضمانات الأقوى، والأمن السيبراني الحديث، والمؤسسات العامة الأكثر مرونة.",
-      "summaryOriginal": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/empowering-cyber-defenders",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T00:00:00+00:00"
-    },
-    {
-      "id": "9fbd637d0d2122a12ea2",
+      "id": "79d70d6b0d09d719ed8a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -708,20 +631,15 @@
       "summary": "تعرف على كيفية تدريب i14 وتقديم لابلاس 3B، نموذج الاهتمام الخطي، على AWS Trainium2 باستخدام PyTorch الأصلي. تظل حالته المتكررة ثابتة عند 29.5 ميجابايت لكل تسلسل ريجا",
       "summaryOriginal": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
+      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T21:14:10+00:00"
+      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch"
     },
     {
-      "id": "4f027b9327f7398173ad",
+      "id": "d275516814b1c34b52f9",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -734,20 +652,15 @@
       "summary": "يتيح خادم بروتوكول سياق نموذج الورقة الذكية (MCP) لوكلاء الذكاء الاصطناعي قراءة بيانات إدارة العمل المباشرة وتحديثها والتصرف بناءً عليها. يوضح هذا المنشور طريقتين لربطه على AWS: Amazo",
       "summaryOriginal": "The Smartsheet Model Context Protocol (MCP) Server lets AI agents read, update, and act on live work management data. This post shows two ways to connect it on AWS: Amazon Quick for business teams and Kiro for developers, so your agents can work with Smartsheet without switching tools.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Work management context for AI agents with Smartsheet MCP on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:59:07+00:00"
+      "searchAliases": "Amazon Work management context for AI agents with Smartsheet MCP on AWS"
     },
     {
-      "id": "11309d3909690d233210",
+      "id": "9be8b26e4c480b117743",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -760,20 +673,56 @@
       "summary": "سلاسل التوريد الخاصة بالمؤسسات غنية بالبيانات ولكنها تفتقر إلى البصيرة، حيث تكون البيانات التي يتم تحديدها متناثرة عبر تخطيط موارد المؤسسات والمراقبة والمشتريات والبريد الإلكتروني. يوضح هذا المنشور كيف أن Amazon Bedr",
       "summaryOriginal": "Enterprise supply chains are data-rich but insight-poor, with the data to decide scattered across ERP, monitoring, procurement, and email. This post shows how Amazon Bedrock AgentCore exposes those systems as a governed tool layer, and how Amazon Quick turns them into one conversational experience for business users, with a deploy-it-yourself walkthrough.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:52:50+00:00"
+      "searchAliases": "Amazon From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "2c06249f86c3880e3398",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "ضبط GPT - OSS -20B بدقة للتفكير متعدد اللغات على Amazon SageMaker HyperPod",
+      "titleOriginal": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية ضبط GPT - OSS -20B للتفكير متعدد اللغات على Amazon SageMaker HyperPod، وكيفية الاختيار بين الضبط الدقيق الخاضع للإشراف (SFT) وتعلم التعزيز",
+      "summaryOriginal": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod"
+    },
+    {
+      "id": "71fdb00a19f5a02c9d4d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock",
+      "titleOriginal": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
+      "dateLabel": "20 أكتوبر 2026",
+      "dateISO": "2026-10-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock، باستخدام Cohere Embed v4 للتضمينات و Amazon Bedrock AgentCore لتنفيذ الوكيل المعزول، إلى أمر الشراء",
+      "summaryOriginal": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant boundaries.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Octave built a secure multi-tenant AI foundation on Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00",
-  "lastFastCheckAt": "2026-10-21T20:34:41.442615+00:00"
+  "lastDeepCheckAt": "2026-10-21T20:39:14.125392+00:00"
 }
