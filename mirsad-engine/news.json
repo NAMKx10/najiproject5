@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T18:17:40.425631+00:00",
-  "checkedAt": "2026-10-21T18:17:40.425631+00:00",
+  "updatedAt": "2026-10-21T18:22:43.289954+00:00",
+  "checkedAt": "2026-10-21T18:22:43.289954+00:00",
   "newestPublishedAt": "2026-10-21T17:58:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -23,9 +23,9 @@
     {
       "company": "NVIDIA",
       "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "company": "Amazon",
@@ -775,5 +775,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00",
-  "lastFastCheckAt": "2026-10-21T18:17:40.425631+00:00"
+  "lastFastCheckAt": "2026-10-21T18:22:43.289954+00:00"
 }
