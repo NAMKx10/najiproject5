@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T18:12:39.677423+00:00",
-  "checkedAt": "2026-10-21T18:12:39.677423+00:00",
+  "updatedAt": "2026-10-21T18:17:40.425631+00:00",
+  "checkedAt": "2026-10-21T18:17:40.425631+00:00",
   "newestPublishedAt": "2026-10-21T17:58:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -23,9 +23,9 @@
     {
       "company": "NVIDIA",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "company": "Amazon",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T17:35:36+00:00"
+    },
+    {
+      "id": "a4fcc190bfcba0e3ee1b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "كيف تعيد AT&T التفكير في العمل القانوني الداخلي مع OpenAI",
+      "titleOriginal": "How AT&T is rethinking in-house legal work with OpenAI",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعمل AT&T مع OpenAI لتسهيل الوصول إلى المعرفة القانونية. تعرف على كيفية قيام فريق LegalEdge بإعادة التفكير في القبول وتوسيع نطاق الحكم القانوني.",
+      "summaryOriginal": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/att-legal",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How AT&T is rethinking in-house legal work with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T17:00:00+00:00"
     },
     {
       "id": "c12358425db7df37a66f",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T16:22:24+00:00"
-    },
-    {
-      "id": "c80f3ce0ea96d43b8c2f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "FairStress: تقييم أعمق للعدالة في صنع القرار في LLM",
-      "titleOriginal": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/fairstress",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T16:09:19+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00",
-  "lastFastCheckAt": "2026-10-21T18:12:39.677423+00:00"
+  "lastFastCheckAt": "2026-10-21T18:17:40.425631+00:00"
 }
