@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T21:20:21.081883+00:00",
-  "checkedAt": "2026-10-21T21:20:21.081883+00:00",
-  "newestPublishedAt": "2026-10-21T20:00:22+00:00",
+  "updatedAt": "2026-10-21T21:25:20.293252+00:00",
+  "checkedAt": "2026-10-21T21:25:20.293252+00:00",
+  "newestPublishedAt": "2026-10-21T21:23:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "bc077a6b99ac8b030424",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إطار الذكاء التكيفي للوكلاء باستخدام وكلاء ستراندز",
+      "titleOriginal": "Adaptive agentic intelligence framework using Strands Agents",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتعامل إطار الذكاء التكيفي التكيفي (AAIF)، الذي تم إنشاؤه مع وكلاء Strands، مع المهام الروتينية محليًا باستخدام نماذج لغوية صغيرة ويوجه الطلبات المعقدة إلى",
+      "summaryOriginal": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Amazon Bedrock, using an Internet of Things monitoring scenario.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Adaptive agentic intelligence framework using Strands Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T21:23:26+00:00"
+    },
     {
       "id": "229ca7dc36938864d2fa",
       "company": "Amazon",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T17:48:27+00:00"
-    },
-    {
-      "id": "e82411178792db40a921",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock",
-      "titleOriginal": "How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بنى أوكتاف أساسًا آمنًا متعدد المستأجرين للذكاء الاصطناعي على Amazon Bedrock، باستخدام Cohere Embed v4 للتضمينات و Amazon Bedrock AgentCore لتنفيذ الوكيل المعزول، إلى أمر الشراء",
-      "summaryOriginal": "Octave built a secure, multi-tenant AI foundation on Amazon Bedrock, using Cohere Embed v4 for embeddings and Amazon Bedrock AgentCore for isolated agent execution, to power a Complaint Triage Assistant that searches 2 billion regulated documents without crossing tenant boundaries.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Octave built a secure multi-tenant AI foundation on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:34:04+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T20:39:14.125392+00:00",
-  "lastFastCheckAt": "2026-10-21T21:20:21.081883+00:00"
+  "lastFastCheckAt": "2026-10-21T21:25:20.293252+00:00"
 }
