@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T14:57:02.401103+00:00",
-  "checkedAt": "2026-10-21T14:57:02.401103+00:00",
-  "newestPublishedAt": "2026-10-21T13:00:00+00:00",
+  "updatedAt": "2026-10-21T15:02:08.776641+00:00",
+  "checkedAt": "2026-10-21T15:02:08.776641+00:00",
+  "newestPublishedAt": "2026-10-21T14:58:18+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "15990ce5e51618766087",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "خطاب الجرانيت 5.0: النسخ والترجمة والسمة بشكل أكثر دقة وسرعة",
+      "titleOriginal": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T14:58:18+00:00"
+    },
     {
       "id": "de2258b2de2f3df2ec88",
       "company": "OpenAI",
@@ -795,35 +821,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T10:30:11+00:00"
-    },
-    {
-      "id": "2e330bd03bcad3c478b5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقوم المستفيد بتسوية النقد في وقت أقل بنسبة 94 ٪ مع عمل ChatGPT",
-      "titleOriginal": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "خفض صاحب امتياز Schlotzsky's و Cinnabon وقت إعادة تسعير القائمة بنسبة 95 ٪ وبنى سير عمل يمكن أن يحرر 100 ألف $ من.",
-      "summaryOriginal": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/ted-taylor-restaurant",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T10:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T11:51:11.461660+00:00",
-  "lastFastCheckAt": "2026-10-21T14:57:02.401103+00:00"
+  "lastFastCheckAt": "2026-10-21T15:02:08.776641+00:00"
 }
