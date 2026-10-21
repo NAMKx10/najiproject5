@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T19:59:09.332698+00:00",
-  "checkedAt": "2026-10-21T19:59:09.332698+00:00",
-  "newestPublishedAt": "2026-10-21T19:19:50+00:00",
+  "updatedAt": "2026-10-21T20:04:11.989849+00:00",
+  "checkedAt": "2026-10-21T20:04:11.989849+00:00",
+  "newestPublishedAt": "2026-10-21T20:00:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cd0856563cfd3f2ffca8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تدريب Qwen3 على AWS Trainium مع Torchtitan",
+      "titleOriginal": "Train Qwen3 on AWS Trainium with torchtitan",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "تدريب Qwen3 على AWS Trainium مع Torchtitan بثلاث طرق على trn2.48xlarge واحد: محولات الوجه المعانقة v5 لنمذجة الواجهة الخلفية، و Qwen3 الأصلي لـ Torchtitan، و NKI mi",
+      "summaryOriginal": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3, and NKI mixture-of-experts kernels. The same torchrun launcher and config structure work unchanged across all three paths, including loading and saving published Hugging Face safetensors.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Train Qwen3 on AWS Trainium with torchtitan",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T20:00:22+00:00"
+    },
     {
       "id": "ffd4b117fd0fdfe41bbb",
       "company": "Amazon",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T17:52:50+00:00"
-    },
-    {
-      "id": "bb1d1502e0e41eab8d04",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ضبط GPT - OSS -20B بدقة للتفكير متعدد اللغات على Amazon SageMaker HyperPod",
-      "titleOriginal": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية ضبط GPT - OSS -20B للتفكير متعدد اللغات على Amazon SageMaker HyperPod، وكيفية الاختيار بين الضبط الدقيق الخاضع للإشراف (SFT) وتعلم التعزيز",
-      "summaryOriginal": "Learn how we fine-tuned GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod, and how to decide between supervised fine-tuning (SFT) and reinforcement learning with GRPO. SFT took reasoning-language accuracy from 22% to 100%, and GRPO added measurable gains where headroom existed.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T17:48:27+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00",
-  "lastFastCheckAt": "2026-10-21T19:59:09.332698+00:00"
+  "lastFastCheckAt": "2026-10-21T20:04:11.989849+00:00"
 }
