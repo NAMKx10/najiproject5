@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-21T19:13:30.531891+00:00",
-  "checkedAt": "2026-10-21T19:13:30.531891+00:00",
+  "updatedAt": "2026-10-21T19:18:34.564545+00:00",
+  "checkedAt": "2026-10-21T19:18:34.564545+00:00",
   "newestPublishedAt": "2026-10-21T18:26:30+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -617,6 +617,32 @@
       "searchAliases": "Anthropic Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust"
     },
     {
+      "id": "0a6cd6f02201f3301e0f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "الحوكمة الديمقراطية للذكاء الاصطناعي الحدودي، الجزء الثاني: تمكين المدافعين عن الإنترنت",
+      "titleOriginal": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تحدد OpenAI مخططًا لتمكين المدافعين السيبرانيين من خلال الذكاء الاصطناعي الحدودي، والضمانات الأقوى، والأمن السيبراني الحديث، والمؤسسات العامة الأكثر مرونة.",
+      "summaryOriginal": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/empowering-cyber-defenders",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T00:00:00+00:00"
+    },
+    {
       "id": "9fbd637d0d2122a12ea2",
       "company": "Amazon",
       "logoText": "AWS",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-20T17:34:04+00:00"
-    },
-    {
-      "id": "1071e7231ff647308fd3",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الوصول إلى نماذج OpenAI GPT على Amazon Bedrock من كندا مع الاستدلال عبر المنطقة",
-      "titleOriginal": "Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "يمكن للمنظمات الكندية الآن الوصول إلى نماذج OpenAI GPT-5.6 و GPT -6 و GPT-6.1 على Amazon Bedrock من مناطق كندا (الوسطى) وغرب كندا (كالجاري) باستخدام",
-      "summaryOriginal": "Canadian organizations can now access OpenAI GPT-5.6, GPT-6, and GPT-6.1 models on Amazon Bedrock from the Canada (Central) and Canada West (Calgary) Regions using cross-Region inference. This post covers the models and inference profiles, how to set up permissions, and how to invoke them with the Responses, Chat Completions, and Converse APIs.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-20T16:42:53+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T17:13:51.299781+00:00",
-  "lastFastCheckAt": "2026-10-21T19:13:30.531891+00:00"
+  "lastFastCheckAt": "2026-10-21T19:18:34.564545+00:00"
 }
