@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T16:10:31.144575+00:00",
-  "checkedAt": "2026-10-22T16:10:31.144575+00:00",
-  "newestPublishedAt": "2026-10-22T15:00:02+00:00",
+  "updatedAt": "2026-10-22T16:15:35.009173+00:00",
+  "checkedAt": "2026-10-22T16:15:35.009173+00:00",
+  "newestPublishedAt": "2026-10-22T16:11:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "df2bad29adaab3251e3d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "OlmoEarth v1.3: أحدث التضمينات لكوكب الأرض بأكمله",
+      "titleOriginal": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T16:11:31+00:00"
+    },
     {
       "id": "8b26813c96213450d38f",
       "company": "NVIDIA",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure"
-    },
-    {
-      "id": "ea4813e831c67b4fe780",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "يتوسع شركاء NVIDIA Cloud في جميع أنحاء أوروبا — السيادية والمفتوحة والمصممة لوكلاء الذكاء الاصطناعي الآمنين",
-      "titleOriginal": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يدفع الطلب من مواطني الذكاء الاصطناعي النظام البيئي السحابي الأوروبي للذكاء الاصطناعي إلى الأمام بشكل أسرع من أي وقت مضى. يحتاج المطورون إلى حساب أقرب إلى بياناتهم، ونماذج مفتوحة يمكنهم تخصيصها",
-      "summaryOriginal": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T13:12:52.049342+00:00",
-  "lastFastCheckAt": "2026-10-22T16:10:31.144575+00:00"
+  "lastFastCheckAt": "2026-10-22T16:15:35.009173+00:00"
 }
