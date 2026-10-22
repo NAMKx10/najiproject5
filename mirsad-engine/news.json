@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T00:43:22.169854+00:00",
-  "checkedAt": "2026-10-22T00:43:22.169854+00:00",
+  "updatedAt": "2026-10-22T00:48:23.926975+00:00",
+  "checkedAt": "2026-10-22T00:48:23.926975+00:00",
   "newestPublishedAt": "2026-10-21T23:38:38+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -702,33 +702,33 @@
       "searchAliases": "Anthropic Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust"
     },
     {
-      "id": "9fbd637d0d2122a12ea2",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "ما وراء ذاكرة التخزين المؤقت لـ KV: تدريب وخدمة نموذج الاهتمام الخطي Laplace 3B من i14 على AWS Trainium2 مع PyTorch الأصلي",
-      "titleOriginal": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
-      "dateLabel": "20 أكتوبر 2026",
-      "dateISO": "2026-10-20",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية تدريب i14 وتقديم لابلاس 3B، نموذج الاهتمام الخطي، على AWS Trainium2 باستخدام PyTorch الأصلي. تظل حالته المتكررة ثابتة عند 29.5 ميجابايت لكل تسلسل ريجا",
-      "summaryOriginal": "Learn how i14 trained and served Laplace 3B, a linear attention model, on AWS Trainium2 using native PyTorch. Its recurrent state stays fixed at 29.5 MB per sequence regardless of context length, avoiding the growing key-value cache of transformer models and keeping serving memory predictable.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "id": "141a7c3bd81dbfb94596",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "يربط Cloudflare اكتشاف الثغرات الأمنية بالدفاع مع OpenAI",
+      "titleOriginal": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تستخدم Cloudflare OpenAI Daybreak للتحقيق في نقاط الضعف واقتراح إصلاحات للمراجعة. يستخدم مطوروها الدستور الغذائي لبناء أسرع وتحسين جودة التعليمات البرمجية.",
+      "summaryOriginal": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/cloudflare-cyber",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "searchAliases": "OpenAI Cloudflare links vulnerability discovery to defense with OpenAI",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-10-20T21:14:10+00:00"
+      "publishedAt": "2026-10-21T00:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-21T23:39:43.807980+00:00",
-  "lastFastCheckAt": "2026-10-22T00:43:22.169854+00:00"
+  "lastFastCheckAt": "2026-10-22T00:48:23.926975+00:00"
 }
