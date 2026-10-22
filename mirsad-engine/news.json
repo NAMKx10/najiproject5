@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T15:04:41.584209+00:00",
-  "checkedAt": "2026-10-22T15:04:41.584209+00:00",
-  "newestPublishedAt": "2026-10-22T07:51:31+00:00",
+  "updatedAt": "2026-10-22T15:09:45.773161+00:00",
+  "checkedAt": "2026-10-22T15:09:45.773161+00:00",
+  "newestPublishedAt": "2026-10-22T15:00:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8b26813c96213450d38f",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA تكشف النقاب عن Minerva لتحقيق إمكانية الملاحظة الشاملة لمصانع الذكاء الاصطناعي",
+      "titleOriginal": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تم إطلاق NVIDIA Minerva اليوم، وهي عبارة عن منصة AIOps تم تصميمها لمساعدة الفرق على العثور على المشكلات في وقت مبكر والحفاظ على إنتاجية مصانع الذكاء الاصطناعي. يجمع بين القياس عن بعد من البنية التحتية",
+      "summaryOriginal": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T15:00:02+00:00"
+    },
     {
       "id": "b92ad9c58cc47be91ce2",
       "company": "OpenAI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance"
-    },
-    {
-      "id": "d8a2ee244675d00be990",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "استخدام الآلاف من عوامل الذكاء الاصطناعي للكشف عن خيوط جديدة في البيانات البيولوجية",
-      "titleOriginal": "Using thousands of AI agents to uncover new leads in biological data",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "انظر كيف استخدمت OpenAI و PerturbAI و Scripps Research عوامل الذكاء الاصطناعي الموزعة للكشف عن خيوط بحثية واعدة في البيانات من ملايين خلايا الدماغ.",
-      "summaryOriginal": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Using thousands of AI agents to uncover new leads in biological data"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T13:12:52.049342+00:00",
-  "lastFastCheckAt": "2026-10-22T15:04:41.584209+00:00"
+  "lastFastCheckAt": "2026-10-22T15:09:45.773161+00:00"
 }
