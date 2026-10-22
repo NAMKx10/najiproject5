@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T05:16:48.708603+00:00",
-  "checkedAt": "2026-10-22T05:16:48.708603+00:00",
+  "updatedAt": "2026-10-22T05:21:53.131826+00:00",
+  "checkedAt": "2026-10-22T05:21:53.131826+00:00",
   "newestPublishedAt": "2026-10-22T05:00:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -268,6 +268,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "id": "739f8f70d2ba9e7a5246",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "تصحيح الكوكب: تنسيق الاستجابة العالمية حيث يكشف الوكلاء عن نقاط الضعف الحرجة",
+      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "يربط Patch the Planet الباحثين الأمنيين والمشرفين والمستجيبين للحوادث للمساعدة في معالجة نقاط الضعف الحرجة عبر المصادر المفتوحة.",
+      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data"
-    },
-    {
-      "id": "7d625c0974325c08a120",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA Open Models Advance Europe's Sovereign Intelligence عبر الصناعات",
-      "titleOriginal": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقوم NVIDIA بتوسيع عائلتها من النماذج المفتوحة عبر اللغة والروبوتات والبيولوجيا والحوسبة الكمية، مما يمنح المطورين والباحثين والمؤسسات ما يحتاجون إليه",
-      "summaryOriginal": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages and industries The portfolio includes the new NVIDIA Nemotron 3.5 Super VL and Nemotron 3.5 Bolt models; new NVIDIA Nemotron Retriever models for embedding, reranking […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T01:53:06.588261+00:00",
-  "lastFastCheckAt": "2026-10-22T05:16:48.708603+00:00"
+  "lastFastCheckAt": "2026-10-22T05:21:53.131826+00:00"
 }
