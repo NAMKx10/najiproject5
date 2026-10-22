@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T07:48:42.085579+00:00",
-  "checkedAt": "2026-10-22T07:48:42.085579+00:00",
-  "newestPublishedAt": "2026-10-22T05:00:56+00:00",
+  "updatedAt": "2026-10-22T07:53:47.117326+00:00",
+  "checkedAt": "2026-10-22T07:53:47.117326+00:00",
+  "newestPublishedAt": "2026-10-22T07:51:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3aea528be83e323baf7d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تنبؤات المجموعة مع نماذج السلاسل الزمنية IBM Granite",
+      "titleOriginal": "Ensemble forecasting with IBM Granite time-series models",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T07:51:31+00:00"
+    },
     {
       "id": "e1a988d4be8ccc2d2a2e",
       "company": "NVIDIA",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Cloudflare links vulnerability discovery to defense with OpenAI"
-    },
-    {
-      "id": "0a6cd6f02201f3301e0f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "الحوكمة الديمقراطية للذكاء الاصطناعي الحدودي، الجزء الثاني: تمكين المدافعين عن الإنترنت",
-      "titleOriginal": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تحدد OpenAI مخططًا لتمكين المدافعين السيبرانيين من خلال الذكاء الاصطناعي الحدودي، والضمانات الأقوى، والأمن السيبراني الحديث، والمؤسسات العامة الأكثر مرونة.",
-      "summaryOriginal": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/empowering-cyber-defenders",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Democratic governance of frontier AI, part II: Empowering cyber defenders"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T07:36:36.699082+00:00",
-  "lastFastCheckAt": "2026-10-22T07:48:42.085579+00:00"
+  "lastFastCheckAt": "2026-10-22T07:53:47.117326+00:00"
 }
