@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T17:41:51.580014+00:00",
-  "checkedAt": "2026-10-22T17:41:51.580014+00:00",
-  "newestPublishedAt": "2026-10-22T16:30:06+00:00",
+  "updatedAt": "2026-10-22T17:46:54.084341+00:00",
+  "checkedAt": "2026-10-22T17:46:54.084341+00:00",
+  "newestPublishedAt": "2026-10-22T17:45:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "60c9410b929b62dce3d9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بث خطاب منخفض الكمون من وكلاء الذكاء الاصطناعي باستخدام Kokoro TTS على Amazon SageMaker AI",
+      "titleOriginal": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "غالبًا ما ينتظر الوكلاء الصوتيون استجابة الوكيل الكاملة قبل البدء في تركيب الكلام، مما يزيد من شعور المستخدمين بوقت الاستجابة بشكل مباشر. يوضح هذا المنشور كيفية بث كل جملة إلى",
+      "summaryOriginal": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser over Server-Sent Events or a unified binary transport.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T17:45:58+00:00"
+    },
     {
       "id": "02060d84e7f40f343291",
       "company": "Amazon",
@@ -810,35 +836,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T10:30:41+00:00"
-    },
-    {
-      "id": "0cd004630d484bee1f52",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف قمنا ببناء حزمة إعلانات ChatGPT الجديدة لثقة المستخدم وملاءمته",
-      "titleOriginal": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية بناء OpenAI لمكدس الإعلانات المدعوم من ChatGPT لفهم نية المحادثة، والحفاظ على الإعلانات منفصلة عن الإجابات، وتقديم الإعلانات ذات الصلة على نطاق واسع.",
-      "summaryOriginal": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/building-chatgpt-ad-stack",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T13:12:52.049342+00:00",
-  "lastFastCheckAt": "2026-10-22T17:41:51.580014+00:00"
+  "lastFastCheckAt": "2026-10-22T17:46:54.084341+00:00"
 }
