@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T05:11:45.300184+00:00",
-  "checkedAt": "2026-10-22T05:11:45.300184+00:00",
+  "updatedAt": "2026-10-22T05:16:48.708603+00:00",
+  "checkedAt": "2026-10-22T05:16:48.708603+00:00",
   "newestPublishedAt": "2026-10-22T05:00:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -247,6 +247,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T05:00:02+00:00"
+    },
+    {
+      "id": "0cd004630d484bee1f52",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف قمنا ببناء حزمة إعلانات ChatGPT الجديدة لثقة المستخدم وملاءمته",
+      "titleOriginal": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية بناء OpenAI لمكدس الإعلانات المدعوم من ChatGPT لفهم نية المحادثة، والحفاظ على الإعلانات منفصلة عن الإجابات، وتقديم الإعلانات ذات الصلة على نطاق واسع.",
+      "summaryOriginal": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/building-chatgpt-ad-stack",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T07:00:00+00:00"
+    },
+    {
+      "id": "d8a2ee244675d00be990",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "استخدام الآلاف من عوامل الذكاء الاصطناعي للكشف عن خيوط جديدة في البيانات البيولوجية",
+      "titleOriginal": "Using thousands of AI agents to uncover new leads in biological data",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "research",
+      "importance": 86,
+      "summary": "انظر كيف استخدمت OpenAI و PerturbAI و Scripps Research عوامل الذكاء الاصطناعي الموزعة للكشف عن خيوط بحثية واعدة في البيانات من ملايين خلايا الدماغ.",
+      "summaryOriginal": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Using thousands of AI agents to uncover new leads in biological data",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T04:50:00+00:00"
     },
     {
       "id": "2a42be2b03baa0cd8ca8",
@@ -709,51 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries"
-    },
-    {
-      "id": "711afdd2803167597814",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "جي تي سي برلين 2026: تحديثات مباشرة من الكلمة الرئيسية للرئيس التنفيذي لشركة إنفيديا جنسن هوانغ",
-      "titleOriginal": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تأسست في خيمة بالقرب من جدار برلين في عام 1980، انتقلت Tempodrom عدة مرات قبل أن تستقر بالقرب من Anhalter Bahnhof في عام 2001. استضاف موطنها الدائم منذ ذلك الحين",
-      "summaryOriginal": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote"
-    },
-    {
-      "id": "739f8f70d2ba9e7a5246",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تصحيح الكوكب: تنسيق الاستجابة العالمية حيث يكشف الوكلاء عن نقاط الضعف الحرجة",
-      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "يربط Patch the Planet الباحثين الأمنيين والمشرفين والمستجيبين للحوادث للمساعدة في معالجة نقاط الضعف الحرجة عبر المصادر المفتوحة.",
-      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T01:53:06.588261+00:00",
-  "lastFastCheckAt": "2026-10-22T05:11:45.300184+00:00"
+  "lastFastCheckAt": "2026-10-22T05:16:48.708603+00:00"
 }
