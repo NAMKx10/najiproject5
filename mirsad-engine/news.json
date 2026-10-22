@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T19:38:29.436922+00:00",
-  "checkedAt": "2026-10-22T19:38:29.436922+00:00",
-  "newestPublishedAt": "2026-10-22T18:06:35+00:00",
+  "updatedAt": "2026-10-22T19:43:32.366580+00:00",
+  "checkedAt": "2026-10-22T19:43:32.366580+00:00",
+  "newestPublishedAt": "2026-10-22T19:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6318b8276a4bb44da133",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "أنشئ تطبيقات أكثر استجابة باستخدام واجهة برمجة تطبيقات القرارات",
+      "titleOriginal": "Build more responsive apps with the Decisions API",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قرارات سريعة ومركزة ومنخفضة التكلفة لأي تطبيق.",
+      "summaryOriginal": "Fast, focused, low-cost decisions for any application.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/decisions-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Build more responsive apps with the Decisions API",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T19:00:00+00:00"
+    },
     {
       "id": "c289dd4ff43b390f0572",
       "company": "Amazon",
@@ -750,35 +776,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T17:00:00+00:00"
-    },
-    {
-      "id": "c12358425db7df37a66f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "التنميط TorchNeuron (الجزء 1): التنميط على مستوى النظام في AWS Trainium.",
-      "titleOriginal": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T16:04:43+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T17:59:17.793603+00:00",
-  "lastFastCheckAt": "2026-10-22T19:38:29.436922+00:00"
+  "lastFastCheckAt": "2026-10-22T19:43:32.366580+00:00"
 }
