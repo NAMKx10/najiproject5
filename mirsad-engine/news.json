@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T13:08:08.776062+00:00",
-  "checkedAt": "2026-10-22T13:08:08.776062+00:00",
+  "updatedAt": "2026-10-22T13:12:52.049342+00:00",
+  "checkedAt": "2026-10-22T13:12:52.049342+00:00",
   "newestPublishedAt": "2026-10-22T07:51:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T07:51:31+00:00"
+      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models"
     },
     {
       "id": "e1a988d4be8ccc2d2a2e",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-22T07:36:36.699082+00:00",
-  "lastFastCheckAt": "2026-10-22T13:08:08.776062+00:00"
+  "lastDeepCheckAt": "2026-10-22T13:12:52.049342+00:00"
 }
