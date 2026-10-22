@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T15:14:49.564068+00:00",
-  "checkedAt": "2026-10-22T15:14:49.564068+00:00",
+  "updatedAt": "2026-10-22T15:19:53.742647+00:00",
+  "checkedAt": "2026-10-22T15:19:53.742647+00:00",
   "newestPublishedAt": "2026-10-22T15:00:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -290,6 +290,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Open Models Power a New Wave of European Public Sector Projects"
+    },
+    {
+      "id": "0cd004630d484bee1f52",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف قمنا ببناء حزمة إعلانات ChatGPT الجديدة لثقة المستخدم وملاءمته",
+      "titleOriginal": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية بناء OpenAI لمكدس الإعلانات المدعوم من ChatGPT لفهم نية المحادثة، والحفاظ على الإعلانات منفصلة عن الإجابات، وتقديم الإعلانات ذات الصلة على نطاق واسع.",
+      "summaryOriginal": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/building-chatgpt-ad-stack",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T07:00:00+00:00"
     },
     {
       "id": "d8a2ee244675d00be990",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA"
-    },
-    {
-      "id": "739f8f70d2ba9e7a5246",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تصحيح الكوكب: تنسيق الاستجابة العالمية حيث يكشف الوكلاء عن نقاط الضعف الحرجة",
-      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "research",
-      "importance": 86,
-      "summary": "يربط Patch the Planet الباحثين الأمنيين والمشرفين والمستجيبين للحوادث للمساعدة في معالجة نقاط الضعف الحرجة عبر المصادر المفتوحة.",
-      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T13:12:52.049342+00:00",
-  "lastFastCheckAt": "2026-10-22T15:14:49.564068+00:00"
+  "lastFastCheckAt": "2026-10-22T15:19:53.742647+00:00"
 }
