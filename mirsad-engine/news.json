@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T18:07:09.662027+00:00",
-  "checkedAt": "2026-10-22T18:07:09.662027+00:00",
+  "updatedAt": "2026-10-22T18:12:23.909562+00:00",
+  "checkedAt": "2026-10-22T18:12:23.909562+00:00",
   "newestPublishedAt": "2026-10-22T18:06:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -596,6 +596,32 @@
       "searchAliases": "xAI Introducing the SpaceX Super Intelligence Partner Network"
     },
     {
+      "id": "263d4a919ee55a54671e",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تأمين الوصول السريع من شبكات الشركات مع AWS PrivateLink",
+      "titleOriginal": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "dateLabel": "21 أكتوبر 2026",
+      "dateISO": "2026-10-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرف على كيفية توصيل مصادر البيانات المحلية بأمازون Quick بشكل خاص مع AWS PrivateLink، مما يحافظ على حركة مرور التحليلات خارج الإنترنت العام. يغطي هذا العرض التفصيلي V",
+      "summaryOriginal": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T23:38:38+00:00"
+    },
+    {
       "id": "3368ffb4aecc1553f190",
       "company": "Amazon",
       "logoText": "AWS",
@@ -750,35 +776,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T16:04:43+00:00"
-    },
-    {
-      "id": "15990ce5e51618766087",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "خطاب الجرانيت 5.0: النسخ والترجمة والسمة بشكل أكثر دقة وسرعة",
-      "titleOriginal": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T14:58:18+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T17:59:17.793603+00:00",
-  "lastFastCheckAt": "2026-10-22T18:07:09.662027+00:00"
+  "lastFastCheckAt": "2026-10-22T18:12:23.909562+00:00"
 }
