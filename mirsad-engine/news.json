@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T22:23:25.491830+00:00",
-  "checkedAt": "2026-10-22T22:23:25.491830+00:00",
-  "newestPublishedAt": "2026-10-22T19:00:00+00:00",
+  "updatedAt": "2026-10-22T22:28:33.040896+00:00",
+  "checkedAt": "2026-10-22T22:28:33.040896+00:00",
+  "newestPublishedAt": "2026-10-22T22:24:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0729b929825aabfdba0f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تحويل تصنيف قاعدة البيانات إلى مكافآت RL: وكلاء ما بعد التدريب مع ThinkingBox",
+      "titleOriginal": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T22:24:34+00:00"
+    },
     {
       "id": "6318b8276a4bb44da133",
       "company": "OpenAI",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T17:35:36+00:00"
-    },
-    {
-      "id": "a4fcc190bfcba0e3ee1b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف تعيد AT&T التفكير في العمل القانوني الداخلي مع OpenAI",
-      "titleOriginal": "How AT&T is rethinking in-house legal work with OpenAI",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعمل AT&T مع OpenAI لتسهيل الوصول إلى المعرفة القانونية. تعرف على كيفية قيام فريق LegalEdge بإعادة التفكير في القبول وتوسيع نطاق الحكم القانوني.",
-      "summaryOriginal": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/att-legal",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How AT&T is rethinking in-house legal work with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T21:37:12.298132+00:00",
-  "lastFastCheckAt": "2026-10-22T22:23:25.491830+00:00"
+  "lastFastCheckAt": "2026-10-22T22:28:33.040896+00:00"
 }
