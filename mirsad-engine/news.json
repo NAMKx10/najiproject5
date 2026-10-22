@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-22T17:46:54.084341+00:00",
-  "checkedAt": "2026-10-22T17:46:54.084341+00:00",
-  "newestPublishedAt": "2026-10-22T17:45:58+00:00",
+  "updatedAt": "2026-10-22T17:49:04.647354+00:00",
+  "checkedAt": "2026-10-22T17:49:04.647354+00:00",
+  "newestPublishedAt": "2026-10-22T17:48:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "90008c81406ca5c9317f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "نشر الذكاء الاصطناعي في بيئة مؤهلة لـ HIPAA مع Amazon Quick",
+      "titleOriginal": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أمازون كويك هي خدمة مؤهلة لقانون إخضاع التأمين الصحي لقابلية النقل والمحاسبة (HIPAA)، ولكن الأهلية ليست هي نفسها الامتثال. يشرح هذا المنشور على من ينطبق قانون إخضاع التأمين الصحي لقابلية النقل والمحاسبة (HIPAA)، وكيف تتدفق المعلومات الصحية المحمية (PHI) عبر أمازون كويك،",
+      "summaryOriginal": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare environment.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T17:48:22+00:00"
+    },
     {
       "id": "60c9410b929b62dce3d9",
       "company": "Amazon",
@@ -810,35 +836,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T10:45:17+00:00"
-    },
-    {
-      "id": "a9a78d04bbce53616256",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "يتوسع شركاء NVIDIA Cloud في جميع أنحاء أوروبا — السيادية والمفتوحة والمصممة لوكلاء الذكاء الاصطناعي الآمنين",
-      "titleOriginal": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "يدفع الطلب من مواطني الذكاء الاصطناعي النظام البيئي السحابي الأوروبي للذكاء الاصطناعي إلى الأمام بشكل أسرع من أي وقت مضى. يحتاج المطورون إلى حساب أقرب إلى بياناتهم، ونماذج مفتوحة يمكنهم تخصيصها",
-      "summaryOriginal": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T10:30:41+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-22T13:12:52.049342+00:00",
-  "lastFastCheckAt": "2026-10-22T17:46:54.084341+00:00"
+  "lastFastCheckAt": "2026-10-22T17:49:04.647354+00:00"
 }
