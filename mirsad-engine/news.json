@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T16:14:37.343936+00:00",
-  "checkedAt": "2026-10-23T16:14:37.343936+00:00",
+  "updatedAt": "2026-10-23T16:19:38.365334+00:00",
+  "checkedAt": "2026-10-23T16:19:38.365334+00:00",
   "newestPublishedAt": "2026-10-23T17:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "db9277664df9d5299e26",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "LitPivot: تطوير الأفكار البحثية من خلال السياق الديناميكي داخل المشهد الأدبي",
+      "titleOriginal": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/litpivot",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T16:15:50+00:00"
     },
     {
       "id": "a47e3be3da3f19366060",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Product"
-    },
-    {
-      "id": "030c30224f7d3535f78c",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "دعوة مفتوحة للباحثين الضيوف في علوم الحياة",
-      "titleOriginal": "Open call for guest investigators in the life sciences",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "اليوم، ندعو أعضاء مجتمع علوم الحياة للتقدم للعمل معنا في مشاريع خاصة.",
-      "summaryOriginal": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Open call for guest investigators in the life sciences"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-23T15:05:34.868318+00:00",
-  "lastFastCheckAt": "2026-10-23T16:14:37.343936+00:00"
+  "lastFastCheckAt": "2026-10-23T16:19:38.365334+00:00"
 }
