@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T19:14:50.101810+00:00",
-  "checkedAt": "2026-10-23T19:14:50.101810+00:00",
+  "updatedAt": "2026-10-23T19:22:20.438455+00:00",
+  "checkedAt": "2026-10-23T19:22:20.438455+00:00",
   "newestPublishedAt": "2026-10-23T17:48:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a600241ceec23053452c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تأمين بيئتنا التدريبية لنموذج الحدود",
+      "titleOriginal": "Securing our frontier model training environment",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشرح OpenAI كيف عززنا الاحتواء للتدريب والتقييم لنموذج الحدود، بما في ذلك البيئات غير المتصلة بالإنترنت والفرق الحمراء عالية الحوسبة.",
+      "summaryOriginal": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Securing our frontier model training environment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T10:00:00+00:00"
+    },
     {
       "id": "12839b58c8764ba6e72d",
       "company": "Amazon",
@@ -700,29 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "3b64d7430b28a15a8a55",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "التبرع بمهارات الوكيل لمؤسسة Agentic AI",
-      "titleOriginal": "Donating Agent Skills to the Agentic AI Foundation",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Donating Agent Skills to the Agentic AI Foundation"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-23T19:14:50.101810+00:00"
+  "lastDeepCheckAt": "2026-10-23T19:14:50.101810+00:00",
+  "lastFastCheckAt": "2026-10-23T19:22:20.438455+00:00"
 }
