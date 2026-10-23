@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T04:46:56.915094+00:00",
-  "checkedAt": "2026-10-23T04:46:56.915094+00:00",
+  "updatedAt": "2026-10-23T04:51:34.274709+00:00",
+  "checkedAt": "2026-10-23T04:51:34.274709+00:00",
   "newestPublishedAt": "2026-10-23T02:00:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "1a63adea827789b4522c",
+      "id": "a47e3be3da3f19366060",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -106,43 +106,12 @@
       "summary": "ينتقل النظام البيئي للذكاء الاصطناعي في كازاخستان من خطط البنية التحتية إلى النشر. يظهر التحول عبر مجموعة الذكاء الاصطناعي الكاملة — من البنية التحتية إلى النماذج إلى التطبيقات",
       "summaryOriginal": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+      "source": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T02:00:13+00:00"
-    },
-    {
-      "id": "b92ad9c58cc47be91ce2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "ماذا يعني FDE في OpenAI",
-      "titleOriginal": "What FDE means at OpenAI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ماذا تعني الهندسة المنتشرة إلى الأمام في OpenAI",
-      "summaryOriginal": "What forward deployed engineering means at OpenAI",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/forward-deployed-engineering-means",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI What FDE means at OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T06:00:00+00:00"
+      "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future"
     },
     {
       "id": "0729b929825aabfdba0f",
@@ -439,6 +408,27 @@
       "searchAliases": "Mistral AI Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages"
     },
     {
+      "id": "b92ad9c58cc47be91ce2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "ماذا يعني FDE في OpenAI",
+      "titleOriginal": "What FDE means at OpenAI",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ماذا تعني الهندسة المنتشرة إلى الأمام في OpenAI",
+      "summaryOriginal": "What forward deployed engineering means at OpenAI",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/forward-deployed-engineering-means",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI What FDE means at OpenAI"
+    },
+    {
       "id": "e1a988d4be8ccc2d2a2e",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -691,7 +681,7 @@
       "searchAliases": "xAI Introducing the SpaceX Super Intelligence Partner Network"
     },
     {
-      "id": "263d4a919ee55a54671e",
+      "id": "2a42be2b03baa0cd8ca8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -704,20 +694,15 @@
       "summary": "تعرف على كيفية توصيل مصادر البيانات المحلية بأمازون Quick بشكل خاص مع AWS PrivateLink، مما يحافظ على حركة مرور التحليلات خارج الإنترنت العام. يغطي هذا العرض التفصيلي V",
       "summaryOriginal": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T23:38:38+00:00"
+      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink"
     },
     {
-      "id": "3368ffb4aecc1553f190",
+      "id": "65fccf92d47838175e7c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -730,20 +715,14 @@
       "summary": "تبني العديد من الفرق نموذجًا أوليًا للذكاء الاصطناعي متعدد الوكلاء في غضون أيام، لكنها تصطدم بجدار في الإنتاج. يحدد هذا المنشور خمسة تحديات للإنتاج (التنسيق، واختيار نموذج لكل وكيل،",
       "summaryOriginal": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T23:36:47+00:00"
+      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-23T00:10:50.673178+00:00",
-  "lastFastCheckAt": "2026-10-23T04:46:56.915094+00:00"
+  "lastDeepCheckAt": "2026-10-23T04:51:34.274709+00:00"
 }
