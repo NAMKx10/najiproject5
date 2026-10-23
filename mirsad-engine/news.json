@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T10:03:19.545205+00:00",
-  "checkedAt": "2026-10-23T10:03:19.545205+00:00",
+  "updatedAt": "2026-10-23T10:05:14.278069+00:00",
+  "checkedAt": "2026-10-23T10:05:14.278069+00:00",
   "newestPublishedAt": "2026-10-23T02:00:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -104,7 +104,7 @@
       "category": "models",
       "importance": 92,
       "summary": "ينتقل النظام البيئي للذكاء الاصطناعي في كازاخستان من خطط البنية التحتية إلى النشر. يظهر التحول عبر مجموعة الذكاء الاصطناعي الكاملة — من البنية التحتية إلى النماذج إلى التطبيقات",
-      "summaryOriginal": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
+      "summaryOriginal": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
       "sourceLabel": "NVIDIA Blog",
@@ -132,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T00:00:00+00:00"
+      "searchAliases": "OpenAI OpenAI and Poland’s NASK partner to advance AI safety and security"
     },
     {
       "id": "0729b929825aabfdba0f",
@@ -707,7 +702,7 @@
       "searchAliases": "xAI Introducing the SpaceX Super Intelligence Partner Network"
     },
     {
-      "id": "263d4a919ee55a54671e",
+      "id": "2a42be2b03baa0cd8ca8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -720,20 +715,14 @@
       "summary": "تعرف على كيفية توصيل مصادر البيانات المحلية بأمازون Quick بشكل خاص مع AWS PrivateLink، مما يحافظ على حركة مرور التحليلات خارج الإنترنت العام. يغطي هذا العرض التفصيلي V",
       "summaryOriginal": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T23:38:38+00:00"
+      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-23T04:51:34.274709+00:00",
-  "lastFastCheckAt": "2026-10-23T10:03:19.545205+00:00"
+  "lastDeepCheckAt": "2026-10-23T10:05:14.278069+00:00"
 }
