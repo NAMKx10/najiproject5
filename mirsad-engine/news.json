@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T19:12:11.523324+00:00",
-  "checkedAt": "2026-10-23T19:12:11.523324+00:00",
+  "updatedAt": "2026-10-23T19:14:50.101810+00:00",
+  "checkedAt": "2026-10-23T19:14:50.101810+00:00",
   "newestPublishedAt": "2026-10-23T17:48:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "582893ae889da8b4684c",
+      "id": "12839b58c8764ba6e72d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
       "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T17:48:54+00:00"
+      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
     },
     {
       "id": "459df5271e9d2575369f",
@@ -137,15 +132,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T17:00:00+00:00"
+      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
     },
     {
-      "id": "56524419b0b1f4cef9f9",
+      "id": "aaa6fac64df40c089180",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,20 +148,15 @@
       "summary": "يؤدي تحديث نقطة نهاية SageMaker AI التي تم تسجيلها للتحجيم التلقائي للتطبيق إلى فشل عمليات نشر AWS CloudFormation و AWS CDK. يوضح هذا المنشور كيفية بناء ريوساب",
       "summaryOriginal": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:30:10+00:00"
+      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK"
     },
     {
-      "id": "78b44312052320c7500f",
+      "id": "26a6947e63a8dd69f471",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,20 +169,15 @@
       "summary": "تدعم خرائط طبقات Amazon Quick Sight الآن هندسة Point و LineString من نفس سير عمل GeoJSON، حتى تتمكن من رسم مواقع التخزين والطرق بينها. هذا",
       "summaryOriginal": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+      "source": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:24:55+00:00"
+      "searchAliases": "Amazon Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps"
     },
     {
-      "id": "4c24080cacb1b584c85c",
+      "id": "434f1f3277b503480b2e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -210,17 +190,12 @@
       "summary": "قامت شركة باير كروب ساينس ببناء محرك القرار الوكيل (ADE)، وهو عبارة عن منصة متعددة الوكلاء على Amazon Bedrock AgentCore تتيح للمربين والمحللين والباحثين أن يسألوا بشكل طبيعي",
       "summaryOriginal": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:21:36+00:00"
+      "searchAliases": "Amazon How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations"
     },
     {
       "id": "db9277664df9d5299e26",
@@ -241,12 +216,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:15:50+00:00"
+      "searchAliases": "Hugging Face LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
     },
     {
       "id": "a47e3be3da3f19366060",
@@ -480,69 +450,6 @@
       "searchAliases": "Amazon Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI"
     },
     {
-      "id": "dd185dac53064a744a98",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "توقف عن تخمين أهداف التحجيم التلقائي لـ TTS على Amazon SageMaker AI",
-      "titleOriginal": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "غالبًا ما تخمن الفرق التي تنشر نماذج تحويل النص إلى كلام مخصصة على Amazon SageMaker AI عتبات القياس التلقائي، ويؤدي التخمين الخاطئ إما إلى إهدار وحدة معالجة الرسومات أو خرق وقت الاستجابة",
-      "summaryOriginal": "Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two live-endpoint measurements, Q_max and T_total, instead of guesswork.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Stop guessing auto scaling targets for TTS on Amazon SageMaker AI"
-    },
-    {
-      "id": "e154c53e3c85d0b499f5",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف قامت ريسكال ببناء عامل فرز للذكاء الاصطناعي مع وكلاء ستراندز و AI - DLC",
-      "titleOriginal": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "استخدمت إعادة القياس إطار عمل دورة حياة التطوير القائم على الذكاء الاصطناعي (AI - DLC) على AWS، مع وكلاء Strands و Amazon Bedrock، لبناء عامل اختبار ذكي في غضون أسابيع. لو",
-      "summaryOriginal": "Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Rescale built an AI triage agent with Strands Agents and AI-DLC"
-    },
-    {
-      "id": "df2bad29adaab3251e3d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "OlmoEarth v1.3: أحدث التضمينات لكوكب الأرض بأكمله",
-      "titleOriginal": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
-    },
-    {
       "id": "f8da9dad725e82eeae62",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -751,9 +658,71 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Open Models Power a New Wave of European Public Sector Projects"
+    },
+    {
+      "id": "18be8f62b8aaf188d114",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توفر أوبر خدمة ChatGPT Work لجميع الموظفين مع OpenAI",
+      "titleOriginal": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تطرح أوبر ChatGPT Work لأكثر من 30000 موظف، مما يساعد الفرق على البحث وتحليل البيانات وإنشاء العروض التقديمية وإكمال سير العمل المعقد.",
+      "summaryOriginal": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Uber brings ChatGPT Work to all employees with OpenAI"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
+      "id": "3b64d7430b28a15a8a55",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "التبرع بمهارات الوكيل لمؤسسة Agentic AI",
+      "titleOriginal": "Donating Agent Skills to the Agentic AI Foundation",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Donating Agent Skills to the Agentic AI Foundation"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-23T15:05:34.868318+00:00",
-  "lastFastCheckAt": "2026-10-23T19:12:11.523324+00:00"
+  "lastDeepCheckAt": "2026-10-23T19:14:50.101810+00:00"
 }
