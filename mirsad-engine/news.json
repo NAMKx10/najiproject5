@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T05:57:47.242717+00:00",
-  "checkedAt": "2026-10-23T05:57:47.242717+00:00",
+  "updatedAt": "2026-10-23T06:02:51.326324+00:00",
+  "checkedAt": "2026-10-23T06:02:51.326324+00:00",
   "newestPublishedAt": "2026-10-23T02:00:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future"
+    },
+    {
+      "id": "d589aa35f6fd634ec46d",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "OpenAI وشريك NASK البولندي لتعزيز سلامة وأمن الذكاء الاصطناعي",
+      "titleOriginal": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "research",
+      "importance": 86,
+      "summary": "تتعاون OpenAI و NASK البولندية في مجال السلامة والأمن والبحوث التقنية للذكاء الاصطناعي لتعزيز الضمانات ودعم نظام بيئي رقمي أكثر مرونة.",
+      "summaryOriginal": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T00:00:00+00:00"
     },
     {
       "id": "0729b929825aabfdba0f",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-21T23:38:38+00:00"
-    },
-    {
-      "id": "3368ffb4aecc1553f190",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "5 تحديات في الإنتاج في الأنظمة متعددة الوكلاء وكيف حلتها Deep Insight",
-      "titleOriginal": "5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "models",
-      "importance": 92,
-      "summary": "تبني العديد من الفرق نموذجًا أوليًا للذكاء الاصطناعي متعدد الوكلاء في غضون أيام، لكنها تصطدم بجدار في الإنتاج. يحدد هذا المنشور خمسة تحديات للإنتاج (التنسيق، واختيار نموذج لكل وكيل،",
-      "summaryOriginal": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T23:36:47+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-23T04:51:34.274709+00:00",
-  "lastFastCheckAt": "2026-10-23T05:57:47.242717+00:00"
+  "lastFastCheckAt": "2026-10-23T06:02:51.326324+00:00"
 }
