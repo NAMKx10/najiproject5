@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T17:45:38.181832+00:00",
-  "checkedAt": "2026-10-23T17:45:38.181832+00:00",
-  "newestPublishedAt": "2026-10-23T17:00:00+00:00",
+  "updatedAt": "2026-10-23T17:50:43.216291+00:00",
+  "checkedAt": "2026-10-23T17:50:43.216291+00:00",
+  "newestPublishedAt": "2026-10-23T17:48:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "582893ae889da8b4684c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تعلم التعزيز متعدد الدوران على Amazon SageMaker AI: دليل عملي",
+      "titleOriginal": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
+      "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T17:48:54+00:00"
+    },
     {
       "id": "459df5271e9d2575369f",
       "company": "OpenAI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Open Models Power a New Wave of European Public Sector Projects"
-    },
-    {
-      "id": "18be8f62b8aaf188d114",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توفر أوبر خدمة ChatGPT Work لجميع الموظفين مع OpenAI",
-      "titleOriginal": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطرح أوبر ChatGPT Work لأكثر من 30000 موظف، مما يساعد الفرق على البحث وتحليل البيانات وإنشاء العروض التقديمية وإكمال سير العمل المعقد.",
-      "summaryOriginal": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Uber brings ChatGPT Work to all employees with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-23T15:05:34.868318+00:00",
-  "lastFastCheckAt": "2026-10-23T17:45:38.181832+00:00"
+  "lastFastCheckAt": "2026-10-23T17:50:43.216291+00:00"
 }
