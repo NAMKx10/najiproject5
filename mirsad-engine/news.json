@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T10:05:14.278069+00:00",
-  "checkedAt": "2026-10-23T10:05:14.278069+00:00",
+  "updatedAt": "2026-10-23T10:08:23.817824+00:00",
+  "checkedAt": "2026-10-23T10:08:23.817824+00:00",
   "newestPublishedAt": "2026-10-23T02:00:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -702,27 +702,33 @@
       "searchAliases": "xAI Introducing the SpaceX Super Intelligence Partner Network"
     },
     {
-      "id": "2a42be2b03baa0cd8ca8",
+      "id": "3368ffb4aecc1553f190",
       "company": "Amazon",
       "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تأمين الوصول السريع من شبكات الشركات مع AWS PrivateLink",
-      "titleOriginal": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "type": "إطلاق أو تحديث",
+      "title": "5 تحديات في الإنتاج في الأنظمة متعددة الوكلاء وكيف حلتها Deep Insight",
+      "titleOriginal": "5 production challenges in multi-agent systems and how Deep Insight solved them",
       "dateLabel": "21 أكتوبر 2026",
       "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية توصيل مصادر البيانات المحلية بأمازون Quick بشكل خاص مع AWS PrivateLink، مما يحافظ على حركة مرور التحليلات خارج الإنترنت العام. يغطي هذا العرض التفصيلي V",
-      "summaryOriginal": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "category": "models",
+      "importance": 92,
+      "summary": "تبني العديد من الفرق نموذجًا أوليًا للذكاء الاصطناعي متعدد الوكلاء في غضون أيام، لكنها تصطدم بجدار في الإنتاج. يحدد هذا المنشور خمسة تحديات للإنتاج (التنسيق، واختيار نموذج لكل وكيل،",
+      "summaryOriginal": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink"
+      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-21T23:36:47+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-23T10:05:14.278069+00:00"
+  "lastDeepCheckAt": "2026-10-23T10:05:14.278069+00:00",
+  "lastFastCheckAt": "2026-10-23T10:08:23.817824+00:00"
 }
