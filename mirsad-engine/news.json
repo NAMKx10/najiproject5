@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T16:29:43.707158+00:00",
-  "checkedAt": "2026-10-23T16:29:43.707158+00:00",
+  "updatedAt": "2026-10-23T16:34:47.532405+00:00",
+  "checkedAt": "2026-10-23T16:34:47.532405+00:00",
   "newestPublishedAt": "2026-10-23T17:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
+      "id": "56524419b0b1f4cef9f9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تنسيق التحجيم التلقائي لنقطة نهاية SageMaker AI مع AWS CDK",
+      "titleOriginal": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يؤدي تحديث نقطة نهاية SageMaker AI التي تم تسجيلها للتحجيم التلقائي للتطبيق إلى فشل عمليات نشر AWS CloudFormation و AWS CDK. يوضح هذا المنشور كيفية بناء ريوساب",
+      "summaryOriginal": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T16:30:10+00:00"
     },
     {
       "id": "78b44312052320c7500f",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Uber brings ChatGPT Work to all employees with OpenAI"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-23T15:05:34.868318+00:00",
-  "lastFastCheckAt": "2026-10-23T16:29:43.707158+00:00"
+  "lastFastCheckAt": "2026-10-23T16:34:47.532405+00:00"
 }
