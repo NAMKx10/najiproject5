@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-23T00:08:25.996482+00:00",
-  "checkedAt": "2026-10-23T00:08:25.996482+00:00",
+  "updatedAt": "2026-10-23T00:10:50.673178+00:00",
+  "checkedAt": "2026-10-23T00:10:50.673178+00:00",
   "newestPublishedAt": "2026-10-22T22:24:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T22:24:34+00:00"
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
     },
     {
       "id": "6318b8276a4bb44da133",
@@ -392,27 +387,6 @@
       "searchAliases": "Mistral AI Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages"
     },
     {
-      "id": "b92ad9c58cc47be91ce2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "ماذا يعني FDE في OpenAI",
-      "titleOriginal": "What FDE means at OpenAI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ماذا تعني الهندسة المنتشرة إلى الأمام في OpenAI",
-      "summaryOriginal": "What forward deployed engineering means at OpenAI",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/forward-deployed-engineering-means",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI What FDE means at OpenAI"
-    },
-    {
       "id": "e1a988d4be8ccc2d2a2e",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -560,6 +534,27 @@
       "searchAliases": "OpenAI Uber brings ChatGPT Work to all employees with OpenAI"
     },
     {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
       "id": "3b64d7430b28a15a8a55",
       "company": "Anthropic",
       "logoText": "A",
@@ -602,6 +597,27 @@
       "searchAliases": "Anthropic Product"
     },
     {
+      "id": "030c30224f7d3535f78c",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "دعوة مفتوحة للباحثين الضيوف في علوم الحياة",
+      "titleOriginal": "Open call for guest investigators in the life sciences",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "research",
+      "importance": 86,
+      "summary": "اليوم، ندعو أعضاء مجتمع علوم الحياة للتقدم للعمل معنا في مشاريع خاصة.",
+      "summaryOriginal": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Open call for guest investigators in the life sciences"
+    },
+    {
       "id": "f6cb14ad887d36e5e2f8",
       "company": "xAI",
       "logoText": "xAI",
@@ -623,7 +639,7 @@
       "searchAliases": "xAI Introducing the SpaceX Super Intelligence Partner Network"
     },
     {
-      "id": "263d4a919ee55a54671e",
+      "id": "2a42be2b03baa0cd8ca8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -636,20 +652,15 @@
       "summary": "تعرف على كيفية توصيل مصادر البيانات المحلية بأمازون Quick بشكل خاص مع AWS PrivateLink، مما يحافظ على حركة مرور التحليلات خارج الإنترنت العام. يغطي هذا العرض التفصيلي V",
       "summaryOriginal": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-only access for compliance.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink",
+      "source": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T23:38:38+00:00"
+      "searchAliases": "Amazon Securing Quick access from corporate networks with AWS PrivateLink"
     },
     {
-      "id": "3368ffb4aecc1553f190",
+      "id": "65fccf92d47838175e7c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -662,17 +673,12 @@
       "summary": "تبني العديد من الفرق نموذجًا أوليًا للذكاء الاصطناعي متعدد الوكلاء في غضون أيام، لكنها تصطدم بجدار في الإنتاج. يحدد هذا المنشور خمسة تحديات للإنتاج (التنسيق، واختيار نموذج لكل وكيل،",
       "summaryOriginal": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them",
+      "source": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T23:36:47+00:00"
+      "searchAliases": "Amazon 5 production challenges in multi-agent systems and how Deep Insight solved them"
     },
     {
       "id": "c0355709093c56581818",
@@ -693,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Broad access through consistent standards",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T21:00:00+00:00"
+      "searchAliases": "OpenAI Broad access through consistent standards"
     },
     {
       "id": "cd481da0851fdb08dc64",
@@ -719,41 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T18:26:30+00:00"
-    },
-    {
-      "id": "e85eba07371d4e195d1e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "كيف يمكن لتخصص مفردات الإدارة المستدامة للأراضي أن يقلل من تكلفة الاستدلال بنسبة 77 ٪ في التطبيقات الحقيقية",
-      "titleOriginal": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "dateLabel": "21 أكتوبر 2026",
-      "dateISO": "2026-10-21",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-21T17:35:36+00:00"
+      "searchAliases": "Hugging Face NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-22T21:37:12.298132+00:00",
-  "lastFastCheckAt": "2026-10-23T00:08:25.996482+00:00"
+  "lastDeepCheckAt": "2026-10-23T00:10:50.673178+00:00"
 }
