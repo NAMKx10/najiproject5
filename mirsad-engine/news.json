@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T18:19:28.880919+00:00",
-  "checkedAt": "2026-10-26T18:19:28.880919+00:00",
+  "updatedAt": "2026-10-26T18:24:35.218339+00:00",
+  "checkedAt": "2026-10-26T18:24:35.218339+00:00",
   "newestPublishedAt": "2026-10-26T17:56:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -475,6 +475,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "6318b8276a4bb44da133",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "أنشئ تطبيقات أكثر استجابة باستخدام واجهة برمجة تطبيقات القرارات",
+      "titleOriginal": "Build more responsive apps with the Decisions API",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قرارات سريعة ومركزة ومنخفضة التكلفة لأي تطبيق.",
+      "summaryOriginal": "Fast, focused, low-cost decisions for any application.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/decisions-api",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Build more responsive apps with the Decisions API",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T19:00:00+00:00"
+    },
+    {
       "id": "c289dd4ff43b390f0572",
       "company": "Amazon",
       "logoText": "AWS",
@@ -785,30 +811,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T05:00:02+00:00"
-    },
-    {
-      "id": "0729b929825aabfdba0f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تحويل تصنيف قاعدة البيانات إلى مكافآت RL: وكلاء ما بعد التدريب مع ThinkingBox",
-      "titleOriginal": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T18:19:28.880919+00:00"
+  "lastFastCheckAt": "2026-10-26T18:24:35.218339+00:00"
 }
