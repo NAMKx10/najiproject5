@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T19:10:12.955474+00:00",
-  "checkedAt": "2026-10-26T19:10:12.955474+00:00",
+  "updatedAt": "2026-10-26T19:15:14.630856+00:00",
+  "checkedAt": "2026-10-26T19:15:14.630856+00:00",
   "newestPublishedAt": "2026-10-26T18:37:30.189000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -249,6 +249,32 @@
       "publishedAt": "2026-10-26T07:00:00+00:00"
     },
     {
+      "id": "a1c365469fdea55e52bc",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "كيف يتم التحقيق في الحوادث بسرعة فائقة من ساعات إلى دقائق في OpenAI",
+      "titleOriginal": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "policy",
+      "importance": 88,
+      "summary": "شاهد كيف يستخدم مهندسو OpenAI Codex Ultrafast للتحقيق في الحوادث في دقائق. استكشف تحليل الأمان الأسرع، وإعادة هيكلة التعليمات البرمجية، وسير العمل اليومي.",
+      "summaryOriginal": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/openai-cut-incident-investigation",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T07:00:00+00:00"
+    },
+    {
       "id": "b628f90659f5543457bd",
       "company": "Anthropic",
       "logoText": "A",
@@ -289,6 +315,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
+    },
+    {
+      "id": "fb87a4d01d0caa5c81a2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم GPT-6.1 Terra",
+      "titleOriginal": "Introducing GPT-6.1 Terra",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "توفير استخدام سريع وقادر للكمبيوتر للجميع",
+      "summaryOriginal": "Bringing fast and capable computer use to everyone",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing GPT-6.1 Terra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T00:00:00+00:00"
     },
     {
       "id": "12839b58c8764ba6e72d",
@@ -759,61 +811,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T05:00:27+00:00"
-    },
-    {
-      "id": "2f3559d5ed33000d8b4b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "كيف تستخدم الشركات NVIDIA DSX لكسر عنق الزجاجة",
-      "titleOriginal": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتمد الشركات في جميع أنحاء العالم على منصة مصنع NVIDIA DSX AI لتخطيط ومحاكاة وتشغيل الشبكة ومصنع الذكاء الاصطناعي كنظام واحد، من المحطة الفرعية إلى",
-      "summaryOriginal": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-power",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T05:00:25+00:00"
-    },
-    {
-      "id": "b69db2eb25de3b478507",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تحول تجارة التجزئة الأوروبية، من الاكتشاف الرقمي إلى العمليات المادية",
-      "titleOriginal": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم تجار التجزئة الأوروبيون النماذج المفتوحة والذكاء المادي عبر حالات الاستخدام — من منصة التجارة التي تخفض تكاليف الاستدلال بنسبة 90 ٪ إلى مركز التنفيذ",
-      "summaryOriginal": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T05:00:23+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T19:10:12.955474+00:00"
+  "lastFastCheckAt": "2026-10-26T19:15:14.630856+00:00"
 }
