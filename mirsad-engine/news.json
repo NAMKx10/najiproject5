@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T18:24:35.218339+00:00",
-  "checkedAt": "2026-10-26T18:24:35.218339+00:00",
+  "updatedAt": "2026-10-26T18:29:41.003025+00:00",
+  "checkedAt": "2026-10-26T18:29:41.003025+00:00",
   "newestPublishedAt": "2026-10-26T17:56:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -475,6 +475,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "0729b929825aabfdba0f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تحويل تصنيف قاعدة البيانات إلى مكافآت RL: وكلاء ما بعد التدريب مع ThinkingBox",
+      "titleOriginal": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T22:24:34+00:00"
+    },
+    {
       "id": "6318b8276a4bb44da133",
       "company": "OpenAI",
       "logoText": "AI",
@@ -785,35 +811,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T05:00:19+00:00"
-    },
-    {
-      "id": "0eafa005a08cd0fbac76",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تعمل نماذج NVIDIA Open على تشغيل موجة جديدة من مشاريع القطاع العام الأوروبي",
-      "titleOriginal": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحتاج الحكومات إلى حلول حديثة لخدمة الجمهور مع إبقاء المعلومات الحساسة تحت سيطرتها. توفر النماذج المفتوحة طريقًا للمضي قدمًا، مما يتيح للحكومات",
-      "summaryOriginal": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/european-public-sector-open-models",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T05:00:02+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T18:24:35.218339+00:00"
+  "lastFastCheckAt": "2026-10-26T18:29:41.003025+00:00"
 }
