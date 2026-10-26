@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T14:51:17.373480+00:00",
-  "checkedAt": "2026-10-26T14:51:17.373480+00:00",
+  "updatedAt": "2026-10-26T14:56:24.573199+00:00",
+  "checkedAt": "2026-10-26T14:56:24.573199+00:00",
   "newestPublishedAt": "2026-10-26T07:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -371,6 +371,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "b92ad9c58cc47be91ce2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "ماذا يعني FDE في OpenAI",
+      "titleOriginal": "What FDE means at OpenAI",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ماذا تعني الهندسة المنتشرة إلى الأمام في OpenAI",
+      "summaryOriginal": "What forward deployed engineering means at OpenAI",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/forward-deployed-engineering-means",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI What FDE means at OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T06:00:00+00:00"
+    },
+    {
       "id": "cc421c202d01f81479cb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models"
-    },
-    {
-      "id": "66e1e25eccf82f8c71a5",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "Voxtral 3: الوكيل الصوتي SDK ونماذج الكلام بأكثر من 50 لغة",
-      "titleOriginal": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "Voxtral 3: حزمة SDK الخاصة بعامل الصوت في Mistral للكلام في الوقت الفعلي بأكثر من 50 لغة، ونسخ دقيق، و TTS عاطفي، واستخدام عميق للأداة.",
-      "summaryOriginal": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages, accurate transcription, emotional TTS, deep tool use.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/voxtral-3/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T14:51:17.373480+00:00"
+  "lastFastCheckAt": "2026-10-26T14:56:24.573199+00:00"
 }
