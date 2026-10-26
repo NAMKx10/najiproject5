@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T18:14:23.241394+00:00",
-  "checkedAt": "2026-10-26T18:14:23.241394+00:00",
+  "updatedAt": "2026-10-26T18:19:28.880919+00:00",
+  "checkedAt": "2026-10-26T18:19:28.880919+00:00",
   "newestPublishedAt": "2026-10-26T17:56:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -475,6 +475,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "c289dd4ff43b390f0572",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تقدم أمازون بولي ترقية رئيسية لمحركها التوليدي",
+      "titleOriginal": "Amazon Polly delivers a major upgrade to its Generative engine",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يحصل محرك Amazon Polly Generative على ترقية رئيسية: خطاب أكثر تعبيرًا وأكثر دقة مع زمن انتقال منخفض، بالإضافة إلى 14 صوتًا جديدًا عبر 9 لغات وتوافر عام",
+      "summaryOriginal": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon Polly delivers a major upgrade to its Generative engine",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T18:06:35+00:00"
+    },
+    {
       "id": "486fbaf33402107958db",
       "company": "Amazon",
       "logoText": "AWS",
@@ -780,30 +806,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
-    },
-    {
-      "id": "6318b8276a4bb44da133",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "أنشئ تطبيقات أكثر استجابة باستخدام واجهة برمجة تطبيقات القرارات",
-      "titleOriginal": "Build more responsive apps with the Decisions API",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قرارات سريعة ومركزة ومنخفضة التكلفة لأي تطبيق.",
-      "summaryOriginal": "Fast, focused, low-cost decisions for any application.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/decisions-api",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Build more responsive apps with the Decisions API"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T18:14:23.241394+00:00"
+  "lastFastCheckAt": "2026-10-26T18:19:28.880919+00:00"
 }
