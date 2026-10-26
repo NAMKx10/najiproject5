@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T15:32:03.095486+00:00",
-  "checkedAt": "2026-10-26T15:32:03.095486+00:00",
+  "updatedAt": "2026-10-26T15:37:05.444010+00:00",
+  "checkedAt": "2026-10-26T15:37:05.444010+00:00",
   "newestPublishedAt": "2026-10-26T07:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -17,7 +17,7 @@
       "company": "Microsoft",
       "kind": "feed-fast",
       "ok": true,
-      "items": 9,
+      "items": 8,
       "error": null
     },
     {
@@ -765,5 +765,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T15:32:03.095486+00:00"
+  "lastFastCheckAt": "2026-10-26T15:37:05.444010+00:00"
 }
