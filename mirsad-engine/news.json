@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T18:04:26.379825+00:00",
-  "checkedAt": "2026-10-26T18:04:26.379825+00:00",
+  "updatedAt": "2026-10-26T18:09:19.383342+00:00",
+  "checkedAt": "2026-10-26T18:09:19.383342+00:00",
   "newestPublishedAt": "2026-10-26T17:56:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -475,6 +475,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "1d3c5903805fd2e20484",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الإعلان عن طرق جديدة لتخصيص الطرز باستخدام SageMaker AI، دون إدارة وحدات معالجة الرسومات",
+      "titleOriginal": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتضمن تخصيص نموذج Amazon SageMaker AI بدون خادم الآن جلسات تدريبية، متاحة بشكل عام اليوم. تكتب وتنسق حلقة ما بعد التدريب الخاصة بك (مخصص",
+      "summaryOriginal": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T18:00:04+00:00"
+    },
+    {
       "id": "8b26813c96213450d38f",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Amazon Polly delivers a major upgrade to its Generative engine"
-    },
-    {
-      "id": "61afcdf5b82e00befc12",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف وحدت IskayPet المعرفة المؤسسية مع قواعد المعرفة المدارة من Amazon Bedrock",
-      "titleOriginal": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرف على كيفية قيام IskayPet، وهي شركة رائدة في مجال رعاية الحيوانات الأليفة في أيبيريا، ببناء مساعد معرفة مؤسسي متعدد اللغات على قواعد المعرفة المدارة من Amazon Bedrock. يجيب المساعد",
-      "summaryOriginal": "Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T18:04:26.379825+00:00"
+  "lastFastCheckAt": "2026-10-26T18:09:19.383342+00:00"
 }
