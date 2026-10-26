@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T14:31:26.291206+00:00",
-  "checkedAt": "2026-10-26T14:31:26.291206+00:00",
+  "updatedAt": "2026-10-26T14:36:06.901643+00:00",
+  "checkedAt": "2026-10-26T14:36:06.901643+00:00",
   "newestPublishedAt": "2026-10-26T07:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -371,6 +371,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "b69db2eb25de3b478507",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA تحول تجارة التجزئة الأوروبية، من الاكتشاف الرقمي إلى العمليات المادية",
+      "titleOriginal": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "يستخدم تجار التجزئة الأوروبيون النماذج المفتوحة والذكاء المادي عبر حالات الاستخدام — من منصة التجارة التي تخفض تكاليف الاستدلال بنسبة 90 ٪ إلى مركز التنفيذ",
+      "summaryOriginal": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T05:00:23+00:00"
+    },
+    {
       "id": "f78565bc142491827477",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models"
-    },
-    {
-      "id": "1fcb73dd02e3414c55ce",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "كيف تستخدم الشركات NVIDIA DSX لكسر عنق الزجاجة",
-      "titleOriginal": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتمد الشركات في جميع أنحاء العالم على منصة مصنع NVIDIA DSX AI لتخطيط ومحاكاة وتشغيل الشبكة ومصنع الذكاء الاصطناعي كنظام واحد، من المحطة الفرعية إلى",
-      "summaryOriginal": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-power/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How Companies Are Using NVIDIA DSX to Break the Power Bottleneck"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T14:31:26.291206+00:00"
+  "lastFastCheckAt": "2026-10-26T14:36:06.901643+00:00"
 }
