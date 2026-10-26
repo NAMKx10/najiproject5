@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T14:15:54.063642+00:00",
-  "checkedAt": "2026-10-26T14:15:54.063642+00:00",
-  "newestPublishedAt": "2026-10-23T17:48:54+00:00",
+  "updatedAt": "2026-10-26T14:16:50.082194+00:00",
+  "checkedAt": "2026-10-26T14:16:50.082194+00:00",
+  "newestPublishedAt": "2026-10-26T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 9,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 2,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -92,6 +92,48 @@
     }
   ],
   "items": [
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
+      "id": "5d3a66be032d714022e1",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "ملفات أنثروبي S -1 مع لجنة الأوراق المالية والبورصات للاكتتاب العام الأولي المقترح",
+      "titleOriginal": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/s1-sec",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
+    },
     {
       "id": "12839b58c8764ba6e72d",
       "company": "Amazon",
@@ -679,51 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Open Models Power a New Wave of European Public Sector Projects"
-    },
-    {
-      "id": "18be8f62b8aaf188d114",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توفر أوبر خدمة ChatGPT Work لجميع الموظفين مع OpenAI",
-      "titleOriginal": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطرح أوبر ChatGPT Work لأكثر من 30000 موظف، مما يساعد الفرق على البحث وتحليل البيانات وإنشاء العروض التقديمية وإكمال سير العمل المعقد.",
-      "summaryOriginal": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Uber brings ChatGPT Work to all employees with OpenAI"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-26T07:00:31.052390+00:00",
-  "lastFastCheckAt": "2026-10-26T14:15:54.063642+00:00"
+  "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00"
 }
