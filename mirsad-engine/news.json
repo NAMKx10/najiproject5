@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T17:59:03.949399+00:00",
-  "checkedAt": "2026-10-26T17:59:03.949399+00:00",
+  "updatedAt": "2026-10-26T18:04:26.379825+00:00",
+  "checkedAt": "2026-10-26T18:04:26.379825+00:00",
   "newestPublishedAt": "2026-10-26T17:56:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -169,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T17:15:14+00:00"
+    },
+    {
+      "id": "742d98e20a473cf3682f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "عالم عمل ChatGPT الآخذ في التوسع",
+      "titleOriginal": "ChatGPT’s expanding world of work",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف بيانات OpenAI Signals حول 165 نشاط عمل في ما يقرب من 100 دولة، وكشف عن كيفية استخدام الأشخاص لـ ChatGPT في العمل وكيف يتغير الاستخدام بمرور الوقت.",
+      "summaryOriginal": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI ChatGPT’s expanding world of work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T10:00:00+00:00"
     },
     {
       "id": "4c24fcaa39e62ae61b7f",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases"
-    },
-    {
-      "id": "4acccf55f0b5dff83935",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الإعلان عن طرق جديدة لتخصيص الطرز باستخدام SageMaker AI، دون إدارة وحدات معالجة الرسومات",
-      "titleOriginal": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتضمن تخصيص نموذج Amazon SageMaker AI بدون خادم الآن جلسات تدريبية، متاحة بشكل عام اليوم. تكتب وتنسق حلقة ما بعد التدريب الخاصة بك (مخصص",
-      "summaryOriginal": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Announcing new ways to customize models with SageMaker AI, without managing GPUs"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T17:59:03.949399+00:00"
+  "lastFastCheckAt": "2026-10-26T18:04:26.379825+00:00"
 }
