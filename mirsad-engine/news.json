@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T17:18:37.129783+00:00",
-  "checkedAt": "2026-10-26T17:18:37.129783+00:00",
+  "updatedAt": "2026-10-26T17:24:00.860758+00:00",
+  "checkedAt": "2026-10-26T17:24:00.860758+00:00",
   "newestPublishedAt": "2026-10-26T17:15:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -397,6 +397,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "3aea528be83e323baf7d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تنبؤات المجموعة مع نماذج السلاسل الزمنية IBM Granite",
+      "titleOriginal": "Ensemble forecasting with IBM Granite time-series models",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T07:51:31+00:00"
+    },
+    {
       "id": "b92ad9c58cc47be91ce2",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI"
-    },
-    {
-      "id": "f8da9dad725e82eeae62",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تكشف النقاب عن Minerva لتحقيق إمكانية الملاحظة الشاملة لمصانع الذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "تم إطلاق NVIDIA Minerva اليوم، وهي عبارة عن منصة AIOps تم تصميمها لمساعدة الفرق على العثور على المشكلات في وقت مبكر والحفاظ على إنتاجية مصانع الذكاء الاصطناعي. يجمع بين القياس عن بعد من البنية التحتية",
-      "summaryOriginal": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T17:18:37.129783+00:00"
+  "lastFastCheckAt": "2026-10-26T17:24:00.860758+00:00"
 }
