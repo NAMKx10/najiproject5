@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T22:35:39.161636+00:00",
-  "checkedAt": "2026-10-26T22:35:39.161636+00:00",
-  "newestPublishedAt": "2026-10-26T18:37:30.189000+00:00",
+  "updatedAt": "2026-10-26T22:40:42.479860+00:00",
+  "checkedAt": "2026-10-26T22:40:42.479860+00:00",
+  "newestPublishedAt": "2026-10-26T22:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f573134b563f8cd32807",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يأخذ Greptile اكتشاف الأخطاء إلى ما هو أبعد من مراجعة التعليمات البرمجية مع GPT -6 Astra",
+      "titleOriginal": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "كيف يستخدم Greptile GPT -6 Astra لاختبار سير عمل المستخدم، و Daybreak لتعزيز الأمن، و Codex لتقليل إعادة العمل.",
+      "summaryOriginal": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/greptile-code-review-codex-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T22:00:00+00:00"
+    },
     {
       "id": "d2e8fd10eab3b12a4522",
       "company": "OpenAI",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T07:51:31+00:00"
-    },
-    {
-      "id": "b92ad9c58cc47be91ce2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "ماذا يعني FDE في OpenAI",
-      "titleOriginal": "What FDE means at OpenAI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ماذا تعني الهندسة المنتشرة إلى الأمام في OpenAI",
-      "summaryOriginal": "What forward deployed engineering means at OpenAI",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/forward-deployed-engineering-means",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI What FDE means at OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T06:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T19:59:16.775832+00:00",
-  "lastFastCheckAt": "2026-10-26T22:35:39.161636+00:00"
+  "lastFastCheckAt": "2026-10-26T22:40:42.479860+00:00"
 }
