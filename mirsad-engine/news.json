@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T17:13:31.452449+00:00",
-  "checkedAt": "2026-10-26T17:13:31.452449+00:00",
-  "newestPublishedAt": "2026-10-26T07:00:00+00:00",
+  "updatedAt": "2026-10-26T17:18:37.129783+00:00",
+  "checkedAt": "2026-10-26T17:18:37.129783+00:00",
+  "newestPublishedAt": "2026-10-26T17:15:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "52ed37fbeab1041a82b8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "بناء استرجاع الوكلاء على قاعدة معارف صخور الأمازون المدارة مع CDK",
+      "titleOriginal": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "business",
+      "importance": 82,
+      "summary": "بناء استرجاع وكيل المؤسسة على قاعدة معارف الأمازون المدارة مع AWS CDK: وكيل يمر عبر قاعدتين معرفيتين، ويسترد عبر العصر",
+      "summaryOriginal": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T17:15:14+00:00"
+    },
     {
       "id": "4c24fcaa39e62ae61b7f",
       "company": "OpenAI",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories"
-    },
-    {
-      "id": "3aea528be83e323baf7d",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تنبؤات المجموعة مع نماذج السلاسل الزمنية IBM Granite",
-      "titleOriginal": "Ensemble forecasting with IBM Granite time-series models",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T17:13:31.452449+00:00"
+  "lastFastCheckAt": "2026-10-26T17:18:37.129783+00:00"
 }
