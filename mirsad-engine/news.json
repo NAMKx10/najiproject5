@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T20:10:59.407733+00:00",
-  "checkedAt": "2026-10-26T20:10:59.407733+00:00",
+  "updatedAt": "2026-10-26T20:16:05.951112+00:00",
+  "checkedAt": "2026-10-26T20:16:05.951112+00:00",
   "newestPublishedAt": "2026-10-26T18:37:30.189000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -513,6 +513,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "0729b929825aabfdba0f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تحويل تصنيف قاعدة البيانات إلى مكافآت RL: وكلاء ما بعد التدريب مع ThinkingBox",
+      "titleOriginal": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T22:24:34+00:00"
+    },
+    {
       "id": "6318b8276a4bb44da133",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T05:00:27+00:00"
-    },
-    {
-      "id": "2f3559d5ed33000d8b4b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "كيف تستخدم الشركات NVIDIA DSX لكسر عنق الزجاجة",
-      "titleOriginal": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعتمد الشركات في جميع أنحاء العالم على منصة مصنع NVIDIA DSX AI لتخطيط ومحاكاة وتشغيل الشبكة ومصنع الذكاء الاصطناعي كنظام واحد، من المحطة الفرعية إلى",
-      "summaryOriginal": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/dsx-power",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T05:00:25+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T19:59:16.775832+00:00",
-  "lastFastCheckAt": "2026-10-26T20:10:59.407733+00:00"
+  "lastFastCheckAt": "2026-10-26T20:16:05.951112+00:00"
 }
