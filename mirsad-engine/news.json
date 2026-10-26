@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T14:26:01.604308+00:00",
-  "checkedAt": "2026-10-26T14:26:01.604308+00:00",
+  "updatedAt": "2026-10-26T14:31:26.291206+00:00",
+  "checkedAt": "2026-10-26T14:31:26.291206+00:00",
   "newestPublishedAt": "2026-10-26T07:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -371,6 +371,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "f78565bc142491827477",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "ينشر الرواد في جميع أنحاء أوروبا نماذج NVIDIA Earth -2 المفتوحة لتشغيل التنبؤ بالطقس والمناخ في العالم الحقيقي",
+      "titleOriginal": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتشكل توقعات الطقس أكثر من الخطط اليومية ؛ تعد معلومات الطقس في الوقت المناسب أمرًا بالغ الأهمية لمنتجي الطاقة وشركات التأمين ومشغلي النقل للتخطيط لتغيير الشروط",
+      "summaryOriginal": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T05:00:19+00:00"
+    },
+    {
       "id": "0eafa005a08cd0fbac76",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How Companies Are Using NVIDIA DSX to Break the Power Bottleneck"
-    },
-    {
-      "id": "5d99024c64abdf8932a2",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تحول تجارة التجزئة الأوروبية، من الاكتشاف الرقمي إلى العمليات المادية",
-      "titleOriginal": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم تجار التجزئة الأوروبيون النماذج المفتوحة والذكاء المادي عبر حالات الاستخدام — من منصة التجارة التي تخفض تكاليف الاستدلال بنسبة 90 ٪ إلى مركز التنفيذ",
-      "summaryOriginal": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T14:26:01.604308+00:00"
+  "lastFastCheckAt": "2026-10-26T14:31:26.291206+00:00"
 }
