@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T17:53:59.442729+00:00",
-  "checkedAt": "2026-10-26T17:53:59.442729+00:00",
-  "newestPublishedAt": "2026-10-26T17:27:20+00:00",
+  "updatedAt": "2026-10-26T17:59:03.949399+00:00",
+  "checkedAt": "2026-10-26T17:59:03.949399+00:00",
+  "newestPublishedAt": "2026-10-26T17:56:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "54f5170bd163deb02ab3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "دورة حياة رؤية الكمبيوتر على مستوى الأسطول على الحافة مع SageMaker SDK v3",
+      "titleOriginal": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحتاج رؤية الكمبيوتر على مستوى الأسطول إلى نموذج لكل كاميرا، وليس نموذجًا واحدًا للأسطول بأكمله. يقدم هذا المنشور بنية مرجعية لـ Amazon SageMaker SDK v3 تعمل",
+      "summaryOriginal": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T17:56:58+00:00"
+    },
     {
       "id": "6605f9c46a758d08206f",
       "company": "Amazon",
@@ -760,30 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Announcing new ways to customize models with SageMaker AI, without managing GPUs"
-    },
-    {
-      "id": "817a9a725841395841da",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "اكتب حلقة التدريب الخاصة بك — دون إدارة وحدات معالجة الرسومات — مع واجهات برمجة تطبيقات جلسة تدريب Amazon SageMaker",
-      "titleOriginal": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتيح لك واجهات برمجة تطبيقات جلسة تدريب Amazon SageMaker AI كتابة حلقة تدريب LLM الخاصة بك (SFT أو RL أو أهداف مخصصة) في نص Python أثناء تشغيل الخدمة لوحدات معالجة الرسومات. هذا",
-      "summaryOriginal": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a reinforcement learning workload on competitive programming.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T17:53:59.442729+00:00"
+  "lastFastCheckAt": "2026-10-26T17:59:03.949399+00:00"
 }
