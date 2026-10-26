@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T17:24:00.860758+00:00",
-  "checkedAt": "2026-10-26T17:24:00.860758+00:00",
-  "newestPublishedAt": "2026-10-26T17:15:14+00:00",
+  "updatedAt": "2026-10-26T17:28:43.783466+00:00",
+  "checkedAt": "2026-10-26T17:28:43.783466+00:00",
+  "newestPublishedAt": "2026-10-26T17:27:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6605f9c46a758d08206f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "يوم جرذ الأرض لوكلاء الذكاء الاصطناعي: أنماط التخزين المؤقت الفوري لاستخدام نماذج OpenAI على Amazon Bedrock",
+      "titleOriginal": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "في كل مرة يتخذ فيها الوكيل خطوة، فإنه يعيد قراءة سياقه بالكامل قبل التصرف. إليك كيف يتيح التخزين المؤقت الفوري لنماذج OpenAI على Amazon Bedrock لوكيلك أن يتذكر، ج",
+      "summaryOriginal": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T17:27:20+00:00"
+    },
     {
       "id": "52ed37fbeab1041a82b8",
       "company": "Amazon",
@@ -395,6 +421,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
+    },
+    {
+      "id": "8b26813c96213450d38f",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA تكشف النقاب عن Minerva لتحقيق إمكانية الملاحظة الشاملة لمصانع الذكاء الاصطناعي",
+      "titleOriginal": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "تم إطلاق NVIDIA Minerva اليوم، وهي عبارة عن منصة AIOps تم تصميمها لمساعدة الفرق على العثور على المشكلات في وقت مبكر والحفاظ على إنتاجية مصانع الذكاء الاصطناعي. يجمع بين القياس عن بعد من البنية التحتية",
+      "summaryOriginal": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T15:00:02+00:00"
     },
     {
       "id": "3aea528be83e323baf7d",
@@ -729,51 +781,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs"
-    },
-    {
-      "id": "c49daf56be71c5a821ff",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "نشر الذكاء الاصطناعي في بيئة مؤهلة لـ HIPAA مع Amazon Quick",
-      "titleOriginal": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أمازون كويك هي خدمة مؤهلة لقانون إخضاع التأمين الصحي لقابلية النقل والمحاسبة (HIPAA)، ولكن الأهلية ليست هي نفسها الامتثال. يشرح هذا المنشور على من ينطبق قانون إخضاع التأمين الصحي لقابلية النقل والمحاسبة (HIPAA)، وكيف تتدفق المعلومات الصحية المحمية (PHI) عبر أمازون كويك،",
-      "summaryOriginal": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare environment.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Deploy AI in a HIPAA-eligible environment with Amazon Quick"
-    },
-    {
-      "id": "e25588343a88d1acf3ed",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "بث خطاب منخفض الكمون من وكلاء الذكاء الاصطناعي باستخدام Kokoro TTS على Amazon SageMaker AI",
-      "titleOriginal": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "غالبًا ما ينتظر الوكلاء الصوتيون استجابة الوكيل الكاملة قبل البدء في تركيب الكلام، مما يزيد من شعور المستخدمين بوقت الاستجابة بشكل مباشر. يوضح هذا المنشور كيفية بث كل جملة إلى",
-      "summaryOriginal": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser over Server-Sent Events or a unified binary transport.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T17:24:00.860758+00:00"
+  "lastFastCheckAt": "2026-10-26T17:28:43.783466+00:00"
 }
