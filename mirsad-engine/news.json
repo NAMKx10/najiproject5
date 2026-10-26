@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-26T14:46:13.132700+00:00",
-  "checkedAt": "2026-10-26T14:46:13.132700+00:00",
+  "updatedAt": "2026-10-26T14:51:17.373480+00:00",
+  "checkedAt": "2026-10-26T14:51:17.373480+00:00",
   "newestPublishedAt": "2026-10-26T07:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -371,6 +371,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "cc421c202d01f81479cb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تتبنى منظمات الخدمات المالية الأوروبية الرائدة نماذج مفتوحة لبناء ذكاء الملكية",
+      "titleOriginal": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "في GTC Berlin، تُظهر البنوك وشركات الدفع ومقدمو البيانات المالية كيف تبدو المعلومات الاستخبارية على نطاق الإنتاج — المبنية على حوسبة NVIDIA المتسارعة،",
+      "summaryOriginal": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T05:00:56+00:00"
+    },
+    {
       "id": "4cccc38eb090ae75be48",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages"
-    },
-    {
-      "id": "b92ad9c58cc47be91ce2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "ماذا يعني FDE في OpenAI",
-      "titleOriginal": "What FDE means at OpenAI",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ماذا تعني الهندسة المنتشرة إلى الأمام في OpenAI",
-      "summaryOriginal": "What forward deployed engineering means at OpenAI",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/forward-deployed-engineering-means",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI What FDE means at OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-26T14:16:50.082194+00:00",
-  "lastFastCheckAt": "2026-10-26T14:46:13.132700+00:00"
+  "lastFastCheckAt": "2026-10-26T14:51:17.373480+00:00"
 }
