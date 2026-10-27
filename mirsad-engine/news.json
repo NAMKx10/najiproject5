@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T18:01:55.874770+00:00",
-  "checkedAt": "2026-10-27T18:01:55.874770+00:00",
-  "newestPublishedAt": "2026-10-27T17:16:52+00:00",
+  "updatedAt": "2026-10-27T18:07:02.478953+00:00",
+  "checkedAt": "2026-10-27T18:07:02.478953+00:00",
+  "newestPublishedAt": "2026-10-27T18:03:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a75e9217787aff3b5c96",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "عينت AWS قائدًا في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة",
+      "titleOriginal": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "business",
+      "importance": 82,
+      "summary": "تم تسمية AWS كقائد في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة (CCaaS) لعملاء AWS Connect. يمثل هذا التقدير ميلًا مهمًا",
+      "summaryOriginal": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T18:03:12+00:00"
+    },
     {
       "id": "b22251121bede6db1957",
       "company": "Hugging Face",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-23T16:21:36+00:00"
-    },
-    {
-      "id": "a600241ceec23053452c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تأمين بيئتنا التدريبية لنموذج الحدود",
-      "titleOriginal": "Securing our frontier model training environment",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشرح OpenAI كيف عززنا الاحتواء للتدريب والتقييم لنموذج الحدود، بما في ذلك البيئات غير المتصلة بالإنترنت والفرق الحمراء عالية الحوسبة.",
-      "summaryOriginal": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Securing our frontier model training environment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T10:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T18:01:55.874770+00:00"
+  "lastFastCheckAt": "2026-10-27T18:07:02.478953+00:00"
 }
