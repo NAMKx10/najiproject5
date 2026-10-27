@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T17:41:34.397534+00:00",
-  "checkedAt": "2026-10-27T17:41:34.397534+00:00",
+  "updatedAt": "2026-10-27T17:46:44.511735+00:00",
+  "checkedAt": "2026-10-27T17:46:44.511735+00:00",
   "newestPublishedAt": "2026-10-27T17:16:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -627,6 +627,32 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
+      "id": "582893ae889da8b4684c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تعلم التعزيز متعدد الدوران على Amazon SageMaker AI: دليل عملي",
+      "titleOriginal": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
+      "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T17:48:54+00:00"
+    },
+    {
       "id": "459df5271e9d2575369f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-23T10:00:00+00:00"
-    },
-    {
-      "id": "1a63adea827789b4522c",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "كازاخستان توسع الحوسبة لمستقبل الذكاء الاصطناعي",
-      "titleOriginal": "Kazakhstan Expands Compute for Its AI Future",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "ينتقل النظام البيئي للذكاء الاصطناعي في كازاخستان من خطط البنية التحتية إلى النشر. يظهر التحول عبر مجموعة الذكاء الاصطناعي الكاملة — من البنية التحتية إلى النماذج إلى التطبيقات",
-      "summaryOriginal": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T02:00:13+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T17:41:34.397534+00:00"
+  "lastFastCheckAt": "2026-10-27T17:46:44.511735+00:00"
 }
