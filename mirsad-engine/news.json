@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T05:14:42.016995+00:00",
-  "checkedAt": "2026-10-27T05:14:42.016995+00:00",
+  "updatedAt": "2026-10-27T05:19:45.269846+00:00",
+  "checkedAt": "2026-10-27T05:19:45.269846+00:00",
   "newestPublishedAt": "2026-10-26T22:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -576,6 +576,32 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
+      "id": "0729b929825aabfdba0f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "تحويل تصنيف قاعدة البيانات إلى مكافآت RL: وكلاء ما بعد التدريب مع ThinkingBox",
+      "titleOriginal": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "dateLabel": "22 أكتوبر 2026",
+      "dateISO": "2026-10-22",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-22T22:24:34+00:00"
+    },
+    {
       "id": "c289dd4ff43b390f0572",
       "company": "Amazon",
       "logoText": "AWS",
@@ -730,35 +756,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-22T05:00:56+00:00"
-    },
-    {
-      "id": "4cccc38eb090ae75be48",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA Cosmos تفتح أدوات جديدة لتدريب وتقييم ونشر النماذج العالمية",
-      "titleOriginal": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "models",
-      "importance": 92,
-      "summary": "لمساعدة المطورين على بناء نماذج عالمية بسرعة، والتي تساعد أنظمة الذكاء الاصطناعي المادية على فهم ومحاكاة العالم الحقيقي، وسعت NVIDIA منصة كوزموس مع هيئة تنظيم الاتصالات الجديدة",
-      "summaryOriginal": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T05:00:27+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T05:07:17.210181+00:00",
-  "lastFastCheckAt": "2026-10-27T05:14:42.016995+00:00"
+  "lastFastCheckAt": "2026-10-27T05:19:45.269846+00:00"
 }
