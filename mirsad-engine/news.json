@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T05:04:29.213549+00:00",
-  "checkedAt": "2026-10-27T05:04:29.213549+00:00",
+  "updatedAt": "2026-10-27T05:07:17.210181+00:00",
+  "checkedAt": "2026-10-27T05:07:17.210181+00:00",
   "newestPublishedAt": "2026-10-26T22:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 8,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 3,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -594,15 +594,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T22:24:34+00:00"
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
     },
     {
-      "id": "c289dd4ff43b390f0572",
+      "id": "6f5fd9e92a5b089d917a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -615,20 +610,15 @@
       "summary": "يحصل محرك Amazon Polly Generative على ترقية رئيسية: خطاب أكثر تعبيرًا وأكثر دقة مع زمن انتقال منخفض، بالإضافة إلى 14 صوتًا جديدًا عبر 9 لغات وتوافر عام",
       "summaryOriginal": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Polly delivers a major upgrade to its Generative engine",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T18:06:35+00:00"
+      "searchAliases": "Amazon Amazon Polly delivers a major upgrade to its Generative engine"
     },
     {
-      "id": "486fbaf33402107958db",
+      "id": "61afcdf5b82e00befc12",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -641,20 +631,15 @@
       "summary": "تعرف على كيفية قيام IskayPet، وهي شركة رائدة في مجال رعاية الحيوانات الأليفة في أيبيريا، ببناء مساعد معرفة مؤسسي متعدد اللغات على قواعد المعرفة المدارة من Amazon Bedrock. يجيب المساعد",
       "summaryOriginal": "Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to manage.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T18:01:53+00:00"
+      "searchAliases": "Amazon How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases"
     },
     {
-      "id": "1d3c5903805fd2e20484",
+      "id": "4acccf55f0b5dff83935",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -667,20 +652,15 @@
       "summary": "يتضمن تخصيص نموذج Amazon SageMaker AI بدون خادم الآن جلسات تدريبية، متاحة بشكل عام اليوم. تكتب وتنسق حلقة ما بعد التدريب الخاصة بك (مخصص",
       "summaryOriginal": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recovery, and checkpoint storage.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Announcing new ways to customize models with SageMaker AI, without managing GPUs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T18:00:04+00:00"
+      "searchAliases": "Amazon Announcing new ways to customize models with SageMaker AI, without managing GPUs"
     },
     {
-      "id": "8b26813c96213450d38f",
+      "id": "f8da9dad725e82eeae62",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -693,17 +673,12 @@
       "summary": "تم إطلاق NVIDIA Minerva اليوم، وهي عبارة عن منصة AIOps تم تصميمها لمساعدة الفرق على العثور على المشكلات في وقت مبكر والحفاظ على إنتاجية مصانع الذكاء الاصطناعي. يجمع بين القياس عن بعد من البنية التحتية",
       "summaryOriginal": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+      "source": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T15:00:02+00:00"
+      "searchAliases": "NVIDIA NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories"
     },
     {
       "id": "3aea528be83e323baf7d",
@@ -724,41 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T07:51:31+00:00"
+      "searchAliases": "Hugging Face Ensemble forecasting with IBM Granite time-series models"
     },
     {
-      "id": "cc421c202d01f81479cb",
-      "company": "NVIDIA",
-      "logoText": "NV",
+      "id": "326930ea099d6581c885",
+      "company": "Mistral AI",
+      "logoText": "MI",
       "type": "إطلاق أو تحديث",
-      "title": "تتبنى منظمات الخدمات المالية الأوروبية الرائدة نماذج مفتوحة لبناء ذكاء الملكية",
-      "titleOriginal": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "title": "Voxtral 3: تحويل الكلام إلى نص و TTS والوكلاء الصوتيون | Mistral",
+      "titleOriginal": "Voxtral 3: Speech-to-Text, TTS & Voice Agents | Mistral",
       "dateLabel": "22 أكتوبر 2026",
       "dateISO": "2026-10-22",
       "category": "models",
       "importance": 92,
-      "summary": "في GTC Berlin، تُظهر البنوك وشركات الدفع ومقدمو البيانات المالية كيف تبدو المعلومات الاستخبارية على نطاق الإنتاج — المبنية على حوسبة NVIDIA المتسارعة،",
-      "summaryOriginal": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
+      "summary": "Voxtral 3: حزمة SDK الخاصة بعامل الصوت في Mistral للكلام في الوقت الفعلي بأكثر من 50 لغة، ونسخ دقيق، و TTS عاطفي، واستخدام عميق للأداة.",
+      "summaryOriginal": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages, accurate transcription, emotional TTS, deep tool use.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
-      "sourceLabel": "NVIDIA Blog",
+      "source": "https://mistral.ai/news/voxtral-3/",
+      "sourceLabel": "Mistral News",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T05:00:56+00:00"
+      "searchAliases": "Mistral AI Voxtral 3: Speech-to-Text, TTS & Voice Agents | Mistral"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-26T23:54:26.045247+00:00",
-  "lastFastCheckAt": "2026-10-27T05:04:29.213549+00:00"
+  "lastDeepCheckAt": "2026-10-27T05:07:17.210181+00:00"
 }
