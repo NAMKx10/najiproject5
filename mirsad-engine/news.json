@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T20:42:27.592684+00:00",
-  "checkedAt": "2026-10-27T20:42:27.592684+00:00",
+  "updatedAt": "2026-10-27T20:47:52.179106+00:00",
+  "checkedAt": "2026-10-27T20:47:52.179106+00:00",
   "newestPublishedAt": "2026-10-27T18:03:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -639,6 +639,32 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
+      "id": "1a63adea827789b4522c",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كازاخستان توسع الحوسبة لمستقبل الذكاء الاصطناعي",
+      "titleOriginal": "Kazakhstan Expands Compute for Its AI Future",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "ينتقل النظام البيئي للذكاء الاصطناعي في كازاخستان من خطط البنية التحتية إلى النشر. يظهر التحول عبر مجموعة الذكاء الاصطناعي الكاملة — من البنية التحتية إلى النماذج إلى التطبيقات",
+      "summaryOriginal": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T02:00:13+00:00"
+    },
+    {
       "id": "12839b58c8764ba6e72d",
       "company": "Amazon",
       "logoText": "AWS",
@@ -700,29 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK"
-    },
-    {
-      "id": "26a6947e63a8dd69f471",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تصور النقاط والطرق باستخدام GeoJSON في خرائط طبقة Amazon Quick Sight",
-      "titleOriginal": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تدعم خرائط طبقات Amazon Quick Sight الآن هندسة Point و LineString من نفس سير عمل GeoJSON، حتى تتمكن من رسم مواقع التخزين والطرق بينها. هذا",
-      "summaryOriginal": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-27T20:42:27.592684+00:00"
+  "lastDeepCheckAt": "2026-10-27T20:42:27.592684+00:00",
+  "lastFastCheckAt": "2026-10-27T20:47:52.179106+00:00"
 }
