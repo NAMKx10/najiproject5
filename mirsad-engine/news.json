@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T17:01:05.844556+00:00",
-  "checkedAt": "2026-10-27T17:01:05.844556+00:00",
-  "newestPublishedAt": "2026-10-27T16:53:02+00:00",
+  "updatedAt": "2026-10-27T17:06:09.385105+00:00",
+  "checkedAt": "2026-10-27T17:06:09.385105+00:00",
+  "newestPublishedAt": "2026-10-27T17:00:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "468973e78b8bb46f5006",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "الإعلان عن الصور المفهرسة حسب مؤشر SOCI لوظائف الذكاء الاصطناعي الأسرع من SageMaker",
+      "titleOriginal": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "research",
+      "importance": 86,
+      "summary": "يؤدي فهرسة OCI (SOCI) المطلوبة لمهام التدريب والمعالجة في Amazon SageMaker AI إلى تنزيل صورة الحاوية بالكامل من المسار الحرج. SageMaker AI lazy - loads your",
+      "summaryOriginal": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T17:00:39+00:00"
+    },
     {
       "id": "c7d5dacaf387274b059a",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Securing our frontier model training environment"
-    },
-    {
-      "id": "a47e3be3da3f19366060",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "كازاخستان توسع الحوسبة لمستقبل الذكاء الاصطناعي",
-      "titleOriginal": "Kazakhstan Expands Compute for Its AI Future",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "ينتقل النظام البيئي للذكاء الاصطناعي في كازاخستان من خطط البنية التحتية إلى النشر. يظهر التحول عبر مجموعة الذكاء الاصطناعي الكاملة — من البنية التحتية إلى النماذج إلى التطبيقات",
-      "summaryOriginal": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T17:01:05.844556+00:00"
+  "lastFastCheckAt": "2026-10-27T17:06:09.385105+00:00"
 }
