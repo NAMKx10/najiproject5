@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T19:26:58.596365+00:00",
-  "checkedAt": "2026-10-27T19:26:58.596365+00:00",
+  "updatedAt": "2026-10-27T19:31:58.023064+00:00",
+  "checkedAt": "2026-10-27T19:31:58.023064+00:00",
   "newestPublishedAt": "2026-10-27T18:03:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -380,6 +380,32 @@
       "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
+      "id": "b57c00e63bf60c6be1d9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "كيف تسرع نقطة التحقق من أبحاث نقاط الضعف مع الفجر",
+      "titleOriginal": "How Check Point accelerates vulnerability research with Daybreak",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "research",
+      "importance": 86,
+      "summary": "مع OpenAI Daybreak، تسرع Check Point البحث وراء الحماية الأمنية الجديدة، مما يمكّن محلليها من تحويل معلومات الثغرات الأمنية إلى دفاعات العملاء",
+      "summaryOriginal": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/check-point-daybreak",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Check Point accelerates vulnerability research with Daybreak",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T00:00:00+00:00"
+    },
+    {
       "id": "f573134b563f8cd32807",
       "company": "OpenAI",
       "logoText": "AI",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-23T16:24:55+00:00"
-    },
-    {
-      "id": "4c24080cacb1b584c85c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "بحث",
-      "title": "كيف قامت باير كروب ساينس ببناء محرك قرار وكيل على Amazon Bedrock AgentCore مع AWS Unified Operations",
-      "titleOriginal": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "research",
-      "importance": 86,
-      "summary": "قامت شركة باير كروب ساينس ببناء محرك القرار الوكيل (ADE)، وهو عبارة عن منصة متعددة الوكلاء على Amazon Bedrock AgentCore تتيح للمربين والمحللين والباحثين أن يسألوا بشكل طبيعي",
-      "summaryOriginal": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:21:36+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T19:26:58.596365+00:00"
+  "lastFastCheckAt": "2026-10-27T19:31:58.023064+00:00"
 }
