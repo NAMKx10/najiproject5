@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T17:16:22.324991+00:00",
-  "checkedAt": "2026-10-27T17:16:22.324991+00:00",
-  "newestPublishedAt": "2026-10-27T17:00:39+00:00",
+  "updatedAt": "2026-10-27T17:21:19.746929+00:00",
+  "checkedAt": "2026-10-27T17:21:19.746929+00:00",
+  "newestPublishedAt": "2026-10-27T17:16:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b22251121bede6db1957",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء نماذج متعددة الوسائط متخصصة باستخدام LFM3",
+      "titleOriginal": "Build specialized multimodal models with LFM3",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T17:16:52+00:00"
+    },
     {
       "id": "468973e78b8bb46f5006",
       "company": "Amazon",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps"
-    },
-    {
-      "id": "434f1f3277b503480b2e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "بحث",
-      "title": "كيف قامت باير كروب ساينس ببناء محرك قرار وكيل على Amazon Bedrock AgentCore مع AWS Unified Operations",
-      "titleOriginal": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "research",
-      "importance": 86,
-      "summary": "قامت شركة باير كروب ساينس ببناء محرك القرار الوكيل (ADE)، وهو عبارة عن منصة متعددة الوكلاء على Amazon Bedrock AgentCore تتيح للمربين والمحللين والباحثين أن يسألوا بشكل طبيعي",
-      "summaryOriginal": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for production with AWS Unified Operations.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T17:16:22.324991+00:00"
+  "lastFastCheckAt": "2026-10-27T17:21:19.746929+00:00"
 }
