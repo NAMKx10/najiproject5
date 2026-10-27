@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T15:59:54.747612+00:00",
-  "checkedAt": "2026-10-27T15:59:54.747612+00:00",
+  "updatedAt": "2026-10-27T16:02:01.506432+00:00",
+  "checkedAt": "2026-10-27T16:02:01.506432+00:00",
   "newestPublishedAt": "2026-10-27T15:00:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
-      "items": 8,
+      "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "1a9f0a56e7dc4738a50d",
+      "id": "8efb5d42f5452008d4ea",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -106,20 +106,15 @@
       "summary": "هناك 57 مليون شخص في جميع أنحاء العالم يعانون من الخرف اليوم. بالنسبة للباحثين الذين يعملون على مساعدتهم، فإن العقبة ليست نقص الجهد — إنها الكثير من البيانات أيضًا",
       "summaryOriginal": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T15:00:20+00:00"
+      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
     },
     {
-      "id": "df4e576d53cbcfa2e0a0",
+      "id": "f891eaa66a7cebd698bc",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "أعلنت شركة آبل اليوم عن جهاز MacBook Pro الجديد مقاس 14 بوصة مع M6، مما يوفر المزيد من الأداء، وقدرات الذكاء الاصطناعي القوية على الجهاز، واتصال أسرع.",
       "summaryOriginal": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Apple introduces the new 14-inch MacBook Pro with M6",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T12:59:39.082000+00:00"
+      "searchAliases": "Apple Apple introduces the new 14-inch MacBook Pro with M6"
     },
     {
-      "id": "06d22e989aac744f5055",
+      "id": "28b04364ad74b6e62387",
       "company": "Apple",
       "logoText": "",
       "type": "مستجد تقني",
@@ -158,20 +148,15 @@
       "summary": "أعلنت شركة آبل اليوم عن جهاز iMac الجديد الذي يتميز بجهاز M6 فائق السرعة، مما يوفر المزيد من الأداء وقدرات الذكاء الاصطناعي القوية.",
       "summaryOriginal": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Apple unveils new iMac with M6",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T12:59:15.245000+00:00"
+      "searchAliases": "Apple Apple unveils new iMac with M6"
     },
     {
-      "id": "3db766f0f08a33671546",
+      "id": "7856facceb84dfbc265b",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -184,17 +169,33 @@
       "summary": "تقدم Apple تحديثات إلى Apple Creator Studio، وهي مجموعة من التطبيقات الإبداعية المصممة لوضع أدوات الاستوديو في أيدي منشئي المحتوى.",
       "summaryOriginal": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Apple Creator Studio adds powerful new AI features and even more creative tools",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T12:58:45.444000+00:00"
+      "searchAliases": "Apple Apple Creator Studio adds powerful new AI features and even more creative tools"
+    },
+    {
+      "id": "51bf7b9cdc434ee562d0",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "مستجد تقني",
+      "title": "يجب أن يكون زميلك التالي في فريق المبيعات روبوت Grok",
+      "titleOriginal": "Your next sales teammate should be a Grok Bot",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قام فريق مبيعات SpaceXSI ببناء روبوتات مشتركة للتنقيب والاقتباس ومراجعة الصفقات بحيث يعمل كل مندوب من نفس الخبرة الحديثة.",
+      "summaryOriginal": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/grok-bot-sales",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
       "id": "f573134b563f8cd32807",
@@ -638,25 +639,25 @@
       "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future"
     },
     {
-      "id": "d589aa35f6fd634ec46d",
+      "id": "71574aa864ec09237d31",
       "company": "OpenAI",
       "logoText": "AI",
-      "type": "بحث",
-      "title": "OpenAI وشريك NASK البولندي لتعزيز سلامة وأمن الذكاء الاصطناعي",
-      "titleOriginal": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "type": "إطلاق أو تحديث",
+      "title": "أنيما تساعد العيادات على خفض مكالمات الانتظار بنسبة 75 ٪ مع GPT -6 و GPT - Live",
+      "titleOriginal": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
       "dateLabel": "23 أكتوبر 2026",
       "dateISO": "2026-10-23",
-      "category": "research",
-      "importance": 86,
-      "summary": "تتعاون OpenAI و NASK البولندية في مجال السلامة والأمن والبحوث التقنية للذكاء الاصطناعي لتعزيز الضمانات ودعم نظام بيئي رقمي أكثر مرونة.",
-      "summaryOriginal": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "category": "models",
+      "importance": 92,
+      "summary": "توسع أنيما ما يمكن أن تفعله فرق الرعاية بنماذج OpenAI، مما يمنحها قدرة أكبر على الاستجابة للمرضى.",
+      "summaryOriginal": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/anima",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI OpenAI and Poland’s NASK partner to advance AI safety and security"
+      "searchAliases": "OpenAI Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live"
     },
     {
       "id": "0f3d05251e2bfb4810f6",
@@ -680,32 +681,6 @@
       "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
     },
     {
-      "id": "71574aa864ec09237d31",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "أنيما تساعد العيادات على خفض مكالمات الانتظار بنسبة 75 ٪ مع GPT -6 و GPT - Live",
-      "titleOriginal": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "توسع أنيما ما يمكن أن تفعله فرق الرعاية بنماذج OpenAI، مما يمنحها قدرة أكبر على الاستجابة للمرضى.",
-      "summaryOriginal": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/anima",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T00:00:00+00:00"
-    },
-    {
       "id": "0729b929825aabfdba0f",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -724,15 +699,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T22:24:34+00:00"
+      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
     },
     {
-      "id": "c289dd4ff43b390f0572",
+      "id": "6f5fd9e92a5b089d917a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -745,20 +715,14 @@
       "summary": "يحصل محرك Amazon Polly Generative على ترقية رئيسية: خطاب أكثر تعبيرًا وأكثر دقة مع زمن انتقال منخفض، بالإضافة إلى 14 صوتًا جديدًا عبر 9 لغات وتوافر عام",
       "summaryOriginal": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Polly delivers a major upgrade to its Generative engine",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T18:06:35+00:00"
+      "searchAliases": "Amazon Amazon Polly delivers a major upgrade to its Generative engine"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-27T10:36:03.312051+00:00",
-  "lastFastCheckAt": "2026-10-27T15:59:54.747612+00:00"
+  "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00"
 }
