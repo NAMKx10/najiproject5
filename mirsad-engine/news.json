@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T20:37:50.015092+00:00",
-  "checkedAt": "2026-10-27T20:37:50.015092+00:00",
+  "updatedAt": "2026-10-27T20:42:27.592684+00:00",
+  "checkedAt": "2026-10-27T20:42:27.592684+00:00",
   "newestPublishedAt": "2026-10-27T18:03:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "a75e9217787aff3b5c96",
+      "id": "32af3dd4f452bb40275a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,17 +106,12 @@
       "summary": "تم تسمية AWS كقائد في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة (CCaaS) لعملاء AWS Connect. يمثل هذا التقدير ميلًا مهمًا",
       "summaryOriginal": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T18:03:12+00:00"
+      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service"
     },
     {
       "id": "b22251121bede6db1957",
@@ -137,15 +132,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T17:16:52+00:00"
+      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3"
     },
     {
-      "id": "468973e78b8bb46f5006",
+      "id": "fe423f5a88dd49755db8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -158,20 +148,15 @@
       "summary": "يؤدي فهرسة OCI (SOCI) المطلوبة لمهام التدريب والمعالجة في Amazon SageMaker AI إلى تنزيل صورة الحاوية بالكامل من المسار الحرج. SageMaker AI lazy - loads your",
       "summaryOriginal": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Announcing SOCI-indexed images for faster SageMaker AI jobs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T17:00:39+00:00"
+      "searchAliases": "Amazon Announcing SOCI-indexed images for faster SageMaker AI jobs"
     },
     {
-      "id": "c7d5dacaf387274b059a",
+      "id": "a2d1bd6589d4a05189c8",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,20 +169,15 @@
       "summary": "وجد الباحث عن الممتلكات أن 96.8 ٪ من علامات تقييم الرؤية والذكاء الاصطناعي الخاصة بهم موروثة من النموذج الحالي، مما يخفي دقتها الحقيقية. شاهد كيف بنوا أرضًا غير متحيزة",
       "summaryOriginal": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazon Bedrock, cutting cost by 86% across 11 image-quality attributes.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fix evaluation bias to unlock better models on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:53:02+00:00"
+      "searchAliases": "Amazon Fix evaluation bias to unlock better models on Amazon Bedrock"
     },
     {
-      "id": "1e1f7af0fa7db1a529eb",
+      "id": "3b81090c2ec7c9d3acdc",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -210,17 +190,12 @@
       "summary": "في هذا المنشور، نوضح كيف استخدمت Exowatt تخصيص نموذج Amazon SageMaker AI بدون خادم لبناء خط أنابيب ذكاء اصطناعي قابل للتكرار ينتج نماذج دقيقة محددة المهام",
       "summaryOriginal": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower cost.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "source": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:50:55+00:00"
+      "searchAliases": "Amazon Exowatt beats frontier models on accuracy with SageMaker serverless model customization"
     },
     {
       "id": "7cb9f6f66bd501832be8",
@@ -241,38 +216,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:12:42+00:00"
-    },
-    {
-      "id": "85c89db2878c25ff6b1a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسع OpenAI شراكتها مع Oracle لجلب تطبيقاتها إلى ChatGPT",
-      "titleOriginal": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل OpenAI وOracle على توسيع شراكتهما لجلب تطبيقات الأعمال ووكلاء الذكاء الاصطناعي إلى ChatGPT وتشغيل عروض Oracle الجديدة.",
-      "summaryOriginal": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T07:00:00+00:00"
+      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?"
     },
     {
       "id": "8efb5d42f5452008d4ea",
@@ -359,25 +303,25 @@
       "searchAliases": "Apple Apple Creator Studio adds powerful new AI features and even more creative tools"
     },
     {
-      "id": "51bf7b9cdc434ee562d0",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "يجب أن يكون زميلك التالي في فريق المبيعات روبوت Grok",
-      "titleOriginal": "Your next sales teammate should be a Grok Bot",
+      "id": "85c89db2878c25ff6b1a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع OpenAI شراكتها مع Oracle لجلب تطبيقاتها إلى ChatGPT",
+      "titleOriginal": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "dateLabel": "27 أكتوبر 2026",
       "dateISO": "2026-10-27",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام فريق مبيعات SpaceXSI ببناء روبوتات مشتركة للتنقيب والاقتباس ومراجعة الصفقات بحيث يعمل كل مندوب من نفس الخبرة الحديثة.",
-      "summaryOriginal": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-bot-sales",
-      "sourceLabel": "xAI News",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل OpenAI وOracle على توسيع شراكتهما لجلب تطبيقات الأعمال ووكلاء الذكاء الاصطناعي إلى ChatGPT وتشغيل عروض Oracle الجديدة.",
+      "summaryOriginal": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
+      "searchAliases": "OpenAI OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
     },
     {
       "id": "b57c00e63bf60c6be1d9",
@@ -398,12 +342,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How Check Point accelerates vulnerability research with Daybreak",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T00:00:00+00:00"
+      "searchAliases": "OpenAI How Check Point accelerates vulnerability research with Daybreak"
+    },
+    {
+      "id": "51bf7b9cdc434ee562d0",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "مستجد تقني",
+      "title": "يجب أن يكون زميلك التالي في فريق المبيعات روبوت Grok",
+      "titleOriginal": "Your next sales teammate should be a Grok Bot",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قام فريق مبيعات SpaceXSI ببناء روبوتات مشتركة للتنقيب والاقتباس ومراجعة الصفقات بحيث يعمل كل مندوب من نفس الخبرة الحديثة.",
+      "summaryOriginal": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/grok-bot-sales",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
       "id": "f573134b563f8cd32807",
@@ -679,7 +639,7 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
-      "id": "582893ae889da8b4684c",
+      "id": "12839b58c8764ba6e72d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -692,17 +652,12 @@
       "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
       "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
+      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T17:48:54+00:00"
+      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
     },
     {
       "id": "459df5271e9d2575369f",
@@ -723,15 +678,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T17:00:00+00:00"
+      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
     },
     {
-      "id": "56524419b0b1f4cef9f9",
+      "id": "aaa6fac64df40c089180",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -744,20 +694,15 @@
       "summary": "يؤدي تحديث نقطة نهاية SageMaker AI التي تم تسجيلها للتحجيم التلقائي للتطبيق إلى فشل عمليات نشر AWS CloudFormation و AWS CDK. يوضح هذا المنشور كيفية بناء ريوساب",
       "summaryOriginal": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:30:10+00:00"
+      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK"
     },
     {
-      "id": "78b44312052320c7500f",
+      "id": "26a6947e63a8dd69f471",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -770,20 +715,14 @@
       "summary": "تدعم خرائط طبقات Amazon Quick Sight الآن هندسة Point و LineString من نفس سير عمل GeoJSON، حتى تتمكن من رسم مواقع التخزين والطرق بينها. هذا",
       "summaryOriginal": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geometries, and dynamic GeoJSON updates.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps",
+      "source": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T16:24:55+00:00"
+      "searchAliases": "Amazon Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T20:37:50.015092+00:00"
+  "lastDeepCheckAt": "2026-10-27T20:42:27.592684+00:00"
 }
