@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T16:50:48.681009+00:00",
-  "checkedAt": "2026-10-27T16:50:48.681009+00:00",
-  "newestPublishedAt": "2026-10-27T16:12:42+00:00",
+  "updatedAt": "2026-10-27T16:55:53.476460+00:00",
+  "checkedAt": "2026-10-27T16:55:53.476460+00:00",
+  "newestPublishedAt": "2026-10-27T16:53:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -93,6 +93,58 @@
   ],
   "items": [
     {
+      "id": "c7d5dacaf387274b059a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إصلاح تحيز التقييم لفتح نماذج أفضل على Amazon Bedrock",
+      "titleOriginal": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "وجد الباحث عن الممتلكات أن 96.8 ٪ من علامات تقييم الرؤية والذكاء الاصطناعي الخاصة بهم موروثة من النموذج الحالي، مما يخفي دقتها الحقيقية. شاهد كيف بنوا أرضًا غير متحيزة",
+      "summaryOriginal": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazon Bedrock, cutting cost by 86% across 11 image-quality attributes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T16:53:02+00:00"
+    },
+    {
+      "id": "1e1f7af0fa7db1a529eb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تتفوق Exowatt على النماذج الحدودية من حيث الدقة مع تخصيص طراز SageMaker بدون خادم",
+      "titleOriginal": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "في هذا المنشور، نوضح كيف استخدمت Exowatt تخصيص نموذج Amazon SageMaker AI بدون خادم لبناء خط أنابيب ذكاء اصطناعي قابل للتكرار ينتج نماذج دقيقة محددة المهام",
+      "summaryOriginal": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower cost.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T16:50:55+00:00"
+    },
+    {
       "id": "7cb9f6f66bd501832be8",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -117,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-27T16:12:42+00:00"
+    },
+    {
+      "id": "85c89db2878c25ff6b1a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع OpenAI شراكتها مع Oracle لجلب تطبيقاتها إلى ChatGPT",
+      "titleOriginal": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل OpenAI وOracle على توسيع شراكتهما لجلب تطبيقات الأعمال ووكلاء الذكاء الاصطناعي إلى ChatGPT وتشغيل عروض Oracle الجديدة.",
+      "summaryOriginal": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T07:00:00+00:00"
     },
     {
       "id": "8efb5d42f5452008d4ea",
@@ -663,77 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Kazakhstan Expands Compute for Its AI Future"
-    },
-    {
-      "id": "71574aa864ec09237d31",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "أنيما تساعد العيادات على خفض مكالمات الانتظار بنسبة 75 ٪ مع GPT -6 و GPT - Live",
-      "titleOriginal": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "توسع أنيما ما يمكن أن تفعله فرق الرعاية بنماذج OpenAI، مما يمنحها قدرة أكبر على الاستجابة للمرضى.",
-      "summaryOriginal": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/anima",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live"
-    },
-    {
-      "id": "0f3d05251e2bfb4810f6",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "هل تعمل عارضتك على AWS Trainium ؟ ابحث عنها",
-      "titleOriginal": "Does Your Model Run on AWS Trainium? Look It Up",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Does Your Model Run on AWS Trainium? Look It Up"
-    },
-    {
-      "id": "0729b929825aabfdba0f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تحويل تصنيف قاعدة البيانات إلى مكافآت RL: وكلاء ما بعد التدريب مع ThinkingBox",
-      "titleOriginal": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "dateLabel": "22 أكتوبر 2026",
-      "dateISO": "2026-10-22",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-22T22:24:34+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T16:50:48.681009+00:00"
+  "lastFastCheckAt": "2026-10-27T16:55:53.476460+00:00"
 }
