@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T17:36:33.253434+00:00",
-  "checkedAt": "2026-10-27T17:36:33.253434+00:00",
+  "updatedAt": "2026-10-27T17:41:34.397534+00:00",
+  "checkedAt": "2026-10-27T17:41:34.397534+00:00",
   "newestPublishedAt": "2026-10-27T17:16:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -627,6 +627,32 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
+      "id": "459df5271e9d2575369f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع نطاق التخزين عبر الإنترنت بسرعة لخدمة أكثر من مليار مستخدم ChatGPT (الجزء الثاني)",
+      "titleOriginal": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية قيام OpenAI بتوسيع نطاق Habitat من خلال التخزين المؤقت الموثوق به متعدد الإيجارات، والتخزين المؤقت العالمي، وقاعدة بيانات Azure Cosmos لتقديم قراءات أسرع 12 مرة لـ ChatGPT.",
+      "summaryOriginal": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T17:00:00+00:00"
+    },
+    {
       "id": "56524419b0b1f4cef9f9",
       "company": "Amazon",
       "logoText": "AWS",
@@ -755,30 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-23T02:00:13+00:00"
-    },
-    {
-      "id": "12839b58c8764ba6e72d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تعلم التعزيز متعدد الدوران على Amazon SageMaker AI: دليل عملي",
-      "titleOriginal": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
-      "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T17:36:33.253434+00:00"
+  "lastFastCheckAt": "2026-10-27T17:41:34.397534+00:00"
 }
