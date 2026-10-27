@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T20:49:47.039210+00:00",
-  "checkedAt": "2026-10-27T20:49:47.039210+00:00",
+  "updatedAt": "2026-10-27T20:52:57.309023+00:00",
+  "checkedAt": "2026-10-27T20:52:57.309023+00:00",
   "newestPublishedAt": "2026-10-27T18:03:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -639,6 +639,32 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
+      "id": "56524419b0b1f4cef9f9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تنسيق التحجيم التلقائي لنقطة نهاية SageMaker AI مع AWS CDK",
+      "titleOriginal": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يؤدي تحديث نقطة نهاية SageMaker AI التي تم تسجيلها للتحجيم التلقائي للتطبيق إلى فشل عمليات نشر AWS CloudFormation و AWS CDK. يوضح هذا المنشور كيفية بناء ريوساب",
+      "summaryOriginal": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T16:30:10+00:00"
+    },
+    {
       "id": "78b44312052320c7500f",
       "company": "Amazon",
       "logoText": "AWS",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
-    },
-    {
-      "id": "459df5271e9d2575369f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع نطاق التخزين عبر الإنترنت بسرعة لخدمة أكثر من مليار مستخدم ChatGPT (الجزء الثاني)",
-      "titleOriginal": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية قيام OpenAI بتوسيع نطاق Habitat من خلال التخزين المؤقت الموثوق به متعدد الإيجارات، والتخزين المؤقت العالمي، وقاعدة بيانات Azure Cosmos لتقديم قراءات أسرع 12 مرة لـ ChatGPT.",
-      "summaryOriginal": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T20:42:27.592684+00:00",
-  "lastFastCheckAt": "2026-10-27T20:49:47.039210+00:00"
+  "lastFastCheckAt": "2026-10-27T20:52:57.309023+00:00"
 }
