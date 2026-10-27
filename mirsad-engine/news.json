@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-27T17:11:16.121721+00:00",
-  "checkedAt": "2026-10-27T17:11:16.121721+00:00",
+  "updatedAt": "2026-10-27T17:16:22.324991+00:00",
+  "checkedAt": "2026-10-27T17:16:22.324991+00:00",
   "newestPublishedAt": "2026-10-27T17:00:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -601,6 +601,32 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
+      "id": "a600241ceec23053452c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تأمين بيئتنا التدريبية لنموذج الحدود",
+      "titleOriginal": "Securing our frontier model training environment",
+      "dateLabel": "23 أكتوبر 2026",
+      "dateISO": "2026-10-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشرح OpenAI كيف عززنا الاحتواء للتدريب والتقييم لنموذج الحدود، بما في ذلك البيئات غير المتصلة بالإنترنت والفرق الحمراء عالية الحوسبة.",
+      "summaryOriginal": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Securing our frontier model training environment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T10:00:00+00:00"
+    },
+    {
       "id": "1a63adea827789b4522c",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations"
-    },
-    {
-      "id": "db9277664df9d5299e26",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "LitPivot: تطوير الأفكار البحثية من خلال السياق الديناميكي داخل المشهد الأدبي",
-      "titleOriginal": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/litpivot",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-27T16:02:01.506432+00:00",
-  "lastFastCheckAt": "2026-10-27T17:11:16.121721+00:00"
+  "lastFastCheckAt": "2026-10-27T17:16:22.324991+00:00"
 }
