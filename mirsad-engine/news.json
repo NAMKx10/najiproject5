@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T20:23:04.255636+00:00",
-  "checkedAt": "2026-10-28T20:23:04.255636+00:00",
+  "updatedAt": "2026-10-28T20:28:09.191273+00:00",
+  "checkedAt": "2026-10-28T20:28:09.191273+00:00",
   "newestPublishedAt": "2026-10-28T18:28:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -169,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-28T18:12:13+00:00"
+    },
+    {
+      "id": "3473b57ebd9db8dc4426",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعمل OpenAI وServiceNow على توسيع الشراكة عبر سير عمل المؤسسة",
+      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم OpenAI و ServiceNow بتوسيع شراكتهما لجلب نماذج ووكلاء OpenAI إلى سير عمل ServiceNow و ServiceNow في ChatGPT و Codex.",
+      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T13:15:00+00:00"
     },
     {
       "id": "372defbbd636f8891e28",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T17:56:58+00:00"
-    },
-    {
-      "id": "6605f9c46a758d08206f",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "يوم جرذ الأرض لوكلاء الذكاء الاصطناعي: أنماط التخزين المؤقت الفوري لاستخدام نماذج OpenAI على Amazon Bedrock",
-      "titleOriginal": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "في كل مرة يتخذ فيها الوكيل خطوة، فإنه يعيد قراءة سياقه بالكامل قبل التصرف. إليك كيف يتيح التخزين المؤقت الفوري لنماذج OpenAI على Amazon Bedrock لوكيلك أن يتذكر، ج",
-      "summaryOriginal": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T17:27:20+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T20:23:04.255636+00:00"
+  "lastFastCheckAt": "2026-10-28T20:28:09.191273+00:00"
 }
