@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T18:17:28.431821+00:00",
-  "checkedAt": "2026-10-28T18:17:28.431821+00:00",
-  "newestPublishedAt": "2026-10-28T18:12:13+00:00",
+  "updatedAt": "2026-10-28T18:22:32.372862+00:00",
+  "checkedAt": "2026-10-28T18:22:32.372862+00:00",
+  "newestPublishedAt": "2026-10-28T18:19:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "28f2952aa182edba365f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "التدريب الموزع مع تدريب راي DLCs و EFA على EKS",
+      "titleOriginal": "Distributed training with Ray Train DLCs and EFA on EKS",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم حاوية التعلم العميق Ray Train بشحن حزمة CUDA الكاملة من خلال EFA، بحيث لا تقوم ببناء أي صورة. يمشي هذا المنشور عبر عينة قابلة للتكرار تقوم بضبط Qwen2.5-",
+      "summaryOriginal": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Distributed training with Ray Train DLCs and EFA on EKS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T18:19:54+00:00"
+    },
     {
       "id": "736f6cdbcc9df946c4cb",
       "company": "Amazon",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T17:15:14+00:00"
-    },
-    {
-      "id": "770253f6d2020ce4b7ce",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "العمل مع الأوساط الأكاديمية لبناء الفهم العلمي",
-      "titleOriginal": "Working with academic communities to build scientific understanding",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "يشارك OpenAI نتائج النموذج على حدس Kakeya وفرضية الوقت الأسي والديناميكا اللونية الكمية - وكيف يمكن للباحثين التحقق منها والبناء عليها.",
-      "summaryOriginal": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Working with academic communities to build scientific understanding",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T14:30:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T18:17:28.431821+00:00"
+  "lastFastCheckAt": "2026-10-28T18:22:32.372862+00:00"
 }
