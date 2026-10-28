@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T14:54:53.820404+00:00",
-  "checkedAt": "2026-10-28T14:54:53.820404+00:00",
-  "newestPublishedAt": "2026-10-28T09:30:00+00:00",
+  "updatedAt": "2026-10-28T14:59:55.725971+00:00",
+  "checkedAt": "2026-10-28T14:59:55.725971+00:00",
+  "newestPublishedAt": "2026-10-28T14:58:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a29c7daf6716f2c6eefe",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: نسخ ذكي متعدد اللغات يمكنك المطالبة به وتكييفه",
+      "titleOriginal": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T14:58:17+00:00"
+    },
     {
       "id": "2b9637d64ae590f6ab30",
       "company": "OpenAI",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
-    },
-    {
-      "id": "582893ae889da8b4684c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تعلم التعزيز متعدد الدوران على Amazon SageMaker AI: دليل عملي",
-      "titleOriginal": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
-      "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T17:48:54+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T11:40:06.667811+00:00",
-  "lastFastCheckAt": "2026-10-28T14:54:53.820404+00:00"
+  "lastFastCheckAt": "2026-10-28T14:59:55.725971+00:00"
 }
