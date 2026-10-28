@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T15:10:03.273268+00:00",
-  "checkedAt": "2026-10-28T15:10:03.273268+00:00",
-  "newestPublishedAt": "2026-10-28T14:58:17+00:00",
+  "updatedAt": "2026-10-28T15:15:33.330387+00:00",
+  "checkedAt": "2026-10-28T15:15:33.330387+00:00",
+  "newestPublishedAt": "2026-10-28T15:00:46+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6e04a07686f959e9f1c9",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "أجهزة الكمبيوتر المحمولة NVIDIA RTX Spark Windows احصل على نماذج وأدوات وألعاب جديدة",
+      "titleOriginal": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تدعم NVIDIA RTX Spark أجهزة الكمبيوتر المحمولة الرقيقة والخفيفة المصممة لكل ما يفعله المطورون والمبدعون واللاعبون. تتوفر الآن أجهزة الكمبيوتر المحمولة RTX Spark من ASUS و Dell و HP و Leno",
+      "summaryOriginal": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T15:00:46+00:00"
+    },
     {
       "id": "a29c7daf6716f2c6eefe",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Ultrafast cut incident investigation from hours to minutes at OpenAI"
-    },
-    {
-      "id": "5d3a66be032d714022e1",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "ملفات أنثروبي S -1 مع لجنة الأوراق المالية والبورصات للاكتتاب العام الأولي المقترح",
-      "titleOriginal": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/s1-sec",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T11:40:06.667811+00:00",
-  "lastFastCheckAt": "2026-10-28T15:10:03.273268+00:00"
+  "lastFastCheckAt": "2026-10-28T15:15:33.330387+00:00"
 }
