@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T21:54:18.620277+00:00",
-  "checkedAt": "2026-10-28T21:54:18.620277+00:00",
+  "updatedAt": "2026-10-28T21:54:48.911162+00:00",
+  "checkedAt": "2026-10-28T21:54:48.911162+00:00",
   "newestPublishedAt": "2026-10-28T18:28:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "56770c3837bbf53c0bf1",
+      "id": "b0e8c8ec7a6e441c858e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "قم بإنشاء منصة ذكاء اصطناعي محكومة ومتعددة الحسابات على Amazon Bedrock AgentCore. يمشي هذا المنشور عبر الهندسة المعمارية ومخطط مرجعي مفتوح المصدر:",
       "summaryOriginal": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T18:28:26+00:00"
+      "searchAliases": "Amazon Building an Agentic AI Platform on Amazon Bedrock AgentCore"
     },
     {
-      "id": "28f2952aa182edba365f",
+      "id": "df4a5431ce86bbc54909",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "تقوم حاوية التعلم العميق Ray Train بشحن حزمة CUDA الكاملة من خلال EFA، بحيث لا تقوم ببناء أي صورة. يمشي هذا المنشور عبر عينة قابلة للتكرار تقوم بضبط Qwen2.5-",
       "summaryOriginal": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks",
+      "source": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Distributed training with Ray Train DLCs and EFA on EKS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T18:19:54+00:00"
+      "searchAliases": "Amazon Distributed training with Ray Train DLCs and EFA on EKS"
     },
     {
-      "id": "736f6cdbcc9df946c4cb",
+      "id": "0c55b7fc03cb7071a496",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,69 +148,12 @@
       "summary": "مع انتشار أتمتة اختبار ضمان الجودة عبر المؤسسة، يصبح تنظيم الاختبارات والتحكم في من يمتلكها هو العمل الحقيقي. الجزء 3 من سلسلة استوديو ضمان الجودة على Amazon Nova",
       "summaryOriginal": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T18:12:13+00:00"
-    },
-    {
-      "id": "3473b57ebd9db8dc4426",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تعمل OpenAI وServiceNow على توسيع الشراكة عبر سير عمل المؤسسة",
-      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقوم OpenAI و ServiceNow بتوسيع شراكتهما لجلب نماذج ووكلاء OpenAI إلى سير عمل ServiceNow و ServiceNow في ChatGPT و Codex.",
-      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T13:15:00+00:00"
-    },
-    {
-      "id": "372defbbd636f8891e28",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "مستقبل الشركة",
-      "titleOriginal": "The future of the firm",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف يمكن للذكاء الاصطناعي أن يدخل المخطط التنظيمي - تحتنا وبجانبنا وفيما بيننا.",
-      "summaryOriginal": "How AI might enter the org chart—beneath, beside, and between us.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/the-future-of-the-firm",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The future of the firm",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T10:00:00+00:00"
+      "searchAliases": "Amazon Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3"
     },
     {
       "id": "bb4f38b31c3c1d74544a",
@@ -286,25 +219,46 @@
       "searchAliases": "Hugging Face NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt"
     },
     {
-      "id": "2b9637d64ae590f6ab30",
+      "id": "3473b57ebd9db8dc4426",
       "company": "OpenAI",
       "logoText": "AI",
       "type": "إطلاق أو تحديث",
-      "title": "ليجورا تبني نظام التشغيل الوكيل للعمل القانوني",
-      "titleOriginal": "Legora is building the agentic operating system for legal work",
+      "title": "تعمل OpenAI وServiceNow على توسيع الشراكة عبر سير عمل المؤسسة",
+      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "dateLabel": "28 أكتوبر 2026",
       "dateISO": "2026-10-28",
       "category": "models",
       "importance": 92,
-      "summary": "تعرف على كيفية استخدام Legora لنماذج OpenAI و ChatGPT و Codex لتسريع سير العمل القانوني وتوسيع تحليل العقود والمحامين الأحرار للتركيز على العمل عالي القيمة.",
-      "summaryOriginal": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "summary": "تقوم OpenAI و ServiceNow بتوسيع شراكتهما لجلب نماذج ووكلاء OpenAI إلى سير عمل ServiceNow و ServiceNow في ChatGPT و Codex.",
+      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Legora is building the agentic operating system for legal work"
+      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows"
+    },
+    {
+      "id": "372defbbd636f8891e28",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "مستقبل الشركة",
+      "titleOriginal": "The future of the firm",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "كيف يمكن للذكاء الاصطناعي أن يدخل المخطط التنظيمي - تحتنا وبجانبنا وفيما بيننا.",
+      "summaryOriginal": "How AI might enter the org chart—beneath, beside, and between us.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/the-future-of-the-firm",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The future of the firm"
     },
     {
       "id": "66164bca3c2a44bf9678",
@@ -326,6 +280,48 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Legora is building the agentic operating system for legal work"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
+      "id": "fd41c413a459318e62b7",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "يتوسع الذكاء الاصطناعي للعلوم ليشمل المؤسسات والمؤسسات",
+      "titleOriginal": "AI for Science expands to foundations and institutions",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "research",
+      "importance": 86,
+      "summary": "نحن نسلط الضوء على 20 مؤسسة علمية ومؤسسة ومجموعة بحثية من جميع أنحاء العالم عقدنا شراكة معها في توسيع برنامج الذكاء الاصطناعي للعلوم",
+      "summaryOriginal": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
       "id": "32af3dd4f452bb40275a",
@@ -601,27 +597,6 @@
       "searchAliases": "OpenAI How Check Point accelerates vulnerability research with Daybreak"
     },
     {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
-    },
-    {
       "id": "1d6e2957ea2304100a94",
       "company": "Anthropic",
       "logoText": "A",
@@ -703,15 +678,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T22:00:00+00:00"
+      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra"
     },
     {
-      "id": "8c9a51bdfd4d02c9d4b0",
+      "id": "cb44053ddef9ee1a2c95",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -724,20 +694,15 @@
       "summary": "مع تحديثات البرامج 27.2 التي تم إصدارها اليوم، يتوسع Siri AI ليشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية.",
       "summaryOriginal": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today",
+      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Siri AI is available in more languages starting today",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T18:37:30.189000+00:00"
+      "searchAliases": "Apple Siri AI is available in more languages starting today"
     },
     {
-      "id": "54f5170bd163deb02ab3",
+      "id": "b642d23b1da2068ee920",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -750,20 +715,14 @@
       "summary": "تحتاج رؤية الكمبيوتر على مستوى الأسطول إلى نموذج لكل كاميرا، وليس نموذجًا واحدًا للأسطول بأكمله. يقدم هذا المنشور بنية مرجعية لـ Amazon SageMaker SDK v3 تعمل",
       "summaryOriginal": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T17:56:58+00:00"
+      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T21:54:18.620277+00:00"
+  "lastDeepCheckAt": "2026-10-28T21:54:48.911162+00:00"
 }
