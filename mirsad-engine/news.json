@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T17:47:15.094880+00:00",
-  "checkedAt": "2026-10-28T17:47:15.094880+00:00",
+  "updatedAt": "2026-10-28T17:52:14.102316+00:00",
+  "checkedAt": "2026-10-28T17:52:14.102316+00:00",
   "newestPublishedAt": "2026-10-28T16:51:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -581,6 +581,58 @@
       "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
+      "id": "54f5170bd163deb02ab3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "دورة حياة رؤية الكمبيوتر على مستوى الأسطول على الحافة مع SageMaker SDK v3",
+      "titleOriginal": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحتاج رؤية الكمبيوتر على مستوى الأسطول إلى نموذج لكل كاميرا، وليس نموذجًا واحدًا للأسطول بأكمله. يقدم هذا المنشور بنية مرجعية لـ Amazon SageMaker SDK v3 تعمل",
+      "summaryOriginal": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T17:56:58+00:00"
+    },
+    {
+      "id": "6605f9c46a758d08206f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "يوم جرذ الأرض لوكلاء الذكاء الاصطناعي: أنماط التخزين المؤقت الفوري لاستخدام نماذج OpenAI على Amazon Bedrock",
+      "titleOriginal": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "في كل مرة يتخذ فيها الوكيل خطوة، فإنه يعيد قراءة سياقه بالكامل قبل التصرف. إليك كيف يتيح التخزين المؤقت الفوري لنماذج OpenAI على Amazon Bedrock لوكيلك أن يتذكر، ج",
+      "summaryOriginal": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T17:27:20+00:00"
+    },
+    {
       "id": "52ed37fbeab1041a82b8",
       "company": "Amazon",
       "logoText": "AWS",
@@ -709,51 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T07:00:00+00:00"
-    },
-    {
-      "id": "f573134b563f8cd32807",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يأخذ Greptile اكتشاف الأخطاء إلى ما هو أبعد من مراجعة التعليمات البرمجية مع GPT -6 Astra",
-      "titleOriginal": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "كيف يستخدم Greptile GPT -6 Astra لاختبار سير عمل المستخدم، و Daybreak لتعزيز الأمن، و Codex لتقليل إعادة العمل.",
-      "summaryOriginal": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/greptile-code-review-codex-astra",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra"
-    },
-    {
-      "id": "cb44053ddef9ee1a2c95",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "يتوفر Siri AI بلغات أكثر بدءًا من اليوم",
-      "titleOriginal": "Siri AI is available in more languages starting today",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع تحديثات البرامج 27.2 التي تم إصدارها اليوم، يتوسع Siri AI ليشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية.",
-      "summaryOriginal": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Siri AI is available in more languages starting today"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T17:47:15.094880+00:00"
+  "lastFastCheckAt": "2026-10-28T17:52:14.102316+00:00"
 }
