@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T17:52:14.102316+00:00",
-  "checkedAt": "2026-10-28T17:52:14.102316+00:00",
+  "updatedAt": "2026-10-28T17:57:19.088637+00:00",
+  "checkedAt": "2026-10-28T17:57:19.088637+00:00",
   "newestPublishedAt": "2026-10-28T16:51:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -581,6 +581,58 @@
       "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
+      "id": "f573134b563f8cd32807",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يأخذ Greptile اكتشاف الأخطاء إلى ما هو أبعد من مراجعة التعليمات البرمجية مع GPT -6 Astra",
+      "titleOriginal": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "كيف يستخدم Greptile GPT -6 Astra لاختبار سير عمل المستخدم، و Daybreak لتعزيز الأمن، و Codex لتقليل إعادة العمل.",
+      "summaryOriginal": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/greptile-code-review-codex-astra",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "id": "8c9a51bdfd4d02c9d4b0",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "يتوفر Siri AI بلغات أكثر بدءًا من اليوم",
+      "titleOriginal": "Siri AI is available in more languages starting today",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "مع تحديثات البرامج 27.2 التي تم إصدارها اليوم، يتوسع Siri AI ليشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية.",
+      "summaryOriginal": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Siri AI is available in more languages starting today",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T18:37:30.189000+00:00"
+    },
+    {
       "id": "54f5170bd163deb02ab3",
       "company": "Amazon",
       "logoText": "AWS",
@@ -709,61 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T13:45:00+00:00"
-    },
-    {
-      "id": "742d98e20a473cf3682f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "عالم عمل ChatGPT الآخذ في التوسع",
-      "titleOriginal": "ChatGPT’s expanding world of work",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "استكشف بيانات OpenAI Signals حول 165 نشاط عمل في ما يقرب من 100 دولة، وكشف عن كيفية استخدام الأشخاص لـ ChatGPT في العمل وكيف يتغير الاستخدام بمرور الوقت.",
-      "summaryOriginal": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ChatGPT’s expanding world of work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "id": "4c24fcaa39e62ae61b7f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف يبسط المتعصبون وOpenAI تجربة المعجبين",
-      "titleOriginal": "How Fanatics and OpenAI streamline the fan experience",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يستخدم Fanatics OpenAI لمساعدة المعجبين على إكمال ملابسهم اليومية مع Shop the Look. أظهر الاختبار عبر ما يقرب من 30000 منتج من منتجات MLB مشاركة أعلى بنسبة 10 ٪.",
-      "summaryOriginal": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Fanatics and OpenAI streamline the fan experience",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T17:52:14.102316+00:00"
+  "lastFastCheckAt": "2026-10-28T17:57:19.088637+00:00"
 }
