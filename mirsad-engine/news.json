@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T18:27:33.906087+00:00",
-  "checkedAt": "2026-10-28T18:27:33.906087+00:00",
-  "newestPublishedAt": "2026-10-28T18:19:54+00:00",
+  "updatedAt": "2026-10-28T18:32:49.705800+00:00",
+  "checkedAt": "2026-10-28T18:32:49.705800+00:00",
+  "newestPublishedAt": "2026-10-28T18:28:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "56770c3837bbf53c0bf1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء منصة الذكاء الاصطناعي Agentic على Amazon Bedrock AgentCore",
+      "titleOriginal": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "قم بإنشاء منصة ذكاء اصطناعي محكومة ومتعددة الحسابات على Amazon Bedrock AgentCore. يمشي هذا المنشور عبر الهندسة المعمارية ومخطط مرجعي مفتوح المصدر:",
+      "summaryOriginal": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T18:28:26+00:00"
+    },
     {
       "id": "28f2952aa182edba365f",
       "company": "Amazon",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T17:27:20+00:00"
-    },
-    {
-      "id": "52ed37fbeab1041a82b8",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "بناء استرجاع الوكلاء على قاعدة معارف صخور الأمازون المدارة مع CDK",
-      "titleOriginal": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "business",
-      "importance": 82,
-      "summary": "بناء استرجاع وكيل المؤسسة على قاعدة معارف الأمازون المدارة مع AWS CDK: وكيل يمر عبر قاعدتين معرفيتين، ويسترد عبر العصر",
-      "summaryOriginal": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T17:15:14+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T18:27:33.906087+00:00"
+  "lastFastCheckAt": "2026-10-28T18:32:49.705800+00:00"
 }
