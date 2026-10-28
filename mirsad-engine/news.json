@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T18:12:27.793559+00:00",
-  "checkedAt": "2026-10-28T18:12:27.793559+00:00",
-  "newestPublishedAt": "2026-10-28T16:51:35+00:00",
+  "updatedAt": "2026-10-28T18:17:28.431821+00:00",
+  "checkedAt": "2026-10-28T18:17:28.431821+00:00",
+  "newestPublishedAt": "2026-10-28T18:12:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "736f6cdbcc9df946c4cb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تسريع تسليم البرامج مع أتمتة ضمان الجودة باستخدام قانون أمازون نوفا – الجزء 3",
+      "titleOriginal": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "tools",
+      "importance": 78,
+      "summary": "مع انتشار أتمتة اختبار ضمان الجودة عبر المؤسسة، يصبح تنظيم الاختبارات والتحكم في من يمتلكها هو العمل الحقيقي. الجزء 3 من سلسلة استوديو ضمان الجودة على Amazon Nova",
+      "summaryOriginal": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T18:12:13+00:00"
+    },
     {
       "id": "372defbbd636f8891e28",
       "company": "OpenAI",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T14:30:00+00:00"
-    },
-    {
-      "id": "d2e8fd10eab3b12a4522",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT-6.1 SOL يساعد CodeRabbit على تعزيز الأمن عبر قواعد التعليمات البرمجية المعقدة",
-      "titleOriginal": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم CodeRabbit GPT-6.1 Sol للتحقيق في المخاطر الأمنية عبر قواعد التعليمات البرمجية المعقدة. يساعد وكيلها الأمني المطورين على مراجعة النتائج والإصلاحات المقترحة.",
-      "summaryOriginal": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T13:45:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T18:12:27.793559+00:00"
+  "lastFastCheckAt": "2026-10-28T18:17:28.431821+00:00"
 }
