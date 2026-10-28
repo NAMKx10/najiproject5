@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T10:03:15.514101+00:00",
-  "checkedAt": "2026-10-28T10:03:15.514101+00:00",
-  "newestPublishedAt": "2026-10-27T18:03:12+00:00",
+  "updatedAt": "2026-10-28T10:08:17.527751+00:00",
+  "checkedAt": "2026-10-28T10:08:17.527751+00:00",
+  "newestPublishedAt": "2026-10-28T09:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2b9637d64ae590f6ab30",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "ليجورا تبني نظام التشغيل الوكيل للعمل القانوني",
+      "titleOriginal": "Legora is building the agentic operating system for legal work",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية استخدام Legora لنماذج OpenAI و ChatGPT و Codex لتسريع سير العمل القانوني وتوسيع تحليل العقود والمحامين الأحرار للتركيز على العمل عالي القيمة.",
+      "summaryOriginal": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Legora is building the agentic operating system for legal work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T09:30:00+00:00"
+    },
     {
       "id": "32af3dd4f452bb40275a",
       "company": "Amazon",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
-    },
-    {
-      "id": "582893ae889da8b4684c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من Amazon",
-      "titleOriginal": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "dateLabel": "23 أكتوبر 2026",
-      "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-23T17:48:54+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T05:44:01.470267+00:00",
-  "lastFastCheckAt": "2026-10-28T10:03:15.514101+00:00"
+  "lastFastCheckAt": "2026-10-28T10:08:17.527751+00:00"
 }
