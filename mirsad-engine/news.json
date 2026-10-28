@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T17:16:47.457691+00:00",
-  "checkedAt": "2026-10-28T17:16:47.457691+00:00",
+  "updatedAt": "2026-10-28T17:19:26.297526+00:00",
+  "checkedAt": "2026-10-28T17:19:26.297526+00:00",
   "newestPublishedAt": "2026-10-28T16:51:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -575,6 +575,32 @@
       "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
+      "id": "52ed37fbeab1041a82b8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "بناء استرجاع الوكلاء على قاعدة معارف صخور الأمازون المدارة مع CDK",
+      "titleOriginal": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "business",
+      "importance": 82,
+      "summary": "بناء استرجاع وكيل المؤسسة على قاعدة معارف الأمازون المدارة مع AWS CDK: وكيل يمر عبر قاعدتين معرفيتين، ويسترد عبر العصر",
+      "summaryOriginal": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T17:15:14+00:00"
+    },
+    {
       "id": "770253f6d2020ce4b7ce",
       "company": "OpenAI",
       "logoText": "AI",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3"
-    },
-    {
-      "id": "829840738f0a659b2d0d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "يوم جرذ الأرض لوكلاء الذكاء الاصطناعي: أنماط التخزين المؤقت الفوري لاستخدام نماذج OpenAI على Amazon Bedrock",
-      "titleOriginal": "Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "في كل مرة يتخذ فيها الوكيل خطوة، فإنه يعيد قراءة سياقه بالكامل قبل التصرف. إليك كيف يتيح التخزين المؤقت الفوري لنماذج OpenAI على Amazon Bedrock لوكيلك أن يتذكر، ج",
-      "summaryOriginal": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent remember, cutting input cost and latency without resending the same tools, instructions, and history every turn.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T11:40:06.667811+00:00",
-  "lastFastCheckAt": "2026-10-28T17:16:47.457691+00:00"
+  "lastFastCheckAt": "2026-10-28T17:19:26.297526+00:00"
 }
