@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T17:37:06.176578+00:00",
-  "checkedAt": "2026-10-28T17:37:06.176578+00:00",
+  "updatedAt": "2026-10-28T17:42:08.403246+00:00",
+  "checkedAt": "2026-10-28T17:42:08.403246+00:00",
   "newestPublishedAt": "2026-10-28T16:51:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -555,6 +555,32 @@
       "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
+      "id": "770253f6d2020ce4b7ce",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "العمل مع الأوساط الأكاديمية لبناء الفهم العلمي",
+      "titleOriginal": "Working with academic communities to build scientific understanding",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "يشارك OpenAI نتائج النموذج على حدس Kakeya وفرضية الوقت الأسي والديناميكا اللونية الكمية - وكيف يمكن للباحثين التحقق منها والبناء عليها.",
+      "summaryOriginal": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Working with academic communities to build scientific understanding",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T14:30:00+00:00"
+    },
+    {
       "id": "d2e8fd10eab3b12a4522",
       "company": "OpenAI",
       "logoText": "AI",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock"
-    },
-    {
-      "id": "87cb14c771652ab9f0dd",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "بناء استرجاع الوكلاء على قاعدة معارف صخور الأمازون المدارة مع CDK",
-      "titleOriginal": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "business",
-      "importance": 82,
-      "summary": "بناء استرجاع وكيل المؤسسة على قاعدة معارف الأمازون المدارة مع AWS CDK: وكيل يمر عبر قاعدتين معرفيتين، ويسترد عبر العصر",
-      "summaryOriginal": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves through the AgentCore Gateway, and returns grounded, cited answers, with seven layers of observability and both on-demand and continuous evaluation, all deployed as a single CDK application.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-agentic-retrieval-on-a-managed-amazon-bedrock-knowledge-base-with-cdk/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T17:37:06.176578+00:00"
+  "lastFastCheckAt": "2026-10-28T17:42:08.403246+00:00"
 }
