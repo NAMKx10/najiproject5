@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T17:26:47.904626+00:00",
-  "checkedAt": "2026-10-28T17:26:47.904626+00:00",
+  "updatedAt": "2026-10-28T17:31:54.025198+00:00",
+  "checkedAt": "2026-10-28T17:31:54.025198+00:00",
   "newestPublishedAt": "2026-10-28T16:51:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -555,6 +555,32 @@
       "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     },
     {
+      "id": "742d98e20a473cf3682f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "عالم عمل ChatGPT الآخذ في التوسع",
+      "titleOriginal": "ChatGPT’s expanding world of work",
+      "dateLabel": "26 أكتوبر 2026",
+      "dateISO": "2026-10-26",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف بيانات OpenAI Signals حول 165 نشاط عمل في ما يقرب من 100 دولة، وكشف عن كيفية استخدام الأشخاص لـ ChatGPT في العمل وكيف يتغير الاستخدام بمرور الوقت.",
+      "summaryOriginal": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI ChatGPT’s expanding world of work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-26T10:00:00+00:00"
+    },
+    {
       "id": "4c24fcaa39e62ae61b7f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Working with academic communities to build scientific understanding"
-    },
-    {
-      "id": "d2e8fd10eab3b12a4522",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT-6.1 SOL يساعد CodeRabbit على تعزيز الأمن عبر قواعد التعليمات البرمجية المعقدة",
-      "titleOriginal": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم CodeRabbit GPT-6.1 Sol للتحقيق في المخاطر الأمنية عبر قواعد التعليمات البرمجية المعقدة. يساعد وكيلها الأمني المطورين على مراجعة النتائج والإصلاحات المقترحة.",
-      "summaryOriginal": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-28T17:24:55.528501+00:00",
-  "lastFastCheckAt": "2026-10-28T17:26:47.904626+00:00"
+  "lastFastCheckAt": "2026-10-28T17:31:54.025198+00:00"
 }
