@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-28T00:02:53.040974+00:00",
-  "checkedAt": "2026-10-28T00:02:53.040974+00:00",
+  "updatedAt": "2026-10-28T00:05:32.686477+00:00",
+  "checkedAt": "2026-10-28T00:05:32.686477+00:00",
   "newestPublishedAt": "2026-10-27T18:03:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -702,27 +702,33 @@
       "searchAliases": "Anthropic Anthropic files S-1 with the SEC for proposed initial public offering"
     },
     {
-      "id": "12839b58c8764ba6e72d",
+      "id": "56524419b0b1f4cef9f9",
       "company": "Amazon",
       "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تعلم التعزيز متعدد الدوران على Amazon SageMaker AI: دليل عملي",
-      "titleOriginal": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "type": "مستجد تقني",
+      "title": "تنسيق التحجيم التلقائي لنقطة نهاية SageMaker AI مع AWS CDK",
+      "titleOriginal": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
       "dateLabel": "23 أكتوبر 2026",
       "dateISO": "2026-10-23",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقوم التعلم المعزز متعدد الدوران (MTRL) على Amazon SageMaker AI بتدريب النماذج على نتيجة مهمة كاملة متعددة الخطوات بدلاً من الخطوات المسماة. هذا الدليل العملي",
-      "summaryOriginal": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serving settings.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يؤدي تحديث نقطة نهاية SageMaker AI التي تم تسجيلها للتحجيم التلقائي للتطبيق إلى فشل عمليات نشر AWS CloudFormation و AWS CDK. يوضح هذا المنشور كيفية بناء ريوساب",
+      "summaryOriginal": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint and its scaling in a single deployment.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide"
+      "searchAliases": "Amazon Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-23T16:30:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-28T00:02:53.040974+00:00"
+  "lastDeepCheckAt": "2026-10-28T00:02:53.040974+00:00",
+  "lastFastCheckAt": "2026-10-28T00:05:32.686477+00:00"
 }
