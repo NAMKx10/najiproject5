@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T01:45:51.345462+00:00",
-  "checkedAt": "2026-10-29T01:45:51.345462+00:00",
+  "updatedAt": "2026-10-29T01:48:28.351533+00:00",
+  "checkedAt": "2026-10-29T01:48:28.351533+00:00",
   "newestPublishedAt": "2026-10-28T18:28:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -678,15 +678,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T22:00:00+00:00"
+      "searchAliases": "OpenAI Greptile takes bug detection beyond code review with GPT-6 Astra"
     },
     {
-      "id": "8c9a51bdfd4d02c9d4b0",
+      "id": "cb44053ddef9ee1a2c95",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -699,20 +694,15 @@
       "summary": "مع تحديثات البرامج 27.2 التي تم إصدارها اليوم، يتوسع Siri AI ليشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية.",
       "summaryOriginal": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today",
+      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Siri AI is available in more languages starting today",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T18:37:30.189000+00:00"
+      "searchAliases": "Apple Siri AI is available in more languages starting today"
     },
     {
-      "id": "54f5170bd163deb02ab3",
+      "id": "b642d23b1da2068ee920",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -725,20 +715,14 @@
       "summary": "تحتاج رؤية الكمبيوتر على مستوى الأسطول إلى نموذج لكل كاميرا، وليس نموذجًا واحدًا للأسطول بأكمله. يقدم هذا المنشور بنية مرجعية لـ Amazon SageMaker SDK v3 تعمل",
       "summaryOriginal": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T17:56:58+00:00"
+      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-28T21:54:48.911162+00:00",
-  "lastFastCheckAt": "2026-10-29T01:45:51.345462+00:00"
+  "lastDeepCheckAt": "2026-10-29T01:48:28.351533+00:00"
 }
