@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:20:26.494611+00:00",
-  "checkedAt": "2026-10-29T16:20:26.494611+00:00",
+  "updatedAt": "2026-10-29T16:25:33.278333+00:00",
+  "checkedAt": "2026-10-29T16:25:33.278333+00:00",
   "newestPublishedAt": "2026-10-29T16:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -248,6 +248,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+    },
+    {
+      "id": "d25312469f90de5e795f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف نكتشف عدم محاذاة النموذج الحدودي",
+      "titleOriginal": "How we detect frontier model misalignment",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم OpenAI المراقبة متعددة الطبقات للكشف عن اختلال نموذج الحدود وسلوك الوكيل غير المصرح به حتى يتمكن المستجيبون من التدخل قبل تصاعد الحوادث.",
+      "summaryOriginal": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How we detect frontier model misalignment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T11:00:00+00:00"
     },
     {
       "id": "b0e8c8ec7a6e441c858e",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Apple Apple Creator Studio adds powerful new AI features and even more creative tools"
-    },
-    {
-      "id": "85c89db2878c25ff6b1a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسع OpenAI شراكتها مع Oracle لجلب تطبيقاتها إلى ChatGPT",
-      "titleOriginal": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل OpenAI وOracle على توسيع شراكتهما لجلب تطبيقات الأعمال ووكلاء الذكاء الاصطناعي إلى ChatGPT وتشغيل عروض Oracle الجديدة.",
-      "summaryOriginal": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:20:26.494611+00:00"
+  "lastFastCheckAt": "2026-10-29T16:25:33.278333+00:00"
 }
