@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T13:33:04.834808+00:00",
-  "checkedAt": "2026-10-29T13:33:04.834808+00:00",
-  "newestPublishedAt": "2026-10-29T00:00:00+00:00",
+  "updatedAt": "2026-10-29T13:38:04.964659+00:00",
+  "checkedAt": "2026-10-29T13:38:04.964659+00:00",
+  "newestPublishedAt": "2026-10-29T13:37:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2991e858c7dcc01d36e3",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "مفتاح الجرانيت 4.1.1 — قم بتحديث الطرز مثلك قم بتحديث البرامج",
+      "titleOriginal": "Granite Switch 4.1.1 — Update models like you update software",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Granite Switch 4.1.1 — Update models like you update software",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T13:37:07+00:00"
+    },
     {
       "id": "26849dea18ac154a4e46",
       "company": "Hugging Face",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T22:00:00+00:00"
-    },
-    {
-      "id": "8c9a51bdfd4d02c9d4b0",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "يتوفر Siri AI بلغات أكثر بدءًا من اليوم",
-      "titleOriginal": "Siri AI is available in more languages starting today",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع تحديثات البرامج 27.2 التي تم إصدارها اليوم، يتوسع Siri AI ليشمل الفرنسية واليابانية والكورية والبرتغالية والإسبانية.",
-      "summaryOriginal": "With the 27.2 software updates released today, Siri AI is expanding to French, Japanese, Korean, Portuguese, and Spanish.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Siri AI is available in more languages starting today",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T18:37:30.189000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T08:29:58.409963+00:00",
-  "lastFastCheckAt": "2026-10-29T13:33:04.834808+00:00"
+  "lastFastCheckAt": "2026-10-29T13:38:04.964659+00:00"
 }
