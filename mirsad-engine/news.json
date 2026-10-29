@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T12:05:33.445053+00:00",
-  "checkedAt": "2026-10-29T12:05:33.445053+00:00",
-  "newestPublishedAt": "2026-10-28T18:28:26+00:00",
+  "updatedAt": "2026-10-29T12:10:36.749136+00:00",
+  "checkedAt": "2026-10-29T12:10:36.749136+00:00",
+  "newestPublishedAt": "2026-10-29T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "26849dea18ac154a4e46",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم AnySpeechRecognizer و AnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
+      "titleOriginal": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/anydecisionmodel",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T00:00:00+00:00"
+    },
     {
       "id": "b0e8c8ec7a6e441c858e",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-26T18:37:30.189000+00:00"
-    },
-    {
-      "id": "54f5170bd163deb02ab3",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "دورة حياة رؤية الكمبيوتر على مستوى الأسطول على الحافة مع SageMaker SDK v3",
-      "titleOriginal": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-      "dateLabel": "26 أكتوبر 2026",
-      "dateISO": "2026-10-26",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحتاج رؤية الكمبيوتر على مستوى الأسطول إلى نموذج لكل كاميرا، وليس نموذجًا واحدًا للأسطول بأكمله. يقدم هذا المنشور بنية مرجعية لـ Amazon SageMaker SDK v3 تعمل",
-      "summaryOriginal": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architecture that trains, quality-gates, compiles per-camera models with SageMaker Neo, and versions thousands of them, with an AWS Step Functions layer pacing fleet-scale retraining within account quotas.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-26T17:56:58+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T08:29:58.409963+00:00",
-  "lastFastCheckAt": "2026-10-29T12:05:33.445053+00:00"
+  "lastFastCheckAt": "2026-10-29T12:10:36.749136+00:00"
 }
