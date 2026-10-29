@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T15:34:45.054708+00:00",
-  "checkedAt": "2026-10-29T15:34:45.054708+00:00",
+  "updatedAt": "2026-10-29T15:35:19.165703+00:00",
+  "checkedAt": "2026-10-29T15:35:19.165703+00:00",
   "newestPublishedAt": "2026-10-29T13:37:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,64 +111,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Granite Switch 4.1.1 — Update models like you update software",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T13:37:07+00:00"
+      "searchAliases": "Hugging Face Granite Switch 4.1.1 — Update models like you update software"
     },
     {
-      "id": "26849dea18ac154a4e46",
-      "company": "Hugging Face",
-      "logoText": "HF",
+      "id": "6cf41cd21eca44806c49",
+      "company": "Mistral AI",
+      "logoText": "MI",
       "type": "إطلاق أو تحديث",
-      "title": "تقديم AnySpeechRecognizer و AnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
-      "titleOriginal": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "title": "Mistral Large 4 (Le Chonk) هو الآن وزن مفتوح | Mistral",
+      "titleOriginal": "Mistral Large 4 (Le Chonk) is now open weight | Mistral",
       "dateLabel": "29 أكتوبر 2026",
       "dateISO": "2026-10-29",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
+      "summary": "أوزان Mistral Large 4 (Le Chonk) مفتوحة الآن. نموذج متعدد الوسائط 1T، وأفضل نموذج مفتوح الوزن للترميز، تم تدريبه في أوروبا.",
+      "summaryOriginal": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/anydecisionmodel",
-      "sourceLabel": "Hugging Face Blog",
+      "source": "https://mistral.ai/news/mistral-large-4-oss/",
+      "sourceLabel": "Mistral News",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T00:00:00+00:00"
-    },
-    {
-      "id": "87373f135c6571baf56f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحبًا لو تشونك: ميسترال لارج 4 على وجه المعانقة",
-      "titleOriginal": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/mistral-large4",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T00:00:00+00:00"
+      "searchAliases": "Mistral AI Mistral Large 4 (Le Chonk) is now open weight | Mistral"
     },
     {
       "id": "420cecbca7efb393e23e",
@@ -189,12 +153,49 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T00:00:00+00:00"
+      "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+    },
+    {
+      "id": "87373f135c6571baf56f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "مرحبًا لو تشونك: ميسترال لارج 4 على وجه المعانقة",
+      "titleOriginal": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/mistral-large4",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+    },
+    {
+      "id": "26849dea18ac154a4e46",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم AnySpeechRecognizer و AnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
+      "titleOriginal": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/anydecisionmodel",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
       "id": "b0e8c8ec7a6e441c858e",
@@ -720,30 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Expanding our partnership with GSA to bring Claude to all levels of government"
-    },
-    {
-      "id": "30cea2d7226c8240ab77",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الشركاء",
-      "titleOriginal": "Partnerships",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/partnerships",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Partnerships"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-29T08:29:58.409963+00:00",
-  "lastFastCheckAt": "2026-10-29T15:34:45.054708+00:00"
+  "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00"
 }
