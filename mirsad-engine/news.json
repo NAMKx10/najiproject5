@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:35:34.011875+00:00",
-  "checkedAt": "2026-10-29T16:35:34.011875+00:00",
+  "updatedAt": "2026-10-29T16:40:37.694481+00:00",
+  "checkedAt": "2026-10-29T16:40:37.694481+00:00",
   "newestPublishedAt": "2026-10-29T16:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -507,6 +507,32 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
+      "id": "06d22e989aac744f5055",
+      "company": "Apple",
+      "logoText": "",
+      "type": "مستجد تقني",
+      "title": "آبل تكشف النقاب عن جهاز iMac جديد مع M6",
+      "titleOriginal": "Apple unveils new iMac with M6",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت شركة آبل اليوم عن جهاز iMac الجديد الذي يتميز بجهاز M6 فائق السرعة، مما يوفر المزيد من الأداء وقدرات الذكاء الاصطناعي القوية.",
+      "summaryOriginal": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple unveils new iMac with M6",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T12:59:15.245000+00:00"
+    },
+    {
       "id": "3db766f0f08a33671546",
       "company": "Apple",
       "logoText": "",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Retell uses OpenAI models to help power 100M monthly calls"
-    },
-    {
-      "id": "f891eaa66a7cebd698bc",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم Apple جهاز MacBook Pro الجديد مقاس 14 بوصة مع M6",
-      "titleOriginal": "Apple introduces the new 14-inch MacBook Pro with M6",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت شركة آبل اليوم عن جهاز MacBook Pro الجديد مقاس 14 بوصة مع M6، مما يوفر المزيد من الأداء، وقدرات الذكاء الاصطناعي القوية على الجهاز، واتصال أسرع.",
-      "summaryOriginal": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple introduces the new 14-inch MacBook Pro with M6"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:35:34.011875+00:00"
+  "lastFastCheckAt": "2026-10-29T16:40:37.694481+00:00"
 }
