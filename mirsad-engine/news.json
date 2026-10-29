@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:45:58.627246+00:00",
-  "checkedAt": "2026-10-29T16:45:58.627246+00:00",
+  "updatedAt": "2026-10-29T16:51:02.435005+00:00",
+  "checkedAt": "2026-10-29T16:51:02.435005+00:00",
   "newestPublishedAt": "2026-10-29T16:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -507,6 +507,32 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
+      "id": "e0a2ca902f523b0a1016",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تستخدم Retell طرازات OpenAI للمساعدة في تشغيل 100 مليون مكالمة شهرية",
+      "titleOriginal": "Retell uses OpenAI models to help power 100M monthly calls",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتصدر GPT -6 Astra معيار وكيل الصوت الخاص بـ Retell، بينما تساعدها Codex في الوصول إلى معدل تشغيل إيرادات سنوي قدره 1.6 مليون $ لكل موظف.",
+      "summaryOriginal": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/retell-ai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Retell uses OpenAI models to help power 100M monthly calls",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T15:00:00+00:00"
+    },
+    {
       "id": "df4e576d53cbcfa2e0a0",
       "company": "Apple",
       "logoText": "",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?"
-    },
-    {
-      "id": "8efb5d42f5452008d4ea",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "كيف يغير الذكاء الاصطناعي وتيرة الاكتشاف للملايين الذين يعيشون مع الخرف",
-      "titleOriginal": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "هناك 57 مليون شخص في جميع أنحاء العالم يعانون من الخرف اليوم. بالنسبة للباحثين الذين يعملون على مساعدتهم، فإن العقبة ليست نقص الجهد — إنها الكثير من البيانات أيضًا",
-      "summaryOriginal": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:45:58.627246+00:00"
+  "lastFastCheckAt": "2026-10-29T16:51:02.435005+00:00"
 }
