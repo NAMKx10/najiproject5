@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T20:34:12.261006+00:00",
-  "checkedAt": "2026-10-29T20:34:12.261006+00:00",
+  "updatedAt": "2026-10-29T20:38:53.303498+00:00",
+  "checkedAt": "2026-10-29T20:38:53.303498+00:00",
   "newestPublishedAt": "2026-10-29T20:16:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "e2fbefd951bca97449f6",
+      "id": "929467e31e6527ba3237",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,20 +106,15 @@
       "summary": "ملخص مجموعة مستخدمي أمازون كويك في المملكة المتحدة لعام 2026: ثلاثة اجتماعات ربع سنوية، وأكثر من 150 مشاركًا، وقصص عملاء من أريفا وكارسا وبروبولس لاب حول استخدام الذكاء الاصطناعي الوكيل و",
       "summaryOriginal": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How the UK Amazon Quick User Group grew in 2026",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T20:16:40+00:00"
+      "searchAliases": "Amazon How the UK Amazon Quick User Group grew in 2026"
     },
     {
-      "id": "b7c19686d98bfd2d93e2",
+      "id": "9a9a54145fd748f9cc7e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "يقدم فريق منصة Agentic من إبسيلون اختبار واجهة المستخدم كخدمة مدارة ومتعددة المستأجرين مبنية على Amazon Nova Act و Amazon Bedrock AgentCore Browser Tool. الاختبارات مكتوبة",
       "summaryOriginal": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure overhead.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building intent-driven UI testing with Amazon Nova Act",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T18:20:27+00:00"
+      "searchAliases": "Amazon Building intent-driven UI testing with Amazon Nova Act"
     },
     {
-      "id": "bae2606d182c9a153c1d",
+      "id": "c7cc2473e82ca83a6abb",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,17 +148,12 @@
       "summary": "تحويل هجرة PHP إلى جافا من قفزة إيمان لمرة واحدة إلى عملية قابلة للقياس والتكرار مع كيرو. يمشي هذا المنشور عبر محرك قابل لإعادة الاستخدام: اكتشاف ميكانيكي",
       "summaryOriginal": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a parity harness.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a repeatable PHP-to-Java migration engine with Kiro",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T18:14:17+00:00"
+      "searchAliases": "Amazon Build a repeatable PHP-to-Java migration engine with Kiro"
     },
     {
       "id": "c70818ef4b7d93bab4f9",
@@ -189,15 +174,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI An updated Model Spec for more capable and beneficial AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T17:00:00+00:00"
+      "searchAliases": "OpenAI An updated Model Spec for more capable and beneficial AI"
     },
     {
-      "id": "dec080604f9081fc3144",
+      "id": "c6d1ddfe72b1275406ab",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -210,20 +190,15 @@
       "summary": "إدارة حصص دفعة AWS هي إمكانية جدولة جديدة يمكنك استخدامها لتقسيم سعة وحدة معالجة الرسومات إلى حصص لكل فريق أو مشروع، وإقراض وحدات التحكم في السعة الخاملة تلقائيًا",
       "summaryOriginal": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs",
+      "source": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T16:58:57+00:00"
+      "searchAliases": "Amazon Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs"
     },
     {
-      "id": "fab6f3e5011b375114d5",
+      "id": "b6409102d5fb42212a8f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -236,20 +211,15 @@
       "summary": "حولت MoEngage ما يقرب من 400 واجهة برمجة تطبيقات REST خاصة عبر 7 مناطق AWS إلى أدوات وكيل ذات نطاق إذن مع Amazon Bedrock AgentCore Gateway. لا توجد خوادم MCP لكل خدمة، n",
       "summaryOriginal": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon VPC Lattice egress made it work.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T16:54:52+00:00"
+      "searchAliases": "Amazon How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway"
     },
     {
-      "id": "8d0353bf4736a21518d6",
+      "id": "e66561f07afb612560c5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -262,20 +232,15 @@
       "summary": "NVIDIA Nemotron 3.5 Super VL هو نموذج مزيج من الخبراء بمعيار 120B يجمع بين التفكير المنطقي واستخدام الأداة والفهم متعدد الوسائط. يستكشف هذا المنشور هندسته المعمارية",
       "summaryOriginal": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA Dynamo and vLLM.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T16:11:08+00:00"
+      "searchAliases": "Amazon Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS"
     },
     {
-      "id": "98cdb0248880b96c9434",
+      "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -288,43 +253,12 @@
       "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
       "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T16:00:35+00:00"
-    },
-    {
-      "id": "d8568ffbacc92b3ca0eb",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف تقوم Ropes & Gray بتطوير الذكاء الاصطناعي للعناية بالمعاملات",
-      "titleOriginal": "How Ropes & Gray is developing AI for transactional diligence",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقوم Ropes & Gray بتطوير الذكاء الاصطناعي للعناية بالمعاملات مع OpenAI. يراجع المحامون الوثائق والملخصات والتقارير المجمعة قبل تقديم المشورة للعملاء.",
-      "summaryOriginal": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ropes-gray-ai-diligence",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Ropes & Gray is developing AI for transactional diligence",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T07:00:00+00:00"
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     },
     {
       "id": "2991e858c7dcc01d36e3",
@@ -367,6 +301,48 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Mistral Large 4 (Le Chonk) is now open weight | Mistral"
+    },
+    {
+      "id": "d25312469f90de5e795f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف نكتشف عدم محاذاة النموذج الحدودي",
+      "titleOriginal": "How we detect frontier model misalignment",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم OpenAI المراقبة متعددة الطبقات للكشف عن اختلال نموذج الحدود وسلوك الوكيل غير المصرح به حتى يتمكن المستجيبون من التدخل قبل تصاعد الحوادث.",
+      "summaryOriginal": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How we detect frontier model misalignment"
+    },
+    {
+      "id": "d8568ffbacc92b3ca0eb",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "كيف تقوم Ropes & Gray بتطوير الذكاء الاصطناعي للعناية بالمعاملات",
+      "titleOriginal": "How Ropes & Gray is developing AI for transactional diligence",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم Ropes & Gray بتطوير الذكاء الاصطناعي للعناية بالمعاملات مع OpenAI. يراجع المحامون الوثائق والملخصات والتقارير المجمعة قبل تقديم المشورة للعملاء.",
+      "summaryOriginal": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/ropes-gray-ai-diligence",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Ropes & Gray is developing AI for transactional diligence"
     },
     {
       "id": "420cecbca7efb393e23e",
@@ -430,32 +406,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
-    },
-    {
-      "id": "d25312469f90de5e795f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف نكتشف عدم محاذاة النموذج الحدودي",
-      "titleOriginal": "How we detect frontier model misalignment",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم OpenAI المراقبة متعددة الطبقات للكشف عن اختلال نموذج الحدود وسلوك الوكيل غير المصرح به حتى يتمكن المستجيبون من التدخل قبل تصاعد الحوادث.",
-      "summaryOriginal": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we detect frontier model misalignment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T11:00:00+00:00"
     },
     {
       "id": "b0e8c8ec7a6e441c858e",
@@ -689,7 +639,7 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
-      "id": "a75e9217787aff3b5c96",
+      "id": "32af3dd4f452bb40275a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -702,17 +652,12 @@
       "summary": "تم تسمية AWS كقائد في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة (CCaaS) لعملاء AWS Connect. يمثل هذا التقدير ميلًا مهمًا",
       "summaryOriginal": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T18:03:12+00:00"
+      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service"
     },
     {
       "id": "b22251121bede6db1957",
@@ -733,67 +678,51 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T17:16:52+00:00"
+      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3"
     },
     {
-      "id": "468973e78b8bb46f5006",
-      "company": "Amazon",
-      "logoText": "AWS",
+      "id": "7cb9f6f66bd501832be8",
+      "company": "Hugging Face",
+      "logoText": "HF",
       "type": "بحث",
-      "title": "الإعلان عن الصور المفهرسة حسب مؤشر SOCI لوظائف الذكاء الاصطناعي الأسرع من SageMaker",
-      "titleOriginal": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+      "title": "هل يمكننا الوثوق في LLMs للحكم على ما إذا كانت فكرة البحث جديدة ؟",
+      "titleOriginal": "Can we trust LLMs to judge whether a research idea is novel?",
       "dateLabel": "27 أكتوبر 2026",
       "dateISO": "2026-10-27",
       "category": "research",
       "importance": 86,
-      "summary": "يؤدي فهرسة OCI (SOCI) المطلوبة لمهام التدريب والمعالجة في Amazon SageMaker AI إلى تنزيل صورة الحاوية بالكامل من المسار الحرج. SageMaker AI lazy - loads your",
-      "summaryOriginal": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-loads your image to start containers in seconds instead of minutes, with no changes to your job definition. See the benchmarks and how to adopt it.",
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-soci-indexed-images-for-faster-sagemaker-ai-jobs",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "source": "https://huggingface.co/blog/allenai/novelty-bench",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Announcing SOCI-indexed images for faster SageMaker AI jobs",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T17:00:39+00:00"
+      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?"
     },
     {
-      "id": "c7d5dacaf387274b059a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "إصلاح تحيز التقييم لفتح نماذج أفضل على Amazon Bedrock",
-      "titleOriginal": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+      "id": "8efb5d42f5452008d4ea",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "كيف يغير الذكاء الاصطناعي وتيرة الاكتشاف للملايين الذين يعيشون مع الخرف",
+      "titleOriginal": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
       "dateLabel": "27 أكتوبر 2026",
       "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "وجد الباحث عن الممتلكات أن 96.8 ٪ من علامات تقييم الرؤية والذكاء الاصطناعي الخاصة بهم موروثة من النموذج الحالي، مما يخفي دقتها الحقيقية. شاهد كيف بنوا أرضًا غير متحيزة",
-      "summaryOriginal": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbiased ground truth, applied evolutionary prompt optimization, and selected a more accurate, cost-effective model on Amazon Bedrock, cutting cost by 86% across 11 image-quality attributes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fix-evaluation-bias-to-unlock-better-models-on-amazon-bedrock",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "category": "research",
+      "importance": 86,
+      "summary": "هناك 57 مليون شخص في جميع أنحاء العالم يعانون من الخرف اليوم. بالنسبة للباحثين الذين يعملون على مساعدتهم، فإن العقبة ليست نقص الجهد — إنها الكثير من البيانات أيضًا",
+      "summaryOriginal": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fix evaluation bias to unlock better models on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:53:02+00:00"
+      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T20:34:12.261006+00:00"
+  "lastDeepCheckAt": "2026-10-29T20:38:53.303498+00:00"
 }
