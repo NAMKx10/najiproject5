@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T18:12:07.625106+00:00",
-  "checkedAt": "2026-10-29T18:12:07.625106+00:00",
-  "newestPublishedAt": "2026-10-29T17:00:00+00:00",
+  "updatedAt": "2026-10-29T18:17:09.925070+00:00",
+  "checkedAt": "2026-10-29T18:17:09.925070+00:00",
+  "newestPublishedAt": "2026-10-29T18:14:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "bae2606d182c9a153c1d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء محرك ترحيل PHP إلى جافا قابل للتكرار باستخدام Kiro",
+      "titleOriginal": "Build a repeatable PHP-to-Java migration engine with Kiro",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تحويل هجرة PHP إلى جافا من قفزة إيمان لمرة واحدة إلى عملية قابلة للقياس والتكرار مع كيرو. يمشي هذا المنشور عبر محرك قابل لإعادة الاستخدام: اكتشاف ميكانيكي",
+      "summaryOriginal": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a parity harness.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a repeatable PHP-to-Java migration engine with Kiro",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T18:14:17+00:00"
+    },
     {
       "id": "c70818ef4b7d93bab4f9",
       "company": "OpenAI",
@@ -765,35 +791,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-27T16:12:42+00:00"
-    },
-    {
-      "id": "1a9f0a56e7dc4738a50d",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "كيف يغير الذكاء الاصطناعي وتيرة الاكتشاف للملايين الذين يعيشون مع الخرف",
-      "titleOriginal": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "هناك 57 مليون شخص في جميع أنحاء العالم يعانون من الخرف اليوم. بالنسبة للباحثين الذين يعملون على مساعدتهم، فإن العقبة ليست نقص الجهد — إنها الكثير من البيانات أيضًا",
-      "summaryOriginal": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T15:00:20+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T18:12:07.625106+00:00"
+  "lastFastCheckAt": "2026-10-29T18:17:09.925070+00:00"
 }
