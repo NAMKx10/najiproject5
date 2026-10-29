@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:00:14.787026+00:00",
-  "checkedAt": "2026-10-29T16:00:14.787026+00:00",
-  "newestPublishedAt": "2026-10-29T13:37:07+00:00",
+  "updatedAt": "2026-10-29T16:05:15.268687+00:00",
+  "checkedAt": "2026-10-29T16:05:15.268687+00:00",
+  "newestPublishedAt": "2026-10-29T16:00:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "98cdb0248880b96c9434",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
+      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
+      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T16:00:35+00:00"
+    },
     {
       "id": "2991e858c7dcc01d36e3",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Check Point accelerates vulnerability research with Daybreak"
-    },
-    {
-      "id": "1d6e2957ea2304100a94",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع شراكتنا مع الهيئة العامة للرياضة لجلب كلود إلى جميع مستويات الحكومة",
-      "titleOriginal": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Expanding our partnership with GSA to bring Claude to all levels of government"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:00:14.787026+00:00"
+  "lastFastCheckAt": "2026-10-29T16:05:15.268687+00:00"
 }
