@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T14:44:02.194695+00:00",
-  "checkedAt": "2026-10-29T14:44:02.194695+00:00",
+  "updatedAt": "2026-10-29T14:49:05.583254+00:00",
+  "checkedAt": "2026-10-29T14:49:05.583254+00:00",
   "newestPublishedAt": "2026-10-29T13:37:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -164,6 +164,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "id": "420cecbca7efb393e23e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "بحث",
+      "title": "الإعلان عن مشروع ProtoStar: جعل العلوم الممولة من القطاع العام جاهزة",
+      "titleOriginal": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "research",
+      "importance": 86,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/announcing-project-protostar",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Partnerships"
-    },
-    {
-      "id": "51bf7b9cdc434ee562d0",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "مستجد تقني",
-      "title": "يجب أن يكون زميلك التالي في فريق المبيعات روبوت Grok",
-      "titleOriginal": "Your next sales teammate should be a Grok Bot",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام فريق مبيعات SpaceXSI ببناء روبوتات مشتركة للتنقيب والاقتباس ومراجعة الصفقات بحيث يعمل كل مندوب من نفس الخبرة الحديثة.",
-      "summaryOriginal": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/grok-bot-sales",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Your next sales teammate should be a Grok Bot"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T08:29:58.409963+00:00",
-  "lastFastCheckAt": "2026-10-29T14:44:02.194695+00:00"
+  "lastFastCheckAt": "2026-10-29T14:49:05.583254+00:00"
 }
