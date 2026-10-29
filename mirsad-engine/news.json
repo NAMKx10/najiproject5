@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T18:17:09.925070+00:00",
-  "checkedAt": "2026-10-29T18:17:09.925070+00:00",
-  "newestPublishedAt": "2026-10-29T18:14:17+00:00",
+  "updatedAt": "2026-10-29T18:22:17.383422+00:00",
+  "checkedAt": "2026-10-29T18:22:17.383422+00:00",
+  "newestPublishedAt": "2026-10-29T18:20:27+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b7c19686d98bfd2d93e2",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء اختبار واجهة المستخدم القائم على النوايا باستخدام Amazon Nova Act",
+      "titleOriginal": "Building intent-driven UI testing with Amazon Nova Act",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يقدم فريق منصة Agentic من إبسيلون اختبار واجهة المستخدم كخدمة مدارة ومتعددة المستأجرين مبنية على Amazon Nova Act و Amazon Bedrock AgentCore Browser Tool. الاختبارات مكتوبة",
+      "summaryOriginal": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure overhead.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building intent-driven UI testing with Amazon Nova Act",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T18:20:27+00:00"
+    },
     {
       "id": "bae2606d182c9a153c1d",
       "company": "Amazon",
@@ -765,35 +791,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-27T16:50:55+00:00"
-    },
-    {
-      "id": "7cb9f6f66bd501832be8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "هل يمكننا الوثوق في LLMs للحكم على ما إذا كانت فكرة البحث جديدة ؟",
-      "titleOriginal": "Can we trust LLMs to judge whether a research idea is novel?",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/novelty-bench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:12:42+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T18:17:09.925070+00:00"
+  "lastFastCheckAt": "2026-10-29T18:22:17.383422+00:00"
 }
