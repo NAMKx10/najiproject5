@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T20:13:59.356556+00:00",
-  "checkedAt": "2026-10-29T20:13:59.356556+00:00",
-  "newestPublishedAt": "2026-10-29T18:20:27+00:00",
+  "updatedAt": "2026-10-29T20:19:05.013211+00:00",
+  "checkedAt": "2026-10-29T20:19:05.013211+00:00",
+  "newestPublishedAt": "2026-10-29T20:16:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e2fbefd951bca97449f6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف نمت مجموعة مستخدمي أمازون السريعة في المملكة المتحدة في عام 2026",
+      "titleOriginal": "How the UK Amazon Quick User Group grew in 2026",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "business",
+      "importance": 82,
+      "summary": "ملخص مجموعة مستخدمي أمازون كويك في المملكة المتحدة لعام 2026: ثلاثة اجتماعات ربع سنوية، وأكثر من 150 مشاركًا، وقصص عملاء من أريفا وكارسا وبروبولس لاب حول استخدام الذكاء الاصطناعي الوكيل و",
+      "summaryOriginal": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How the UK Amazon Quick User Group grew in 2026",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T20:16:40+00:00"
+    },
     {
       "id": "b7c19686d98bfd2d93e2",
       "company": "Amazon",
@@ -765,35 +791,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-27T16:53:02+00:00"
-    },
-    {
-      "id": "1e1f7af0fa7db1a529eb",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تتفوق Exowatt على النماذج الحدودية من حيث الدقة مع تخصيص طراز SageMaker بدون خادم",
-      "titleOriginal": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "في هذا المنشور، نوضح كيف استخدمت Exowatt تخصيص نموذج Amazon SageMaker AI بدون خادم لبناء خط أنابيب ذكاء اصطناعي قابل للتكرار ينتج نماذج دقيقة محددة المهام",
-      "summaryOriginal": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower cost.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:50:55+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T20:13:59.356556+00:00"
+  "lastFastCheckAt": "2026-10-29T20:19:05.013211+00:00"
 }
