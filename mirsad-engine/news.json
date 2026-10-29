@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:25:33.278333+00:00",
-  "checkedAt": "2026-10-29T16:25:33.278333+00:00",
+  "updatedAt": "2026-10-29T16:30:33.471767+00:00",
+  "checkedAt": "2026-10-29T16:30:33.471767+00:00",
   "newestPublishedAt": "2026-10-29T16:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -507,6 +507,32 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
+      "id": "85c89db2878c25ff6b1a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسع OpenAI شراكتها مع Oracle لجلب تطبيقاتها إلى ChatGPT",
+      "titleOriginal": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل OpenAI وOracle على توسيع شراكتهما لجلب تطبيقات الأعمال ووكلاء الذكاء الاصطناعي إلى ChatGPT وتشغيل عروض Oracle الجديدة.",
+      "summaryOriginal": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T07:00:00+00:00"
+    },
+    {
       "id": "32af3dd4f452bb40275a",
       "company": "Amazon",
       "logoText": "AWS",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Apple Apple unveils new iMac with M6"
-    },
-    {
-      "id": "7856facceb84dfbc265b",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "يضيف Apple Creator Studio ميزات ذكاء اصطناعي جديدة قوية وأدوات أكثر إبداعًا",
-      "titleOriginal": "Apple Creator Studio adds powerful new AI features and even more creative tools",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم Apple تحديثات إلى Apple Creator Studio، وهي مجموعة من التطبيقات الإبداعية المصممة لوضع أدوات الاستوديو في أيدي منشئي المحتوى.",
-      "summaryOriginal": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple Creator Studio adds powerful new AI features and even more creative tools"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:25:33.278333+00:00"
+  "lastFastCheckAt": "2026-10-29T16:30:33.471767+00:00"
 }
