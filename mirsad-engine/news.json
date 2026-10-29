@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:51:02.435005+00:00",
-  "checkedAt": "2026-10-29T16:51:02.435005+00:00",
-  "newestPublishedAt": "2026-10-29T16:11:08+00:00",
+  "updatedAt": "2026-10-29T16:56:05.494500+00:00",
+  "checkedAt": "2026-10-29T16:56:05.494500+00:00",
+  "newestPublishedAt": "2026-10-29T16:54:52+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fab6f3e5011b375114d5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف حولت MoEngage أكثر من 400 واجهة برمجة تطبيقات إلى أدوات وكيل مع بوابة AgentCore",
+      "titleOriginal": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "tools",
+      "importance": 78,
+      "summary": "حولت MoEngage ما يقرب من 400 واجهة برمجة تطبيقات REST خاصة عبر 7 مناطق AWS إلى أدوات وكيل ذات نطاق إذن مع Amazon Bedrock AgentCore Gateway. لا توجد خوادم MCP لكل خدمة، n",
+      "summaryOriginal": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon VPC Lattice egress made it work.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T16:54:52+00:00"
+    },
     {
       "id": "8d0353bf4736a21518d6",
       "company": "Amazon",
@@ -507,6 +533,32 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
+      "id": "1a9f0a56e7dc4738a50d",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "كيف يغير الذكاء الاصطناعي وتيرة الاكتشاف للملايين الذين يعيشون مع الخرف",
+      "titleOriginal": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "research",
+      "importance": 86,
+      "summary": "هناك 57 مليون شخص في جميع أنحاء العالم يعانون من الخرف اليوم. بالنسبة للباحثين الذين يعملون على مساعدتهم، فإن العقبة ليست نقص الجهد — إنها الكثير من البيانات أيضًا",
+      "summaryOriginal": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T15:00:20+00:00"
+    },
+    {
       "id": "e0a2ca902f523b0a1016",
       "company": "OpenAI",
       "logoText": "AI",
@@ -719,51 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Fix evaluation bias to unlock better models on Amazon Bedrock"
-    },
-    {
-      "id": "3b81090c2ec7c9d3acdc",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تتفوق Exowatt على النماذج الحدودية من حيث الدقة مع تخصيص طراز SageMaker بدون خادم",
-      "titleOriginal": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "في هذا المنشور، نوضح كيف استخدمت Exowatt تخصيص نموذج Amazon SageMaker AI بدون خادم لبناء خط أنابيب ذكاء اصطناعي قابل للتكرار ينتج نماذج دقيقة محددة المهام",
-      "summaryOriginal": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models for two deployment targets, edge and cloud, achieving higher accuracy than frontier models at up to 49x lower cost.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/exowatt-beats-frontier-models-on-accuracy-with-sagemaker-serverless-model-customization/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Exowatt beats frontier models on accuracy with SageMaker serverless model customization"
-    },
-    {
-      "id": "7cb9f6f66bd501832be8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "هل يمكننا الوثوق في LLMs للحكم على ما إذا كانت فكرة البحث جديدة ؟",
-      "titleOriginal": "Can we trust LLMs to judge whether a research idea is novel?",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/novelty-bench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:51:02.435005+00:00"
+  "lastFastCheckAt": "2026-10-29T16:56:05.494500+00:00"
 }
