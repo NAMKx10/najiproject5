@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:40:37.694481+00:00",
-  "checkedAt": "2026-10-29T16:40:37.694481+00:00",
+  "updatedAt": "2026-10-29T16:45:58.627246+00:00",
+  "checkedAt": "2026-10-29T16:45:58.627246+00:00",
   "newestPublishedAt": "2026-10-29T16:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -507,6 +507,32 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
+      "id": "df4e576d53cbcfa2e0a0",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "تقدم Apple جهاز MacBook Pro الجديد مقاس 14 بوصة مع M6",
+      "titleOriginal": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت شركة آبل اليوم عن جهاز MacBook Pro الجديد مقاس 14 بوصة مع M6، مما يوفر المزيد من الأداء، وقدرات الذكاء الاصطناعي القوية على الجهاز، واتصال أسرع.",
+      "summaryOriginal": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple introduces the new 14-inch MacBook Pro with M6",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T12:59:39.082000+00:00"
+    },
+    {
       "id": "06d22e989aac744f5055",
       "company": "Apple",
       "logoText": "",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
-    },
-    {
-      "id": "e0a2ca902f523b0a1016",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تستخدم Retell طرازات OpenAI للمساعدة في تشغيل 100 مليون مكالمة شهرية",
-      "titleOriginal": "Retell uses OpenAI models to help power 100M monthly calls",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتصدر GPT -6 Astra معيار وكيل الصوت الخاص بـ Retell، بينما تساعدها Codex في الوصول إلى معدل تشغيل إيرادات سنوي قدره 1.6 مليون $ لكل موظف.",
-      "summaryOriginal": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/retell-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Retell uses OpenAI models to help power 100M monthly calls"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:40:37.694481+00:00"
+  "lastFastCheckAt": "2026-10-29T16:45:58.627246+00:00"
 }
