@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-29T16:30:33.471767+00:00",
-  "checkedAt": "2026-10-29T16:30:33.471767+00:00",
+  "updatedAt": "2026-10-29T16:35:34.011875+00:00",
+  "checkedAt": "2026-10-29T16:35:34.011875+00:00",
   "newestPublishedAt": "2026-10-29T16:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -507,6 +507,32 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
+      "id": "3db766f0f08a33671546",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "يضيف Apple Creator Studio ميزات ذكاء اصطناعي جديدة قوية وأدوات أكثر إبداعًا",
+      "titleOriginal": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "dateLabel": "27 أكتوبر 2026",
+      "dateISO": "2026-10-27",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم Apple تحديثات إلى Apple Creator Studio، وهي مجموعة من التطبيقات الإبداعية المصممة لوضع أدوات الاستوديو في أيدي منشئي المحتوى.",
+      "summaryOriginal": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-27T12:58:45.444000+00:00"
+    },
+    {
       "id": "85c89db2878c25ff6b1a",
       "company": "OpenAI",
       "logoText": "AI",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Apple Apple introduces the new 14-inch MacBook Pro with M6"
-    },
-    {
-      "id": "28b04364ad74b6e62387",
-      "company": "Apple",
-      "logoText": "",
-      "type": "مستجد تقني",
-      "title": "آبل تكشف النقاب عن جهاز iMac جديد مع M6",
-      "titleOriginal": "Apple unveils new iMac with M6",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت شركة آبل اليوم عن جهاز iMac الجديد الذي يتميز بجهاز M6 فائق السرعة، مما يوفر المزيد من الأداء وقدرات الذكاء الاصطناعي القوية.",
-      "summaryOriginal": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple unveils new iMac with M6"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-29T15:35:19.165703+00:00",
-  "lastFastCheckAt": "2026-10-29T16:30:33.471767+00:00"
+  "lastFastCheckAt": "2026-10-29T16:35:34.011875+00:00"
 }
