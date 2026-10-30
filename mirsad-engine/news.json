@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T21:39:28.311219+00:00",
-  "checkedAt": "2026-10-30T21:39:28.311219+00:00",
-  "newestPublishedAt": "2026-10-30T17:57:24+00:00",
+  "updatedAt": "2026-10-30T21:44:32.088827+00:00",
+  "checkedAt": "2026-10-30T21:44:32.088827+00:00",
+  "newestPublishedAt": "2026-10-30T21:40:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9fee0adff9ef5d68629f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "معاينة تطبيقات الويب مباشرة بينما يقوم وكيل الترميز الخاص بك ببنائها باستخدام وقت تشغيل Amazon Bedrock AgentCore",
+      "titleOriginal": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تمنح نقاط نهاية Amazon Bedrock AgentCore Session كل جلسة تشغيل عنوان URL مصادق عليه يعيد توجيه أي طريقة HTTP ومسار واتصال WebSocket إلى المنافذ التي",
+      "summaryOriginal": "Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T21:40:03+00:00"
+    },
     {
       "id": "c546ab9bf5fb0fe3e76e",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Legora is building the agentic operating system for legal work"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T18:53:16.348077+00:00",
-  "lastFastCheckAt": "2026-10-30T21:39:28.311219+00:00"
+  "lastFastCheckAt": "2026-10-30T21:44:32.088827+00:00"
 }
