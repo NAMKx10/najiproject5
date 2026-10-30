@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T06:26:15.473164+00:00",
-  "checkedAt": "2026-10-30T06:26:15.473164+00:00",
+  "updatedAt": "2026-10-30T06:29:36.430926+00:00",
+  "checkedAt": "2026-10-30T06:29:36.430926+00:00",
   "newestPublishedAt": "2026-10-29T20:16:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -639,7 +639,7 @@
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     },
     {
-      "id": "a75e9217787aff3b5c96",
+      "id": "32af3dd4f452bb40275a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -652,17 +652,12 @@
       "summary": "تم تسمية AWS كقائد في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة (CCaaS) لعملاء AWS Connect. يمثل هذا التقدير ميلًا مهمًا",
       "summaryOriginal": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
+      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T18:03:12+00:00"
+      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service"
     },
     {
       "id": "b22251121bede6db1957",
@@ -683,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T17:16:52+00:00"
+      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3"
     },
     {
       "id": "7cb9f6f66bd501832be8",
@@ -709,15 +699,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:12:42+00:00"
+      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?"
     },
     {
-      "id": "1a9f0a56e7dc4738a50d",
+      "id": "8efb5d42f5452008d4ea",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -730,20 +715,14 @@
       "summary": "هناك 57 مليون شخص في جميع أنحاء العالم يعانون من الخرف اليوم. بالنسبة للباحثين الذين يعملون على مساعدتهم، فإن العقبة ليست نقص الجهد — إنها الكثير من البيانات أيضًا",
       "summaryOriginal": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia",
+      "source": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T15:00:20+00:00"
+      "searchAliases": "NVIDIA How AI Is Changing the Pace of Discovery for Millions Living With Dementia"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-30T00:25:31.847004+00:00",
-  "lastFastCheckAt": "2026-10-30T06:26:15.473164+00:00"
+  "lastDeepCheckAt": "2026-10-30T06:29:36.430926+00:00"
 }
