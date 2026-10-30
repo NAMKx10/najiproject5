@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T22:57:57.731853+00:00",
-  "checkedAt": "2026-10-30T22:57:57.731853+00:00",
+  "updatedAt": "2026-10-30T22:58:43.639382+00:00",
+  "checkedAt": "2026-10-30T22:58:43.639382+00:00",
   "newestPublishedAt": "2026-10-30T22:42:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "5dc4209b6f2ea871b89c",
+      "id": "a78bc4f374a9bb36ff22",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "يقدم هذا المنشور نموذجًا تشغيليًا من خمس مراحل لإدارة تكلفة Amazon Bedrock: إسناد كل دولار إلى مالك، وجعل كل طلب قابلاً للملاحظة، وفرض الميزانيات، و opti",
       "summaryOriginal": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "source": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T22:42:24+00:00"
+      "searchAliases": "Amazon Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
     },
     {
-      "id": "9fee0adff9ef5d68629f",
+      "id": "fefcbaa63f3c875fd9f1",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,17 +127,12 @@
       "summary": "تمنح نقاط نهاية Amazon Bedrock AgentCore Session كل جلسة تشغيل عنوان URL مصادق عليه يعيد توجيه أي طريقة HTTP ومسار واتصال WebSocket إلى المنافذ التي",
       "summaryOriginal": "Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime",
+      "source": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T21:40:03+00:00"
+      "searchAliases": "Amazon Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime"
     },
     {
       "id": "c546ab9bf5fb0fe3e76e",
@@ -289,12 +279,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Fair use benefits everyone",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T00:00:00+00:00"
+      "searchAliases": "OpenAI Fair use benefits everyone"
     },
     {
       "id": "929467e31e6527ba3237",
@@ -633,7 +618,7 @@
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
-      "id": "fa110f900f0361cb5168",
+      "id": "bb4f38b31c3c1d74544a",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "إطلاق أو تحديث",
@@ -646,20 +631,15 @@
       "summary": "إذا كنت ترغب في التنافس، فأنت بحاجة إلى أن تكون متعدد النماذج. وإذا كنت ترغب في الاستفادة من كل ما تقدمه نماذج الذكاء الاصطناعي المختلفة، فأنت بحاجة إلى تسخير كبير. لكن",
       "summaryOriginal": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work appeared first on The Official Microsoft Blog .",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T16:51:35+00:00"
+      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work"
     },
     {
-      "id": "7ab77e101c60ac3367aa",
+      "id": "9ad6665f5d3f9a4dbbe5",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -672,17 +652,12 @@
       "summary": "تدعم NVIDIA RTX Spark أجهزة الكمبيوتر المحمولة الرقيقة والخفيفة المصممة لكل ما يفعله المطورون والمبدعون واللاعبون. تتوفر الآن أجهزة الكمبيوتر المحمولة RTX Spark من ASUS و Dell و HP و Leno",
       "summaryOriginal": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T15:00:46+00:00"
+      "searchAliases": "NVIDIA Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games"
     },
     {
       "id": "3473b57ebd9db8dc4426",
@@ -703,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T13:15:00+00:00"
+      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows"
     },
     {
       "id": "372defbbd636f8891e28",
@@ -729,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI The future of the firm",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T10:00:00+00:00"
+      "searchAliases": "OpenAI The future of the firm"
     },
     {
       "id": "66164bca3c2a44bf9678",
@@ -755,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Legora is building the agentic operating system for legal work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T09:30:00+00:00"
+      "searchAliases": "OpenAI Legora is building the agentic operating system for legal work"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-10-30T18:53:16.348077+00:00",
-  "lastFastCheckAt": "2026-10-30T22:57:57.731853+00:00"
+  "lastDeepCheckAt": "2026-10-30T22:58:43.639382+00:00"
 }
