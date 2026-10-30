@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T03:15:28.278416+00:00",
-  "checkedAt": "2026-10-30T03:15:28.278416+00:00",
+  "updatedAt": "2026-10-30T03:20:31.652746+00:00",
+  "checkedAt": "2026-10-30T03:20:31.652746+00:00",
   "newestPublishedAt": "2026-10-29T20:16:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -16,9 +16,9 @@
     {
       "company": "Microsoft",
       "kind": "feed-fast",
-      "ok": true,
-      "items": 7,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://blogs.microsoft.com/feed/"
     },
     {
       "company": "NVIDIA",
@@ -745,5 +745,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T00:25:31.847004+00:00",
-  "lastFastCheckAt": "2026-10-30T03:15:28.278416+00:00"
+  "lastFastCheckAt": "2026-10-30T03:20:31.652746+00:00"
 }
