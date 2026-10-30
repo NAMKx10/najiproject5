@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T16:46:24.533002+00:00",
-  "checkedAt": "2026-10-30T16:46:24.533002+00:00",
+  "updatedAt": "2026-10-30T16:51:24.541107+00:00",
+  "checkedAt": "2026-10-30T16:51:24.541107+00:00",
   "newestPublishedAt": "2026-10-30T15:00:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-30T15:00:10+00:00"
+    },
+    {
+      "id": "c8c0d1a56fe391b32b39",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقرير سلامة المجتمع والحماية الجديدة للمراهقين",
+      "titleOriginal": "Community safety report and new protections for teens",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل OpenAI على تعزيز منع العنف في ChatGPT مع ضمانات موسعة، وتدخلات سابقة، والتزام جديد بالإبلاغ عن السلامة العامة.",
+      "summaryOriginal": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Community safety report and new protections for teens",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T09:00:00+00:00"
     },
     {
       "id": "929467e31e6527ba3237",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-27T18:03:12+00:00"
-    },
-    {
-      "id": "b22251121bede6db1957",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء نماذج متعددة الوسائط متخصصة باستخدام LFM3",
-      "titleOriginal": "Build specialized multimodal models with LFM3",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Build specialized multimodal models with LFM3",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T17:16:52+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T13:36:52.010490+00:00",
-  "lastFastCheckAt": "2026-10-30T16:46:24.533002+00:00"
+  "lastFastCheckAt": "2026-10-30T16:51:24.541107+00:00"
 }
