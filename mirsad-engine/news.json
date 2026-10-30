@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T17:31:51.729701+00:00",
-  "checkedAt": "2026-10-30T17:31:51.729701+00:00",
-  "newestPublishedAt": "2026-10-30T17:27:45+00:00",
+  "updatedAt": "2026-10-30T17:37:08.002716+00:00",
+  "checkedAt": "2026-10-30T17:37:08.002716+00:00",
+  "newestPublishedAt": "2026-10-30T17:32:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c8ede4ff038ea99c8d32",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تستثني Worldwide Express الشحن الآلي مع Amazon Bedrock",
+      "titleOriginal": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "أتمت شركة Worldwide Express عملية فواتير الشحن التي تقل حمولتها عن الشاحنة باستخدام حل متعدد الوكلاء مبني على Amazon Bedrock. بعد ستة أشهر من الإطلاق،",
+      "summaryOriginal": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after launch, the company cut active exceptions by 75%, improved time-to-cash by four weeks, and unlocked $10 million in free cash flow.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Worldwide Express automated freight exceptions with Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T17:32:20+00:00"
+    },
     {
       "id": "298d0faf0db5ea5aff14",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "fd41c413a459318e62b7",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "يتوسع الذكاء الاصطناعي للعلوم ليشمل المؤسسات والمؤسسات",
-      "titleOriginal": "AI for Science expands to foundations and institutions",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "research",
-      "importance": 86,
-      "summary": "نحن نسلط الضوء على 20 مؤسسة علمية ومؤسسة ومجموعة بحثية من جميع أنحاء العالم عقدنا شراكة معها في توسيع برنامج الذكاء الاصطناعي للعلوم",
-      "summaryOriginal": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T13:36:52.010490+00:00",
-  "lastFastCheckAt": "2026-10-30T17:31:51.729701+00:00"
+  "lastFastCheckAt": "2026-10-30T17:37:08.002716+00:00"
 }
