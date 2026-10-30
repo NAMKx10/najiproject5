@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T17:26:48.432644+00:00",
-  "checkedAt": "2026-10-30T17:26:48.432644+00:00",
-  "newestPublishedAt": "2026-10-30T15:00:10+00:00",
+  "updatedAt": "2026-10-30T17:31:51.729701+00:00",
+  "checkedAt": "2026-10-30T17:31:51.729701+00:00",
+  "newestPublishedAt": "2026-10-30T17:27:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "298d0faf0db5ea5aff14",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تكوين تطبيق سطح المكتب ChatGPT باستخدام Amazon Bedrock في AWS GovCloud (الولايات المتحدة)",
+      "titleOriginal": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر تطبيق ChatGPT لسطح المكتب الآن على Amazon Bedrock في AWS GovCloud (الولايات المتحدة). يمشي هذا المنشور عبر نشر محلي خاضع للرقابة يوجه نموذج الاستدلال إلى AMAZ",
+      "summaryOriginal": "The ChatGPT desktop app is now available on Amazon Bedrock in AWS GovCloud (US). This post walks through a controlled local deployment that routes model inference to Amazon Bedrock in AWS GovCloud (US-West) using API-mode sign-in, a managed device policy, a named AWS profile, and network restrictions, so a security team can validate it before broader use.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/configure-the-chatgpt-desktop-app-with-amazon-bedrock-in-aws-govcloud-us",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T17:27:45+00:00"
+    },
     {
       "id": "1a829b018c6893a5964b",
       "company": "NVIDIA",
@@ -715,35 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic AI for Science expands to foundations and institutions"
-    },
-    {
-      "id": "a75e9217787aff3b5c96",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "عينت AWS قائدًا في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة",
-      "titleOriginal": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "business",
-      "importance": 82,
-      "summary": "تم تسمية AWS كقائد في 2026 Gartner Magic Quadrant لمركز الاتصال كخدمة (CCaaS) لعملاء AWS Connect. يمثل هذا التقدير ميلًا مهمًا",
-      "summaryOriginal": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an important milestone for our team, and it reflects years of work pushing on what's possible in customer experience.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T18:03:12+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T13:36:52.010490+00:00",
-  "lastFastCheckAt": "2026-10-30T17:26:48.432644+00:00"
+  "lastFastCheckAt": "2026-10-30T17:31:51.729701+00:00"
 }
