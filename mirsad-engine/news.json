@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T21:49:34.881654+00:00",
-  "checkedAt": "2026-10-30T21:49:34.881654+00:00",
+  "updatedAt": "2026-10-30T21:54:38.015697+00:00",
+  "checkedAt": "2026-10-30T21:54:38.015697+00:00",
   "newestPublishedAt": "2026-10-30T21:40:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -243,6 +243,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Community safety report and new protections for teens"
+    },
+    {
+      "id": "7d15539cfd5b8cd7bcdb",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "الاستخدام العادل يفيد الجميع",
+      "titleOriginal": "Fair use benefits everyone",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تشارك OpenAI مقتطفات من ملخصات المحكمة من قبل المبدعين والأكاديميين والمدافعين عن إمكانية الوصول والخبراء القانونيين، من بين آخرين، حول كيفية دعم الاستخدام العادل لتدريب الذكاء الاصطناعي والابتكار",
+      "summaryOriginal": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/fair-use-benefits-everyone",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Fair use benefits everyone",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T00:00:00+00:00"
     },
     {
       "id": "929467e31e6527ba3237",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The future of the firm"
-    },
-    {
-      "id": "66164bca3c2a44bf9678",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ليجورا تبني نظام التشغيل الوكيل للعمل القانوني",
-      "titleOriginal": "Legora is building the agentic operating system for legal work",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية استخدام Legora لنماذج OpenAI و ChatGPT و Codex لتسريع سير العمل القانوني وتوسيع تحليل العقود والمحامين الأحرار للتركيز على العمل عالي القيمة.",
-      "summaryOriginal": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/legora",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Legora is building the agentic operating system for legal work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T18:53:16.348077+00:00",
-  "lastFastCheckAt": "2026-10-30T21:49:34.881654+00:00"
+  "lastFastCheckAt": "2026-10-30T21:54:38.015697+00:00"
 }
