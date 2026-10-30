@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T18:12:31.682668+00:00",
-  "checkedAt": "2026-10-30T18:12:31.682668+00:00",
+  "updatedAt": "2026-10-30T18:17:36.043694+00:00",
+  "checkedAt": "2026-10-30T18:17:36.043694+00:00",
   "newestPublishedAt": "2026-10-30T17:57:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -195,6 +195,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-30T15:00:10+00:00"
+    },
+    {
+      "id": "3e3f6c1831d78c738377",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "مما يسهل على مواقع الويب التعبير عن تفضيلات التدريب على الذكاء الاصطناعي",
+      "titleOriginal": "Making it easier for websites to express AI training preferences",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ستحترم OpenAI إشارة robots.txt المشتركة لمساعدة مشغلي مواقع الويب على توصيل تفضيلات تدريب الذكاء الاصطناعي الخاصة بهم إلى مقدمي الخدمات المشاركين.",
+      "summaryOriginal": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Making it easier for websites to express AI training preferences",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T09:30:00+00:00"
     },
     {
       "id": "c8c0d1a56fe391b32b39",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The future of the firm"
-    },
-    {
-      "id": "66164bca3c2a44bf9678",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ليجورا تبني نظام التشغيل الوكيل للعمل القانوني",
-      "titleOriginal": "Legora is building the agentic operating system for legal work",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية استخدام Legora لنماذج OpenAI و ChatGPT و Codex لتسريع سير العمل القانوني وتوسيع تحليل العقود والمحامين الأحرار للتركيز على العمل عالي القيمة.",
-      "summaryOriginal": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/legora",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Legora is building the agentic operating system for legal work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T13:36:52.010490+00:00",
-  "lastFastCheckAt": "2026-10-30T18:12:31.682668+00:00"
+  "lastFastCheckAt": "2026-10-30T18:17:36.043694+00:00"
 }
