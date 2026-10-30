@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T22:05:04.127498+00:00",
-  "checkedAt": "2026-10-30T22:05:04.127498+00:00",
+  "updatedAt": "2026-10-30T22:09:45.142777+00:00",
+  "checkedAt": "2026-10-30T22:09:45.142777+00:00",
   "newestPublishedAt": "2026-10-30T21:40:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -607,6 +607,32 @@
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
+      "id": "3473b57ebd9db8dc4426",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعمل OpenAI وServiceNow على توسيع الشراكة عبر سير عمل المؤسسة",
+      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم OpenAI و ServiceNow بتوسيع شراكتهما لجلب نماذج ووكلاء OpenAI إلى سير عمل ServiceNow و ServiceNow في ChatGPT و Codex.",
+      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T13:15:00+00:00"
+    },
+    {
       "id": "372defbbd636f8891e28",
       "company": "OpenAI",
       "logoText": "AI",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work"
-    },
-    {
-      "id": "9ad6665f5d3f9a4dbbe5",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "رقيقة وخفيفة ومصممة لكل شيء: أجهزة الكمبيوتر المحمولة NVIDIA RTX Spark Windows احصل على نماذج وأدوات وألعاب جديدة",
-      "titleOriginal": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تدعم NVIDIA RTX Spark أجهزة الكمبيوتر المحمولة الرقيقة والخفيفة المصممة لكل ما يفعله المطورون والمبدعون واللاعبون. تتوفر الآن أجهزة الكمبيوتر المحمولة RTX Spark من ASUS و Dell و HP و Leno",
-      "summaryOriginal": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T18:53:16.348077+00:00",
-  "lastFastCheckAt": "2026-10-30T22:05:04.127498+00:00"
+  "lastFastCheckAt": "2026-10-30T22:09:45.142777+00:00"
 }
