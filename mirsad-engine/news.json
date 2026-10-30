@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T18:27:43.941748+00:00",
-  "checkedAt": "2026-10-30T18:27:43.941748+00:00",
+  "updatedAt": "2026-10-30T18:32:57.766920+00:00",
+  "checkedAt": "2026-10-30T18:32:57.766920+00:00",
   "newestPublishedAt": "2026-10-30T17:57:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -590,6 +590,32 @@
       "publishedAt": "2026-10-29T00:00:00+00:00"
     },
     {
+      "id": "3473b57ebd9db8dc4426",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعمل OpenAI وServiceNow على توسيع الشراكة عبر سير عمل المؤسسة",
+      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم OpenAI و ServiceNow بتوسيع شراكتهما لجلب نماذج ووكلاء OpenAI إلى سير عمل ServiceNow و ServiceNow في ChatGPT و Codex.",
+      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T13:15:00+00:00"
+    },
+    {
       "id": "372defbbd636f8891e28",
       "company": "OpenAI",
       "logoText": "AI",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games"
-    },
-    {
-      "id": "a29c7daf6716f2c6eefe",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: نسخ ذكي متعدد اللغات يمكنك المطالبة به وتكييفه",
-      "titleOriginal": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T13:36:52.010490+00:00",
-  "lastFastCheckAt": "2026-10-30T18:27:43.941748+00:00"
+  "lastFastCheckAt": "2026-10-30T18:32:57.766920+00:00"
 }
