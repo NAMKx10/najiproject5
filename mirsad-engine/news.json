@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T22:40:15.390865+00:00",
-  "checkedAt": "2026-10-30T22:40:15.390865+00:00",
-  "newestPublishedAt": "2026-10-30T21:40:03+00:00",
+  "updatedAt": "2026-10-30T22:45:16.671581+00:00",
+  "checkedAt": "2026-10-30T22:45:16.671581+00:00",
+  "newestPublishedAt": "2026-10-30T22:42:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5dc4209b6f2ea871b89c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "إدارة تكاليف Amazon Bedrock من البداية إلى النهاية: دليل التشغيل لفرق FinOps والمنصة",
+      "titleOriginal": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقدم هذا المنشور نموذجًا تشغيليًا من خمس مراحل لإدارة تكلفة Amazon Bedrock: إسناد كل دولار إلى مالك، وجعل كل طلب قابلاً للملاحظة، وفرض الميزانيات، و opti",
+      "summaryOriginal": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T22:42:24+00:00"
+    },
     {
       "id": "9fee0adff9ef5d68629f",
       "company": "Amazon",
@@ -735,30 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-28T09:30:00+00:00"
-    },
-    {
-      "id": "b0e8c8ec7a6e441c858e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء منصة الذكاء الاصطناعي Agentic على Amazon Bedrock AgentCore",
-      "titleOriginal": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "قم بإنشاء منصة ذكاء اصطناعي محكومة ومتعددة الحسابات على Amazon Bedrock AgentCore. يمشي هذا المنشور عبر الهندسة المعمارية ومخطط مرجعي مفتوح المصدر:",
-      "summaryOriginal": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent before production.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Building an Agentic AI Platform on Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T18:53:16.348077+00:00",
-  "lastFastCheckAt": "2026-10-30T22:40:15.390865+00:00"
+  "lastFastCheckAt": "2026-10-30T22:45:16.671581+00:00"
 }
