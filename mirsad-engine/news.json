@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T22:09:45.142777+00:00",
-  "checkedAt": "2026-10-30T22:09:45.142777+00:00",
+  "updatedAt": "2026-10-30T22:14:48.592298+00:00",
+  "checkedAt": "2026-10-30T22:14:48.592298+00:00",
   "newestPublishedAt": "2026-10-30T21:40:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -607,6 +607,32 @@
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
+      "id": "7ab77e101c60ac3367aa",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "رقيقة وخفيفة ومصممة لكل شيء: أجهزة الكمبيوتر المحمولة NVIDIA RTX Spark Windows احصل على نماذج وأدوات وألعاب جديدة",
+      "titleOriginal": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "تدعم NVIDIA RTX Spark أجهزة الكمبيوتر المحمولة الرقيقة والخفيفة المصممة لكل ما يفعله المطورون والمبدعون واللاعبون. تتوفر الآن أجهزة الكمبيوتر المحمولة RTX Spark من ASUS و Dell و HP و Leno",
+      "summaryOriginal": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T15:00:46+00:00"
+    },
+    {
       "id": "3473b57ebd9db8dc4426",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Distributed training with Ray Train DLCs and EFA on EKS"
-    },
-    {
-      "id": "bb4f38b31c3c1d74544a",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم تسخير Microsoft Copilot: إطلاق العنان لإمكانات العمل الوكيل متعدد النماذج حقًا",
-      "titleOriginal": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "إذا كنت ترغب في التنافس، فأنت بحاجة إلى أن تكون متعدد النماذج. وإذا كنت ترغب في الاستفادة من كل ما تقدمه نماذج الذكاء الاصطناعي المختلفة، فأنت بحاجة إلى تسخير كبير. لكن",
-      "summaryOriginal": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work appeared first on The Official Microsoft Blog .",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T18:53:16.348077+00:00",
-  "lastFastCheckAt": "2026-10-30T22:09:45.142777+00:00"
+  "lastFastCheckAt": "2026-10-30T22:14:48.592298+00:00"
 }
