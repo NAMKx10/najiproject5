@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-10-30T15:45:26.592446+00:00",
-  "checkedAt": "2026-10-30T15:45:26.592446+00:00",
+  "updatedAt": "2026-10-30T15:50:31.653352+00:00",
+  "checkedAt": "2026-10-30T15:50:31.653352+00:00",
   "newestPublishedAt": "2026-10-30T15:00:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -434,6 +434,32 @@
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
+      "id": "075f4778cc96bd5862b4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يحقق Credit Saison عائد استثمار بنسبة 954 ٪ في مشروع تجريبي لـ ChatGPT Enterprise",
+      "titleOriginal": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "قدم برنامج Credit Saison's ChatGPT Enterprise التجريبي 954 ٪ من العائد على الاستثمار. تعرف على كيفية مساعدة القادة والموظفين في تحويل النتائج إلى تبني على مستوى الشركة.",
+      "summaryOriginal": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/credit-saison",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-29T00:00:00+00:00"
+    },
+    {
       "id": "b0e8c8ec7a6e441c858e",
       "company": "Amazon",
       "logoText": "AWS",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-27T17:16:52+00:00"
-    },
-    {
-      "id": "7cb9f6f66bd501832be8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "هل يمكننا الوثوق في LLMs للحكم على ما إذا كانت فكرة البحث جديدة ؟",
-      "titleOriginal": "Can we trust LLMs to judge whether a research idea is novel?",
-      "dateLabel": "27 أكتوبر 2026",
-      "dateISO": "2026-10-27",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/novelty-bench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Can we trust LLMs to judge whether a research idea is novel?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-27T16:12:42+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-10-30T13:36:52.010490+00:00",
-  "lastFastCheckAt": "2026-10-30T15:45:26.592446+00:00"
+  "lastFastCheckAt": "2026-10-30T15:50:31.653352+00:00"
 }
