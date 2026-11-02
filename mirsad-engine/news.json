@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-02T17:01:08.630874+00:00",
-  "checkedAt": "2026-11-02T17:01:08.630874+00:00",
-  "newestPublishedAt": "2026-11-02T15:00:00+00:00",
+  "updatedAt": "2026-11-02T17:05:46.123031+00:00",
+  "checkedAt": "2026-11-02T17:05:46.123031+00:00",
+  "newestPublishedAt": "2026-11-02T17:01:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,6 +93,69 @@
   ],
   "items": [
     {
+      "id": "5c95572325b0a9161b84",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء وكلاء فعالين مع تقطير المعرفة على Amazon SageMaker AI",
+      "titleOriginal": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "يدير المساعدون الوكلاء المبنيون على النماذج الحدودية حلقة أدوات متعددة الخطوات، ومن الصعب الحفاظ على دفع أسعار الحدود في كل خطوة على نطاق الإنتاج. يعرض هذا المنشور",
+      "summaryOriginal": "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-cost student on Amazon SageMaker AI.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build efficient agents with knowledge distillation on Amazon SageMaker AI"
+    },
+    {
+      "id": "8aedd00cd2d679fa2ad5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "الذكاء الهندسي للوكلاء مع Amazon Nova Multimodal Embeddings وAmazon Bedrock AgentCore",
+      "titleOriginal": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلم كيفية بناء مساعد هندسي متعدد الوكلاء يضغط على تقييم استبدال مكونات الفضاء الجوي من أيام إلى دقائق، باستخدام Amazon Nova Multimodal Embe",
+      "summaryOriginal": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "2dee6d9e0b1f91d17e3c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف سرعت Circle K عملية فرز حوادث DevOps إلى أقل من 15 دقيقة باستخدام Amazon Bedrock",
+      "titleOriginal": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قام فريق Circle K's DevOps بخفض فرز الحوادث من 45-60 دقيقة إلى أقل من 15 من خلال بناء نظام فرز الوكلاء على Amazon Bedrock. يتجول هذا المنشور في الهندسة المعمارية",
+      "summaryOriginal": "Circle K's DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows implementation, the migration to Amazon Bedrock AgentCore, and the lessons learned from scaling it.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock"
+    },
+    {
       "id": "359026f51b0f40711a80",
       "company": "OpenAI",
       "logoText": "AI",
@@ -111,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing the Grid Protectors Program",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T15:00:00+00:00"
+      "searchAliases": "OpenAI Introducing the Grid Protectors Program"
     },
     {
       "id": "a78bc4f374a9bb36ff22",
@@ -390,69 +448,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI An updated Model Spec for more capable and beneficial AI"
-    },
-    {
-      "id": "c6d1ddfe72b1275406ab",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "إقراض واستعارة الموارد عبر الفرق مع إدارة حصص AWS Batch لوظائف SageMaker Training",
-      "titleOriginal": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "إدارة حصص دفعة AWS هي إمكانية جدولة جديدة يمكنك استخدامها لتقسيم سعة وحدة معالجة الرسومات إلى حصص لكل فريق أو مشروع، وإقراض وحدات التحكم في السعة الخاملة تلقائيًا",
-      "summaryOriginal": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs"
-    },
-    {
-      "id": "b6409102d5fb42212a8f",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف حولت MoEngage أكثر من 400 واجهة برمجة تطبيقات إلى أدوات وكيل مع بوابة AgentCore",
-      "titleOriginal": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "حولت MoEngage ما يقرب من 400 واجهة برمجة تطبيقات REST خاصة عبر 7 مناطق AWS إلى أدوات وكيل ذات نطاق إذن مع Amazon Bedrock AgentCore Gateway. لا توجد خوادم MCP لكل خدمة، n",
-      "summaryOriginal": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon VPC Lattice egress made it work.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway"
-    },
-    {
-      "id": "e66561f07afb612560c5",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تسريع الذكاء الاصطناعي الوكيل مع موديلات NVIDIA Nemotron على Amazon EKS و SageMaker HyperPod EKS",
-      "titleOriginal": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "NVIDIA Nemotron 3.5 Super VL هو نموذج مزيج من الخبراء بمعيار 120B يجمع بين التفكير المنطقي واستخدام الأداة والفهم متعدد الوسائط. يستكشف هذا المنشور هندسته المعمارية",
-      "summaryOriginal": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA Dynamo and vLLM.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS"
     },
     {
       "id": "17ff82eab5b698cdfceb",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-02T06:54:18.099102+00:00",
-  "lastFastCheckAt": "2026-11-02T17:01:08.630874+00:00"
+  "lastDeepCheckAt": "2026-11-02T17:05:46.123031+00:00"
 }
