@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-02T17:11:16.657538+00:00",
-  "checkedAt": "2026-11-02T17:11:16.657538+00:00",
-  "newestPublishedAt": "2026-11-02T17:01:31+00:00",
+  "updatedAt": "2026-11-02T17:16:16.664766+00:00",
+  "checkedAt": "2026-11-02T17:16:16.664766+00:00",
+  "newestPublishedAt": "2026-11-02T17:11:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4d7480ac4edef5027359",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إعداد محتوى الويب لقواعد معرفة Amazon Bedrock باستخدام Crawl4AI",
+      "titleOriginal": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يوضح هذا المنشور كيفية استخدام Crawl4AI، وهو زاحف ويب مفتوح المصدر، كطبقة إعداد محتوى لقواعد معرفة Amazon Bedrock، والتعامل مع عرض جافا سكريبت،",
+      "summaryOriginal": "This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T17:11:21+00:00"
+    },
     {
       "id": "5c95572325b0a9161b84",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows"
-    },
-    {
-      "id": "372defbbd636f8891e28",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "مستقبل الشركة",
-      "titleOriginal": "The future of the firm",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف يمكن للذكاء الاصطناعي أن يدخل المخطط التنظيمي - تحتنا وبجانبنا وفيما بيننا.",
-      "summaryOriginal": "How AI might enter the org chart—beneath, beside, and between us.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/the-future-of-the-firm",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The future of the firm"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-02T17:05:46.123031+00:00",
-  "lastFastCheckAt": "2026-11-02T17:11:16.657538+00:00"
+  "lastFastCheckAt": "2026-11-02T17:16:16.664766+00:00"
 }
