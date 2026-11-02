@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-02T23:48:49.642333+00:00",
-  "checkedAt": "2026-11-02T23:48:49.642333+00:00",
+  "updatedAt": "2026-11-02T23:53:04.628831+00:00",
+  "checkedAt": "2026-11-02T23:53:04.628831+00:00",
   "newestPublishedAt": "2026-11-02T17:11:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "4d7480ac4edef5027359",
+      "id": "ff1be63f86f4a040bf61",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,43 +106,12 @@
       "summary": "يوضح هذا المنشور كيفية استخدام Crawl4AI، وهو زاحف ويب مفتوح المصدر، كطبقة إعداد محتوى لقواعد معرفة Amazon Bedrock، والتعامل مع عرض جافا سكريبت،",
       "summaryOriginal": "This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T17:11:21+00:00"
-    },
-    {
-      "id": "edfaac13fa3590142740",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "LifeVal",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم LifeVal، وهو معيار يقيس مدى نجاح الذكاء الاصطناعي في مساعدة الناس على إكمال المهام اليومية، من العثور على رعاية الأطفال إلى إدارة الشؤون المالية والأعمال الورقية الحكومية.",
-      "summaryOriginal": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/lifeval",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LifeVal",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T09:00:00+00:00"
+      "searchAliases": "Amazon Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI"
     },
     {
       "id": "5c95572325b0a9161b84",
@@ -208,6 +177,27 @@
       "searchAliases": "Amazon How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock"
     },
     {
+      "id": "c992021f47d535687a00",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تحجيم البوابة في OpenAI",
+      "titleOriginal": "Scaling Git at OpenAI",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "كيف قامت OpenAI ببناء Pando، وهي واجهة خلفية متوافقة مع Git مصممة لحجم التطوير الذي يجعله الدستور الغذائي ممكنًا.",
+      "summaryOriginal": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/scaling-git-at-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Scaling Git at OpenAI"
+    },
+    {
       "id": "359026f51b0f40711a80",
       "company": "OpenAI",
       "logoText": "AI",
@@ -229,6 +219,27 @@
       "searchAliases": "OpenAI Introducing the Grid Protectors Program"
     },
     {
+      "id": "edfaac13fa3590142740",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "LifeVal",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقديم LifeVal، وهو معيار يقيس مدى نجاح الذكاء الاصطناعي في مساعدة الناس على إكمال المهام اليومية، من العثور على رعاية الأطفال إلى إدارة الشؤون المالية والأعمال الورقية الحكومية.",
+      "summaryOriginal": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/lifeval",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LifeVal"
+    },
+    {
       "id": "e4b74a3a62ab6094be6d",
       "company": "OpenAI",
       "logoText": "AI",
@@ -247,12 +258,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Qodo builds context into AI code review with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T00:00:00+00:00"
+      "searchAliases": "OpenAI Qodo builds context into AI code review with Codex"
+    },
+    {
+      "id": "1c7dad739ee328a50c3a",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "بحث",
+      "title": "إعطاء كل فريق عالم بيانات مع Grok Bot",
+      "titleOriginal": "Giving every team a data scientist with Grok Bot",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "research",
+      "importance": 86,
+      "summary": "روبوت البيانات هو روبوت فريق في Grok Bot يقوم فريق علم البيانات بتدريسه، بحيث يمكن لكل فريق الاستعلام عن المستودع، وإجراء التحليلات، والحصول على إجابات بالطريقة التي يقوم بها عالم البيانات",
+      "summaryOriginal": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/data-bot",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     },
     {
       "id": "a78bc4f374a9bb36ff22",
@@ -486,27 +513,6 @@
       "searchAliases": "Amazon Building intent-driven UI testing with Amazon Nova Act"
     },
     {
-      "id": "c7cc2473e82ca83a6abb",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء محرك ترحيل PHP إلى جافا قابل للتكرار باستخدام Kiro",
-      "titleOriginal": "Build a repeatable PHP-to-Java migration engine with Kiro",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تحويل هجرة PHP إلى جافا من قفزة إيمان لمرة واحدة إلى عملية قابلة للقياس والتكرار مع كيرو. يمشي هذا المنشور عبر محرك قابل لإعادة الاستخدام: اكتشاف ميكانيكي",
-      "summaryOriginal": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a parity harness.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build a repeatable PHP-to-Java migration engine with Kiro"
-    },
-    {
       "id": "c70818ef4b7d93bab4f9",
       "company": "OpenAI",
       "logoText": "AI",
@@ -633,27 +639,6 @@
       "searchAliases": "OpenAI How Ropes & Gray is developing AI for transactional diligence"
     },
     {
-      "id": "075f4778cc96bd5862b4",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يحقق Credit Saison عائد استثمار بنسبة 954 ٪ في مشروع تجريبي لـ ChatGPT Enterprise",
-      "titleOriginal": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "قدم برنامج Credit Saison's ChatGPT Enterprise التجريبي 954 ٪ من العائد على الاستثمار. تعرف على كيفية مساعدة القادة والموظفين في تحويل النتائج إلى تبني على مستوى الشركة.",
-      "summaryOriginal": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/credit-saison",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot"
-    },
-    {
       "id": "420cecbca7efb393e23e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -717,7 +702,7 @@
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
-      "id": "fa110f900f0361cb5168",
+      "id": "bb4f38b31c3c1d74544a",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "إطلاق أو تحديث",
@@ -727,23 +712,17 @@
       "dateISO": "2026-10-28",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Microsoft عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summary": "إذا كنت ترغب في التنافس، فأنت بحاجة إلى أن تكون متعدد النماذج. وإذا كنت ترغب في الاستفادة من كل ما تقدمه نماذج الذكاء الاصطناعي المختلفة، فأنت بحاجة إلى تسخير كبير. لكن",
       "summaryOriginal": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work appeared first on The Official Microsoft Blog .",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T16:51:35+00:00"
+      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-02T17:05:46.123031+00:00",
-  "lastFastCheckAt": "2026-11-02T23:48:49.642333+00:00"
+  "lastDeepCheckAt": "2026-11-02T23:53:04.628831+00:00"
 }
