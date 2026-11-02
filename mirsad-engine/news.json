@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-02T17:31:28.759490+00:00",
-  "checkedAt": "2026-11-02T17:31:28.759490+00:00",
+  "updatedAt": "2026-11-02T17:36:47.165525+00:00",
+  "checkedAt": "2026-11-02T17:36:47.165525+00:00",
   "newestPublishedAt": "2026-11-02T17:11:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -665,6 +665,32 @@
       "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     },
     {
+      "id": "fa110f900f0361cb5168",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Microsoft",
+      "titleOriginal": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Microsoft عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-28T16:51:35+00:00"
+    },
+    {
       "id": "7ab77e101c60ac3367aa",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-28T13:15:00+00:00"
-    },
-    {
-      "id": "372defbbd636f8891e28",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "مستقبل الشركة",
-      "titleOriginal": "The future of the firm",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف يمكن للذكاء الاصطناعي أن يدخل المخطط التنظيمي - تحتنا وبجانبنا وفيما بيننا.",
-      "summaryOriginal": "How AI might enter the org chart—beneath, beside, and between us.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/the-future-of-the-firm",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The future of the firm",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T10:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-02T17:05:46.123031+00:00",
-  "lastFastCheckAt": "2026-11-02T17:31:28.759490+00:00"
+  "lastFastCheckAt": "2026-11-02T17:36:47.165525+00:00"
 }
