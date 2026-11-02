@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-02T17:41:49.617018+00:00",
-  "checkedAt": "2026-11-02T17:41:49.617018+00:00",
+  "updatedAt": "2026-11-02T17:46:58.626599+00:00",
+  "checkedAt": "2026-11-02T17:46:58.626599+00:00",
   "newestPublishedAt": "2026-11-02T17:11:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-02T17:11:21+00:00"
+    },
+    {
+      "id": "edfaac13fa3590142740",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "LifeVal",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقديم LifeVal، وهو معيار يقيس مدى نجاح الذكاء الاصطناعي في مساعدة الناس على إكمال المهام اليومية، من العثور على رعاية الأطفال إلى إدارة الشؤون المالية والأعمال الورقية الحكومية.",
+      "summaryOriginal": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/lifeval",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LifeVal",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T09:00:00+00:00"
     },
     {
       "id": "5c95572325b0a9161b84",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-28T15:00:46+00:00"
-    },
-    {
-      "id": "3473b57ebd9db8dc4426",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تعمل OpenAI وServiceNow على توسيع الشراكة عبر سير عمل المؤسسة",
-      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "dateLabel": "28 أكتوبر 2026",
-      "dateISO": "2026-10-28",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقوم OpenAI و ServiceNow بتوسيع شراكتهما لجلب نماذج ووكلاء OpenAI إلى سير عمل ServiceNow و ServiceNow في ChatGPT و Codex.",
-      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-28T13:15:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-02T17:05:46.123031+00:00",
-  "lastFastCheckAt": "2026-11-02T17:41:49.617018+00:00"
+  "lastFastCheckAt": "2026-11-02T17:46:58.626599+00:00"
 }
