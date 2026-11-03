@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T21:44:14.599292+00:00",
-  "checkedAt": "2026-11-03T21:44:14.599292+00:00",
+  "updatedAt": "2026-11-03T21:49:13.017231+00:00",
+  "checkedAt": "2026-11-03T21:49:13.017231+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -660,6 +660,32 @@
       "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     },
     {
+      "id": "e4b74a3a62ab6094be6d",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تبني كودو السياق في مراجعة كود الذكاء الاصطناعي مع الدستور الغذائي",
+      "titleOriginal": "Qodo builds context into AI code review with Codex",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يجلب كودو معرفة الشركة ومعايير الترميز إلى الدستور الغذائي، مما يساعد المطورين على اكتشاف مشكلات P0 عبر المستودعات قبل فتح طلب السحب.",
+      "summaryOriginal": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/qodo-codex-plugin",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Qodo builds context into AI code review with Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T00:00:00+00:00"
+    },
+    {
       "id": "c546ab9bf5fb0fe3e76e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
-    },
-    {
-      "id": "98cdb0248880b96c9434",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T16:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T20:59:50.636922+00:00",
-  "lastFastCheckAt": "2026-11-03T21:44:14.599292+00:00"
+  "lastFastCheckAt": "2026-11-03T21:49:13.017231+00:00"
 }
