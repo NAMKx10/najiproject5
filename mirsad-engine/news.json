@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T16:30:35.379024+00:00",
-  "checkedAt": "2026-11-03T16:30:35.379024+00:00",
-  "newestPublishedAt": "2026-11-03T16:00:45+00:00",
+  "updatedAt": "2026-11-03T16:35:34.901590+00:00",
+  "checkedAt": "2026-11-03T16:35:34.901590+00:00",
+  "newestPublishedAt": "2026-11-03T16:35:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "f4f866a3e7137f66c534",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "لوحة الألوان: تعليم نموذج صغير لبناء مجموعات بلغة التصميم الخاصة بك",
+      "titleOriginal": "Palette: teaching a small model to build decks in your design language",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:35:36+00:00"
+    },
+    {
+      "id": "5a3ac1c6c7c0dfeb1bad",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم الاستدلال القائم على الهند لـ Kimi K3 على Amazon Bedrock",
+      "titleOriginal": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم Amazon Bedrock الآن استدلالًا داخليًا في الهند لـ Kimi K3، مع الحفاظ على المعالجة داخل منطقتي مومباي وحيدر أباد. يشرح هذا المنشور العالمي والجغرافي",
+      "summaryOriginal": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares example code for reading and understanding Indic-language documents with Kimi K3.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing India-based inference for Kimi K3 on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:32:54+00:00"
+    },
     {
       "id": "3f6471f54273859e37a8",
       "company": "NVIDIA",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "2991e858c7dcc01d36e3",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "مفتاح الجرانيت 4.1.1 — قم بتحديث الطرز مثلك قم بتحديث البرامج",
-      "titleOriginal": "Granite Switch 4.1.1 — Update models like you update software",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite Switch 4.1.1 — Update models like you update software"
-    },
-    {
-      "id": "6cf41cd21eca44806c49",
-      "company": "Mistral AI",
-      "logoText": "MI",
-      "type": "إطلاق أو تحديث",
-      "title": "Mistral Large 4 (Le Chonk) هو الآن وزن مفتوح | Mistral",
-      "titleOriginal": "Mistral Large 4 (Le Chonk) is now open weight | Mistral",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أوزان Mistral Large 4 (Le Chonk) مفتوحة الآن. نموذج متعدد الوسائط 1T، وأفضل نموذج مفتوح الوزن للترميز، تم تدريبه في أوروبا.",
-      "summaryOriginal": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://mistral.ai/news/mistral-large-4-oss/",
-      "sourceLabel": "Mistral News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Mistral AI Mistral Large 4 (Le Chonk) is now open weight | Mistral"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T16:30:35.379024+00:00"
+  "lastFastCheckAt": "2026-11-03T16:35:34.901590+00:00"
 }
