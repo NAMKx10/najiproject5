@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T17:21:16.137624+00:00",
-  "checkedAt": "2026-11-03T17:21:16.137624+00:00",
+  "updatedAt": "2026-11-03T17:24:49.315284+00:00",
+  "checkedAt": "2026-11-03T17:24:49.315284+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -416,6 +416,32 @@
       "searchAliases": "Hugging Face Transformers Model Integration Contracts"
     },
     {
+      "id": "fc8fe674be566ec91f18",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "CWE - Bench v2: المزيد من التغطية والجودة والشفافية",
+      "titleOriginal": "CWE-bench v2: More coverage, quality, and transparency",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/cwe-bench",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face CWE-bench v2: More coverage, quality, and transparency",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T00:00:00+00:00"
+    },
+    {
       "id": "085b4fb31d6fa9d138e5",
       "company": "OpenAI",
       "logoText": "AI",
@@ -770,30 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-30T09:00:00+00:00"
-    },
-    {
-      "id": "a78bc4f374a9bb36ff22",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "إدارة تكاليف Amazon Bedrock من البداية إلى النهاية: دليل التشغيل لفرق FinOps والمنصة",
-      "titleOriginal": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "يقدم هذا المنشور نموذجًا تشغيليًا من خمس مراحل لإدارة تكلفة Amazon Bedrock: إسناد كل دولار إلى مالك، وجعل كل طلب قابلاً للملاحظة، وفرض الميزانيات، و opti",
-      "summaryOriginal": "This post presents a five-stage operating model for managing Amazon Bedrock cost: attribute every dollar to an owner, make every request observable, enforce budgets, optimize platform defaults, and operate a review cadence. Written for FinOps and platform engineering teams.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T17:21:16.137624+00:00"
+  "lastFastCheckAt": "2026-11-03T17:24:49.315284+00:00"
 }
