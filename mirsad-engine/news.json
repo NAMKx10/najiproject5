@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T10:10:38.189218+00:00",
-  "checkedAt": "2026-11-03T10:10:38.189218+00:00",
-  "newestPublishedAt": "2026-11-03T07:00:12+00:00",
+  "updatedAt": "2026-11-03T10:15:38.588411+00:00",
+  "checkedAt": "2026-11-03T10:15:38.588411+00:00",
+  "newestPublishedAt": "2026-11-03T08:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "bdd4b885244837e80ae4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم Heimstaden بتغيير إدارة العقارات السكنية باستخدام الذكاء الاصطناعي",
+      "titleOriginal": "Heimstaden is changing residential real estate management with AI",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف تستخدم Heimstaden ChatGPT Enterprise و Codex من OpenAI لتحويل إدارة الممتلكات وخفض التكاليف وتمكين الموظفين في جميع أنحاء أوروبا.",
+      "summaryOriginal": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/heimstaden",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Heimstaden is changing residential real estate management with AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T08:00:00+00:00"
+    },
     {
       "id": "528e351341697525640a",
       "company": "NVIDIA",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
-    },
-    {
-      "id": "87373f135c6571baf56f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحبًا لو تشونك: ميسترال لارج 4 على وجه المعانقة",
-      "titleOriginal": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/mistral-large4",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T06:50:01.295875+00:00",
-  "lastFastCheckAt": "2026-11-03T10:10:38.189218+00:00"
+  "lastFastCheckAt": "2026-11-03T10:15:38.588411+00:00"
 }
