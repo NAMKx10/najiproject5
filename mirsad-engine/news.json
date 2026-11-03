@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T18:51:54.636587+00:00",
-  "checkedAt": "2026-11-03T18:51:54.636587+00:00",
+  "updatedAt": "2026-11-03T18:56:45.899935+00:00",
+  "checkedAt": "2026-11-03T18:56:45.899935+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -351,6 +351,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T15:57:39+00:00"
+    },
+    {
+      "id": "75b355b2a8dde883855e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تسريع الهندسة للعالم المادي",
+      "titleOriginal": "Accelerating engineering for the physical world",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف يساعد ChatGPT و Codex المهندسين على تسريع تصميم CAD و PCB والمحاكاة وغيرها من سير العمل في جميع أنحاء العالم المادي.",
+      "summaryOriginal": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Accelerating engineering for the physical world",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T12:00:00+00:00"
     },
     {
       "id": "bdd4b885244837e80ae4",
@@ -770,35 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-30T09:30:00+00:00"
-    },
-    {
-      "id": "c8c0d1a56fe391b32b39",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقرير سلامة المجتمع والحماية الجديدة للمراهقين",
-      "titleOriginal": "Community safety report and new protections for teens",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل OpenAI على تعزيز منع العنف في ChatGPT مع ضمانات موسعة، وتدخلات سابقة، والتزام جديد بالإبلاغ عن السلامة العامة.",
-      "summaryOriginal": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Community safety report and new protections for teens",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T09:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T18:51:54.636587+00:00"
+  "lastFastCheckAt": "2026-11-03T18:56:45.899935+00:00"
 }
