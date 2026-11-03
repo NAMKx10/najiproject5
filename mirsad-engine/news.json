@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T06:47:56.530618+00:00",
-  "checkedAt": "2026-11-03T06:47:56.530618+00:00",
+  "updatedAt": "2026-11-03T06:50:01.295875+00:00",
+  "checkedAt": "2026-11-03T06:50:01.295875+00:00",
   "newestPublishedAt": "2026-11-02T18:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T18:00:00+00:00"
+      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties"
     },
     {
       "id": "085b4fb31d6fa9d138e5",
@@ -137,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Preparing our next security sprint to harden OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T18:00:00+00:00"
+      "searchAliases": "OpenAI Preparing our next security sprint to harden OpenAI"
     },
     {
       "id": "ff1be63f86f4a040bf61",
@@ -313,6 +303,27 @@
       "searchAliases": "OpenAI Qodo builds context into AI code review with Codex"
     },
     {
+      "id": "b281f275799c50093147",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "عينت OpenAI دان دريسكول مستشارًا أول لتحديث الأمن القومي",
+      "titleOriginal": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعين OpenAI دان دريسكول لتقديم المشورة بشأن الذكاء الاصطناعي المسؤول عن تحديث الأمن القومي، والمرونة السيبرانية، والتعاون مع حلفاء الولايات المتحدة.",
+      "summaryOriginal": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/dan-driscoll-joins-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
+    },
+    {
       "id": "1c7dad739ee328a50c3a",
       "company": "xAI",
       "logoText": "xAI",
@@ -332,32 +343,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
-    },
-    {
-      "id": "b281f275799c50093147",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "عينت OpenAI دان دريسكول مستشارًا أول لتحديث الأمن القومي",
-      "titleOriginal": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعين OpenAI دان دريسكول لتقديم المشورة بشأن الذكاء الاصطناعي المسؤول عن تحديث الأمن القومي، والمرونة السيبرانية، والتعاون مع حلفاء الولايات المتحدة.",
-      "summaryOriginal": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/dan-driscoll-joins-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T00:00:00+00:00"
     },
     {
       "id": "a78bc4f374a9bb36ff22",
@@ -591,27 +576,6 @@
       "searchAliases": "Amazon Building intent-driven UI testing with Amazon Nova Act"
     },
     {
-      "id": "c70818ef4b7d93bab4f9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مواصفات نموذج محدثة لذكاء اصطناعي أكثر قدرة وفائدة",
-      "titleOriginal": "An updated Model Spec for more capable and beneficial AI",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحدد مواصفات النموذج المحدثة لـ OpenAI خمس قيم أساسية لتوجيه الذكاء الاصطناعي الأكثر قدرة نحو الحكم السليم، والوكالة البشرية، والإخلاص للنوايا البشرية.",
-      "summaryOriginal": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/updated-model-spec",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI An updated Model Spec for more capable and beneficial AI"
-    },
-    {
       "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -675,48 +639,6 @@
       "searchAliases": "Mistral AI Mistral Large 4 (Le Chonk) is now open weight | Mistral"
     },
     {
-      "id": "d25312469f90de5e795f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف نكتشف عدم محاذاة النموذج الحدودي",
-      "titleOriginal": "How we detect frontier model misalignment",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم OpenAI المراقبة متعددة الطبقات للكشف عن اختلال نموذج الحدود وسلوك الوكيل غير المصرح به حتى يتمكن المستجيبون من التدخل قبل تصاعد الحوادث.",
-      "summaryOriginal": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How we detect frontier model misalignment"
-    },
-    {
-      "id": "d8568ffbacc92b3ca0eb",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "كيف تقوم Ropes & Gray بتطوير الذكاء الاصطناعي للعناية بالمعاملات",
-      "titleOriginal": "How Ropes & Gray is developing AI for transactional diligence",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقوم Ropes & Gray بتطوير الذكاء الاصطناعي للعناية بالمعاملات مع OpenAI. يراجع المحامون الوثائق والملخصات والتقارير المجمعة قبل تقديم المشورة للعملاء.",
-      "summaryOriginal": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ropes-gray-ai-diligence",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Ropes & Gray is developing AI for transactional diligence"
-    },
-    {
       "id": "420cecbca7efb393e23e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -736,9 +658,71 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+    },
+    {
+      "id": "87373f135c6571baf56f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "مرحبًا لو تشونك: ميسترال لارج 4 على وجه المعانقة",
+      "titleOriginal": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/mistral-large4",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+    },
+    {
+      "id": "26849dea18ac154a4e46",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم AnySpeechRecognizer و AnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
+      "titleOriginal": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/anydecisionmodel",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
+    },
+    {
+      "id": "bb4f38b31c3c1d74544a",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم تسخير Microsoft Copilot: إطلاق العنان لإمكانات العمل الوكيل متعدد النماذج حقًا",
+      "titleOriginal": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "dateLabel": "28 أكتوبر 2026",
+      "dateISO": "2026-10-28",
+      "category": "models",
+      "importance": 92,
+      "summary": "إذا كنت ترغب في التنافس، فأنت بحاجة إلى أن تكون متعدد النماذج. وإذا كنت ترغب في الاستفادة من كل ما تقدمه نماذج الذكاء الاصطناعي المختلفة، فأنت بحاجة إلى تسخير كبير. لكن",
+      "summaryOriginal": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work appeared first on The Official Microsoft Blog .",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-02T23:53:04.628831+00:00",
-  "lastFastCheckAt": "2026-11-03T06:47:56.530618+00:00"
+  "lastDeepCheckAt": "2026-11-03T06:50:01.295875+00:00"
 }
