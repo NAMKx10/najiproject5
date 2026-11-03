@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T16:45:44.938047+00:00",
-  "checkedAt": "2026-11-03T16:45:44.938047+00:00",
-  "newestPublishedAt": "2026-11-03T16:43:20+00:00",
+  "updatedAt": "2026-11-03T16:50:48.926771+00:00",
+  "checkedAt": "2026-11-03T16:50:48.926771+00:00",
+  "newestPublishedAt": "2026-11-03T16:49:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "ed8aa1b4048cb3623d7f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "اجمع البيانات المهيكلة وغير المهيكلة مع Amazon Quick",
+      "titleOriginal": "Bring structured and unstructured data together with Amazon Quick",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "تجمع Amazon Quick البيانات المهيكلة وغير المهيكلة معًا في تجربة واحدة. في هذا المنشور، يمكنك ربط Amazon S3 كقاعدة معرفية، وإثراء مجموعة بيانات، وبناء مساحة،",
+      "summaryOriginal": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:49:29+00:00"
+    },
+    {
+      "id": "007cdf90da4ce2cc9f17",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "ServiceNow تبادل الرمز المميز نيابة عن مع Bedrock AgentCore Gateway",
+      "titleOriginal": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلم كيفية تكوين Amazon Bedrock AgentCore Gateway لتبادل الرمز المميز (OBO) نيابة عن Microsoft Entra ID، حتى يتمكن وكيل الذكاء الاصطناعي من الاتصال بـ ServiceNow REST API",
+      "summaryOriginal": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:47:40+00:00"
+    },
     {
       "id": "930a58d9d6d6e868f195",
       "company": "Amazon",
@@ -714,51 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
-    },
-    {
-      "id": "3e3f6c1831d78c738377",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "مما يسهل على مواقع الويب التعبير عن تفضيلات التدريب على الذكاء الاصطناعي",
-      "titleOriginal": "Making it easier for websites to express AI training preferences",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستحترم OpenAI إشارة robots.txt المشتركة لمساعدة مشغلي مواقع الويب على توصيل تفضيلات تدريب الذكاء الاصطناعي الخاصة بهم إلى مقدمي الخدمات المشاركين.",
-      "summaryOriginal": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Making it easier for websites to express AI training preferences"
-    },
-    {
-      "id": "c8c0d1a56fe391b32b39",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقرير سلامة المجتمع والحماية الجديدة للمراهقين",
-      "titleOriginal": "Community safety report and new protections for teens",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل OpenAI على تعزيز منع العنف في ChatGPT مع ضمانات موسعة، وتدخلات سابقة، والتزام جديد بالإبلاغ عن السلامة العامة.",
-      "summaryOriginal": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Community safety report and new protections for teens"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T16:45:44.938047+00:00"
+  "lastFastCheckAt": "2026-11-03T16:50:48.926771+00:00"
 }
