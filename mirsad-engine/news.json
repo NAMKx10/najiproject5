@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T20:03:23.787680+00:00",
-  "checkedAt": "2026-11-03T20:03:23.787680+00:00",
+  "updatedAt": "2026-11-03T20:07:45.983366+00:00",
+  "checkedAt": "2026-11-03T20:07:45.983366+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -379,6 +379,32 @@
       "publishedAt": "2026-11-03T12:00:00+00:00"
     },
     {
+      "id": "4acc6049a90d6fced65e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تدافع Cisco عن سرعة الماكينة باستخدام OpenAI",
+      "titleOriginal": "How Cisco defends at machine speed with OpenAI",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "تجمع Cisco بين ذكاء الشبكة ونماذج OpenAI لتعزيز أمن المؤسسة. تعرف على كيفية بناء دفاعات أكثر تكيفًا.",
+      "summaryOriginal": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cisco-cyber",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Cisco defends at machine speed with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T08:00:00+00:00"
+    },
+    {
       "id": "bdd4b885244837e80ae4",
       "company": "OpenAI",
       "logoText": "AI",
@@ -461,6 +487,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face CWE-bench v2: More coverage, quality, and transparency",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T00:00:00+00:00"
+    },
+    {
+      "id": "65a34101c9878265c977",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "أوبن إيه آي تعيّن جيل هازيلبيكر رئيسةً للشؤون المؤسسية",
+      "titleOriginal": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ستنضم جيل هازيلبيكر إلى OpenAI كرئيسة تنفيذية لشؤون الشركات، حيث ستقود الاتصالات العالمية للشركة وموقعها المؤسسي.",
+      "summaryOriginal": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -744,61 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-10-30T17:57:24+00:00"
-    },
-    {
-      "id": "1a829b018c6893a5964b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "الأشياء التي تصدر صفيرًا في الليل: ينضم الذكاء الاصطناعي الوكيل إلى البحث عن إشارات خارج الأرض",
-      "titleOriginal": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "research",
-      "importance": 86,
-      "summary": "في حين أن تقاليد الخيال العلمي تخبرنا أن البشر سيقابلون الحياة خارج الأرض في شكل رجال خضر صغار، فإن التفاصيل التي يجب أن تثير الشعر في عيد الهالوين هو هذا",
-      "summaryOriginal": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T15:00:10+00:00"
-    },
-    {
-      "id": "3e3f6c1831d78c738377",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "مما يسهل على مواقع الويب التعبير عن تفضيلات التدريب على الذكاء الاصطناعي",
-      "titleOriginal": "Making it easier for websites to express AI training preferences",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستحترم OpenAI إشارة robots.txt المشتركة لمساعدة مشغلي مواقع الويب على توصيل تفضيلات تدريب الذكاء الاصطناعي الخاصة بهم إلى مقدمي الخدمات المشاركين.",
-      "summaryOriginal": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Making it easier for websites to express AI training preferences",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T09:30:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T20:03:23.787680+00:00"
+  "lastFastCheckAt": "2026-11-03T20:07:45.983366+00:00"
 }
