@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T17:11:20.123342+00:00",
-  "checkedAt": "2026-11-03T17:11:20.123342+00:00",
-  "newestPublishedAt": "2026-11-03T16:49:29+00:00",
+  "updatedAt": "2026-11-03T17:16:33.509299+00:00",
+  "checkedAt": "2026-11-03T17:16:33.509299+00:00",
+  "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c0bf2137f48553f0d8c1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "StateBench: اختبار كيفية تتبع نماذج اللغة لتغيرات الحالة عبر المستندات الطويلة",
+      "titleOriginal": "StateBench: Testing how language models track state changes over long documents",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/allenai/statebench",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T17:15:21+00:00"
+    },
     {
       "id": "ed8aa1b4048cb3623d7f",
       "company": "Amazon",
@@ -760,30 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime"
-    },
-    {
-      "id": "c546ab9bf5fb0fe3e76e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "نيموترون هالوين",
-      "titleOriginal": "nemotron-halloween",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face nemotron-halloween"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T17:11:20.123342+00:00"
+  "lastFastCheckAt": "2026-11-03T17:16:33.509299+00:00"
 }
