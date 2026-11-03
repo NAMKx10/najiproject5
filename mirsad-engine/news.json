@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T17:16:33.509299+00:00",
-  "checkedAt": "2026-11-03T17:16:33.509299+00:00",
+  "updatedAt": "2026-11-03T17:21:16.137624+00:00",
+  "checkedAt": "2026-11-03T17:21:16.137624+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -668,6 +668,32 @@
       "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     },
     {
+      "id": "c546ab9bf5fb0fe3e76e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "نيموترون هالوين",
+      "titleOriginal": "nemotron-halloween",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face nemotron-halloween",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T17:57:24+00:00"
+    },
+    {
       "id": "1a829b018c6893a5964b",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams"
-    },
-    {
-      "id": "fefcbaa63f3c875fd9f1",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "معاينة تطبيقات الويب مباشرة بينما يقوم وكيل الترميز الخاص بك ببنائها باستخدام وقت تشغيل Amazon Bedrock AgentCore",
-      "titleOriginal": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تمنح نقاط نهاية Amazon Bedrock AgentCore Session كل جلسة تشغيل عنوان URL مصادق عليه يعيد توجيه أي طريقة HTTP ومسار واتصال WebSocket إلى المنافذ التي",
-      "summaryOriginal": "Amazon Bedrock AgentCore Session endpoints give each runtime session an authenticated URL that forwards any HTTP method, path, and WebSocket connection to the ports you allow. In this post, you deploy a coding agent that keeps a Vite website running in its session, then watch the live site update in your browser as the agent edits files.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T17:16:33.509299+00:00"
+  "lastFastCheckAt": "2026-11-03T17:21:16.137624+00:00"
 }
