@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T02:59:47.480125+00:00",
-  "checkedAt": "2026-11-03T02:59:47.480125+00:00",
-  "newestPublishedAt": "2026-11-02T17:11:21+00:00",
+  "updatedAt": "2026-11-03T03:04:49.545423+00:00",
+  "checkedAt": "2026-11-03T03:04:49.545423+00:00",
+  "newestPublishedAt": "2026-11-02T18:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "850a70525105f4cdcef1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مكافأة المدافعين بمكافآت أكبر للأخطاء",
+      "titleOriginal": "Rewarding defenders with bigger bug bounties",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم OpenAI برفع مكافآت Security Bug Bounty وتقديم مكافآت جودة التقرير والولاء والأولوية للحملة للباحثين الأمنيين المستقلين.",
+      "summaryOriginal": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "id": "085b4fb31d6fa9d138e5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "التحضير لسباقنا الأمني التالي لتقوية OpenAI",
+      "titleOriginal": "Preparing our next security sprint to harden OpenAI",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تستعد OpenAI لسباقها الأمني الداخلي التالي مع أنظمة الكاتدرائية لاختبار وتعزيز دفاعاتها باستخدام الذكاء الاصطناعي.",
+      "summaryOriginal": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Preparing our next security sprint to harden OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T18:00:00+00:00"
+    },
     {
       "id": "ff1be63f86f4a040bf61",
       "company": "Amazon",
@@ -684,51 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
-    },
-    {
-      "id": "87373f135c6571baf56f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحبًا لو تشونك: ميسترال لارج 4 على وجه المعانقة",
-      "titleOriginal": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/mistral-large4",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face"
-    },
-    {
-      "id": "26849dea18ac154a4e46",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم AnySpeechRecognizer و AnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
-      "titleOriginal": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/anydecisionmodel",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-02T23:53:04.628831+00:00",
-  "lastFastCheckAt": "2026-11-03T02:59:47.480125+00:00"
+  "lastFastCheckAt": "2026-11-03T03:04:49.545423+00:00"
 }
