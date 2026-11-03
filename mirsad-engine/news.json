@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T20:58:28.857719+00:00",
-  "checkedAt": "2026-11-03T20:58:28.857719+00:00",
+  "updatedAt": "2026-11-03T20:59:50.636922+00:00",
+  "checkedAt": "2026-11-03T20:59:50.636922+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,15 +111,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T17:15:21+00:00"
+      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents"
     },
     {
-      "id": "ed8aa1b4048cb3623d7f",
+      "id": "1205287ec0088e9d181e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -132,20 +127,15 @@
       "summary": "تجمع Amazon Quick البيانات المهيكلة وغير المهيكلة معًا في تجربة واحدة. في هذا المنشور، يمكنك ربط Amazon S3 كقاعدة معرفية، وإثراء مجموعة بيانات، وبناء مساحة،",
       "summaryOriginal": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:49:29+00:00"
+      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick"
     },
     {
-      "id": "007cdf90da4ce2cc9f17",
+      "id": "f7fb8b15e909bc3e52e5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -158,20 +148,15 @@
       "summary": "تعلم كيفية تكوين Amazon Bedrock AgentCore Gateway لتبادل الرمز المميز (OBO) نيابة عن Microsoft Entra ID، حتى يتمكن وكيل الذكاء الاصطناعي من الاتصال بـ ServiceNow REST API",
       "summaryOriginal": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:47:40+00:00"
+      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
     },
     {
-      "id": "930a58d9d6d6e868f195",
+      "id": "cd4f637f1db95573f450",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -184,20 +169,15 @@
       "summary": "تم بناء Gen Digital Norton Revamp، وهي منصة إدارة سمعة احترافية تعمل بالذكاء الاصطناعي، مع محرك أخبار برعاية الذكاء الاصطناعي يرتكز على Web Search على Amazon Bedr",
       "summaryOriginal": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:43:20+00:00"
+      "searchAliases": "Amazon How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search"
     },
     {
-      "id": "97246d83c8dd2212b23e",
+      "id": "9eb58857f10111efc60f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -210,20 +190,15 @@
       "summary": "تعلم كيفية بناء طبقة دلالية محكومة للذكاء الاصطناعي الوكيل داخل EDB Postgres AI والاستعلام عنها من وكيل وكلاء Strands على Amazon Bedrock AgentCore. معنى العمل،",
       "summaryOriginal": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:41:13+00:00"
+      "searchAliases": "Amazon Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore"
     },
     {
-      "id": "13c4ccae439f3bbde36d",
+      "id": "9abfd105fdb162b9aef4",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -236,17 +211,12 @@
       "summary": "تعرف على كيفية استخدام Cartesia، أحد شركاء AWS، لنماذج State Space المصممة خصيصًا والبنية التحتية لـ AWS لتقديم نص إلى كلام من 100 مللي ثانية وكلام إلى نص على نطاق عالمي،",
       "summaryOriginal": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Building ultra-low-latency voice AI applications on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:40:54+00:00"
+      "searchAliases": "Amazon Building ultra-low-latency voice AI applications on AWS"
     },
     {
       "id": "f4f866a3e7137f66c534",
@@ -267,15 +237,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:35:36+00:00"
+      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language"
     },
     {
-      "id": "5a3ac1c6c7c0dfeb1bad",
+      "id": "3d6291ad6d192fd1d055",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -288,20 +253,15 @@
       "summary": "تقدم Amazon Bedrock الآن استدلالًا داخليًا في الهند لـ Kimi K3، مع الحفاظ على المعالجة داخل منطقتي مومباي وحيدر أباد. يشرح هذا المنشور العالمي والجغرافي",
       "summaryOriginal": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares example code for reading and understanding Indic-language documents with Kimi K3.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing India-based inference for Kimi K3 on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:32:54+00:00"
+      "searchAliases": "Amazon Introducing India-based inference for Kimi K3 on Amazon Bedrock"
     },
     {
-      "id": "3f6471f54273859e37a8",
+      "id": "33e5032c7e3df081662c",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -314,43 +274,12 @@
       "summary": "الطلب على الرقائق المتقدمة آخذ في الارتفاع. أصبحت عمليات بنائها أكثر تعقيدًا. وهامش الخطأ يتقلص. بالنسبة للمهندسين، فهم كيفية إجراء",
       "summaryOriginal": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "source": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:00:45+00:00"
-    },
-    {
-      "id": "0439f4e70f7b99ceb141",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نفس الطراز، أحزمة مختلفة: CUGA و HERMES و DEEP AGENTS — متى تختار CUGA ؟",
-      "titleOriginal": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/cuga-harness",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T15:57:39+00:00"
+      "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
     },
     {
       "id": "75b355b2a8dde883855e",
@@ -371,12 +300,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Accelerating engineering for the physical world",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T12:00:00+00:00"
+      "searchAliases": "OpenAI Accelerating engineering for the physical world"
     },
     {
       "id": "4acc6049a90d6fced65e",
@@ -397,12 +321,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How Cisco defends at machine speed with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T08:00:00+00:00"
+      "searchAliases": "OpenAI How Cisco defends at machine speed with OpenAI"
     },
     {
       "id": "bdd4b885244837e80ae4",
@@ -447,6 +366,48 @@
       "searchAliases": "NVIDIA Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
     },
     {
+      "id": "65a34101c9878265c977",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "أوبن إيه آي تعيّن جيل هازيلبيكر رئيسةً للشؤون المؤسسية",
+      "titleOriginal": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ستنضم جيل هازيلبيكر إلى OpenAI كرئيسة تنفيذية لشؤون الشركات، حيث ستقود الاتصالات العالمية للشركة وموقعها المؤسسي.",
+      "summaryOriginal": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer"
+    },
+    {
+      "id": "fc8fe674be566ec91f18",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "CWE - Bench v2: المزيد من التغطية والجودة والشفافية",
+      "titleOriginal": "CWE-bench v2: More coverage, quality, and transparency",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/cwe-bench",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face CWE-bench v2: More coverage, quality, and transparency"
+    },
+    {
       "id": "5e0a696391f0bbd0816a",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -468,56 +429,25 @@
       "searchAliases": "Hugging Face Transformers Model Integration Contracts"
     },
     {
-      "id": "fc8fe674be566ec91f18",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "CWE - Bench v2: المزيد من التغطية والجودة والشفافية",
-      "titleOriginal": "CWE-bench v2: More coverage, quality, and transparency",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/cwe-bench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face CWE-bench v2: More coverage, quality, and transparency",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T00:00:00+00:00"
-    },
-    {
-      "id": "65a34101c9878265c977",
+      "id": "850a70525105f4cdcef1",
       "company": "OpenAI",
       "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "أوبن إيه آي تعيّن جيل هازيلبيكر رئيسةً للشؤون المؤسسية",
-      "titleOriginal": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستنضم جيل هازيلبيكر إلى OpenAI كرئيسة تنفيذية لشؤون الشركات، حيث ستقود الاتصالات العالمية للشركة وموقعها المؤسسي.",
-      "summaryOriginal": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "type": "إطلاق أو تحديث",
+      "title": "مكافأة المدافعين بمكافآت أكبر للأخطاء",
+      "titleOriginal": "Rewarding defenders with bigger bug bounties",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم OpenAI برفع مكافآت Security Bug Bounty وتقديم مكافآت جودة التقرير والولاء والأولوية للحملة للباحثين الأمنيين المستقلين.",
+      "summaryOriginal": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T00:00:00+00:00"
+      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties"
     },
     {
       "id": "085b4fb31d6fa9d138e5",
@@ -539,27 +469,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Preparing our next security sprint to harden OpenAI"
-    },
-    {
-      "id": "850a70525105f4cdcef1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مكافأة المدافعين بمكافآت أكبر للأخطاء",
-      "titleOriginal": "Rewarding defenders with bigger bug bounties",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقوم OpenAI برفع مكافآت Security Bug Bounty وتقديم مكافآت جودة التقرير والولاء والأولوية للحملة للباحثين الأمنيين المستقلين.",
-      "summaryOriginal": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties"
     },
     {
       "id": "ff1be63f86f4a040bf61",
@@ -730,27 +639,6 @@
       "searchAliases": "OpenAI OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
     },
     {
-      "id": "e4b74a3a62ab6094be6d",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تبني كودو السياق في مراجعة كود الذكاء الاصطناعي مع الدستور الغذائي",
-      "titleOriginal": "Qodo builds context into AI code review with Codex",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يجلب كودو معرفة الشركة ومعايير الترميز إلى الدستور الغذائي، مما يساعد المطورين على اكتشاف مشكلات P0 عبر المستودعات قبل فتح طلب السحب.",
-      "summaryOriginal": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/qodo-codex-plugin",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Qodo builds context into AI code review with Codex"
-    },
-    {
       "id": "1c7dad739ee328a50c3a",
       "company": "xAI",
       "logoText": "xAI",
@@ -790,15 +678,51 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face nemotron-halloween",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-30T17:57:24+00:00"
+      "searchAliases": "Hugging Face nemotron-halloween"
+    },
+    {
+      "id": "9c0a6d1548be8f661f26",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "الأشياء التي تصدر صفيرًا في الليل: ينضم الذكاء الاصطناعي الوكيل إلى البحث عن إشارات خارج الأرض",
+      "titleOriginal": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "research",
+      "importance": 86,
+      "summary": "في حين أن تقاليد الخيال العلمي تخبرنا أن البشر سيقابلون الحياة خارج الأرض في شكل رجال خضر صغار، فإن التفاصيل التي يجب أن تثير الشعر في عيد الهالوين هو هذا",
+      "summaryOriginal": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
+    },
+    {
+      "id": "17ff82eab5b698cdfceb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
+      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
+      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T20:58:28.857719+00:00"
+  "lastDeepCheckAt": "2026-11-03T20:59:50.636922+00:00"
 }
