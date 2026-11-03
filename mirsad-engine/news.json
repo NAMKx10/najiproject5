@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T15:59:42.390561+00:00",
-  "checkedAt": "2026-11-03T15:59:42.390561+00:00",
-  "newestPublishedAt": "2026-11-03T15:57:39+00:00",
+  "updatedAt": "2026-11-03T16:04:43.941435+00:00",
+  "checkedAt": "2026-11-03T16:04:43.941435+00:00",
+  "newestPublishedAt": "2026-11-03T16:00:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3f6471f54273859e37a8",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "يغير الذكاء الاصطناعي كيفية عمل مصانع أشباه الموصلات — ويتحرك المهندسون بشكل أسرع بسبب ذلك",
+      "titleOriginal": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "الطلب على الرقائق المتقدمة آخذ في الارتفاع. أصبحت عمليات بنائها أكثر تعقيدًا. وهامش الخطأ يتقلص. بالنسبة للمهندسين، فهم كيفية إجراء",
+      "summaryOriginal": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:00:45+00:00"
+    },
     {
       "id": "0439f4e70f7b99ceb141",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Mistral AI Mistral Large 4 (Le Chonk) is now open weight | Mistral"
-    },
-    {
-      "id": "420cecbca7efb393e23e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "بحث",
-      "title": "الإعلان عن مشروع ProtoStar: جعل العلوم الممولة من القطاع العام جاهزة",
-      "titleOriginal": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "research",
-      "importance": 86,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/announcing-project-protostar",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T15:09:51.066203+00:00",
-  "lastFastCheckAt": "2026-11-03T15:59:42.390561+00:00"
+  "lastFastCheckAt": "2026-11-03T16:04:43.941435+00:00"
 }
