@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-03T07:08:13.124871+00:00",
-  "checkedAt": "2026-11-03T07:08:13.124871+00:00",
+  "updatedAt": "2026-11-03T07:13:14.443244+00:00",
+  "checkedAt": "2026-11-03T07:13:14.443244+00:00",
   "newestPublishedAt": "2026-11-03T07:00:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T07:00:12+00:00"
+    },
+    {
+      "id": "5e0a696391f0bbd0816a",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "عقود تكامل نموذج المحولات",
+      "titleOriginal": "Transformers Model Integration Contracts",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/transformers-mic",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Transformers Model Integration Contracts",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T00:00:00+00:00"
     },
     {
       "id": "850a70525105f4cdcef1",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Welcome Le Chonk: Mistral Large 4 on Hugging Face"
-    },
-    {
-      "id": "26849dea18ac154a4e46",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم AnySpeechRecognizer و AnyDecisionModel: نماذج مفتوحة للكلام والقرارات على منصات Apple",
-      "titleOriginal": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/anydecisionmodel",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-03T06:50:01.295875+00:00",
-  "lastFastCheckAt": "2026-11-03T07:08:13.124871+00:00"
+  "lastFastCheckAt": "2026-11-03T07:13:14.443244+00:00"
 }
