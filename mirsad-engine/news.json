@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T16:26:35.295527+00:00",
-  "checkedAt": "2026-11-04T16:26:35.295527+00:00",
-  "newestPublishedAt": "2026-11-04T16:25:57+00:00",
+  "updatedAt": "2026-11-04T16:31:32.517765+00:00",
+  "checkedAt": "2026-11-04T16:31:32.517765+00:00",
+  "newestPublishedAt": "2026-11-04T16:30:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "96e9c58367b4d4aed807",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أربع طبقات من هندسة السياق لوكلاء إنتاج الذكاء الاصطناعي: كيف تطبقهم Deep Insight في كود العمل",
+      "titleOriginal": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في وكلاء إنتاج الذكاء الاصطناعي، إدارة السياق هي عنق الزجاجة الحقيقي. يقدم هذا المنشور إطارًا هندسيًا للسياق من أربع طبقات (الهندسة المعمارية، والمطالبات، والأدوات القائمة على الملفات",
+      "summaryOriginal": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T16:30:40+00:00"
+    },
     {
       "id": "1e2bf3e385e8b925537b",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
-    },
-    {
-      "id": "c546ab9bf5fb0fe3e76e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "نيموترون هالوين",
-      "titleOriginal": "nemotron-halloween",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face nemotron-halloween"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T16:26:35.295527+00:00"
+  "lastFastCheckAt": "2026-11-04T16:31:32.517765+00:00"
 }
