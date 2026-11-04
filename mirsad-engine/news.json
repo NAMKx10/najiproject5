@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T08:03:01.141875+00:00",
-  "checkedAt": "2026-11-04T08:03:01.141875+00:00",
+  "updatedAt": "2026-11-04T08:03:31.940676+00:00",
+  "checkedAt": "2026-11-04T08:03:31.940676+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -429,27 +429,6 @@
       "searchAliases": "Hugging Face Transformers Model Integration Contracts"
     },
     {
-      "id": "850a70525105f4cdcef1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مكافأة المدافعين بمكافآت أكبر للأخطاء",
-      "titleOriginal": "Rewarding defenders with bigger bug bounties",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقوم OpenAI برفع مكافآت Security Bug Bounty وتقديم مكافآت جودة التقرير والولاء والأولوية للحملة للباحثين الأمنيين المستقلين.",
-      "summaryOriginal": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties"
-    },
-    {
       "id": "085b4fb31d6fa9d138e5",
       "company": "OpenAI",
       "logoText": "AI",
@@ -469,6 +448,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Preparing our next security sprint to harden OpenAI"
+    },
+    {
+      "id": "850a70525105f4cdcef1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مكافأة المدافعين بمكافآت أكبر للأخطاء",
+      "titleOriginal": "Rewarding defenders with bigger bug bounties",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم OpenAI برفع مكافآت Security Bug Bounty وتقديم مكافآت جودة التقرير والولاء والأولوية للحملة للباحثين الأمنيين المستقلين.",
+      "summaryOriginal": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Rewarding defenders with bigger bug bounties"
     },
     {
       "id": "ff1be63f86f4a040bf61",
@@ -660,32 +660,6 @@
       "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     },
     {
-      "id": "b281f275799c50093147",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "عينت OpenAI دان دريسكول مستشارًا أول لتحديث الأمن القومي",
-      "titleOriginal": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعين OpenAI دان دريسكول لتقديم المشورة بشأن الذكاء الاصطناعي المسؤول عن تحديث الأمن القومي، والمرونة السيبرانية، والتعاون مع حلفاء الولايات المتحدة.",
-      "summaryOriginal": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/dan-driscoll-joins-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T00:00:00+00:00"
-    },
-    {
       "id": "c546ab9bf5fb0fe3e76e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -726,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
+    },
+    {
+      "id": "17ff82eab5b698cdfceb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
+      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "dateLabel": "29 أكتوبر 2026",
+      "dateISO": "2026-10-29",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
+      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-04T01:22:43.015724+00:00",
-  "lastFastCheckAt": "2026-11-04T08:03:01.141875+00:00"
+  "lastDeepCheckAt": "2026-11-04T08:03:31.940676+00:00"
 }
