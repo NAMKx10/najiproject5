@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T17:47:33.773962+00:00",
-  "checkedAt": "2026-11-04T17:47:33.773962+00:00",
-  "newestPublishedAt": "2026-11-04T16:33:03+00:00",
+  "updatedAt": "2026-11-04T17:52:37.689403+00:00",
+  "checkedAt": "2026-11-04T17:52:37.689403+00:00",
+  "newestPublishedAt": "2026-11-04T17:50:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fcaa616ce2a7af112878",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مستخرج حقل الدارما: أي مستند موجود، الحقول المهيكلة في JSON Out",
+      "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T17:50:10+00:00"
+    },
     {
       "id": "c30544e0570bc29fe7e7",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Scaling Git at OpenAI"
-    },
-    {
-      "id": "359026f51b0f40711a80",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "التعريف ببرنامج حماة الشبكة",
-      "titleOriginal": "Introducing the Grid Protectors Program",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "سيعمل برنامج OpenAI لحماية الشبكة مع المرافق لمساعدة حرم الحوسبة في المستقبل على دعم موثوقية الشبكة وحماية تكاليف الكهرباء الاستهلاكية.",
-      "summaryOriginal": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/grid-protectors-program",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Grid Protectors Program"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T17:47:33.773962+00:00"
+  "lastFastCheckAt": "2026-11-04T17:52:37.689403+00:00"
 }
