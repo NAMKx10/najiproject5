@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T01:25:25.023560+00:00",
-  "checkedAt": "2026-11-04T01:25:25.023560+00:00",
+  "updatedAt": "2026-11-04T01:30:27.472712+00:00",
+  "checkedAt": "2026-11-04T01:30:27.472712+00:00",
   "newestPublishedAt": "2026-11-03T17:15:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -702,33 +702,33 @@
       "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
     },
     {
-      "id": "2991e858c7dcc01d36e3",
-      "company": "Hugging Face",
-      "logoText": "HF",
+      "id": "98cdb0248880b96c9434",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "مفتاح الجرانيت 4.1.1 — قم بتحديث الطرز مثلك قم بتحديث البرامج",
-      "titleOriginal": "Granite Switch 4.1.1 — Update models like you update software",
+      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
+      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "dateLabel": "29 أكتوبر 2026",
       "dateISO": "2026-10-29",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
+      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
+      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "sourceLabel": "Hugging Face Blog",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Granite Switch 4.1.1 — Update models like you update software",
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-10-29T13:37:07+00:00"
+      "publishedAt": "2026-10-29T16:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T01:22:43.015724+00:00",
-  "lastFastCheckAt": "2026-11-04T01:25:25.023560+00:00"
+  "lastFastCheckAt": "2026-11-04T01:30:27.472712+00:00"
 }
