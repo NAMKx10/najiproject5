@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T22:12:33.648127+00:00",
-  "checkedAt": "2026-11-04T22:12:33.648127+00:00",
+  "updatedAt": "2026-11-04T22:14:02.312067+00:00",
+  "checkedAt": "2026-11-04T22:14:02.312067+00:00",
   "newestPublishedAt": "2026-11-04T18:46:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "7a12151a54034bd8aade",
+      "id": "1c3d641cc3b978e4ba21",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,17 +106,12 @@
       "summary": "بعض أسئلة تقييم الوكيل ضيقة وقابلة للتكرار، ونماذج القرار تجيب بالضبط على هذا النوع من الأسئلة. يوضح هذا المنشور كيفية ربط نموذجي قرار، J",
       "summaryOriginal": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T18:46:36+00:00"
+      "searchAliases": "Amazon Use decision models with Amazon Bedrock AgentCore Evaluations"
     },
     {
       "id": "fcaa616ce2a7af112878",
@@ -137,15 +132,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T17:50:10+00:00"
+      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
     },
     {
-      "id": "c30544e0570bc29fe7e7",
+      "id": "4c2bf083d89b8e0088fc",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -158,20 +148,15 @@
       "summary": "الموافقات الذكية في أمازون مراجعة سريعة لإجراءات الوكيل المؤهل ضمن عناصر التحكم الحالية الخاصة بك، مما يقلل من مطالبات الموافقة غير الضرورية مع الحفاظ على القرارات التبعية",
       "summaryOriginal": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
+      "source": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:33:03+00:00"
+      "searchAliases": "Amazon Smart Approvals in Amazon Quick: Human oversight where it matters"
     },
     {
-      "id": "96e9c58367b4d4aed807",
+      "id": "7a7be092f17f9c070de5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,20 +169,15 @@
       "summary": "في وكلاء إنتاج الذكاء الاصطناعي، إدارة السياق هي عنق الزجاجة الحقيقي. يقدم هذا المنشور إطارًا هندسيًا للسياق من أربع طبقات (الهندسة المعمارية، والمطالبات، والأدوات القائمة على الملفات",
       "summaryOriginal": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
+      "source": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:30:40+00:00"
+      "searchAliases": "Amazon Four layers of context engineering for production AI agents: How Deep Insight applies them in working code"
     },
     {
-      "id": "1e2bf3e385e8b925537b",
+      "id": "2c0566ccc499c3415dab",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -210,20 +190,15 @@
       "summary": "يستكشف هذا المنشور كيف قامت Indegene ببناء وكيل جودة بيانات من الدرجة الإنتاجية مدعوم من LLM في منصة البيانات الموحدة التالية على AWS. يقوم الوكيل بإنشاء بيانات مدركة للسياق",
       "summaryOriginal": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Indegene is modernizing and scaling enterprise data quality in life sciences",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:25:57+00:00"
+      "searchAliases": "Amazon How Indegene is modernizing and scaling enterprise data quality in life sciences"
     },
     {
-      "id": "e3058c185cf1b90818fb",
+      "id": "0515900c023d7c41521a",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -236,17 +211,12 @@
       "summary": "قامت U Mobile، أحدث مزود لشبكة 5G في ماليزيا، ببناء AiDaH، وهي منصة عمليات للذكاء الاصطناعي الوكيل على Amazon Bedrock AgentCore التي تتجاوز مساعدة الذكاء الاصطناعي إلى الحكم الذاتي",
       "summaryOriginal": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:23:33+00:00"
+      "searchAliases": "Amazon How U Mobile built agentic telco operations with Amazon Bedrock AgentCore"
     },
     {
       "id": "baa40162ffcefadda62f",
@@ -438,27 +408,6 @@
       "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language"
     },
     {
-      "id": "3d6291ad6d192fd1d055",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم الاستدلال القائم على الهند لـ Kimi K3 على Amazon Bedrock",
-      "titleOriginal": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم Amazon Bedrock الآن استدلالًا داخليًا في الهند لـ Kimi K3، مع الحفاظ على المعالجة داخل منطقتي مومباي وحيدر أباد. يشرح هذا المنشور العالمي والجغرافي",
-      "summaryOriginal": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares example code for reading and understanding Indic-language documents with Kimi K3.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing India-based inference for Kimi K3 on Amazon Bedrock"
-    },
-    {
       "id": "33e5032c7e3df081662c",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -627,58 +576,6 @@
       "searchAliases": "Hugging Face Transformers Model Integration Contracts"
     },
     {
-      "id": "c992021f47d535687a00",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تحجيم البوابة في OpenAI",
-      "titleOriginal": "Scaling Git at OpenAI",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف قامت OpenAI ببناء Pando، وهي واجهة خلفية متوافقة مع Git مصممة لحجم التطوير الذي يجعله الدستور الغذائي ممكنًا.",
-      "summaryOriginal": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/scaling-git-at-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Scaling Git at OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T15:30:00+00:00"
-    },
-    {
-      "id": "359026f51b0f40711a80",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "التعريف ببرنامج حماة الشبكة",
-      "titleOriginal": "Introducing the Grid Protectors Program",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "models",
-      "importance": 92,
-      "summary": "سيعمل برنامج OpenAI لحماية الشبكة مع المرافق لمساعدة حرم الحوسبة في المستقبل على دعم موثوقية الشبكة وحماية تكاليف الكهرباء الاستهلاكية.",
-      "summaryOriginal": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/grid-protectors-program",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing the Grid Protectors Program",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-02T15:00:00+00:00"
-    },
-    {
       "id": "850a70525105f4cdcef1",
       "company": "OpenAI",
       "logoText": "AI",
@@ -721,49 +618,111 @@
       "searchAliases": "OpenAI Preparing our next security sprint to harden OpenAI"
     },
     {
-      "id": "ff1be63f86f4a040bf61",
-      "company": "Amazon",
-      "logoText": "AWS",
+      "id": "c992021f47d535687a00",
+      "company": "OpenAI",
+      "logoText": "AI",
       "type": "مستجد تقني",
-      "title": "إعداد محتوى الويب لقواعد معرفة Amazon Bedrock باستخدام Crawl4AI",
-      "titleOriginal": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "title": "تحجيم البوابة في OpenAI",
+      "titleOriginal": "Scaling Git at OpenAI",
       "dateLabel": "2 نوفمبر 2026",
       "dateISO": "2026-11-02",
       "category": "tools",
       "importance": 78,
-      "summary": "يوضح هذا المنشور كيفية استخدام Crawl4AI، وهو زاحف ويب مفتوح المصدر، كطبقة إعداد محتوى لقواعد معرفة Amazon Bedrock، والتعامل مع عرض جافا سكريبت،",
-      "summaryOriginal": "This post shows how to use Crawl4AI, an open source web crawler, as a content preparation layer for Amazon Bedrock Knowledge Bases, handling JavaScript rendering, selective extraction, and custom metadata enrichment before web content reaches an Amazon S3 data source.",
+      "summary": "كيف قامت OpenAI ببناء Pando، وهي واجهة خلفية متوافقة مع Git مصممة لحجم التطوير الذي يجعله الدستور الغذائي ممكنًا.",
+      "summaryOriginal": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "source": "https://openai.com/index/scaling-git-at-openai",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI"
+      "searchAliases": "OpenAI Scaling Git at OpenAI"
     },
     {
-      "id": "5c95572325b0a9161b84",
-      "company": "Amazon",
-      "logoText": "AWS",
+      "id": "359026f51b0f40711a80",
+      "company": "OpenAI",
+      "logoText": "AI",
       "type": "إطلاق أو تحديث",
-      "title": "بناء وكلاء فعالين مع تقطير المعرفة على Amazon SageMaker AI",
-      "titleOriginal": "Build efficient agents with knowledge distillation on Amazon SageMaker AI",
+      "title": "التعريف ببرنامج حماة الشبكة",
+      "titleOriginal": "Introducing the Grid Protectors Program",
       "dateLabel": "2 نوفمبر 2026",
       "dateISO": "2026-11-02",
       "category": "models",
       "importance": 92,
-      "summary": "يدير المساعدون الوكلاء المبنيون على النماذج الحدودية حلقة أدوات متعددة الخطوات، ومن الصعب الحفاظ على دفع أسعار الحدود في كل خطوة على نطاق الإنتاج. يعرض هذا المنشور",
-      "summaryOriginal": "Agentic assistants built on frontier models run a multi-step tool loop, and paying frontier prices on every step is hard to sustain at production scale. This post shows how to use sequence-level knowledge distillation (SeqKD) to transfer a frontier teacher's agentic behavior into a small, lower-cost student on Amazon SageMaker AI.",
+      "summary": "سيعمل برنامج OpenAI لحماية الشبكة مع المرافق لمساعدة حرم الحوسبة في المستقبل على دعم موثوقية الشبكة وحماية تكاليف الكهرباء الاستهلاكية.",
+      "summaryOriginal": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-efficient-agents-with-knowledge-distillation-on-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "source": "https://openai.com/index/grid-protectors-program",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build efficient agents with knowledge distillation on Amazon SageMaker AI"
+      "searchAliases": "OpenAI Introducing the Grid Protectors Program"
+    },
+    {
+      "id": "1c7dad739ee328a50c3a",
+      "company": "xAI",
+      "logoText": "xAI",
+      "type": "بحث",
+      "title": "إعطاء كل فريق عالم بيانات مع Grok Bot",
+      "titleOriginal": "Giving every team a data scientist with Grok Bot",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "research",
+      "importance": 86,
+      "summary": "روبوت البيانات هو روبوت فريق في Grok Bot يقوم فريق علم البيانات بتدريسه، بحيث يمكن لكل فريق الاستعلام عن المستودع، وإجراء التحليلات، والحصول على إجابات بالطريقة التي يقوم بها عالم البيانات",
+      "summaryOriginal": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://x.ai/news/data-bot",
+      "sourceLabel": "xAI News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
+    },
+    {
+      "id": "c546ab9bf5fb0fe3e76e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "نيموترون هالوين",
+      "titleOriginal": "nemotron-halloween",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face nemotron-halloween"
+    },
+    {
+      "id": "9c0a6d1548be8f661f26",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "الأشياء التي تصدر صفيرًا في الليل: ينضم الذكاء الاصطناعي الوكيل إلى البحث عن إشارات خارج الأرض",
+      "titleOriginal": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "dateLabel": "30 أكتوبر 2026",
+      "dateISO": "2026-10-30",
+      "category": "research",
+      "importance": 86,
+      "summary": "في حين أن تقاليد الخيال العلمي تخبرنا أن البشر سيقابلون الحياة خارج الأرض في شكل رجال خضر صغار، فإن التفاصيل التي يجب أن تثير الشعر في عيد الهالوين هو هذا",
+      "summaryOriginal": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T22:12:33.648127+00:00"
+  "lastDeepCheckAt": "2026-11-04T22:14:02.312067+00:00"
 }
