@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T16:31:32.517765+00:00",
-  "checkedAt": "2026-11-04T16:31:32.517765+00:00",
-  "newestPublishedAt": "2026-11-04T16:30:40+00:00",
+  "updatedAt": "2026-11-04T16:36:47.412075+00:00",
+  "checkedAt": "2026-11-04T16:36:47.412075+00:00",
+  "newestPublishedAt": "2026-11-04T16:33:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c30544e0570bc29fe7e7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "الموافقات الذكية في Amazon سريعة: الإشراف البشري حيثما كان ذلك مهمًا",
+      "titleOriginal": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "policy",
+      "importance": 88,
+      "summary": "الموافقات الذكية في أمازون مراجعة سريعة لإجراءات الوكيل المؤهل ضمن عناصر التحكم الحالية الخاصة بك، مما يقلل من مطالبات الموافقة غير الضرورية مع الحفاظ على القرارات التبعية",
+      "summaryOriginal": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T16:33:03+00:00"
+    },
     {
       "id": "96e9c58367b4d4aed807",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Grid Protectors Program"
-    },
-    {
-      "id": "1c7dad739ee328a50c3a",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "بحث",
-      "title": "إعطاء كل فريق عالم بيانات مع Grok Bot",
-      "titleOriginal": "Giving every team a data scientist with Grok Bot",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "research",
-      "importance": 86,
-      "summary": "روبوت البيانات هو روبوت فريق في Grok Bot يقوم فريق علم البيانات بتدريسه، بحيث يمكن لكل فريق الاستعلام عن المستودع، وإجراء التحليلات، والحصول على إجابات بالطريقة التي يقوم بها عالم البيانات",
-      "summaryOriginal": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/data-bot",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T16:31:32.517765+00:00"
+  "lastFastCheckAt": "2026-11-04T16:36:47.412075+00:00"
 }
