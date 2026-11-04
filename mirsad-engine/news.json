@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T17:52:37.689403+00:00",
-  "checkedAt": "2026-11-04T17:52:37.689403+00:00",
+  "updatedAt": "2026-11-04T17:57:52.024545+00:00",
+  "checkedAt": "2026-11-04T17:57:52.024545+00:00",
   "newestPublishedAt": "2026-11-04T17:50:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -601,6 +601,32 @@
       "searchAliases": "Hugging Face Transformers Model Integration Contracts"
     },
     {
+      "id": "359026f51b0f40711a80",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "التعريف ببرنامج حماة الشبكة",
+      "titleOriginal": "Introducing the Grid Protectors Program",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "models",
+      "importance": 92,
+      "summary": "سيعمل برنامج OpenAI لحماية الشبكة مع المرافق لمساعدة حرم الحوسبة في المستقبل على دعم موثوقية الشبكة وحماية تكاليف الكهرباء الاستهلاكية.",
+      "summaryOriginal": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/grid-protectors-program",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing the Grid Protectors Program",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T15:00:00+00:00"
+    },
+    {
       "id": "850a70525105f4cdcef1",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock"
-    },
-    {
-      "id": "c992021f47d535687a00",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تحجيم البوابة في OpenAI",
-      "titleOriginal": "Scaling Git at OpenAI",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف قامت OpenAI ببناء Pando، وهي واجهة خلفية متوافقة مع Git مصممة لحجم التطوير الذي يجعله الدستور الغذائي ممكنًا.",
-      "summaryOriginal": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/scaling-git-at-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Scaling Git at OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T17:52:37.689403+00:00"
+  "lastFastCheckAt": "2026-11-04T17:57:52.024545+00:00"
 }
