@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T18:43:33.638288+00:00",
-  "checkedAt": "2026-11-04T18:43:33.638288+00:00",
-  "newestPublishedAt": "2026-11-04T17:50:10+00:00",
+  "updatedAt": "2026-11-04T18:48:37.798658+00:00",
+  "checkedAt": "2026-11-04T18:48:37.798658+00:00",
+  "newestPublishedAt": "2026-11-04T18:46:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7a12151a54034bd8aade",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استخدام نماذج القرار مع تقييمات Amazon Bedrock AgentCore",
+      "titleOriginal": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "models",
+      "importance": 92,
+      "summary": "بعض أسئلة تقييم الوكيل ضيقة وقابلة للتكرار، ونماذج القرار تجيب بالضبط على هذا النوع من الأسئلة. يوضح هذا المنشور كيفية ربط نموذجي قرار، J",
+      "summaryOriginal": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T18:46:36+00:00"
+    },
     {
       "id": "fcaa616ce2a7af112878",
       "company": "Hugging Face",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Build efficient agents with knowledge distillation on Amazon SageMaker AI"
-    },
-    {
-      "id": "8aedd00cd2d679fa2ad5",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "الذكاء الهندسي للوكلاء مع Amazon Nova Multimodal Embeddings وAmazon Bedrock AgentCore",
-      "titleOriginal": "Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعلم كيفية بناء مساعد هندسي متعدد الوكلاء يضغط على تقييم استبدال مكونات الفضاء الجوي من أيام إلى دقائق، باستخدام Amazon Nova Multimodal Embe",
-      "summaryOriginal": "Learn how to build a multi-agent engineering assistant that compresses aerospace component substitution evaluation from days to minutes, using Amazon Nova Multimodal Embeddings, Amazon Bedrock AgentCore, and the Strands Agents SDK to assemble substitution evidence while keeping the engineer as the decision-maker.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/agentic-engineering-intelligence-with-amazon-nova-multimodal-embeddings-and-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T18:43:33.638288+00:00"
+  "lastFastCheckAt": "2026-11-04T18:48:37.798658+00:00"
 }
