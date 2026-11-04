@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T22:17:40.732488+00:00",
-  "checkedAt": "2026-11-04T22:17:40.732488+00:00",
+  "updatedAt": "2026-11-04T22:22:41.261936+00:00",
+  "checkedAt": "2026-11-04T22:22:41.261936+00:00",
   "newestPublishedAt": "2026-11-04T18:46:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -707,28 +707,33 @@
       "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     },
     {
-      "id": "c546ab9bf5fb0fe3e76e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "نيموترون هالوين",
-      "titleOriginal": "nemotron-halloween",
+      "id": "1a829b018c6893a5964b",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "الأشياء التي تصدر صفيرًا في الليل: ينضم الذكاء الاصطناعي الوكيل إلى البحث عن إشارات خارج الأرض",
+      "titleOriginal": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
       "dateLabel": "30 أكتوبر 2026",
       "dateISO": "2026-10-30",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "sourceLabel": "Hugging Face Blog",
+      "category": "research",
+      "importance": 86,
+      "summary": "في حين أن تقاليد الخيال العلمي تخبرنا أن البشر سيقابلون الحياة خارج الأرض في شكل رجال خضر صغار، فإن التفاصيل التي يجب أن تثير الشعر في عيد الهالوين هو هذا",
+      "summaryOriginal": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face nemotron-halloween"
+      "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-10-30T15:00:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T22:14:02.312067+00:00",
-  "lastFastCheckAt": "2026-11-04T22:17:40.732488+00:00"
+  "lastFastCheckAt": "2026-11-04T22:22:41.261936+00:00"
 }
