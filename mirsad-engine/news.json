@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T16:21:13.798671+00:00",
-  "checkedAt": "2026-11-04T16:21:13.798671+00:00",
-  "newestPublishedAt": "2026-11-04T14:30:00+00:00",
+  "updatedAt": "2026-11-04T16:26:35.295527+00:00",
+  "checkedAt": "2026-11-04T16:26:35.295527+00:00",
+  "newestPublishedAt": "2026-11-04T16:25:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "1e2bf3e385e8b925537b",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "كيف تقوم إنديجين بتحديث وتوسيع نطاق جودة بيانات المؤسسة في علوم الحياة",
+      "titleOriginal": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "research",
+      "importance": 86,
+      "summary": "يستكشف هذا المنشور كيف قامت Indegene ببناء وكيل جودة بيانات من الدرجة الإنتاجية مدعوم من LLM في منصة البيانات الموحدة التالية على AWS. يقوم الوكيل بإنشاء بيانات مدركة للسياق",
+      "summaryOriginal": "This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Indegene is modernizing and scaling enterprise data quality in life sciences",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T16:25:57+00:00"
+    },
+    {
+      "id": "e3058c185cf1b90818fb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تقوم يو موبايل ببناء شركة اتصالات عاملة مع شركة أمازون بيدروك إيجنت كور",
+      "titleOriginal": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "models",
+      "importance": 92,
+      "summary": "قامت U Mobile، أحدث مزود لشبكة 5G في ماليزيا، ببناء AiDaH، وهي منصة عمليات للذكاء الاصطناعي الوكيل على Amazon Bedrock AgentCore التي تتجاوز مساعدة الذكاء الاصطناعي إلى الحكم الذاتي",
+      "summaryOriginal": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T16:23:33+00:00"
+    },
     {
       "id": "baa40162ffcefadda62f",
       "company": "OpenAI",
@@ -679,56 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face nemotron-halloween"
-    },
-    {
-      "id": "9c0a6d1548be8f661f26",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "الأشياء التي تصدر صفيرًا في الليل: ينضم الذكاء الاصطناعي الوكيل إلى البحث عن إشارات خارج الأرض",
-      "titleOriginal": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "research",
-      "importance": 86,
-      "summary": "في حين أن تقاليد الخيال العلمي تخبرنا أن البشر سيقابلون الحياة خارج الأرض في شكل رجال خضر صغار، فإن التفاصيل التي يجب أن تثير الشعر في عيد الهالوين هو هذا",
-      "summaryOriginal": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
-    },
-    {
-      "id": "2991e858c7dcc01d36e3",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "مفتاح الجرانيت 4.1.1 — قم بتحديث الطرز مثلك قم بتحديث البرامج",
-      "titleOriginal": "Granite Switch 4.1.1 — Update models like you update software",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Granite Switch 4.1.1 — Update models like you update software",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T13:37:07+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T16:21:13.798671+00:00"
+  "lastFastCheckAt": "2026-11-04T16:26:35.295527+00:00"
 }
