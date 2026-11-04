@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T15:05:30.361274+00:00",
-  "checkedAt": "2026-11-04T15:05:30.361274+00:00",
+  "updatedAt": "2026-11-04T15:10:30.269408+00:00",
+  "checkedAt": "2026-11-04T15:10:30.269408+00:00",
   "newestPublishedAt": "2026-11-04T14:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-04T14:30:00+00:00"
+    },
+    {
+      "id": "436d594906360561ecf3",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يتوفر Daybreak Red الآن في AWS GovCloud (الولايات المتحدة - الشرق)",
+      "titleOriginal": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "models",
+      "importance": 92,
+      "summary": "يجلب Daybreak Red GPT-5.6 Cyber إلى العملاء المعتمدين في AWS GovCloud (الولايات المتحدة - الشرق) من خلال Amazon Bedrock لأعمال الأمن السيبراني المصرح بها.",
+      "summaryOriginal": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Daybreak Red is now available in AWS GovCloud (US-East)",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T07:00:00+00:00"
     },
     {
       "id": "c0bf2137f48553f0d8c1",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face nemotron-halloween"
-    },
-    {
-      "id": "9c0a6d1548be8f661f26",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "الأشياء التي تصدر صفيرًا في الليل: ينضم الذكاء الاصطناعي الوكيل إلى البحث عن إشارات خارج الأرض",
-      "titleOriginal": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "dateLabel": "30 أكتوبر 2026",
-      "dateISO": "2026-10-30",
-      "category": "research",
-      "importance": 86,
-      "summary": "في حين أن تقاليد الخيال العلمي تخبرنا أن البشر سيقابلون الحياة خارج الأرض في شكل رجال خضر صغار، فإن التفاصيل التي يجب أن تثير الشعر في عيد الهالوين هو هذا",
-      "summaryOriginal": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T08:03:31.940676+00:00",
-  "lastFastCheckAt": "2026-11-04T15:05:30.361274+00:00"
+  "lastFastCheckAt": "2026-11-04T15:10:30.269408+00:00"
 }
