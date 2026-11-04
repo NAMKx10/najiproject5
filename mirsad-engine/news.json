@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T14:45:10.661482+00:00",
-  "checkedAt": "2026-11-04T14:45:10.661482+00:00",
-  "newestPublishedAt": "2026-11-03T17:15:21+00:00",
+  "updatedAt": "2026-11-04T14:50:25.379864+00:00",
+  "checkedAt": "2026-11-04T14:50:25.379864+00:00",
+  "newestPublishedAt": "2026-11-04T14:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "baa40162ffcefadda62f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "شركة OpenAI للاستحواذ على شركة Pierre Computer Company, Inc.",
+      "titleOriginal": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "ستستحوذ OpenAI على شركة Pierre Computer Company، مما يوسع أدوات Codex لبناء التعليمات البرمجية وفهمها ومراجعتها.",
+      "summaryOriginal": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/openai-to-acquire-pierre",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI to acquire Pierre Computer Company, Inc.",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T14:30:00+00:00"
+    },
     {
       "id": "c0bf2137f48553f0d8c1",
       "company": "Hugging Face",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals"
-    },
-    {
-      "id": "98cdb0248880b96c9434",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "29 أكتوبر 2026",
-      "dateISO": "2026-10-29",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-10-29T16:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T08:03:31.940676+00:00",
-  "lastFastCheckAt": "2026-11-04T14:45:10.661482+00:00"
+  "lastFastCheckAt": "2026-11-04T14:50:25.379864+00:00"
 }
