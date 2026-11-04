@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-04T17:57:52.024545+00:00",
-  "checkedAt": "2026-11-04T17:57:52.024545+00:00",
+  "updatedAt": "2026-11-04T18:02:53.802657+00:00",
+  "checkedAt": "2026-11-04T18:02:53.802657+00:00",
   "newestPublishedAt": "2026-11-04T17:50:10+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -601,6 +601,32 @@
       "searchAliases": "Hugging Face Transformers Model Integration Contracts"
     },
     {
+      "id": "c992021f47d535687a00",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تحجيم البوابة في OpenAI",
+      "titleOriginal": "Scaling Git at OpenAI",
+      "dateLabel": "2 نوفمبر 2026",
+      "dateISO": "2026-11-02",
+      "category": "tools",
+      "importance": 78,
+      "summary": "كيف قامت OpenAI ببناء Pando، وهي واجهة خلفية متوافقة مع Git مصممة لحجم التطوير الذي يجعله الدستور الغذائي ممكنًا.",
+      "summaryOriginal": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/scaling-git-at-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Scaling Git at OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-02T15:30:00+00:00"
+    },
+    {
       "id": "359026f51b0f40711a80",
       "company": "OpenAI",
       "logoText": "AI",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Agentic engineering intelligence with Amazon Nova Multimodal Embeddings and Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "2dee6d9e0b1f91d17e3c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "كيف سرعت Circle K عملية فرز حوادث DevOps إلى أقل من 15 دقيقة باستخدام Amazon Bedrock",
-      "titleOriginal": "How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام فريق Circle K's DevOps بخفض فرز الحوادث من 45-60 دقيقة إلى أقل من 15 من خلال بناء نظام فرز الوكلاء على Amazon Bedrock. يتجول هذا المنشور في الهندسة المعمارية",
-      "summaryOriginal": "Circle K's DevOps team cut incident triage from 45-60 minutes to under 15 by building an agentic triage system on Amazon Bedrock. This post walks through the architecture, the initial Amazon Bedrock Flows implementation, the migration to Amazon Bedrock AgentCore, and the lessons learned from scaling it.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-circle-k-accelerated-devops-incident-triage-to-under-15-minutes-with-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Circle K accelerated DevOps incident triage to under 15 minutes with Amazon Bedrock"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T16:20:07.488267+00:00",
-  "lastFastCheckAt": "2026-11-04T17:57:52.024545+00:00"
+  "lastFastCheckAt": "2026-11-04T18:02:53.802657+00:00"
 }
