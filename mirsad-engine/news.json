@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T18:14:15.722370+00:00",
-  "checkedAt": "2026-11-05T18:14:15.722370+00:00",
+  "updatedAt": "2026-11-05T18:19:09.850995+00:00",
+  "checkedAt": "2026-11-05T18:19:09.850995+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -523,6 +523,32 @@
       "publishedAt": "2026-11-03T08:00:00+00:00"
     },
     {
+      "id": "4acc6049a90d6fced65e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تدافع Cisco عن سرعة الماكينة باستخدام OpenAI",
+      "titleOriginal": "How Cisco defends at machine speed with OpenAI",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "تجمع Cisco بين ذكاء الشبكة ونماذج OpenAI لتعزيز أمن المؤسسة. تعرف على كيفية بناء دفاعات أكثر تكيفًا.",
+      "summaryOriginal": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cisco-cyber",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Cisco defends at machine speed with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T08:00:00+00:00"
+    },
+    {
       "id": "528e351341697525640a",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
-    },
-    {
-      "id": "75b355b2a8dde883855e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تسريع الهندسة للعالم المادي",
-      "titleOriginal": "Accelerating engineering for the physical world",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف يساعد ChatGPT و Codex المهندسين على تسريع تصميم CAD و PCB والمحاكاة وغيرها من سير العمل في جميع أنحاء العالم المادي.",
-      "summaryOriginal": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Accelerating engineering for the physical world"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T18:14:15.722370+00:00"
+  "lastFastCheckAt": "2026-11-05T18:19:09.850995+00:00"
 }
