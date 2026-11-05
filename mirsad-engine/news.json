@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T18:24:27.873754+00:00",
-  "checkedAt": "2026-11-05T18:24:27.873754+00:00",
+  "updatedAt": "2026-11-05T18:29:30.608283+00:00",
+  "checkedAt": "2026-11-05T18:29:30.608283+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "3f6471f54273859e37a8",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "يغير الذكاء الاصطناعي كيفية عمل مصانع أشباه الموصلات — ويتحرك المهندسون بشكل أسرع بسبب ذلك",
+      "titleOriginal": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "الطلب على الرقائق المتقدمة آخذ في الارتفاع. أصبحت عمليات بنائها أكثر تعقيدًا. وهامش الخطأ يتقلص. بالنسبة للمهندسين، فهم كيفية إجراء",
+      "summaryOriginal": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:00:45+00:00"
+    },
+    {
       "id": "75b355b2a8dde883855e",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Building ultra-low-latency voice AI applications on AWS"
-    },
-    {
-      "id": "f4f866a3e7137f66c534",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "لوحة الألوان: تعليم نموذج صغير لبناء مجموعات بلغة التصميم الخاصة بك",
-      "titleOriginal": "Palette: teaching a small model to build decks in your design language",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T18:24:27.873754+00:00"
+  "lastFastCheckAt": "2026-11-05T18:29:30.608283+00:00"
 }
