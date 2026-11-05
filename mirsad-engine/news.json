@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T19:04:30.574961+00:00",
-  "checkedAt": "2026-11-05T19:04:30.574961+00:00",
+  "updatedAt": "2026-11-05T19:09:34.623060+00:00",
+  "checkedAt": "2026-11-05T19:09:34.623060+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -523,6 +523,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "ed8aa1b4048cb3623d7f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "اجمع البيانات المهيكلة وغير المهيكلة مع Amazon Quick",
+      "titleOriginal": "Bring structured and unstructured data together with Amazon Quick",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "business",
+      "importance": 82,
+      "summary": "تجمع Amazon Quick البيانات المهيكلة وغير المهيكلة معًا في تجربة واحدة. في هذا المنشور، يمكنك ربط Amazon S3 كقاعدة معرفية، وإثراء مجموعة بيانات، وبناء مساحة،",
+      "summaryOriginal": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:49:29+00:00"
+    },
+    {
       "id": "007cdf90da4ce2cc9f17",
       "company": "Amazon",
       "logoText": "AWS",
@@ -755,30 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T07:00:12+00:00"
-    },
-    {
-      "id": "c0bf2137f48553f0d8c1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "StateBench: اختبار كيفية تتبع نماذج اللغة لتغيرات الحالة عبر المستندات الطويلة",
-      "titleOriginal": "StateBench: Testing how language models track state changes over long documents",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/allenai/statebench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T19:04:30.574961+00:00"
+  "lastFastCheckAt": "2026-11-05T19:09:34.623060+00:00"
 }
