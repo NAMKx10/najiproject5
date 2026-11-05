@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T23:35:39.434992+00:00",
-  "checkedAt": "2026-11-05T23:35:39.434992+00:00",
+  "updatedAt": "2026-11-05T23:38:56.808291+00:00",
+  "checkedAt": "2026-11-05T23:38:56.808291+00:00",
   "newestPublishedAt": "2026-11-05T21:04:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "cf85174fe011d9e5c31a",
+      "id": "1c14079595a440f57d96",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +106,15 @@
       "summary": "تقوم الإجابة على الويب على Amazon Bedrock AgentCore بإرجاع إجابة مركبة مستشهد بها من المصدر على سؤال باللغة الطبيعية في مكالمة أداة واحدة، دون البحث أو الاسترداد أو التركيب",
       "summaryOriginal": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Getting started with Web Answer on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T21:04:24+00:00"
+      "searchAliases": "Amazon Getting started with Web Answer on Amazon Bedrock AgentCore"
     },
     {
-      "id": "12d608a058c51b34c82a",
+      "id": "f2b9d824946a517fe867",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -132,17 +127,12 @@
       "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
       "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:41+00:00"
+      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
     },
     {
       "id": "628d7cc02c503139ce63",
@@ -163,15 +153,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T19:35:16+00:00"
+      "searchAliases": "Hugging Face New NVIDIA Cosmos 3 Open Models for Interactive World Simulation"
     },
     {
-      "id": "310d1eb90af68fff0b88",
+      "id": "52bc215d787f5b4aa446",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -184,69 +169,12 @@
       "summary": "تعرف على كيفية تقييم Amazon Marketplace لجودة المحتوى A+ على نطاق واسع على Amazon SageMaker AI من خلال تقديم كل صفحة منتج كلقطة واحدة، وتسجيلها برؤية",
       "summaryOriginal": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T18:06:43+00:00"
-    },
-    {
-      "id": "42fd677c424d921b7823",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "GPT‑6 Cyber: تعزيز حدود وكلاء الأمن السيبراني المتوافقين",
-      "titleOriginal": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم GPT‑6 Cyber، نموذج الأمن السيبراني لـ OpenAI للعثور على نقاط الضعف القابلة للاستغلال وتطوير الإصلاحات، المدربة على البقاء ضمن النطاق المصرح به.",
-      "summaryOriginal": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-6-cyber",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T09:00:00+00:00"
-    },
-    {
-      "id": "2ebfc40c823ff0e4efe1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الدمج يبني أدوات المنتج والأعمال باستخدام تقنية OpenAI",
-      "titleOriginal": "Merge builds product and business tools with OpenAI technology",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم Merge GPT -6 Astra و ChatGPT و Codex لمراجعة رمز المنتج ودعم التسويق. كما تستخدم فرقها الذكاء الاصطناعي للتخطيط لعشاء المديرين التنفيذيين وإعداد تحديثات المبيعات.",
-      "summaryOriginal": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/merge-builds-with-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Merge builds product and business tools with OpenAI technology",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T08:00:00+00:00"
+      "searchAliases": "Amazon How Amazon Marketplace evaluates content quality with Amazon SageMaker AI"
     },
     {
       "id": "17ff82eab5b698cdfceb",
@@ -331,6 +259,48 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA ‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW"
+    },
+    {
+      "id": "42fd677c424d921b7823",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "GPT‑6 Cyber: تعزيز حدود وكلاء الأمن السيبراني المتوافقين",
+      "titleOriginal": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقديم GPT‑6 Cyber، نموذج الأمن السيبراني لـ OpenAI للعثور على نقاط الضعف القابلة للاستغلال وتطوير الإصلاحات، المدربة على البقاء ضمن النطاق المصرح به.",
+      "summaryOriginal": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-6-cyber",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
+    },
+    {
+      "id": "2ebfc40c823ff0e4efe1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "الدمج يبني أدوات المنتج والأعمال باستخدام تقنية OpenAI",
+      "titleOriginal": "Merge builds product and business tools with OpenAI technology",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "يستخدم Merge GPT -6 Astra و ChatGPT و Codex لمراجعة رمز المنتج ودعم التسويق. كما تستخدم فرقها الذكاء الاصطناعي للتخطيط لعشاء المديرين التنفيذيين وإعداد تحديثات المبيعات.",
+      "summaryOriginal": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/merge-builds-with-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Merge builds product and business tools with OpenAI technology"
     },
     {
       "id": "7cf3f689b6b2539c3c6e",
@@ -645,15 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T17:15:21+00:00"
+      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents"
     },
     {
-      "id": "ed8aa1b4048cb3623d7f",
+      "id": "1205287ec0088e9d181e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -666,20 +631,15 @@
       "summary": "تجمع Amazon Quick البيانات المهيكلة وغير المهيكلة معًا في تجربة واحدة. في هذا المنشور، يمكنك ربط Amazon S3 كقاعدة معرفية، وإثراء مجموعة بيانات، وبناء مساحة،",
       "summaryOriginal": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:49:29+00:00"
+      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick"
     },
     {
-      "id": "007cdf90da4ce2cc9f17",
+      "id": "f7fb8b15e909bc3e52e5",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -692,20 +652,15 @@
       "summary": "تعلم كيفية تكوين Amazon Bedrock AgentCore Gateway لتبادل الرمز المميز (OBO) نيابة عن Microsoft Entra ID، حتى يتمكن وكيل الذكاء الاصطناعي من الاتصال بـ ServiceNow REST API",
       "summaryOriginal": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:47:40+00:00"
+      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
     },
     {
-      "id": "930a58d9d6d6e868f195",
+      "id": "cd4f637f1db95573f450",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -718,43 +673,12 @@
       "summary": "تم بناء Gen Digital Norton Revamp، وهي منصة إدارة سمعة احترافية تعمل بالذكاء الاصطناعي، مع محرك أخبار برعاية الذكاء الاصطناعي يرتكز على Web Search على Amazon Bedr",
       "summaryOriginal": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:43:20+00:00"
-    },
-    {
-      "id": "97246d83c8dd2212b23e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "بناء طبقة دلالية للذكاء الاصطناعي الوكيل مع EDB Postgres AI و Amazon Bedrock AgentCore",
-      "titleOriginal": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعلم كيفية بناء طبقة دلالية محكومة للذكاء الاصطناعي الوكيل داخل EDB Postgres AI والاستعلام عنها من وكيل وكلاء Strands على Amazon Bedrock AgentCore. معنى العمل،",
-      "summaryOriginal": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:41:13+00:00"
+      "searchAliases": "Amazon How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search"
     },
     {
       "id": "f4f866a3e7137f66c534",
@@ -775,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:35:36+00:00"
+      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language"
+    },
+    {
+      "id": "33e5032c7e3df081662c",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "يغير الذكاء الاصطناعي كيفية عمل مصانع أشباه الموصلات — ويتحرك المهندسون بشكل أسرع بسبب ذلك",
+      "titleOriginal": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "الطلب على الرقائق المتقدمة آخذ في الارتفاع. أصبحت عمليات بنائها أكثر تعقيدًا. وهامش الخطأ يتقلص. بالنسبة للمهندسين، فهم كيفية إجراء",
+      "summaryOriginal": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T23:35:39.434992+00:00"
+  "lastDeepCheckAt": "2026-11-05T23:38:56.808291+00:00"
 }
