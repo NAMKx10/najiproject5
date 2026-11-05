@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T18:29:30.608283+00:00",
-  "checkedAt": "2026-11-05T18:29:30.608283+00:00",
+  "updatedAt": "2026-11-05T18:34:38.130011+00:00",
+  "checkedAt": "2026-11-05T18:34:38.130011+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "f4f866a3e7137f66c534",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "لوحة الألوان: تعليم نموذج صغير لبناء مجموعات بلغة التصميم الخاصة بك",
+      "titleOriginal": "Palette: teaching a small model to build decks in your design language",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:35:36+00:00"
+    },
+    {
       "id": "3f6471f54273859e37a8",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "9abfd105fdb162b9aef4",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "بناء تطبيقات الذكاء الاصطناعي الصوتي بوقت استجابة منخفض للغاية على AWS",
-      "titleOriginal": "Building ultra-low-latency voice AI applications on AWS",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية استخدام Cartesia، أحد شركاء AWS، لنماذج State Space المصممة خصيصًا والبنية التحتية لـ AWS لتقديم نص إلى كلام من 100 مللي ثانية وكلام إلى نص على نطاق عالمي،",
-      "summaryOriginal": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Building ultra-low-latency voice AI applications on AWS"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T18:29:30.608283+00:00"
+  "lastFastCheckAt": "2026-11-05T18:34:38.130011+00:00"
 }
