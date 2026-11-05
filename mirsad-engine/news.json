@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T17:58:55.178958+00:00",
-  "checkedAt": "2026-11-05T17:58:55.178958+00:00",
+  "updatedAt": "2026-11-05T18:02:02.263979+00:00",
+  "checkedAt": "2026-11-05T18:02:02.263979+00:00",
   "newestPublishedAt": "2026-11-05T17:00:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "98cdb0248880b96c9434",
+      "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
       "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T17:00:35+00:00"
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     },
     {
-      "id": "0f025441c7ebec8cdfc2",
+      "id": "aaba500ec151386b6c39",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -132,20 +127,15 @@
       "summary": "لدى كريس أليكسيوك قاعدة بسيطة حول الذكاء الاصطناعي مفتوح المصدر: إذا كنت تؤمن به، فكن صاخبًا بشأنه. قال أليكسيو: \"يجب أن نصرخ بشأن هذه التكنولوجيا من على الأسطح\".",
       "summaryOriginal": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+      "source": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T16:00:05+00:00"
+      "searchAliases": "NVIDIA The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models"
     },
     {
-      "id": "5a3b95c6676cff0b586f",
+      "id": "f14b2f303c4635fed968",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "تعمل النماذج الأكبر والسياقات الأطول والتطبيقات الوكيلة على زيادة ضغط ذاكرة وحدة معالجة الرسومات (GPU) بينما يتقلص العرض وترتفع الأسعار — وهو اتجاه من المتوقع أن يستمر خلال",
       "summaryOriginal": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+      "source": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T16:00:00+00:00"
+      "searchAliases": "NVIDIA More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge"
     },
     {
-      "id": "c6d96800a4ab8b203895",
+      "id": "ccaf37aabfa5df0b36a1",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -184,17 +169,12 @@
       "summary": "تتلقى Hogwarts Legacy ترقية NVIDIA DLSS 5 مع تقديم عصبي موجه ثلاثي الأبعاد اليوم، مما يجلب إضاءة ومواد نابضة بالحياة إلى عالم السحرة على GeForce الآن. ب",
       "summaryOriginal": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA ‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T14:00:34+00:00"
+      "searchAliases": "NVIDIA ‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW"
     },
     {
       "id": "7cf3f689b6b2539c3c6e",
@@ -207,7 +187,7 @@
       "dateISO": "2026-11-05",
       "category": "models",
       "importance": 92,
-      "summary": "تُطلق OpenAI ميثاقها الوطني للمجتمع وخطة سياسة الحرم الجامعي للحوسبة لحماية الموارد المحلية، وخلق فرص العمل، وتوجيه تطوير البنية التحتية للذكاء الاصطناعي بشكل مسؤول",
+      "summary": "تقدم OpenAI مخطط سياسة ميثاق المجتمع الوطني وحوسبة الحرم الجامعي لحماية الموارد المحلية، وخلق فرص العمل، وتوجيه تطوير البنية التحتية المسؤولة للذكاء الاصطناعي",
       "summaryOriginal": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
@@ -215,12 +195,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Setting a new standard for responsible AI infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T02:00:00+00:00"
+      "searchAliases": "OpenAI Setting a new standard for responsible AI infrastructure"
     },
     {
       "id": "518d63a61816e993a3bb",
@@ -241,12 +216,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T00:00:00+00:00"
+      "searchAliases": "Hugging Face A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks."
+    },
+    {
+      "id": "81717a0cd9bf56be2596",
+      "company": "Mistral AI",
+      "logoText": "MI",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء وكلاء المؤسسة وسير العمل والتطبيقات في Mistral Studio",
+      "titleOriginal": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "قم ببناء ونشر وكلاء المؤسسات وسير العمل والتطبيقات بشكل أسرع مع تحكم Mistral Studio و Le Chonk الكامل في نماذجك وبياناتك وبنيتك التحتية.",
+      "summaryOriginal": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://mistral.ai/news/build-with-studio/",
+      "sourceLabel": "Mistral News",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Mistral AI Build Enterprise Agents, Workflows & Apps in Mistral Studio"
     },
     {
       "id": "1c3d641cc3b978e4ba21",
@@ -730,30 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI"
-    },
-    {
-      "id": "65a34101c9878265c977",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "أوبن إيه آي تعيّن جيل هازيلبيكر رئيسةً للشؤون المؤسسية",
-      "titleOriginal": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستنضم جيل هازيلبيكر إلى OpenAI كرئيسة تنفيذية لشؤون الشركات، حيث ستقود الاتصالات العالمية للشركة وموقعها المؤسسي.",
-      "summaryOriginal": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-05T09:51:11.073353+00:00",
-  "lastFastCheckAt": "2026-11-05T17:58:55.178958+00:00"
+  "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00"
 }
