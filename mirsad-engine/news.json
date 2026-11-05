@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T21:01:47.991008+00:00",
-  "checkedAt": "2026-11-05T21:01:47.991008+00:00",
-  "newestPublishedAt": "2026-11-05T20:00:41+00:00",
+  "updatedAt": "2026-11-05T21:06:50.036266+00:00",
+  "checkedAt": "2026-11-05T21:06:50.036266+00:00",
+  "newestPublishedAt": "2026-11-05T21:04:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "cf85174fe011d9e5c31a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "الشروع في العمل مع Web Answer على Amazon Bedrock AgentCore",
+      "titleOriginal": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم الإجابة على الويب على Amazon Bedrock AgentCore بإرجاع إجابة مركبة مستشهد بها من المصدر على سؤال باللغة الطبيعية في مكالمة أداة واحدة، دون البحث أو الاسترداد أو التركيب",
+      "summaryOriginal": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Getting started with Web Answer on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T21:04:24+00:00"
+    },
     {
       "id": "12d608a058c51b34c82a",
       "company": "NVIDIA",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T16:00:45+00:00"
-    },
-    {
-      "id": "75b355b2a8dde883855e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تسريع الهندسة للعالم المادي",
-      "titleOriginal": "Accelerating engineering for the physical world",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف يساعد ChatGPT و Codex المهندسين على تسريع تصميم CAD و PCB والمحاكاة وغيرها من سير العمل في جميع أنحاء العالم المادي.",
-      "summaryOriginal": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Accelerating engineering for the physical world",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T21:01:47.991008+00:00"
+  "lastFastCheckAt": "2026-11-05T21:06:50.036266+00:00"
 }
