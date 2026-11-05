@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T20:05:21.899290+00:00",
-  "checkedAt": "2026-11-05T20:05:21.899290+00:00",
-  "newestPublishedAt": "2026-11-05T19:35:16+00:00",
+  "updatedAt": "2026-11-05T20:10:27.357042+00:00",
+  "checkedAt": "2026-11-05T20:10:27.357042+00:00",
+  "newestPublishedAt": "2026-11-05T20:00:41+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "12d608a058c51b34c82a",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "تقدم فيرا أفضل ما في العالمين: أعلى إنتاجية وأسرع وكلاء",
+      "titleOriginal": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "business",
+      "importance": 82,
+      "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
+      "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T20:00:41+00:00"
+    },
     {
       "id": "628d7cc02c503139ce63",
       "company": "Hugging Face",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T12:00:00+00:00"
-    },
-    {
-      "id": "bdd4b885244837e80ae4",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقوم Heimstaden بتغيير إدارة العقارات السكنية باستخدام الذكاء الاصطناعي",
-      "titleOriginal": "Heimstaden is changing residential real estate management with AI",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف تستخدم Heimstaden ChatGPT Enterprise و Codex من OpenAI لتحويل إدارة الممتلكات وخفض التكاليف وتمكين الموظفين في جميع أنحاء أوروبا.",
-      "summaryOriginal": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/heimstaden",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Heimstaden is changing residential real estate management with AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T20:05:21.899290+00:00"
+  "lastFastCheckAt": "2026-11-05T20:10:27.357042+00:00"
 }
