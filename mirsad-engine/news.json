@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T19:09:34.623060+00:00",
-  "checkedAt": "2026-11-05T19:09:34.623060+00:00",
+  "updatedAt": "2026-11-05T19:14:39.212025+00:00",
+  "checkedAt": "2026-11-05T19:14:39.212025+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -523,6 +523,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "c0bf2137f48553f0d8c1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "StateBench: اختبار كيفية تتبع نماذج اللغة لتغيرات الحالة عبر المستندات الطويلة",
+      "titleOriginal": "StateBench: Testing how language models track state changes over long documents",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/allenai/statebench",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T17:15:21+00:00"
+    },
+    {
       "id": "ed8aa1b4048cb3623d7f",
       "company": "Amazon",
       "logoText": "AWS",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "id": "528e351341697525640a",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "مستجد جديد من NVIDIA",
-      "titleOriginal": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تولد المدن كميات هائلة من البيانات من الكاميرات وأجهزة الاستشعار وأنظمة التشغيل، ولكنها تحولها إلى عمل مفيد — للتخطيط والصيانة والخدمات العامة",
-      "summaryOriginal": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T07:00:12+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T19:09:34.623060+00:00"
+  "lastFastCheckAt": "2026-11-05T19:14:39.212025+00:00"
 }
