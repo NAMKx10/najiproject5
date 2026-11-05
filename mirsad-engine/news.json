@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T00:09:13.353531+00:00",
-  "checkedAt": "2026-11-05T00:09:13.353531+00:00",
+  "updatedAt": "2026-11-05T00:14:12.127315+00:00",
+  "checkedAt": "2026-11-05T00:14:12.127315+00:00",
   "newestPublishedAt": "2026-11-04T18:46:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -306,6 +306,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T00:00:00+00:00"
+    },
+    {
+      "id": "1700e84e460fd53513e1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم الصور 2.6",
+      "titleOriginal": "Introducing Images 2.6",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "models",
+      "importance": 92,
+      "summary": "توفر الصور 2.6 توليدًا أسرع للصور، وإنشاء صور GIF، وتحريرًا أكثر دقة، وعناصر تحكم API جديدة عبر ChatGPT و Codex و API.",
+      "summaryOriginal": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-images-2-6",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing Images 2.6",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing the Grid Protectors Program"
-    },
-    {
-      "id": "1c7dad739ee328a50c3a",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "بحث",
-      "title": "إعطاء كل فريق عالم بيانات مع Grok Bot",
-      "titleOriginal": "Giving every team a data scientist with Grok Bot",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "research",
-      "importance": 86,
-      "summary": "روبوت البيانات هو روبوت فريق في Grok Bot يقوم فريق علم البيانات بتدريسه، بحيث يمكن لكل فريق الاستعلام عن المستودع، وإجراء التحليلات، والحصول على إجابات بالطريقة التي يقوم بها عالم البيانات",
-      "summaryOriginal": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/data-bot",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-04T22:14:02.312067+00:00",
-  "lastFastCheckAt": "2026-11-05T00:09:13.353531+00:00"
+  "lastFastCheckAt": "2026-11-05T00:14:12.127315+00:00"
 }
