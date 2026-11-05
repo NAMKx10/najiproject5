@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T18:19:09.850995+00:00",
-  "checkedAt": "2026-11-05T18:19:09.850995+00:00",
+  "updatedAt": "2026-11-05T18:24:27.873754+00:00",
+  "checkedAt": "2026-11-05T18:24:27.873754+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "75b355b2a8dde883855e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تسريع الهندسة للعالم المادي",
+      "titleOriginal": "Accelerating engineering for the physical world",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف يساعد ChatGPT و Codex المهندسين على تسريع تصميم CAD و PCB والمحاكاة وغيرها من سير العمل في جميع أنحاء العالم المادي.",
+      "summaryOriginal": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Accelerating engineering for the physical world",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T12:00:00+00:00"
+    },
+    {
       "id": "bdd4b885244837e80ae4",
       "company": "OpenAI",
       "logoText": "AI",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language"
-    },
-    {
-      "id": "33e5032c7e3df081662c",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "يغير الذكاء الاصطناعي كيفية عمل مصانع أشباه الموصلات — ويتحرك المهندسون بشكل أسرع بسبب ذلك",
-      "titleOriginal": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "الطلب على الرقائق المتقدمة آخذ في الارتفاع. أصبحت عمليات بنائها أكثر تعقيدًا. وهامش الخطأ يتقلص. بالنسبة للمهندسين، فهم كيفية إجراء",
-      "summaryOriginal": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T18:19:09.850995+00:00"
+  "lastFastCheckAt": "2026-11-05T18:24:27.873754+00:00"
 }
