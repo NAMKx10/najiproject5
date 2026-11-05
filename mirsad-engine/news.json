@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T18:09:02.751690+00:00",
-  "checkedAt": "2026-11-05T18:09:02.751690+00:00",
+  "updatedAt": "2026-11-05T18:14:15.722370+00:00",
+  "checkedAt": "2026-11-05T18:14:15.722370+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -497,6 +497,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "bdd4b885244837e80ae4",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم Heimstaden بتغيير إدارة العقارات السكنية باستخدام الذكاء الاصطناعي",
+      "titleOriginal": "Heimstaden is changing residential real estate management with AI",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف تستخدم Heimstaden ChatGPT Enterprise و Codex من OpenAI لتحويل إدارة الممتلكات وخفض التكاليف وتمكين الموظفين في جميع أنحاء أوروبا.",
+      "summaryOriginal": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/heimstaden",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Heimstaden is changing residential real estate management with AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T08:00:00+00:00"
+    },
+    {
       "id": "528e351341697525640a",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Accelerating engineering for the physical world"
-    },
-    {
-      "id": "4acc6049a90d6fced65e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تدافع Cisco عن سرعة الماكينة باستخدام OpenAI",
-      "titleOriginal": "How Cisco defends at machine speed with OpenAI",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تجمع Cisco بين ذكاء الشبكة ونماذج OpenAI لتعزيز أمن المؤسسة. تعرف على كيفية بناء دفاعات أكثر تكيفًا.",
-      "summaryOriginal": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cisco-cyber",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Cisco defends at machine speed with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T18:09:02.751690+00:00"
+  "lastFastCheckAt": "2026-11-05T18:14:15.722370+00:00"
 }
