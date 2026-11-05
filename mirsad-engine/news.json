@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T19:34:53.812404+00:00",
-  "checkedAt": "2026-11-05T19:34:53.812404+00:00",
-  "newestPublishedAt": "2026-11-05T18:06:43+00:00",
+  "updatedAt": "2026-11-05T19:39:58.532111+00:00",
+  "checkedAt": "2026-11-05T19:39:58.532111+00:00",
+  "newestPublishedAt": "2026-11-05T19:35:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "628d7cc02c503139ce63",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج مفتوحة جديدة من NVIDIA Cosmos 3 لمحاكاة العالم التفاعلية",
+      "titleOriginal": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T19:35:16+00:00"
+    },
     {
       "id": "310d1eb90af68fff0b88",
       "company": "Amazon",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T08:00:00+00:00"
-    },
-    {
-      "id": "4acc6049a90d6fced65e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تدافع Cisco عن سرعة الماكينة باستخدام OpenAI",
-      "titleOriginal": "How Cisco defends at machine speed with OpenAI",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "تجمع Cisco بين ذكاء الشبكة ونماذج OpenAI لتعزيز أمن المؤسسة. تعرف على كيفية بناء دفاعات أكثر تكيفًا.",
-      "summaryOriginal": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cisco-cyber",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Cisco defends at machine speed with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T19:34:53.812404+00:00"
+  "lastFastCheckAt": "2026-11-05T19:39:58.532111+00:00"
 }
