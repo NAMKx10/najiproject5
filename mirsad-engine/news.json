@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T14:05:23.387240+00:00",
-  "checkedAt": "2026-11-05T14:05:23.387240+00:00",
-  "newestPublishedAt": "2026-11-05T02:00:00+00:00",
+  "updatedAt": "2026-11-05T14:10:28.130818+00:00",
+  "checkedAt": "2026-11-05T14:10:28.130818+00:00",
+  "newestPublishedAt": "2026-11-05T14:00:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c6d96800a4ab8b203895",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "\"Hogwarts Legacy\" تحصل على ترقية NVIDIA DLSS 5 السحرية على GeForce الآن",
+      "titleOriginal": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتلقى Hogwarts Legacy ترقية NVIDIA DLSS 5 مع تقديم عصبي موجه ثلاثي الأبعاد اليوم، مما يجلب إضاءة ومواد نابضة بالحياة إلى عالم السحرة على GeForce الآن. ب",
+      "summaryOriginal": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T14:00:34+00:00"
+    },
     {
       "id": "7cf3f689b6b2539c3c6e",
       "company": "OpenAI",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Scaling Git at OpenAI"
-    },
-    {
-      "id": "1c7dad739ee328a50c3a",
-      "company": "xAI",
-      "logoText": "xAI",
-      "type": "بحث",
-      "title": "إعطاء كل فريق عالم بيانات مع Grok Bot",
-      "titleOriginal": "Giving every team a data scientist with Grok Bot",
-      "dateLabel": "2 نوفمبر 2026",
-      "dateISO": "2026-11-02",
-      "category": "research",
-      "importance": 86,
-      "summary": "روبوت البيانات هو روبوت فريق في Grok Bot يقوم فريق علم البيانات بتدريسه، بحيث يمكن لكل فريق الاستعلام عن المستودع، وإجراء التحليلات، والحصول على إجابات بالطريقة التي يقوم بها عالم البيانات",
-      "summaryOriginal": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://x.ai/news/data-bot",
-      "sourceLabel": "xAI News",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "xAI Giving every team a data scientist with Grok Bot"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T09:51:11.073353+00:00",
-  "lastFastCheckAt": "2026-11-05T14:05:23.387240+00:00"
+  "lastFastCheckAt": "2026-11-05T14:10:28.130818+00:00"
 }
