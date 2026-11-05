@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-05T18:59:28.297490+00:00",
-  "checkedAt": "2026-11-05T18:59:28.297490+00:00",
+  "updatedAt": "2026-11-05T19:04:30.574961+00:00",
+  "checkedAt": "2026-11-05T19:04:30.574961+00:00",
   "newestPublishedAt": "2026-11-05T18:06:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -523,6 +523,32 @@
       "searchAliases": "OpenAI DevRev delivers autonomous self-service with GPT-6.1 Sol"
     },
     {
+      "id": "007cdf90da4ce2cc9f17",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "ServiceNow تبادل الرمز المميز نيابة عن مع Bedrock AgentCore Gateway",
+      "titleOriginal": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعلم كيفية تكوين Amazon Bedrock AgentCore Gateway لتبادل الرمز المميز (OBO) نيابة عن Microsoft Entra ID، حتى يتمكن وكيل الذكاء الاصطناعي من الاتصال بـ ServiceNow REST API",
+      "summaryOriginal": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T16:47:40+00:00"
+    },
+    {
       "id": "930a58d9d6d6e868f195",
       "company": "Amazon",
       "logoText": "AWS",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents"
-    },
-    {
-      "id": "1205287ec0088e9d181e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "اجمع البيانات المهيكلة وغير المهيكلة مع Amazon Quick",
-      "titleOriginal": "Bring structured and unstructured data together with Amazon Quick",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "تجمع Amazon Quick البيانات المهيكلة وغير المهيكلة معًا في تجربة واحدة. في هذا المنشور، يمكنك ربط Amazon S3 كقاعدة معرفية، وإثراء مجموعة بيانات، وبناء مساحة،",
-      "summaryOriginal": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T18:02:02.263979+00:00",
-  "lastFastCheckAt": "2026-11-05T18:59:28.297490+00:00"
+  "lastFastCheckAt": "2026-11-05T19:04:30.574961+00:00"
 }
