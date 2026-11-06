@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T23:30:37.395952+00:00",
-  "checkedAt": "2026-11-06T23:30:37.395952+00:00",
+  "updatedAt": "2026-11-06T23:31:27.306606+00:00",
+  "checkedAt": "2026-11-06T23:31:27.306606+00:00",
   "newestPublishedAt": "2026-11-06T18:01:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -324,6 +324,27 @@
       "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
     },
     {
+      "id": "5125cda19174884c0802",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Measuring how AI agents handle everyday wet-lab science",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Measuring how AI agents handle everyday wet-lab science"
+    },
+    {
       "id": "a068b654ae0f84b5edac",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -343,32 +364,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
-    },
-    {
-      "id": "5125cda19174884c0802",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Measuring how AI agents handle everyday wet-lab science",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Measuring how AI agents handle everyday wet-lab science",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T00:00:00+00:00"
     },
     {
       "id": "1c14079595a440f57d96",
@@ -729,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-06T18:29:56.613039+00:00",
-  "lastFastCheckAt": "2026-11-06T23:30:37.395952+00:00"
+  "lastDeepCheckAt": "2026-11-06T23:31:27.306606+00:00"
 }
