@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T09:57:38.890940+00:00",
-  "checkedAt": "2026-11-06T09:57:38.890940+00:00",
-  "newestPublishedAt": "2026-11-05T21:04:24+00:00",
+  "updatedAt": "2026-11-06T10:02:42.576794+00:00",
+  "checkedAt": "2026-11-06T10:02:42.576794+00:00",
+  "newestPublishedAt": "2026-11-06T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a068b654ae0f84b5edac",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الإنجليزية المصرية والنيجيرية تنضمان إلى قائمة المتصدرين المفتوحة لـ ASR",
+      "titleOriginal": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T00:00:00+00:00"
+    },
     {
       "id": "1c14079595a440f57d96",
       "company": "Amazon",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T16:47:40+00:00"
-    },
-    {
-      "id": "930a58d9d6d6e868f195",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "كيف قامت شركة جنرال ديجيتال ببناء محرك الأخبار المنسق للذكاء الاصطناعي من نورتون ريفامب مع أمازون بيدروك إيجنت كور ويب سيرتش",
-      "titleOriginal": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تم بناء Gen Digital Norton Revamp، وهي منصة إدارة سمعة احترافية تعمل بالذكاء الاصطناعي، مع محرك أخبار برعاية الذكاء الاصطناعي يرتكز على Web Search على Amazon Bedr",
-      "summaryOriginal": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:43:20+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T03:40:23.220574+00:00",
-  "lastFastCheckAt": "2026-11-06T09:57:38.890940+00:00"
+  "lastFastCheckAt": "2026-11-06T10:02:42.576794+00:00"
 }
