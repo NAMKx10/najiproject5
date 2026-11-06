@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T17:30:56.708263+00:00",
-  "checkedAt": "2026-11-06T17:30:56.708263+00:00",
-  "newestPublishedAt": "2026-11-06T17:13:13+00:00",
+  "updatedAt": "2026-11-06T17:35:58.143590+00:00",
+  "checkedAt": "2026-11-06T17:35:58.143590+00:00",
+  "newestPublishedAt": "2026-11-06T17:34:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8046e92e86e24b7ec173",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تصنيف العوامل الأولية في Amazon Quick",
+      "titleOriginal": "Taxonomy of agentic primitives in Amazon Quick",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "عندما بنينا أمازون كويك، نما وكلاؤها من الإجابة على الأسئلة إلى اتخاذ الإجراءات، واستمر نفس البدائيين في إعادة البناء تحت أسماء مختلفة. هذا المنشور يشارك",
+      "summaryOriginal": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Taxonomy of agentic primitives in Amazon Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T17:34:45+00:00"
+    },
     {
       "id": "5274ff8e8f0bc7d6e0ed",
       "company": "Amazon",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-04T16:33:03+00:00"
-    },
-    {
-      "id": "96e9c58367b4d4aed807",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "أربع طبقات من هندسة السياق لوكلاء إنتاج الذكاء الاصطناعي: كيف تطبقهم Deep Insight في كود العمل",
-      "titleOriginal": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "في وكلاء إنتاج الذكاء الاصطناعي، إدارة السياق هي عنق الزجاجة الحقيقي. يقدم هذا المنشور إطارًا هندسيًا للسياق من أربع طبقات (الهندسة المعمارية، والمطالبات، والأدوات القائمة على الملفات",
-      "summaryOriginal": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:30:40+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T17:30:56.708263+00:00"
+  "lastFastCheckAt": "2026-11-06T17:35:58.143590+00:00"
 }
