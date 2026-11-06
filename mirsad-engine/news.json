@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T17:56:26.076678+00:00",
-  "checkedAt": "2026-11-06T17:56:26.076678+00:00",
-  "newestPublishedAt": "2026-11-06T17:34:45+00:00",
+  "updatedAt": "2026-11-06T18:01:24.193378+00:00",
+  "checkedAt": "2026-11-06T18:01:24.193378+00:00",
+  "newestPublishedAt": "2026-11-06T18:01:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "65a8487da6fd4b0069a6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "يدعم SageMaker Inference الآن وحدة معالجة الرسومات متعددة المثيلات لزيادة استخدام وحدة معالجة الرسومات لنقاط نهاية الطراز",
+      "titleOriginal": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "يدعم Amazon SageMaker Inference الآن تقسيم GPU مع NVIDIA Multi - Instance GPU (MIG)، والذي يقسم وحدة معالجة الرسومات إلى أقسام معزولة عن الأجهزة حتى تتمكن من تشغيل",
+      "summaryOriginal": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T18:01:00+00:00"
+    },
     {
       "id": "8046e92e86e24b7ec173",
       "company": "Amazon",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-04T17:50:10+00:00"
-    },
-    {
-      "id": "c30544e0570bc29fe7e7",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "الموافقات الذكية في Amazon سريعة: الإشراف البشري حيثما كان ذلك مهمًا",
-      "titleOriginal": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "policy",
-      "importance": 88,
-      "summary": "الموافقات الذكية في أمازون مراجعة سريعة لإجراءات الوكيل المؤهل ضمن عناصر التحكم الحالية الخاصة بك، مما يقلل من مطالبات الموافقة غير الضرورية مع الحفاظ على القرارات التبعية",
-      "summaryOriginal": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:33:03+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T17:56:26.076678+00:00"
+  "lastFastCheckAt": "2026-11-06T18:01:24.193378+00:00"
 }
