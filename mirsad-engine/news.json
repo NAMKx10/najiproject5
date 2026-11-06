@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T01:59:58.661893+00:00",
-  "checkedAt": "2026-11-06T01:59:58.661893+00:00",
+  "updatedAt": "2026-11-06T02:10:13.380027+00:00",
+  "checkedAt": "2026-11-06T02:10:13.380027+00:00",
   "newestPublishedAt": "2026-11-05T21:04:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-05T20:00:00+00:00"
+    },
+    {
+      "id": "6902e491c46f7e88359e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم الجامعات الأسترالية بإنشاء خريجين أصليين للذكاء الاصطناعي",
+      "titleOriginal": "Australian universities are creating AI-native graduates",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل الجامعات الأسترالية على توسيع نطاق الوصول إلى ChatGPT وإدخال الذكاء الاصطناعي في التدريس والتعلم لإعداد الطلاب لقوى عاملة مدعومة بالذكاء الاصطناعي.",
+      "summaryOriginal": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Australian universities are creating AI-native graduates",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T17:00:00+00:00"
     },
     {
       "id": "c984f7dcaa84bdc042ee",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T16:49:29+00:00"
-    },
-    {
-      "id": "007cdf90da4ce2cc9f17",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "ServiceNow تبادل الرمز المميز نيابة عن مع Bedrock AgentCore Gateway",
-      "titleOriginal": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعلم كيفية تكوين Amazon Bedrock AgentCore Gateway لتبادل الرمز المميز (OBO) نيابة عن Microsoft Entra ID، حتى يتمكن وكيل الذكاء الاصطناعي من الاتصال بـ ServiceNow REST API",
-      "summaryOriginal": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:47:40+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T23:38:56.808291+00:00",
-  "lastFastCheckAt": "2026-11-06T01:59:58.661893+00:00"
+  "lastFastCheckAt": "2026-11-06T02:10:13.380027+00:00"
 }
