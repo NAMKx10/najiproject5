@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T03:46:17.569282+00:00",
-  "checkedAt": "2026-11-06T03:46:17.569282+00:00",
+  "updatedAt": "2026-11-06T03:51:22.630115+00:00",
+  "checkedAt": "2026-11-06T03:51:22.630115+00:00",
   "newestPublishedAt": "2026-11-05T21:04:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -639,6 +639,32 @@
       "searchAliases": "OpenAI Daybreak Red is now available in AWS GovCloud (US-East)"
     },
     {
+      "id": "c0bf2137f48553f0d8c1",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "StateBench: اختبار كيفية تتبع نماذج اللغة لتغيرات الحالة عبر المستندات الطويلة",
+      "titleOriginal": "StateBench: Testing how language models track state changes over long documents",
+      "dateLabel": "3 نوفمبر 2026",
+      "dateISO": "2026-11-03",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/allenai/statebench",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-03T17:15:21+00:00"
+    },
+    {
       "id": "ed8aa1b4048cb3623d7f",
       "company": "Amazon",
       "logoText": "AWS",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T16:43:20+00:00"
-    },
-    {
-      "id": "f4f866a3e7137f66c534",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "لوحة الألوان: تعليم نموذج صغير لبناء مجموعات بلغة التصميم الخاصة بك",
-      "titleOriginal": "Palette: teaching a small model to build decks in your design language",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:35:36+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T03:40:23.220574+00:00",
-  "lastFastCheckAt": "2026-11-06T03:46:17.569282+00:00"
+  "lastFastCheckAt": "2026-11-06T03:51:22.630115+00:00"
 }
