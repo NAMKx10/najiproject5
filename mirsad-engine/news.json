@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T18:31:45.476429+00:00",
-  "checkedAt": "2026-11-06T18:31:45.476429+00:00",
+  "updatedAt": "2026-11-06T18:36:48.073302+00:00",
+  "checkedAt": "2026-11-06T18:36:48.073302+00:00",
   "newestPublishedAt": "2026-11-06T18:01:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -702,33 +702,33 @@
       "searchAliases": "Mistral AI Build Enterprise Agents, Workflows & Apps in Mistral Studio"
     },
     {
-      "id": "baa40162ffcefadda62f",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "fcaa616ce2a7af112878",
+      "company": "Hugging Face",
+      "logoText": "HF",
       "type": "مستجد تقني",
-      "title": "شركة OpenAI للاستحواذ على شركة Pierre Computer Company, Inc.",
-      "titleOriginal": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title": "مستخرج حقل الدارما: أي مستند موجود، الحقول المهيكلة في JSON Out",
+      "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "dateLabel": "4 نوفمبر 2026",
       "dateISO": "2026-11-04",
       "category": "tools",
       "importance": 78,
-      "summary": "ستستحوذ OpenAI على شركة Pierre Computer Company، مما يوسع أدوات Codex لبناء التعليمات البرمجية وفهمها ومراجعتها.",
-      "summaryOriginal": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/openai-to-acquire-pierre",
-      "sourceLabel": "OpenAI",
+      "source": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI OpenAI to acquire Pierre Computer Company, Inc.",
+      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-11-04T14:30:00+00:00"
+      "publishedAt": "2026-11-04T17:50:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T18:29:56.613039+00:00",
-  "lastFastCheckAt": "2026-11-06T18:31:45.476429+00:00"
+  "lastFastCheckAt": "2026-11-06T18:36:48.073302+00:00"
 }
