@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T16:55:32.822185+00:00",
-  "checkedAt": "2026-11-06T16:55:32.822185+00:00",
-  "newestPublishedAt": "2026-11-06T16:49:42+00:00",
+  "updatedAt": "2026-11-06T17:00:39.818438+00:00",
+  "checkedAt": "2026-11-06T17:00:39.818438+00:00",
+  "newestPublishedAt": "2026-11-06T16:55:05+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7b9189a1dcc1aa33c941",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "كيف قام مكتب التسجيل المالي ببناء حل مستقل لمخزون الكربون العضوي في التربة على Amazon Bedrock AgentCore",
+      "titleOriginal": "How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "policy",
+      "importance": 88,
+      "summary": "يحل مكتب التسجيل المالي أكثر من 90 ٪ من حالات الأمان والمخاطر الشهرية التي تصل إلى 4000 حالة دون تدخل بشري باستخدام LUNA، وهو نظام متعدد الوكلاء متعدد المستويات على Amazon Be",
+      "summaryOriginal": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T16:55:05+00:00"
+    },
     {
       "id": "10b26d0df5e8ec81eef5",
       "company": "Amazon",
@@ -575,6 +601,32 @@
       "searchAliases": "Mistral AI Build Enterprise Agents, Workflows & Apps in Mistral Studio"
     },
     {
+      "id": "fe4ece535764d3ecdd99",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "ألف طريق أقل للجذر",
+      "titleOriginal": "A thousand fewer paths to root",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قامت OpenAI ببناء خط أنابيب مستقل يعمل على العثور على تصحيحات لـ 948 نقطة ضعف محلية لتصعيد الامتيازات في نواة Linux والتحقق من صحتها وتوليدها.",
+      "summaryOriginal": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI A thousand fewer paths to root",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T08:00:00+00:00"
+    },
+    {
       "id": "436d594906360561ecf3",
       "company": "OpenAI",
       "logoText": "AI",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Indegene is modernizing and scaling enterprise data quality in life sciences"
-    },
-    {
-      "id": "0515900c023d7c41521a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تقوم يو موبايل ببناء شركة اتصالات عاملة مع شركة أمازون بيدروك إيجنت كور",
-      "titleOriginal": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "قامت U Mobile، أحدث مزود لشبكة 5G في ماليزيا، ببناء AiDaH، وهي منصة عمليات للذكاء الاصطناعي الوكيل على Amazon Bedrock AgentCore التي تتجاوز مساعدة الذكاء الاصطناعي إلى الحكم الذاتي",
-      "summaryOriginal": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How U Mobile built agentic telco operations with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "baa40162ffcefadda62f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "شركة OpenAI للاستحواذ على شركة Pierre Computer Company, Inc.",
-      "titleOriginal": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستستحوذ OpenAI على شركة Pierre Computer Company، مما يوسع أدوات Codex لبناء التعليمات البرمجية وفهمها ومراجعتها.",
-      "summaryOriginal": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/openai-to-acquire-pierre",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI to acquire Pierre Computer Company, Inc."
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T16:55:32.822185+00:00"
+  "lastFastCheckAt": "2026-11-06T17:00:39.818438+00:00"
 }
