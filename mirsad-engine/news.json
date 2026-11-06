@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T17:05:40.629098+00:00",
-  "checkedAt": "2026-11-06T17:05:40.629098+00:00",
-  "newestPublishedAt": "2026-11-06T16:55:05+00:00",
+  "updatedAt": "2026-11-06T17:10:44.602158+00:00",
+  "checkedAt": "2026-11-06T17:10:44.602158+00:00",
+  "newestPublishedAt": "2026-11-06T17:09:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "f404e6172d8294cb0eb8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إدارة وصول وكيل الذكاء الاصطناعي مع الوصول إلى تطبيق Okta Cross وAmazon Bedrock AgentCore – الجزء 2",
+      "titleOriginal": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "business",
+      "importance": 82,
+      "summary": "في الجزء 1، قمت ببناء وكيل محكوم واحد. الجزء 2 يقيس النمط إلى مؤسسة: تصبح Amazon Bedrock AgentCore Gateway الباب الأمامي الوحيد وتسترد غران أوكتا",
+      "summaryOriginal": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T17:09:23+00:00"
+    },
+    {
+      "id": "4a14fca0e1a2d5604819",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إدارة وصول وكيل الذكاء الاصطناعي مع الوصول إلى تطبيق Okta Cross وAmazon Bedrock AgentCore – الجزء 1",
+      "titleOriginal": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يطرح وكيل الذكاء الاصطناعي الذي يتصرف نيابة عن مستخدم سؤال هوية يترك حسابات OAuth وحسابات الخدمة مفتوحة لكل تطبيق: أي وكيل قد يتصرف نيابة عن المستخدم، وكيف يمكنك إيقافه.",
+      "summaryOriginal": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T17:09:18+00:00"
+    },
     {
       "id": "7b9189a1dcc1aa33c941",
       "company": "Amazon",
@@ -601,6 +653,32 @@
       "searchAliases": "Mistral AI Build Enterprise Agents, Workflows & Apps in Mistral Studio"
     },
     {
+      "id": "96e9c58367b4d4aed807",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أربع طبقات من هندسة السياق لوكلاء إنتاج الذكاء الاصطناعي: كيف تطبقهم Deep Insight في كود العمل",
+      "titleOriginal": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "في وكلاء إنتاج الذكاء الاصطناعي، إدارة السياق هي عنق الزجاجة الحقيقي. يقدم هذا المنشور إطارًا هندسيًا للسياق من أربع طبقات (الهندسة المعمارية، والمطالبات، والأدوات القائمة على الملفات",
+      "summaryOriginal": "In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T16:30:40+00:00"
+    },
+    {
       "id": "e3058c185cf1b90818fb",
       "company": "Amazon",
       "logoText": "AWS",
@@ -703,72 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-04T07:00:00+00:00"
-    },
-    {
-      "id": "1c3d641cc3b978e4ba21",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "استخدام نماذج القرار مع تقييمات Amazon Bedrock AgentCore",
-      "titleOriginal": "Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "بعض أسئلة تقييم الوكيل ضيقة وقابلة للتكرار، ونماذج القرار تجيب بالضبط على هذا النوع من الأسئلة. يوضح هذا المنشور كيفية ربط نموذجي قرار، J",
-      "summaryOriginal": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Use decision models with Amazon Bedrock AgentCore Evaluations"
-    },
-    {
-      "id": "fcaa616ce2a7af112878",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مستخرج حقل الدارما: أي مستند موجود، الحقول المهيكلة في JSON Out",
-      "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
-    },
-    {
-      "id": "4c2bf083d89b8e0088fc",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "الموافقات الذكية في Amazon سريعة: الإشراف البشري حيثما كان ذلك مهمًا",
-      "titleOriginal": "Smart Approvals in Amazon Quick: Human oversight where it matters",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "policy",
-      "importance": 88,
-      "summary": "الموافقات الذكية في أمازون مراجعة سريعة لإجراءات الوكيل المؤهل ضمن عناصر التحكم الحالية الخاصة بك، مما يقلل من مطالبات الموافقة غير الضرورية مع الحفاظ على القرارات التبعية",
-      "summaryOriginal": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Smart Approvals in Amazon Quick: Human oversight where it matters"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T17:05:40.629098+00:00"
+  "lastFastCheckAt": "2026-11-06T17:10:44.602158+00:00"
 }
