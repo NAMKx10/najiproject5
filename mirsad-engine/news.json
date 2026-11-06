@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T18:11:31.771301+00:00",
-  "checkedAt": "2026-11-06T18:11:31.771301+00:00",
+  "updatedAt": "2026-11-06T18:16:34.242010+00:00",
+  "checkedAt": "2026-11-06T18:16:34.242010+00:00",
   "newestPublishedAt": "2026-11-06T18:01:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -351,6 +351,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-06T14:00:48+00:00"
+    },
+    {
+      "id": "437e0041d5c0e6df2930",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "الشراكة مع Hacktron للعثور على نقاط الضعف في أنظمة OpenAI",
+      "titleOriginal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "business",
+      "importance": 82,
+      "summary": "تتعاون OpenAI مع Hacktron للعثور على نقاط الضعف، واختبار الاتصالات مع خدمات الجهات الخارجية، وتعزيز الدفاعات مع الذكاء الاصطناعي الحدودي.",
+      "summaryOriginal": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/partnering-with-hacktron",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T08:00:00+00:00"
     },
     {
       "id": "a068b654ae0f84b5edac",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-04T18:46:36+00:00"
-    },
-    {
-      "id": "fcaa616ce2a7af112878",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "مستخرج حقل الدارما: أي مستند موجود، الحقول المهيكلة في JSON Out",
-      "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T17:50:10+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T18:11:31.771301+00:00"
+  "lastFastCheckAt": "2026-11-06T18:16:34.242010+00:00"
 }
