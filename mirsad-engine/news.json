@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T18:26:40.382020+00:00",
-  "checkedAt": "2026-11-06T18:26:40.382020+00:00",
+  "updatedAt": "2026-11-06T18:29:56.613039+00:00",
+  "checkedAt": "2026-11-06T18:29:56.613039+00:00",
   "newestPublishedAt": "2026-11-06T18:01:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "65a8487da6fd4b0069a6",
+      "id": "5efc99de94126505074d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "يدعم Amazon SageMaker Inference الآن تقسيم GPU مع NVIDIA Multi - Instance GPU (MIG)، والذي يقسم وحدة معالجة الرسومات إلى أقسام معزولة عن الأجهزة حتى تتمكن من تشغيل",
       "summaryOriginal": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
+      "source": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T18:01:00+00:00"
+      "searchAliases": "Amazon SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints"
     },
     {
-      "id": "8046e92e86e24b7ec173",
+      "id": "39f79c9657796509614d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "عندما بنينا أمازون كويك، نما وكلاؤها من الإجابة على الأسئلة إلى اتخاذ الإجراءات، واستمر نفس البدائيين في إعادة البناء تحت أسماء مختلفة. هذا المنشور يشارك",
       "summaryOriginal": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Taxonomy of agentic primitives in Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T17:34:45+00:00"
+      "searchAliases": "Amazon Taxonomy of agentic primitives in Amazon Quick"
     },
     {
-      "id": "5274ff8e8f0bc7d6e0ed",
+      "id": "a07e92c5371ab08ed788",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "تعلم كيفية إنشاء خادم بروتوكول سياق النموذج (MCP) بدون خادم على Amazon ECS مع AWS Fargate الذي يمنح وكلاء الذكاء الاصطناعي وصولاً آمنًا يعتمد على البيانات الوصفية إلى مؤسسة",
       "summaryOriginal": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
+      "source": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T17:13:13+00:00"
+      "searchAliases": "Amazon Serverless MCP server for AI agent data lake access on Amazon ECS Fargate"
     },
     {
-      "id": "f404e6172d8294cb0eb8",
+      "id": "2977725436548d1d62ac",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -184,20 +169,15 @@
       "summary": "في الجزء 1، قمت ببناء وكيل محكوم واحد. الجزء 2 يقيس النمط إلى مؤسسة: تصبح Amazon Bedrock AgentCore Gateway الباب الأمامي الوحيد وتسترد غران أوكتا",
       "summaryOriginal": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T17:09:23+00:00"
+      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2"
     },
     {
-      "id": "4a14fca0e1a2d5604819",
+      "id": "8110120f6dc2ccc90060",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -210,20 +190,15 @@
       "summary": "يطرح وكيل الذكاء الاصطناعي الذي يتصرف نيابة عن مستخدم سؤال هوية يترك حسابات OAuth وحسابات الخدمة مفتوحة لكل تطبيق: أي وكيل قد يتصرف نيابة عن المستخدم، وكيف يمكنك إيقافه.",
       "summaryOriginal": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T17:09:18+00:00"
+      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1"
     },
     {
-      "id": "7b9189a1dcc1aa33c941",
+      "id": "960eaa792412060f189d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -236,20 +211,15 @@
       "summary": "يحل مكتب التسجيل المالي أكثر من 90 ٪ من حالات الأمان والمخاطر الشهرية التي تصل إلى 4000 حالة دون تدخل بشري باستخدام LUNA، وهو نظام متعدد الوكلاء متعدد المستويات على Amazon Be",
       "summaryOriginal": "Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T16:55:05+00:00"
+      "searchAliases": "Amazon How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore"
     },
     {
-      "id": "10b26d0df5e8ec81eef5",
+      "id": "812c4cfecbb9d4aa06fe",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -262,20 +232,15 @@
       "summary": "قام Taxbit ببناء Taxbit Assist، وهو مساعد ذكاء اصطناعي مستشهد به ومدرك للإذن مضمن في لوحة معلومات المؤسسة الخاصة به، على Amazon Bedrock AgentCore. يوضح هذا المنشور كيف قاموا بتأريض",
       "summaryOriginal": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T16:49:42+00:00"
+      "searchAliases": "Amazon Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore"
     },
     {
-      "id": "f93ea823c0d75efa8594",
+      "id": "5e311915acb0239f96e6",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -288,20 +253,15 @@
       "summary": "قم بتشغيل Claude Code كوكيل عن بُعد على Amazon Bedrock AgentCore. يتم تشغيل كل مهمة ترميز في جلسة معزولة خاصة بها في حساب AWS الخاص بك، وكل مكالمة نموذج تمر عبر Amazon",
       "summaryOriginal": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls",
+      "source": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T16:45:58+00:00"
+      "searchAliases": "Amazon Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls"
     },
     {
-      "id": "9c3a56189890430c0d48",
+      "id": "c3f23b9c449762743982",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -314,17 +274,12 @@
       "summary": "قبل عام، قامت NVIDIA بفتح برنامجها اللاسلكي الجوي، وانضمت إلى Sionna ومجموعة أوسع من أدوات المصدر المفتوح لتسريع تطوير شبكة الجيل السادس",
       "summaryOriginal": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+      "source": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T16:00:35+00:00"
+      "searchAliases": "NVIDIA How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks"
     },
     {
       "id": "e1a748630fb7bb976165",
@@ -345,12 +300,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face ToyBlocks: A controlled world for robot learning and evaluation",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T14:00:48+00:00"
+      "searchAliases": "Hugging Face ToyBlocks: A controlled world for robot learning and evaluation"
     },
     {
       "id": "437e0041d5c0e6df2930",
@@ -371,12 +321,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T08:00:00+00:00"
+      "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
     },
     {
       "id": "a068b654ae0f84b5edac",
@@ -757,33 +702,27 @@
       "searchAliases": "Mistral AI Build Enterprise Agents, Workflows & Apps in Mistral Studio"
     },
     {
-      "id": "7a12151a54034bd8aade",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "استخدام نماذج القرار مع تقييمات Amazon Bedrock AgentCore",
-      "titleOriginal": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "id": "fcaa616ce2a7af112878",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مستخرج حقل الدارما: أي مستند موجود، الحقول المهيكلة في JSON Out",
+      "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "dateLabel": "4 نوفمبر 2026",
       "dateISO": "2026-11-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "بعض أسئلة تقييم الوكيل ضيقة وقابلة للتكرار، ونماذج القرار تجيب بالضبط على هذا النوع من الأسئلة. يوضح هذا المنشور كيفية ربط نموذجي قرار، J",
-      "summaryOriginal": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
-      "sourceLabel": "AWS Machine Learning Blog",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Use decision models with Amazon Bedrock AgentCore Evaluations",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T18:46:36+00:00"
+      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T18:26:40.382020+00:00"
+  "lastDeepCheckAt": "2026-11-06T18:29:56.613039+00:00"
 }
