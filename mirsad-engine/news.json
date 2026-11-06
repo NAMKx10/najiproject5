@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T00:59:08.292589+00:00",
-  "checkedAt": "2026-11-06T00:59:08.292589+00:00",
+  "updatedAt": "2026-11-06T01:04:14.480160+00:00",
+  "checkedAt": "2026-11-06T01:04:14.480160+00:00",
   "newestPublishedAt": "2026-11-05T21:04:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3ba528c1455b2c8f30ba",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "Cult.fit يبني العضلات التشغيلية مع الدستور الغذائي",
+      "titleOriginal": "Cult.fit builds operational muscle with Codex",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تستخدم Cult.fit الدستور الغذائي لمساعدة الفرق عبر الوظائف على بناء الأدوات والتحرك بشكل أسرع وتغيير كيفية إنجاز العمل.",
+      "summaryOriginal": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/cultfit-builds-with-codex",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T20:00:00+00:00"
+    },
     {
       "id": "c984f7dcaa84bdc042ee",
       "company": "OpenAI",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T16:43:20+00:00"
-    },
-    {
-      "id": "f4f866a3e7137f66c534",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "لوحة الألوان: تعليم نموذج صغير لبناء مجموعات بلغة التصميم الخاصة بك",
-      "titleOriginal": "Palette: teaching a small model to build decks in your design language",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Palette: teaching a small model to build decks in your design language",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:35:36+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-05T23:38:56.808291+00:00",
-  "lastFastCheckAt": "2026-11-06T00:59:08.292589+00:00"
+  "lastFastCheckAt": "2026-11-06T01:04:14.480160+00:00"
 }
