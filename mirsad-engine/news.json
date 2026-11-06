@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T15:59:49.418314+00:00",
-  "checkedAt": "2026-11-06T15:59:49.418314+00:00",
-  "newestPublishedAt": "2026-11-06T14:00:48+00:00",
+  "updatedAt": "2026-11-06T16:04:51.972020+00:00",
+  "checkedAt": "2026-11-06T16:04:51.972020+00:00",
+  "newestPublishedAt": "2026-11-06T16:00:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "9c3a56189890430c0d48",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "كيف تساعد أدوات NVIDIA مفتوحة المصدر الباحثين في بناء شبكات الجيل السادس",
+      "titleOriginal": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "research",
+      "importance": 86,
+      "summary": "قبل عام، قامت NVIDIA بفتح برنامجها اللاسلكي الجوي، وانضمت إلى Sionna ومجموعة أوسع من أدوات المصدر المفتوح لتسريع تطوير شبكة الجيل السادس",
+      "summaryOriginal": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T16:00:35+00:00"
+    },
     {
       "id": "e1a748630fb7bb976165",
       "company": "Hugging Face",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-03T17:15:21+00:00"
-    },
-    {
-      "id": "ed8aa1b4048cb3623d7f",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "اجمع البيانات المهيكلة وغير المهيكلة مع Amazon Quick",
-      "titleOriginal": "Bring structured and unstructured data together with Amazon Quick",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "business",
-      "importance": 82,
-      "summary": "تجمع Amazon Quick البيانات المهيكلة وغير المهيكلة معًا في تجربة واحدة. في هذا المنشور، يمكنك ربط Amazon S3 كقاعدة معرفية، وإثراء مجموعة بيانات، وبناء مساحة،",
-      "summaryOriginal": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Bring structured and unstructured data together with Amazon Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T16:49:29+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T15:59:49.418314+00:00"
+  "lastFastCheckAt": "2026-11-06T16:04:51.972020+00:00"
 }
