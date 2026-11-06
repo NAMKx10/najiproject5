@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T17:10:44.602158+00:00",
-  "checkedAt": "2026-11-06T17:10:44.602158+00:00",
-  "newestPublishedAt": "2026-11-06T17:09:23+00:00",
+  "updatedAt": "2026-11-06T17:15:47.636077+00:00",
+  "checkedAt": "2026-11-06T17:15:47.636077+00:00",
+  "newestPublishedAt": "2026-11-06T17:13:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5274ff8e8f0bc7d6e0ed",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "خادم MCP بدون خادم للوصول إلى بحيرة بيانات وكيل الذكاء الاصطناعي على Amazon ECS Fargate",
+      "titleOriginal": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعلم كيفية إنشاء خادم بروتوكول سياق النموذج (MCP) بدون خادم على Amazon ECS مع AWS Fargate الذي يمنح وكلاء الذكاء الاصطناعي وصولاً آمنًا يعتمد على البيانات الوصفية إلى مؤسسة",
+      "summaryOriginal": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T17:13:13+00:00"
+    },
     {
       "id": "f404e6172d8294cb0eb8",
       "company": "Amazon",
@@ -653,6 +679,84 @@
       "searchAliases": "Mistral AI Build Enterprise Agents, Workflows & Apps in Mistral Studio"
     },
     {
+      "id": "7a12151a54034bd8aade",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استخدام نماذج القرار مع تقييمات Amazon Bedrock AgentCore",
+      "titleOriginal": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "models",
+      "importance": 92,
+      "summary": "بعض أسئلة تقييم الوكيل ضيقة وقابلة للتكرار، ونماذج القرار تجيب بالضبط على هذا النوع من الأسئلة. يوضح هذا المنشور كيفية ربط نموذجي قرار، J",
+      "summaryOriginal": "Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T18:46:36+00:00"
+    },
+    {
+      "id": "fcaa616ce2a7af112878",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مستخرج حقل الدارما: أي مستند موجود، الحقول المهيكلة في JSON Out",
+      "titleOriginal": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T17:50:10+00:00"
+    },
+    {
+      "id": "c30544e0570bc29fe7e7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "الموافقات الذكية في Amazon سريعة: الإشراف البشري حيثما كان ذلك مهمًا",
+      "titleOriginal": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "dateLabel": "4 نوفمبر 2026",
+      "dateISO": "2026-11-04",
+      "category": "policy",
+      "importance": 88,
+      "summary": "الموافقات الذكية في أمازون مراجعة سريعة لإجراءات الوكيل المؤهل ضمن عناصر التحكم الحالية الخاصة بك، مما يقلل من مطالبات الموافقة غير الضرورية مع الحفاظ على القرارات التبعية",
+      "summaryOriginal": "Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Smart Approvals in Amazon Quick: Human oversight where it matters",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-04T16:33:03+00:00"
+    },
+    {
       "id": "96e9c58367b4d4aed807",
       "company": "Amazon",
       "logoText": "AWS",
@@ -677,113 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-04T16:30:40+00:00"
-    },
-    {
-      "id": "e3058c185cf1b90818fb",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تقوم يو موبايل ببناء شركة اتصالات عاملة مع شركة أمازون بيدروك إيجنت كور",
-      "titleOriginal": "How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "قامت U Mobile، أحدث مزود لشبكة 5G في ماليزيا، ببناء AiDaH، وهي منصة عمليات للذكاء الاصطناعي الوكيل على Amazon Bedrock AgentCore التي تتجاوز مساعدة الذكاء الاصطناعي إلى الحكم الذاتي",
-      "summaryOriginal": "U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How U Mobile built agentic telco operations with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T16:23:33+00:00"
-    },
-    {
-      "id": "baa40162ffcefadda62f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "شركة OpenAI للاستحواذ على شركة Pierre Computer Company, Inc.",
-      "titleOriginal": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "ستستحوذ OpenAI على شركة Pierre Computer Company، مما يوسع أدوات Codex لبناء التعليمات البرمجية وفهمها ومراجعتها.",
-      "summaryOriginal": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/openai-to-acquire-pierre",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI OpenAI to acquire Pierre Computer Company, Inc.",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T14:30:00+00:00"
-    },
-    {
-      "id": "fe4ece535764d3ecdd99",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "ألف طريق أقل للجذر",
-      "titleOriginal": "A thousand fewer paths to root",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قامت OpenAI ببناء خط أنابيب مستقل يعمل على العثور على تصحيحات لـ 948 نقطة ضعف محلية لتصعيد الامتيازات في نواة Linux والتحقق من صحتها وتوليدها.",
-      "summaryOriginal": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI A thousand fewer paths to root",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T08:00:00+00:00"
-    },
-    {
-      "id": "436d594906360561ecf3",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يتوفر Daybreak Red الآن في AWS GovCloud (الولايات المتحدة - الشرق)",
-      "titleOriginal": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "يجلب Daybreak Red GPT-5.6 Cyber إلى العملاء المعتمدين في AWS GovCloud (الولايات المتحدة - الشرق) من خلال Amazon Bedrock لأعمال الأمن السيبراني المصرح بها.",
-      "summaryOriginal": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Daybreak Red is now available in AWS GovCloud (US-East)",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-04T07:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T17:10:44.602158+00:00"
+  "lastFastCheckAt": "2026-11-06T17:15:47.636077+00:00"
 }
