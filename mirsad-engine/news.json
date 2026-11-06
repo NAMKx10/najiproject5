@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-06T16:45:16.713944+00:00",
-  "checkedAt": "2026-11-06T16:45:16.713944+00:00",
-  "newestPublishedAt": "2026-11-06T16:00:35+00:00",
+  "updatedAt": "2026-11-06T16:50:20.799180+00:00",
+  "checkedAt": "2026-11-06T16:50:20.799180+00:00",
+  "newestPublishedAt": "2026-11-06T16:49:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "10b26d0df5e8ec81eef5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "Taxbit Assist: وكيل ذكاء اصطناعي مؤرض ومدرك للأدوار على Amazon Bedrock AgentCore",
+      "titleOriginal": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "policy",
+      "importance": 88,
+      "summary": "قام Taxbit ببناء Taxbit Assist، وهو مساعد ذكاء اصطناعي مستشهد به ومدرك للإذن مضمن في لوحة معلومات المؤسسة الخاصة به، على Amazon Bedrock AgentCore. يوضح هذا المنشور كيف قاموا بتأريض",
+      "summaryOriginal": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T16:49:42+00:00"
+    },
+    {
+      "id": "f93ea823c0d75efa8594",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تمديد كود كلود إلى الجلسات البعيدة على Amazon Bedrock AgentCore مع الضوابط الأمنية",
+      "titleOriginal": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "قم بتشغيل Claude Code كوكيل عن بُعد على Amazon Bedrock AgentCore. يتم تشغيل كل مهمة ترميز في جلسة معزولة خاصة بها في حساب AWS الخاص بك، وكل مكالمة نموذج تمر عبر Amazon",
+      "summaryOriginal": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T16:45:58+00:00"
+    },
     {
       "id": "9c3a56189890430c0d48",
       "company": "NVIDIA",
@@ -689,56 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI A thousand fewer paths to root"
-    },
-    {
-      "id": "436d594906360561ecf3",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يتوفر Daybreak Red الآن في AWS GovCloud (الولايات المتحدة - الشرق)",
-      "titleOriginal": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "dateLabel": "4 نوفمبر 2026",
-      "dateISO": "2026-11-04",
-      "category": "models",
-      "importance": 92,
-      "summary": "يجلب Daybreak Red GPT-5.6 Cyber إلى العملاء المعتمدين في AWS GovCloud (الولايات المتحدة - الشرق) من خلال Amazon Bedrock لأعمال الأمن السيبراني المصرح بها.",
-      "summaryOriginal": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Daybreak Red is now available in AWS GovCloud (US-East)"
-    },
-    {
-      "id": "c0bf2137f48553f0d8c1",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "StateBench: اختبار كيفية تتبع نماذج اللغة لتغيرات الحالة عبر المستندات الطويلة",
-      "titleOriginal": "StateBench: Testing how language models track state changes over long documents",
-      "dateLabel": "3 نوفمبر 2026",
-      "dateISO": "2026-11-03",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/allenai/statebench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face StateBench: Testing how language models track state changes over long documents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-03T17:15:21+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-06T11:32:10.351230+00:00",
-  "lastFastCheckAt": "2026-11-06T16:45:16.713944+00:00"
+  "lastFastCheckAt": "2026-11-06T16:50:20.799180+00:00"
 }
