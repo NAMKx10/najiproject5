@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T08:03:05.843330+00:00",
-  "checkedAt": "2026-11-09T08:03:05.843330+00:00",
-  "newestPublishedAt": "2026-11-09T05:00:40+00:00",
+  "updatedAt": "2026-11-09T08:08:09.436948+00:00",
+  "checkedAt": "2026-11-09T08:08:09.436948+00:00",
+  "newestPublishedAt": "2026-11-09T08:00:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a726b05e7ae1cc407b97",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA تعلن عن استثمارات جديدة مخططة في الشركات الناشئة الكورية في منتدى شراكة MSIT - NVIDIA AI Startup",
+      "titleOriginal": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ريو جي ميونغ، نائب وزير العلوم وتكنولوجيا المعلومات والاتصالات، انضم إلى NVIDIA",
+      "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T08:00:53+00:00"
+    },
     {
       "id": "1103e2238f3c7a7f6cc1",
       "company": "NVIDIA",
@@ -780,35 +806,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-05T08:00:00+00:00"
-    },
-    {
-      "id": "7cf3f689b6b2539c3c6e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "وضع معيار جديد للبنية التحتية المسؤولة للذكاء الاصطناعي",
-      "titleOriginal": "Setting a new standard for responsible AI infrastructure",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI مخطط سياسة ميثاق المجتمع الوطني وحوسبة الحرم الجامعي لحماية الموارد المحلية، وخلق فرص العمل، وتوجيه تطوير البنية التحتية المسؤولة للذكاء الاصطناعي",
-      "summaryOriginal": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Setting a new standard for responsible AI infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T02:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T01:59:47.910020+00:00",
-  "lastFastCheckAt": "2026-11-09T08:03:05.843330+00:00"
+  "lastFastCheckAt": "2026-11-09T08:08:09.436948+00:00"
 }
