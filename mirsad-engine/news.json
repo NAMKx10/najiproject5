@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T10:40:16.612932+00:00",
-  "checkedAt": "2026-11-09T10:40:16.612932+00:00",
+  "updatedAt": "2026-11-09T10:45:09.881333+00:00",
+  "checkedAt": "2026-11-09T10:45:09.881333+00:00",
   "newestPublishedAt": "2026-11-09T08:00:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -471,6 +471,32 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
+      "id": "3ba528c1455b2c8f30ba",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "Cult.fit يبني العضلات التشغيلية مع الدستور الغذائي",
+      "titleOriginal": "Cult.fit builds operational muscle with Codex",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تستخدم Cult.fit الدستور الغذائي لمساعدة الفرق عبر الوظائف على بناء الأدوات والتحرك بشكل أسرع وتغيير كيفية إنجاز العمل.",
+      "summaryOriginal": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/cultfit-builds-with-codex",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T20:00:00+00:00"
+    },
+    {
       "id": "628d7cc02c503139ce63",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Getting started with Web Answer on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "f2b9d824946a517fe867",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "تقدم فيرا أفضل ما في العالمين: أعلى إنتاجية وأسرع وكلاء",
-      "titleOriginal": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "business",
-      "importance": 82,
-      "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
-      "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T09:49:08.070601+00:00",
-  "lastFastCheckAt": "2026-11-09T10:40:16.612932+00:00"
+  "lastFastCheckAt": "2026-11-09T10:45:09.881333+00:00"
 }
