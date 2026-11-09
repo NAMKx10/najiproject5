@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T10:19:54.468461+00:00",
-  "checkedAt": "2026-11-09T10:19:54.468461+00:00",
+  "updatedAt": "2026-11-09T10:24:59.316638+00:00",
+  "checkedAt": "2026-11-09T10:24:59.316638+00:00",
   "newestPublishedAt": "2026-11-09T08:00:53+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -471,6 +471,32 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
+      "id": "6902e491c46f7e88359e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم الجامعات الأسترالية بإنشاء خريجين أصليين للذكاء الاصطناعي",
+      "titleOriginal": "Australian universities are creating AI-native graduates",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل الجامعات الأسترالية على توسيع نطاق الوصول إلى ChatGPT وإدخال الذكاء الاصطناعي في التدريس والتعلم لإعداد الطلاب لقوى عاملة مدعومة بالذكاء الاصطناعي.",
+      "summaryOriginal": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Australian universities are creating AI-native graduates",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T17:00:00+00:00"
+    },
+    {
       "id": "0f025441c7ebec8cdfc2",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Amazon Marketplace evaluates content quality with Amazon SageMaker AI"
-    },
-    {
-      "id": "17ff82eab5b698cdfceb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T09:49:08.070601+00:00",
-  "lastFastCheckAt": "2026-11-09T10:19:54.468461+00:00"
+  "lastFastCheckAt": "2026-11-09T10:24:59.316638+00:00"
 }
