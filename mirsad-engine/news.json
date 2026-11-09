@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T05:36:47.189404+00:00",
-  "checkedAt": "2026-11-09T05:36:47.189404+00:00",
+  "updatedAt": "2026-11-09T05:41:49.633672+00:00",
+  "checkedAt": "2026-11-09T05:41:49.633672+00:00",
   "newestPublishedAt": "2026-11-09T05:00:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -470,6 +470,32 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
+      "id": "0f025441c7ebec8cdfc2",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "معالج الأوزان المفتوحة: كريس أليكسيوك يجعل الذكاء الاصطناعي سهلاً مع النماذج المفتوحة",
+      "titleOriginal": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "لدى كريس أليكسيوك قاعدة بسيطة حول الذكاء الاصطناعي مفتوح المصدر: إذا كنت تؤمن به، فكن صاخبًا بشأنه. قال أليكسيو: \"يجب أن نصرخ بشأن هذه التكنولوجيا من على الأسطح\".",
+      "summaryOriginal": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T16:00:05+00:00"
+    },
+    {
       "id": "5a3b95c6676cff0b586f",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "6902e491c46f7e88359e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقوم الجامعات الأسترالية بإنشاء خريجين أصليين للذكاء الاصطناعي",
-      "titleOriginal": "Australian universities are creating AI-native graduates",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل الجامعات الأسترالية على توسيع نطاق الوصول إلى ChatGPT وإدخال الذكاء الاصطناعي في التدريس والتعلم لإعداد الطلاب لقوى عاملة مدعومة بالذكاء الاصطناعي.",
-      "summaryOriginal": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Australian universities are creating AI-native graduates"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T01:59:47.910020+00:00",
-  "lastFastCheckAt": "2026-11-09T05:36:47.189404+00:00"
+  "lastFastCheckAt": "2026-11-09T05:41:49.633672+00:00"
 }
