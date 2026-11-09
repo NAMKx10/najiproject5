@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T15:03:42.747137+00:00",
-  "checkedAt": "2026-11-09T15:03:42.747137+00:00",
-  "newestPublishedAt": "2026-11-09T12:34:29+00:00",
+  "updatedAt": "2026-11-09T15:08:41.544260+00:00",
+  "checkedAt": "2026-11-09T15:08:41.544260+00:00",
+  "newestPublishedAt": "2026-11-09T15:05:57+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0483cc6fe5f4e7b566b2",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Nemotron - Personas - Finance - Japan: مجموعة بيانات اصطناعية تلتقط التركيبة السكانية والسياق المالي لليابان",
+      "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T15:05:57+00:00"
+    },
     {
       "id": "d26170c43578f4faaf4e",
       "company": "Hugging Face",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-05T09:00:00+00:00"
-    },
-    {
-      "id": "2ebfc40c823ff0e4efe1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الدمج يبني أدوات المنتج والأعمال باستخدام تقنية OpenAI",
-      "titleOriginal": "Merge builds product and business tools with OpenAI technology",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "يستخدم Merge GPT -6 Astra و ChatGPT و Codex لمراجعة رمز المنتج ودعم التسويق. كما تستخدم فرقها الذكاء الاصطناعي للتخطيط لعشاء المديرين التنفيذيين وإعداد تحديثات المبيعات.",
-      "summaryOriginal": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/merge-builds-with-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Merge builds product and business tools with OpenAI technology",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T09:49:08.070601+00:00",
-  "lastFastCheckAt": "2026-11-09T15:03:42.747137+00:00"
+  "lastFastCheckAt": "2026-11-09T15:08:41.544260+00:00"
 }
