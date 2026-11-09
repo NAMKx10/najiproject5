@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T06:07:03.372213+00:00",
-  "checkedAt": "2026-11-09T06:07:03.372213+00:00",
+  "updatedAt": "2026-11-09T06:12:09.630005+00:00",
+  "checkedAt": "2026-11-09T06:12:09.630005+00:00",
   "newestPublishedAt": "2026-11-09T05:00:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -470,6 +470,32 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
+      "id": "12d608a058c51b34c82a",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "أعمال وشراكات",
+      "title": "تقدم فيرا أفضل ما في العالمين: أعلى إنتاجية وأسرع وكلاء",
+      "titleOriginal": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "business",
+      "importance": 82,
+      "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
+      "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T20:00:41+00:00"
+    },
+    {
       "id": "3ba528c1455b2c8f30ba",
       "company": "OpenAI",
       "logoText": "AI",
@@ -780,30 +806,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-05T00:45:15+00:00"
-    },
-    {
-      "id": "1c14079595a440f57d96",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "الشروع في العمل مع Web Answer على Amazon Bedrock AgentCore",
-      "titleOriginal": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقوم الإجابة على الويب على Amazon Bedrock AgentCore بإرجاع إجابة مركبة مستشهد بها من المصدر على سؤال باللغة الطبيعية في مكالمة أداة واحدة، دون البحث أو الاسترداد أو التركيب",
-      "summaryOriginal": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Getting started with Web Answer on Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T01:59:47.910020+00:00",
-  "lastFastCheckAt": "2026-11-09T06:07:03.372213+00:00"
+  "lastFastCheckAt": "2026-11-09T06:12:09.630005+00:00"
 }
