@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T05:26:42.145560+00:00",
-  "checkedAt": "2026-11-09T05:26:42.145560+00:00",
+  "updatedAt": "2026-11-09T05:31:41.297191+00:00",
+  "checkedAt": "2026-11-09T05:31:41.297191+00:00",
   "newestPublishedAt": "2026-11-09T05:00:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -470,6 +470,32 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
+      "id": "c6d96800a4ab8b203895",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "\"Hogwarts Legacy\" تحصل على ترقية NVIDIA DLSS 5 السحرية على GeForce الآن",
+      "titleOriginal": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتلقى Hogwarts Legacy ترقية NVIDIA DLSS 5 مع تقديم عصبي موجه ثلاثي الأبعاد اليوم، مما يجلب إضاءة ومواد نابضة بالحياة إلى عالم السحرة على GeForce الآن. ب",
+      "summaryOriginal": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA ‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T14:00:34+00:00"
+    },
+    {
       "id": "42fd677c424d921b7823",
       "company": "OpenAI",
       "logoText": "AI",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models"
-    },
-    {
-      "id": "f14b2f303c4635fed968",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "المزيد من الأداء من كل بايت: كيف يحل تصميم الأكواد المتكامل تحدي ذاكرة الذكاء الاصطناعي",
-      "titleOriginal": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل النماذج الأكبر والسياقات الأطول والتطبيقات الوكيلة على زيادة ضغط ذاكرة وحدة معالجة الرسومات (GPU) بينما يتقلص العرض وترتفع الأسعار — وهو اتجاه من المتوقع أن يستمر خلال",
-      "summaryOriginal": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T01:59:47.910020+00:00",
-  "lastFastCheckAt": "2026-11-09T05:26:42.145560+00:00"
+  "lastFastCheckAt": "2026-11-09T05:31:41.297191+00:00"
 }
