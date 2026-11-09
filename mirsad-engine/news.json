@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-09T05:06:18.895311+00:00",
-  "checkedAt": "2026-11-09T05:06:18.895311+00:00",
+  "updatedAt": "2026-11-09T05:11:19.844385+00:00",
+  "checkedAt": "2026-11-09T05:11:19.844385+00:00",
   "newestPublishedAt": "2026-11-09T05:00:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -470,6 +470,32 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
+      "id": "c984f7dcaa84bdc042ee",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعمل فليبسناك على زيادة اشتراكات المنتج مع تحسين التحويل",
+      "titleOriginal": "Flipsnack grows product signups with conversion optimization",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "ركزت Flipsnack حملاتها لإعلانات ChatGPT على حث الناس على تجربة منتجها، وزيادة التسجيلات مع خفض تكلفة الاشتراك.",
+      "summaryOriginal": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/ads/customers/flipsnack",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Flipsnack grows product signups with conversion optimization",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-05T00:45:15+00:00"
+    },
+    {
       "id": "1c14079595a440f57d96",
       "company": "Amazon",
       "logoText": "AWS",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Merge builds product and business tools with OpenAI technology"
-    },
-    {
-      "id": "7cf3f689b6b2539c3c6e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "وضع معيار جديد للبنية التحتية المسؤولة للذكاء الاصطناعي",
-      "titleOriginal": "Setting a new standard for responsible AI infrastructure",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم OpenAI مخطط سياسة ميثاق المجتمع الوطني وحوسبة الحرم الجامعي لحماية الموارد المحلية، وخلق فرص العمل، وتوجيه تطوير البنية التحتية المسؤولة للذكاء الاصطناعي",
-      "summaryOriginal": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Setting a new standard for responsible AI infrastructure"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-09T01:59:47.910020+00:00",
-  "lastFastCheckAt": "2026-11-09T05:06:18.895311+00:00"
+  "lastFastCheckAt": "2026-11-09T05:11:19.844385+00:00"
 }
