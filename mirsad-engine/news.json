@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T17:08:41.871002+00:00",
-  "checkedAt": "2026-11-10T17:08:41.871002+00:00",
+  "updatedAt": "2026-11-10T17:13:48.834936+00:00",
+  "checkedAt": "2026-11-10T17:13:48.834936+00:00",
   "newestPublishedAt": "2026-11-10T16:59:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -695,6 +695,32 @@
       "searchAliases": "Anthropic Announcements"
     },
     {
+      "id": "65a8487da6fd4b0069a6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Amazon",
+      "titleOriginal": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T18:01:00+00:00"
+    },
+    {
       "id": "9c3a56189890430c0d48",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-06T14:00:48+00:00"
-    },
-    {
-      "id": "437e0041d5c0e6df2930",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "الشراكة مع Hacktron للعثور على نقاط الضعف في أنظمة OpenAI",
-      "titleOriginal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "business",
-      "importance": 82,
-      "summary": "تتعاون OpenAI مع Hacktron للعثور على نقاط الضعف، واختبار الاتصالات مع خدمات الجهات الخارجية، وتعزيز الدفاعات مع الذكاء الاصطناعي الحدودي.",
-      "summaryOriginal": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/partnering-with-hacktron",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T17:08:41.871002+00:00"
+  "lastFastCheckAt": "2026-11-10T17:13:48.834936+00:00"
 }
