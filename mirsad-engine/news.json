@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T16:02:34.483414+00:00",
-  "checkedAt": "2026-11-10T16:02:34.483414+00:00",
-  "newestPublishedAt": "2026-11-10T12:00:00+00:00",
+  "updatedAt": "2026-11-10T16:07:42.452131+00:00",
+  "checkedAt": "2026-11-10T16:07:42.452131+00:00",
+  "newestPublishedAt": "2026-11-10T16:00:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -38,7 +38,7 @@
       "company": "Apple",
       "kind": "feed-fast",
       "ok": true,
-      "items": 6,
+      "items": 5,
       "error": null
     },
     {
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ef16cb1b56cf0b12f4ba",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "توسع NVIDIA التزامها بالمصادر المفتوحة من خلال التبرع بـ OpenShell والبنية التحتية الجديدة للذكاء الاصطناعي",
+      "titleOriginal": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "Kubernetes، نظام المصدر المفتوح الذي يدير كيفية تشغيل التطبيقات عبر الآلاف من مصانع الذكاء الاصطناعي، أصبح أساس الذكاء الاصطناعي، والمطالب عليه ليست سوى غرام",
+      "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T16:00:03+00:00"
+    },
     {
       "id": "27031441594673205128",
       "company": "OpenAI",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
-    },
-    {
-      "id": "5125cda19174884c0802",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Measuring how AI agents handle everyday wet-lab science",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Measuring how AI agents handle everyday wet-lab science"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T16:02:34.483414+00:00"
+  "lastFastCheckAt": "2026-11-10T16:07:42.452131+00:00"
 }
