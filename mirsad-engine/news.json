@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T11:13:16.301185+00:00",
-  "checkedAt": "2026-11-10T11:13:16.301185+00:00",
+  "updatedAt": "2026-11-10T11:14:11.806887+00:00",
+  "checkedAt": "2026-11-10T11:14:11.806887+00:00",
   "newestPublishedAt": "2026-11-10T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Closing the AI guidance gap in education",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T09:00:00+00:00"
+      "searchAliases": "OpenAI Closing the AI guidance gap in education"
     },
     {
       "id": "16bc4c95d044b5238a3f",
@@ -686,7 +681,7 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
-      "id": "12d608a058c51b34c82a",
+      "id": "f2b9d824946a517fe867",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -699,17 +694,12 @@
       "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
       "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:41+00:00"
+      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
     },
     {
       "id": "3ba528c1455b2c8f30ba",
@@ -730,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:00+00:00"
+      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-10T02:57:27.618330+00:00",
-  "lastFastCheckAt": "2026-11-10T11:13:16.301185+00:00"
+  "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00"
 }
