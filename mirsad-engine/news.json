@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T23:22:40.006086+00:00",
-  "checkedAt": "2026-11-10T23:22:40.006086+00:00",
+  "updatedAt": "2026-11-10T23:27:44.360629+00:00",
+  "checkedAt": "2026-11-10T23:27:44.360629+00:00",
   "newestPublishedAt": "2026-11-10T22:35:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -392,6 +392,32 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "0483cc6fe5f4e7b566b2",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Nemotron - Personas - Finance - Japan: مجموعة بيانات اصطناعية تلتقط التركيبة السكانية والسياق المالي لليابان",
+      "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T15:05:57+00:00"
+    },
+    {
       "id": "40e1bcddf66c65d92f79",
       "company": "OpenAI",
       "logoText": "AI",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "5747d60f0d56eceeabc6",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "العمل المهني يستحق أدوات مهنية. تعرف على AWS Quick.",
-      "titleOriginal": "Professional work deserves professional tools. Meet AWS Quick.",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقديم AWS Quick، و Amazon Quick سابقًا، والظهور الأول لحملة علامتنا التجارية التي تحتفل بالفرق التي تحافظ على سير الأعمال. AWS Quick هي مساحة عمل الذكاء الاصطناعي المبنية عليها",
-      "summaryOriginal": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspace built only for work, where teams use AI agents to research, analyze, and act across the data and applications they already rely on.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/professional-work-deserves-professional-tools-meet-aws-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Professional work deserves professional tools. Meet AWS Quick."
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T18:41:16.983891+00:00",
-  "lastFastCheckAt": "2026-11-10T23:22:40.006086+00:00"
+  "lastFastCheckAt": "2026-11-10T23:27:44.360629+00:00"
 }
