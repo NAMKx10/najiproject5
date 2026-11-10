@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T16:53:36.606588+00:00",
-  "checkedAt": "2026-11-10T16:53:36.606588+00:00",
-  "newestPublishedAt": "2026-11-10T16:00:03+00:00",
+  "updatedAt": "2026-11-10T16:58:36.062010+00:00",
+  "checkedAt": "2026-11-10T16:58:36.062010+00:00",
+  "newestPublishedAt": "2026-11-10T16:56:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "618c600064d264849fbe",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Amazon",
+      "titleOriginal": "Amazon Bedrock tokenomics data lake",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يظهر لك تشغيل Amazon Bedrock عبر العديد من الحسابات الفاتورة ولكن ليس ما حدث داخل كل مكالمة. يبني هذا المنشور بحيرة بيانات مركزية للرصد",
+      "summaryOriginal": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon Bedrock tokenomics data lake",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T16:56:36+00:00"
+    },
     {
       "id": "ef16cb1b56cf0b12f4ba",
       "company": "NVIDIA",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face ToyBlocks: A controlled world for robot learning and evaluation"
-    },
-    {
-      "id": "437e0041d5c0e6df2930",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "الشراكة مع Hacktron للعثور على نقاط الضعف في أنظمة OpenAI",
-      "titleOriginal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "business",
-      "importance": 82,
-      "summary": "تتعاون OpenAI مع Hacktron للعثور على نقاط الضعف، واختبار الاتصالات مع خدمات الجهات الخارجية، وتعزيز الدفاعات مع الذكاء الاصطناعي الحدودي.",
-      "summaryOriginal": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/partnering-with-hacktron",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T16:53:36.606588+00:00"
+  "lastFastCheckAt": "2026-11-10T16:58:36.062010+00:00"
 }
