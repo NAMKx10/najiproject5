@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T08:31:11.019568+00:00",
-  "checkedAt": "2026-11-10T08:31:11.019568+00:00",
-  "newestPublishedAt": "2026-11-10T00:21:34+00:00",
+  "updatedAt": "2026-11-10T08:36:15.204957+00:00",
+  "checkedAt": "2026-11-10T08:36:15.204957+00:00",
+  "newestPublishedAt": "2026-11-10T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7d36bedb27f3251ba8b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "سد فجوة توجيه الذكاء الاصطناعي في التعليم",
+      "titleOriginal": "Closing the AI guidance gap in education",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "دروس من شراكات OpenAI التعليمية في أوروبا والشرق الأوسط وأفريقيا وأبحاث ThinkYoung الجديدة. دعم المعلمين ومحو الأمية في مجال الذكاء الاصطناعي والتعلم المستقل.",
+      "summaryOriginal": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Closing the AI guidance gap in education",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T09:00:00+00:00"
+    },
     {
       "id": "16bc4c95d044b5238a3f",
       "company": "Amazon",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-05T20:00:00+00:00"
-    },
-    {
-      "id": "98cdb0248880b96c9434",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "models",
-      "importance": 92,
-      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T17:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T02:57:27.618330+00:00",
-  "lastFastCheckAt": "2026-11-10T08:31:11.019568+00:00"
+  "lastFastCheckAt": "2026-11-10T08:36:15.204957+00:00"
 }
