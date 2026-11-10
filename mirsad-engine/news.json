@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T23:13:16.281917+00:00",
-  "checkedAt": "2026-11-10T23:13:16.281917+00:00",
+  "updatedAt": "2026-11-10T23:17:37.160633+00:00",
+  "checkedAt": "2026-11-10T23:17:37.160633+00:00",
   "newestPublishedAt": "2026-11-10T22:35:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -392,6 +392,32 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "d26170c43578f4faaf4e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أعمال وشراكات",
+      "title": "لدى خبرائك شركاء. هناك أمل في الحفاظ على تماسكهم",
+      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T12:34:29+00:00"
+    },
+    {
       "id": "a726b05e7ae1cc407b97",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
-    },
-    {
-      "id": "40e1bcddf66c65d92f79",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "غرفة التحكم: نظام مركزي لتتبع ووقف أعباء العمل النموذجية عبر بنيتنا التحتية البحثية",
-      "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية تتبع غرفة التحكم في OpenAI لأعباء العمل النموذجية عبر البنية التحتية للبحث لدينا ويمكنها إيقافها بسرعة عندما تنشأ مخاوف تتعلق بالسلامة أو الأمن.",
-      "summaryOriginal": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/control-room",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T18:41:16.983891+00:00",
-  "lastFastCheckAt": "2026-11-10T23:13:16.281917+00:00"
+  "lastFastCheckAt": "2026-11-10T23:17:37.160633+00:00"
 }
