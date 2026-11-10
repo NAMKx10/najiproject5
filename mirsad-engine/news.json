@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T18:39:18.827046+00:00",
-  "checkedAt": "2026-11-10T18:39:18.827046+00:00",
+  "updatedAt": "2026-11-10T18:41:16.983891+00:00",
+  "checkedAt": "2026-11-10T18:41:16.983891+00:00",
   "newestPublishedAt": "2026-11-10T18:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "c921e84bd00558637b0f",
+      "id": "9e8670e84c92e4f50292",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -106,20 +106,15 @@
       "summary": "تعرف على كيفية قيام Trovata ببناء وكلاء خزينة مستقلين على Amazon Bedrock و Amazon Bedrock AgentCore، باستخدام بنية مؤمنة من RBAC لنشر الذكاء الاصطناعي الذي يحمل العلامة التجارية للبنك و",
       "summaryOriginal": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T18:11:08+00:00"
+      "searchAliases": "Amazon Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore"
     },
     {
-      "id": "f846a1da7e6651e69dd0",
+      "id": "c86b53e74094e9336bfd",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -132,20 +127,15 @@
       "summary": "قامت شركة تاتا للخدمات الاستشارية (TCS) ببناء منسق اختبار وكيل على Amazon Bedrock AgentCore الذي يحول المتطلبات إلى اختبارات قابلة للتنفيذ ومحكومة لخدماتها المصرفية، Fi",
       "summaryOriginal": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T16:59:43+00:00"
+      "searchAliases": "Amazon How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore"
     },
     {
-      "id": "618c600064d264849fbe",
+      "id": "2e67a00219acd03fbeb3",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,20 +148,15 @@
       "summary": "يظهر لك تشغيل Amazon Bedrock عبر العديد من الحسابات الفاتورة ولكن ليس ما حدث داخل كل مكالمة. يبني هذا المنشور بحيرة بيانات مركزية للرصد",
       "summaryOriginal": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Bedrock tokenomics data lake",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T16:56:36+00:00"
+      "searchAliases": "Amazon Amazon Bedrock tokenomics data lake"
     },
     {
-      "id": "ef16cb1b56cf0b12f4ba",
+      "id": "911277b5dfd1c0c61096",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -184,17 +169,12 @@
       "summary": "Kubernetes، نظام المصدر المفتوح الذي يدير كيفية تشغيل التطبيقات عبر الآلاف من مصانع الذكاء الاصطناعي، أصبح أساس الذكاء الاصطناعي، والمطالب عليه ليست سوى غرام",
       "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+      "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T16:00:03+00:00"
+      "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
     },
     {
       "id": "27031441594673205128",
@@ -215,12 +195,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Helping caregivers use AI in everyday life",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T12:00:00+00:00"
+      "searchAliases": "OpenAI Helping caregivers use AI in everyday life"
     },
     {
       "id": "56cb7629a234beb0cd3a",
@@ -241,12 +216,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing Businesses in ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T10:00:00+00:00"
+      "searchAliases": "OpenAI Introducing Businesses in ChatGPT"
+    },
+    {
+      "id": "7d36bedb27f3251ba8b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "سد فجوة توجيه الذكاء الاصطناعي في التعليم",
+      "titleOriginal": "Closing the AI guidance gap in education",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "أبحاث ThinkYoung الجديدة والدروس المستفادة من شراكات التعليم في أوروبا والشرق الأوسط وأفريقيا التابعة لـ OpenAI حول دعم المعلمين ومحو الأمية في مجال الذكاء الاصطناعي والتعلم المستقل.",
+      "summaryOriginal": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Closing the AI guidance gap in education"
     },
     {
       "id": "e408ab02dd9218605bc8",
@@ -267,33 +258,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T07:00:00+00:00"
-    },
-    {
-      "id": "7d36bedb27f3251ba8b1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "سد فجوة توجيه الذكاء الاصطناعي في التعليم",
-      "titleOriginal": "Closing the AI guidance gap in education",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "دروس من شراكات OpenAI التعليمية في أوروبا والشرق الأوسط وأفريقيا وأبحاث ThinkYoung الجديدة. دعم المعلمين ومحو الأمية في مجال الذكاء الاصطناعي والتعلم المستقل.",
-      "summaryOriginal": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Closing the AI guidance gap in education"
+      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
     },
     {
       "id": "16bc4c95d044b5238a3f",
@@ -317,32 +282,6 @@
       "searchAliases": "Amazon How skills and agents work in AWS Quick"
     },
     {
-      "id": "ccccaea543f92701d818",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج القرار في وجه المعانقة",
-      "titleOriginal": "Decision Models in Hugging Face",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/decision",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Decision Models in Hugging Face",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T00:00:00+00:00"
-    },
-    {
       "id": "c8c8d80b1fe3bf157b5e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -361,12 +300,70 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T00:00:00+00:00"
+      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
+    },
+    {
+      "id": "ccccaea543f92701d818",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج القرار في وجه المعانقة",
+      "titleOriginal": "Decision Models in Hugging Face",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/decision",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Decision Models in Hugging Face"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
+      "id": "f5c4d1ca9e6815dc9973",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "إطلاق أو تحديث",
+      "title": "أنثروبيك تطلق حملة ترويجية للاكتتاب العام الأولي المقترح",
+      "titleOriginal": "Anthropic launches roadshow for proposed initial public offering",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أطلقت PBC اليوم حملة ترويجية لطرحها العام الأولي المقترح لأسهمها العادية من الفئة A.",
+      "summaryOriginal": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.anthropic.com/news/roadshow-launch",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
       "id": "a4cf32f25535ff784630",
@@ -724,56 +721,8 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "research",
-      "importance": 86,
-      "summary": "أنثروبيك هي شركة للسلامة والأبحاث في مجال الذكاء الاصطناعي تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "65a8487da6fd4b0069a6",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من Amazon",
-      "titleOriginal": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T18:01:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T18:39:18.827046+00:00"
+  "lastDeepCheckAt": "2026-11-10T18:41:16.983891+00:00"
 }
