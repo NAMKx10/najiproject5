@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T22:32:50.506911+00:00",
-  "checkedAt": "2026-11-10T22:32:50.506911+00:00",
-  "newestPublishedAt": "2026-11-10T18:11:08+00:00",
+  "updatedAt": "2026-11-10T22:37:54.432774+00:00",
+  "checkedAt": "2026-11-10T22:37:54.432774+00:00",
+  "newestPublishedAt": "2026-11-10T22:35:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d9b50193d838a1484a9a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "دليل تشغيل تقييم الوكيل: تقييمات AgentCore المدمجة و DeepEval و AutoEval على Amazon Bedrock",
+      "titleOriginal": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "عندما تنشر وكيلاً، سواء كان يعمل أم لا، فهناك عدة أسئلة: هل أنهى المهمة، أو ظل على الموضوع، أو تسرب البيانات، أو تخطي الخطوات ؟ يوضح هذا المنشور كيفية تقييم",
+      "summaryOriginal": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each behavior that matters to the right evaluator at the right level.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T22:35:03+00:00"
+    },
     {
       "id": "9e8670e84c92e4f50292",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
-    },
-    {
-      "id": "8f85f8277fc108b4aa12",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب وصفات NVIDIA Dynamo النماذج الكورية المفتوحة الرائدة إلى الإنتاج",
-      "titleOriginal": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطلق NVIDIA وصفات النشر المحسنة الديناميكية للنماذج المفتوحة الرائدة في كوريا: A.X K2 من SK Telecom، K - EXAONE 2.0 من LG AI Research، Solar Open 2 من Upsta",
-      "summaryOriginal": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T18:41:16.983891+00:00",
-  "lastFastCheckAt": "2026-11-10T22:32:50.506911+00:00"
+  "lastFastCheckAt": "2026-11-10T22:37:54.432774+00:00"
 }
