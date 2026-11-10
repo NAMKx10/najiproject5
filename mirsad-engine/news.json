@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T22:37:54.432774+00:00",
-  "checkedAt": "2026-11-10T22:37:54.432774+00:00",
+  "updatedAt": "2026-11-10T22:42:57.880339+00:00",
+  "checkedAt": "2026-11-10T22:42:57.880339+00:00",
   "newestPublishedAt": "2026-11-10T22:35:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -392,6 +392,32 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "19bc66bfcf75afbde388",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تجلب وصفات NVIDIA Dynamo النماذج الكورية المفتوحة الرائدة إلى الإنتاج",
+      "titleOriginal": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تطلق NVIDIA وصفات النشر المحسنة الديناميكية للنماذج المفتوحة الرائدة في كوريا: A.X K2 من SK Telecom، K - EXAONE 2.0 من LG AI Research، Solar Open 2 من Upsta",
+      "summaryOriginal": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T05:00:00+00:00"
+    },
+    {
       "id": "a4cf32f25535ff784630",
       "company": "Amazon",
       "logoText": "AWS",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
-    },
-    {
-      "id": "ac7feea74486d70409f8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "من الرقائق إلى المهارات، توسع NVIDIA وكوريا التعاون السيادي في مجال الذكاء الاصطناعي",
-      "titleOriginal": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل NVIDIA ووزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية (MSIT) على توسيع تعاونهما عبر النظام البيئي السيادي للذكاء الاصطناعي في البلاد، من أشباه الموصلات ومركز البيانات للذكاء الاصطناعي",
-      "summaryOriginal": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T18:41:16.983891+00:00",
-  "lastFastCheckAt": "2026-11-10T22:37:54.432774+00:00"
+  "lastFastCheckAt": "2026-11-10T22:42:57.880339+00:00"
 }
