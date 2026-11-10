@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T22:53:02.591357+00:00",
-  "checkedAt": "2026-11-10T22:53:02.591357+00:00",
+  "updatedAt": "2026-11-10T22:58:06.317748+00:00",
+  "checkedAt": "2026-11-10T22:58:06.317748+00:00",
   "newestPublishedAt": "2026-11-10T22:35:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -392,6 +392,32 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "1103e2238f3c7a7f6cc1",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "تقدم كوريا الذكاء الاصطناعي المادي عبر الصناعات مع NVIDIA",
+      "titleOriginal": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "بالاستفادة من نقاط القوة في البلاد في التصنيع والهندسة، تساعد NVIDIA في تعزيز النظام البيئي المادي للذكاء الاصطناعي في كوريا. يتقدم قادة الصناعة في البلاد",
+      "summaryOriginal": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Korea Advances Physical AI Across Industries With NVIDIA",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T05:00:40+00:00"
+    },
+    {
       "id": "a02bd8aeaa72dd3294ce",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI CodeRabbit scales agentic software development and ships 20x more"
-    },
-    {
-      "id": "8125218d29e0ffc2b182",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تبحث صناعات كوكين في 70 عامًا من الرسومات في دقائق",
-      "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تستخدم Kuken Industries واجهة برمجة تطبيقات OpenAI للبحث عن 70 عامًا من رسومات برج التبريد. يمكن للمهندسين العثور على الرسم للإصلاح في 4.5 دقيقة، بعد ما يقرب من ساعة.",
-      "summaryOriginal": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/kuken",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Kuken Industries searches 70 years of drawings in minutes"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T18:41:16.983891+00:00",
-  "lastFastCheckAt": "2026-11-10T22:53:02.591357+00:00"
+  "lastFastCheckAt": "2026-11-10T22:58:06.317748+00:00"
 }
