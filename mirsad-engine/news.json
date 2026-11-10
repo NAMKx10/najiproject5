@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T18:08:56.294871+00:00",
-  "checkedAt": "2026-11-10T18:08:56.294871+00:00",
-  "newestPublishedAt": "2026-11-10T16:59:43+00:00",
+  "updatedAt": "2026-11-10T18:13:58.471459+00:00",
+  "checkedAt": "2026-11-10T18:13:58.471459+00:00",
+  "newestPublishedAt": "2026-11-10T18:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c921e84bd00558637b0f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "وكلاء الخزانة المستقلون: كيف قامت Trovata ببناء حل أصلي للذكاء الاصطناعي على Amazon Bedrock و AgentCore",
+      "titleOriginal": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرف على كيفية قيام Trovata ببناء وكلاء خزينة مستقلين على Amazon Bedrock و Amazon Bedrock AgentCore، باستخدام بنية مؤمنة من RBAC لنشر الذكاء الاصطناعي الذي يحمل العلامة التجارية للبنك و",
+      "summaryOriginal": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T18:11:08+00:00"
+    },
     {
       "id": "f846a1da7e6651e69dd0",
       "company": "Amazon",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-06T16:00:35+00:00"
-    },
-    {
-      "id": "e1a748630fb7bb976165",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "ToyBlocks: عالم خاضع للرقابة لتعلم الروبوت وتقييمه",
-      "titleOriginal": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/toyblocks",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face ToyBlocks: A controlled world for robot learning and evaluation",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T14:00:48+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T18:08:56.294871+00:00"
+  "lastFastCheckAt": "2026-11-10T18:13:58.471459+00:00"
 }
