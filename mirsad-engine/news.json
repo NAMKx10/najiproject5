@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T16:58:36.062010+00:00",
-  "checkedAt": "2026-11-10T16:58:36.062010+00:00",
-  "newestPublishedAt": "2026-11-10T16:56:36+00:00",
+  "updatedAt": "2026-11-10T17:03:40.792773+00:00",
+  "checkedAt": "2026-11-10T17:03:40.792773+00:00",
+  "newestPublishedAt": "2026-11-10T16:59:43+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f846a1da7e6651e69dd0",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "كيف قامت TCS ببناء منسق اختبار وكيل مع Amazon Bedrock AgentCore",
+      "titleOriginal": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "قامت شركة تاتا للخدمات الاستشارية (TCS) ببناء منسق اختبار وكيل على Amazon Bedrock AgentCore الذي يحول المتطلبات إلى اختبارات قابلة للتنفيذ ومحكومة لخدماتها المصرفية، Fi",
+      "summaryOriginal": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T16:59:43+00:00"
+    },
     {
       "id": "618c600064d264849fbe",
       "company": "Amazon",
@@ -643,6 +669,32 @@
       "searchAliases": "Anthropic Announcements"
     },
     {
+      "id": "437e0041d5c0e6df2930",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "الشراكة مع Hacktron للعثور على نقاط الضعف في أنظمة OpenAI",
+      "titleOriginal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "dateLabel": "6 نوفمبر 2026",
+      "dateISO": "2026-11-06",
+      "category": "business",
+      "importance": 82,
+      "summary": "تتعاون OpenAI مع Hacktron للعثور على نقاط الضعف، واختبار الاتصالات مع خدمات الجهات الخارجية، وتعزيز الدفاعات مع الذكاء الاصطناعي الحدودي.",
+      "summaryOriginal": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/partnering-with-hacktron",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-06T08:00:00+00:00"
+    },
+    {
       "id": "5efc99de94126505074d",
       "company": "Amazon",
       "logoText": "AWS",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Serverless MCP server for AI agent data lake access on Amazon ECS Fargate"
-    },
-    {
-      "id": "c3f23b9c449762743982",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "كيف تساعد أدوات NVIDIA مفتوحة المصدر الباحثين في بناء شبكات الجيل السادس",
-      "titleOriginal": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "research",
-      "importance": 86,
-      "summary": "قبل عام، قامت NVIDIA بفتح برنامجها اللاسلكي الجوي، وانضمت إلى Sionna ومجموعة أوسع من أدوات المصدر المفتوح لتسريع تطوير شبكة الجيل السادس",
-      "summaryOriginal": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks"
-    },
-    {
-      "id": "e1a748630fb7bb976165",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "ToyBlocks: عالم خاضع للرقابة لتعلم الروبوت وتقييمه",
-      "titleOriginal": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/toyblocks",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face ToyBlocks: A controlled world for robot learning and evaluation"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T16:58:36.062010+00:00"
+  "lastFastCheckAt": "2026-11-10T17:03:40.792773+00:00"
 }
