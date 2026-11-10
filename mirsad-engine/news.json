@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T02:56:14.220816+00:00",
-  "checkedAt": "2026-11-10T02:56:14.220816+00:00",
+  "updatedAt": "2026-11-10T02:57:27.618330+00:00",
+  "checkedAt": "2026-11-10T02:57:27.618330+00:00",
   "newestPublishedAt": "2026-11-10T00:21:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "1626b2c261008684ce0e",
+      "id": "16bc4c95d044b5238a3f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -106,69 +106,12 @@
       "summary": "يمكن ترميز المهام المتكررة مثل تحديثات الحالة وملاحظات الإصدار وإنشاء التذاكر في AWS Quick من خلال الوكلاء والمهارات. يغطي هذا المنشور كيف أن الوكلاء والمهارات و",
       "summaryOriginal": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How skills and agents work in AWS Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T00:21:34+00:00"
-    },
-    {
-      "id": "40e1bcddf66c65d92f79",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "غرفة التحكم: نظام مركزي لتتبع ووقف أعباء العمل النموذجية عبر بنيتنا التحتية البحثية",
-      "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرف على كيفية تتبع غرفة التحكم في OpenAI لأعباء العمل النموذجية عبر البنية التحتية للبحث لدينا ويمكنها إيقافها بسرعة عندما تنشأ مخاوف تتعلق بالسلامة أو الأمن.",
-      "summaryOriginal": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/control-room",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "id": "c82ebf36618531ca139c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقيس CodeRabbit تطوير برمجيات الوكلاء ويشحن 20 مرة أكثر",
-      "titleOriginal": "CodeRabbit scales agentic software development and ships 20x more",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم CodeRabbit نماذج OpenAI للتحكم والثقة في التعليمات البرمجية التي تم إنشاؤها بواسطة AI و Codex لشحن برامج أكثر 20 مرة مع نفس الفريق الهندسي.",
-      "summaryOriginal": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/coderabbit-codex-daybreak",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI CodeRabbit scales agentic software development and ships 20x more",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:00+00:00"
+      "searchAliases": "Amazon How skills and agents work in AWS Quick"
     },
     {
       "id": "a4cf32f25535ff784630",
@@ -339,6 +282,27 @@
       "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
     },
     {
+      "id": "40e1bcddf66c65d92f79",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "غرفة التحكم: نظام مركزي لتتبع ووقف أعباء العمل النموذجية عبر بنيتنا التحتية البحثية",
+      "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرف على كيفية تتبع غرفة التحكم في OpenAI لأعباء العمل النموذجية عبر البنية التحتية للبحث لدينا ويمكنها إيقافها بسرعة عندما تنشأ مخاوف تتعلق بالسلامة أو الأمن.",
+      "summaryOriginal": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/control-room",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure"
+    },
+    {
       "id": "d26170c43578f4faaf4e",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -370,8 +334,8 @@
       "dateISO": "2026-11-09",
       "category": "models",
       "importance": 92,
-      "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ريو جي ميونغ، نائب وزير العلوم وتكنولوجيا المعلومات والاتصالات، انضم إلى NVIDIA",
-      "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
+      "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ممثلون من وزارة العلوم وتكنولوجيا المعلومات والاتصالات و NVIDI",
+      "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
       "sourceLabel": "NVIDIA Blog",
@@ -379,6 +343,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
+    },
+    {
+      "id": "c82ebf36618531ca139c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يقيس CodeRabbit تطوير برمجيات الوكلاء ويشحن 20 مرة أكثر",
+      "titleOriginal": "CodeRabbit scales agentic software development and ships 20x more",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم CodeRabbit نماذج OpenAI للتحكم والثقة في التعليمات البرمجية التي تم إنشاؤها بواسطة AI و Codex لشحن برامج أكثر 20 مرة مع نفس الفريق الهندسي.",
+      "summaryOriginal": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/coderabbit-codex-daybreak",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI CodeRabbit scales agentic software development and ships 20x more"
     },
     {
       "id": "8125218d29e0ffc2b182",
@@ -528,12 +513,12 @@
       "searchAliases": "Amazon SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints"
     },
     {
-      "id": "39f79c9657796509614d",
+      "id": "9debff432f4019edf022",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
-      "title": "تصنيف العوامل الأولية في Amazon Quick",
-      "titleOriginal": "Taxonomy of agentic primitives in Amazon Quick",
+      "title": "تصنيف العوامل الأولية في AWS Quick",
+      "titleOriginal": "Taxonomy of agentic primitives in AWS Quick",
       "dateLabel": "6 نوفمبر 2026",
       "dateISO": "2026-11-06",
       "category": "tools",
@@ -546,7 +531,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Taxonomy of agentic primitives in Amazon Quick"
+      "searchAliases": "Amazon Taxonomy of agentic primitives in AWS Quick"
     },
     {
       "id": "a07e92c5371ab08ed788",
@@ -568,27 +553,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Serverless MCP server for AI agent data lake access on Amazon ECS Fargate"
-    },
-    {
-      "id": "2977725436548d1d62ac",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "إدارة وصول وكيل الذكاء الاصطناعي مع الوصول إلى تطبيق Okta Cross وAmazon Bedrock AgentCore – الجزء 2",
-      "titleOriginal": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "business",
-      "importance": 82,
-      "summary": "في الجزء 1، قمت ببناء وكيل محكوم واحد. الجزء 2 يقيس النمط إلى مؤسسة: تصبح Amazon Bedrock AgentCore Gateway الباب الأمامي الوحيد وتسترد غران أوكتا",
-      "summaryOriginal": "In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2"
     },
     {
       "id": "c3f23b9c449762743982",
@@ -696,7 +660,7 @@
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
     },
     {
-      "id": "12d608a058c51b34c82a",
+      "id": "f2b9d824946a517fe867",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "أعمال وشراكات",
@@ -709,17 +673,12 @@
       "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
       "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:41+00:00"
+      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents"
     },
     {
       "id": "3ba528c1455b2c8f30ba",
@@ -740,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:00+00:00"
+      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex"
+    },
+    {
+      "id": "17ff82eab5b698cdfceb",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "Into the Omniverse: كيف يحول المطورون الأفكار إلى محاكاة مع وكلاء الذكاء الاصطناعي",
+      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "dateLabel": "5 نوفمبر 2026",
+      "dateISO": "2026-11-05",
+      "category": "models",
+      "importance": 92,
+      "summary": "تحويل فكرة محاكاة إلى تطبيق عمل يعني تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
+      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-09T20:44:49.558919+00:00",
-  "lastFastCheckAt": "2026-11-10T02:56:14.220816+00:00"
+  "lastDeepCheckAt": "2026-11-10T02:57:27.618330+00:00"
 }
