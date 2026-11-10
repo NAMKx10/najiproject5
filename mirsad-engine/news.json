@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T14:56:27.481664+00:00",
-  "checkedAt": "2026-11-10T14:56:27.481664+00:00",
+  "updatedAt": "2026-11-10T15:01:31.981168+00:00",
+  "checkedAt": "2026-11-10T15:01:31.981168+00:00",
   "newestPublishedAt": "2026-11-10T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -159,6 +159,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How skills and agents work in AWS Quick"
+    },
+    {
+      "id": "ccccaea543f92701d818",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج القرار في وجه المعانقة",
+      "titleOriginal": "Decision Models in Hugging Face",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/decision",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Decision Models in Hugging Face",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+00:00"
     },
     {
       "id": "a4cf32f25535ff784630",
@@ -705,35 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Egyptian and Nigerian English join the Open ASR Leaderboard"
-    },
-    {
-      "id": "12d608a058c51b34c82a",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "أعمال وشراكات",
-      "title": "تقدم فيرا أفضل ما في العالمين: أعلى إنتاجية وأسرع وكلاء",
-      "titleOriginal": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "business",
-      "importance": 82,
-      "summary": "يقوم وكلاء الذكاء الاصطناعي بأكثر من مجرد توليد الإجابات. يبحثون عن المعلومات، ويستعلمون عن قواعد البيانات، ويكتبون التعليمات البرمجية ويختبرونها ويتخذون الإجراءات اللازمة. تعتمد كل خطوة من هذه الخطوات على وحدة المعالجة المركزية، مع",
-      "summaryOriginal": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:41+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T14:56:27.481664+00:00"
+  "lastFastCheckAt": "2026-11-10T15:01:31.981168+00:00"
 }
