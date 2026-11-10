@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T18:34:16.949908+00:00",
-  "checkedAt": "2026-11-10T18:34:16.949908+00:00",
+  "updatedAt": "2026-11-10T18:39:18.827046+00:00",
+  "checkedAt": "2026-11-10T18:39:18.827046+00:00",
   "newestPublishedAt": "2026-11-10T18:11:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -221,6 +221,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "id": "56cb7629a234beb0cd3a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم الشركات في ChatGPT",
+      "titleOriginal": "Introducing Businesses in ChatGPT",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "إدارة معلومات عملك، والحصول على رؤى حول كيفية ظهور عملك، وتحويل الاهتمام إلى عمل في ChatGPT.",
+      "summaryOriginal": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-businesses-chatgpt",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing Businesses in ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T10:00:00+00:00"
     },
     {
       "id": "e408ab02dd9218605bc8",
@@ -745,35 +771,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-06T18:01:00+00:00"
-    },
-    {
-      "id": "9c3a56189890430c0d48",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "كيف تساعد أدوات NVIDIA مفتوحة المصدر الباحثين في بناء شبكات الجيل السادس",
-      "titleOriginal": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "dateLabel": "6 نوفمبر 2026",
-      "dateISO": "2026-11-06",
-      "category": "research",
-      "importance": 86,
-      "summary": "قبل عام، قامت NVIDIA بفتح برنامجها اللاسلكي الجوي، وانضمت إلى Sionna ومجموعة أوسع من أدوات المصدر المفتوح لتسريع تطوير شبكة الجيل السادس",
-      "summaryOriginal": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-06T16:00:35+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T18:34:16.949908+00:00"
+  "lastFastCheckAt": "2026-11-10T18:39:18.827046+00:00"
 }
