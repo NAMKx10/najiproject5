@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-10T12:29:13.639932+00:00",
-  "checkedAt": "2026-11-10T12:29:13.639932+00:00",
-  "newestPublishedAt": "2026-11-10T09:00:00+00:00",
+  "updatedAt": "2026-11-10T12:34:15.410702+00:00",
+  "checkedAt": "2026-11-10T12:34:15.410702+00:00",
+  "newestPublishedAt": "2026-11-10T12:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "27031441594673205128",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مساعدة مقدمي الرعاية على استخدام الذكاء الاصطناعي في الحياة اليومية",
+      "titleOriginal": "Helping caregivers use AI in everyday life",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم أكاديمية OpenAI ورش عمل ChatGPT مجانية وعملية لمقدمي الرعاية في خمس مدن أمريكية، مما يساعدهم على بناء مهارات الذكاء الاصطناعي العملية للحياة اليومية.",
+      "summaryOriginal": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping caregivers use AI in everyday life",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T12:00:00+00:00"
+    },
     {
       "id": "7d36bedb27f3251ba8b1",
       "company": "OpenAI",
@@ -705,35 +731,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-05T20:00:41+00:00"
-    },
-    {
-      "id": "3ba528c1455b2c8f30ba",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "Cult.fit يبني العضلات التشغيلية مع الدستور الغذائي",
-      "titleOriginal": "Cult.fit builds operational muscle with Codex",
-      "dateLabel": "5 نوفمبر 2026",
-      "dateISO": "2026-11-05",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تستخدم Cult.fit الدستور الغذائي لمساعدة الفرق عبر الوظائف على بناء الأدوات والتحرك بشكل أسرع وتغيير كيفية إنجاز العمل.",
-      "summaryOriginal": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/cultfit-builds-with-codex",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Cult.fit builds operational muscle with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-05T20:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T11:14:11.806887+00:00",
-  "lastFastCheckAt": "2026-11-10T12:29:13.639932+00:00"
+  "lastFastCheckAt": "2026-11-10T12:34:15.410702+00:00"
 }
