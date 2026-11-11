@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T03:31:02.780329+00:00",
-  "checkedAt": "2026-11-11T03:31:02.780329+00:00",
+  "updatedAt": "2026-11-11T03:36:06.572427+00:00",
+  "checkedAt": "2026-11-11T03:36:06.572427+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -471,6 +471,58 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "d16324328ad76f4649e3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA Nemotron 3.5 Super VL متوفر الآن في Amazon SageMaker JumpStart",
+      "titleOriginal": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر الآن NVIDIA Nemotron 3.5 Super VL، وهو نموذج متعدد الوسائط للرؤية بلغة 120B، في Amazon SageMaker JumpStart. نشر متغير NVFP4 أو BF16 في عدد قليل",
+      "summaryOriginal": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T20:01:20+00:00"
+    },
+    {
+      "id": "f3ef4768044670a4b344",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "ChatGPT Enterprise متاح الآن في سوق AWS",
+      "titleOriginal": "ChatGPT Enterprise now available in AWS Marketplace",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصبح ChatGPT Enterprise متاحًا الآن من خلال AWS Marketplace، مما يساعد المؤسسات على تبسيط المشتريات من خلال علاقات الشراء والفوترة الحالية لـ AWS.",
+      "summaryOriginal": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T19:00:00+00:00"
+    },
+    {
       "id": "0483cc6fe5f4e7b566b2",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -729,51 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T05:00:00+00:00"
-    },
-    {
-      "id": "a4cf32f25535ff784630",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "استرجاع طلقة واحدة وعامل مع قاعدة المعرفة المدارة من Amazon Bedrock",
-      "titleOriginal": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تدعم قاعدة المعارف المدارة من Amazon Bedrock الآن طلبات الاسترداد والاسترجاع فقط من خلال AgenticRetrieveStream، إلى جانب استرجاع الوكيل. هذا شرح آخر",
-      "summaryOriginal": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base"
-    },
-    {
-      "id": "1854a34c44b493e0ca00",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم كلود فابل 5.2 على AWS",
-      "titleOriginal": "Introducing Claude Fable 5.2 on AWS",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "كلود فابل 5.2 وكلود ميثوس 5.2 متاحان الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. تعرف على ما هو جديد في كلا النموذجين، لماذا Fable 5.2 مهم لتك الخاص بك",
-      "summaryOriginal": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00",
-  "lastFastCheckAt": "2026-11-11T03:31:02.780329+00:00"
+  "lastFastCheckAt": "2026-11-11T03:36:06.572427+00:00"
 }
