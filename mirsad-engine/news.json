@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T15:09:56.697687+00:00",
-  "checkedAt": "2026-11-11T15:09:56.697687+00:00",
+  "updatedAt": "2026-11-11T15:14:58.524975+00:00",
+  "checkedAt": "2026-11-11T15:14:58.524975+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "b6502bf07847269f77f9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم التسعير القائم على الاستخدام للبث ثنائي الاتجاه لـ Amazon SageMaker AI",
+      "titleOriginal": "Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "يدعم AWS Marketplace الآن القياس القائم على الاستخدام لاستدلال البث ثنائي الاتجاه من Amazon SageMaker، بحيث يمكن لمقدمي النماذج فرض رسوم على ما يستهلكه العملاء بالفعل",
+      "summaryOriginal": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T15:10:23+00:00"
     },
     {
       "id": "d92b641afddb1d58750f",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T13:00:00+00:00"
-    },
-    {
-      "id": "d26170c43578f4faaf4e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أعمال وشراكات",
-      "title": "لدى خبرائك شركاء. هناك أمل في الحفاظ على تماسكهم",
-      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T12:34:29+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T10:59:49.157092+00:00",
-  "lastFastCheckAt": "2026-11-11T15:09:56.697687+00:00"
+  "lastFastCheckAt": "2026-11-11T15:14:58.524975+00:00"
 }
