@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T10:56:36.952109+00:00",
-  "checkedAt": "2026-11-11T10:56:36.952109+00:00",
+  "updatedAt": "2026-11-11T10:59:49.157092+00:00",
+  "checkedAt": "2026-11-11T10:59:49.157092+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -132,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T08:00:00+00:00"
+      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers"
     },
     {
       "id": "7a13abe51b6f6e812849",
@@ -158,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T05:01:16+00:00"
+      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
     },
     {
       "id": "291372d89c892c05ff73",
@@ -206,32 +196,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Introducing Kimi K3.1 Pro on Amazon Bedrock"
-    },
-    {
-      "id": "52033d249afe64a30482",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الخطوط الجوية السنغافورية ترفع مستوى السفر والعمل باستخدام تقنية OpenAI",
-      "titleOriginal": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف تستخدم الخطوط الجوية السنغافورية نماذج OpenAI و API لتعزيز دعم العملاء، واكتشاف السفر، وإنتاجية الموظفين، ومضاعفة CSAT لروبوت الدردشة Kris الخاص بها.",
-      "summaryOriginal": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/singapore-airlines-travel-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T08:00:00+00:00"
     },
     {
       "id": "1251d7065eb9748a434c",
@@ -423,6 +387,27 @@
       "searchAliases": "OpenAI Closing the AI guidance gap in education"
     },
     {
+      "id": "52033d249afe64a30482",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "الخطوط الجوية السنغافورية ترفع مستوى السفر والعمل باستخدام تقنية OpenAI",
+      "titleOriginal": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف تستخدم الخطوط الجوية السنغافورية نماذج OpenAI و API لتعزيز دعم العملاء، واكتشاف السفر، وإنتاجية الموظفين، ومضاعفة CSAT لروبوت الدردشة Kris الخاص بها.",
+      "summaryOriginal": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/singapore-airlines-travel-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology"
+    },
+    {
       "id": "e408ab02dd9218605bc8",
       "company": "OpenAI",
       "logoText": "AI",
@@ -463,6 +448,27 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How skills and agents work in AWS Quick"
+    },
+    {
+      "id": "d5ebec05920f1b1deb4c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم كوجنت وأوبن إيه آي ببناء مصانع للدفاع السيبراني للمؤسسات",
+      "titleOriginal": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تجمع Cogent بين نماذج OpenAI وسياق المؤسسة للمساعدة في معالجة نقاط الضعف تلقائيًا مع الوكلاء.",
+      "summaryOriginal": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cogent-security",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Cogent and OpenAI build cyber defense factories for enterprises"
     },
     {
       "id": "c8c8d80b1fe3bf157b5e",
@@ -549,33 +555,7 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
-      "id": "d5ebec05920f1b1deb4c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقوم كوجنت وأوبن إيه آي ببناء مصانع للدفاع السيبراني للمؤسسات",
-      "titleOriginal": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تجمع Cogent بين نماذج OpenAI وسياق المؤسسة للمساعدة في معالجة نقاط الضعف تلقائيًا مع الوكلاء.",
-      "summaryOriginal": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cogent-security",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Cogent and OpenAI build cyber defense factories for enterprises",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T00:00:00+00:00"
-    },
-    {
-      "id": "978a06ccccdf8532dd7c",
+      "id": "a4cf32f25535ff784630",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -588,20 +568,15 @@
       "summary": "تدعم قاعدة المعارف المدارة من Amazon Bedrock الآن طلبات الاسترداد والاسترجاع فقط من خلال AgenticRetrieveStream، إلى جانب استرجاع الوكيل. هذا شرح آخر",
       "summaryOriginal": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
+      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:13:18+00:00"
+      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base"
     },
     {
-      "id": "dc75ce415b276b29048e",
+      "id": "1854a34c44b493e0ca00",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -614,20 +589,15 @@
       "summary": "كلود فابل 5.2 وكلود ميثوس 5.2 متاحان الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. تعرف على ما هو جديد في كلا النموذجين، لماذا Fable 5.2 مهم لتك الخاص بك",
       "summaryOriginal": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:04:37+00:00"
+      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS"
     },
     {
-      "id": "d16324328ad76f4649e3",
+      "id": "a631959c323165f24b29",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -640,17 +610,12 @@
       "summary": "يتوفر الآن NVIDIA Nemotron 3.5 Super VL، وهو نموذج متعدد الوسائط للرؤية بلغة 120B، في Amazon SageMaker JumpStart. نشر متغير NVFP4 أو BF16 في عدد قليل",
       "summaryOriginal": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
+      "source": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:01:20+00:00"
+      "searchAliases": "Amazon NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart"
     },
     {
       "id": "f3ef4768044670a4b344",
@@ -671,12 +636,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T19:00:00+00:00"
+      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace"
     },
     {
       "id": "0483cc6fe5f4e7b566b2",
@@ -697,12 +657,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T15:05:57+00:00"
+      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
     },
     {
       "id": "40e1bcddf66c65d92f79",
@@ -723,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T13:00:00+00:00"
+      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure"
     },
     {
       "id": "d26170c43578f4faaf4e",
@@ -749,15 +699,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T12:34:29+00:00"
+      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together"
     },
     {
-      "id": "a726b05e7ae1cc407b97",
+      "id": "0e3f5493656004bae247",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -770,20 +715,14 @@
       "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ممثلون من وزارة العلوم وتكنولوجيا المعلومات والاتصالات و NVIDI",
       "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:53+00:00"
+      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00",
-  "lastFastCheckAt": "2026-11-11T10:56:36.952109+00:00"
+  "lastDeepCheckAt": "2026-11-11T10:59:49.157092+00:00"
 }
