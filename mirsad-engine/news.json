@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T18:38:10.084560+00:00",
-  "checkedAt": "2026-11-11T18:38:10.084560+00:00",
+  "updatedAt": "2026-11-11T18:42:19.110587+00:00",
+  "checkedAt": "2026-11-11T18:42:19.110587+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://aws.amazon.com/blogs/machine-learning/feed/"
+      "kind": "feed",
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -114,7 +114,7 @@
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
     },
     {
-      "id": "2d3a30172582752d3931",
+      "id": "f96d4c048d40cc20969d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -124,23 +124,18 @@
       "dateISO": "2026-11-11",
       "category": "business",
       "importance": 82,
-      "summary": "تعرّف على كيفية إنشاء دورة حياة لتطوير المنتجات مدفوعة بالذكاء الاصطناعي (AI-PDLC) مع مجموعة من ستة وكلاء AWS Quick الذين ينقلونك من الإشارات المتناثرة للعملاء إلى إشارات تم التحقق منها",
+      "summary": "تعلم كيفية إنشاء دورة حياة لتطوير المنتجات مدفوعة بالذكاء الاصطناعي (AI-PDLC) مع مجموعة من ستة وكلاء AWS Quick الذين ينقلونك من الإشارات المتفرقة للعملاء إلى إشارات مؤكدة",
       "summaryOriginal": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T16:05:33+00:00"
+      "searchAliases": "Amazon Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick"
     },
     {
-      "id": "4bd14b635d0d11835967",
+      "id": "c3aefedfa4911a201a5b",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -150,23 +145,18 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "إطار تقييم الوكيل العالمي (UAEF) هو نظام مستقل عن الإطار لتقييم وكلاء الذكاء الاصطناعي. يقوم إطار التقييم العالمي للوكلاء (UAEF) بتحويل آثار كل إطار إلى تنسيق قياسي واحد،",
+      "summary": "إطار تقييم الوكيل العالمي (UAEF) هو نظام مستقل عن الإطار لتقييم وكلاء الذكاء الاصطناعي. يقوم UAEF بتحويل آثار كل إطار إلى تنسيق قياسي واحد،",
       "summaryOriginal": "The Universal Agent Evaluation Framework (UAEF) is a framework-agnostic system for evaluating AI agents. UAEF converts each framework's traces into one canonical format, scores them with 36 built-in metrics across 7 dimensions, and stores results so teams can compare agent versions and catch regressions.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents",
+      "source": "https://aws.amazon.com/blogs/machine-learning/uaef-a-framework-agnostic-system-for-closed-loop-evaluation-of-ai-agents/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon UAEF: A framework-agnostic system for closed-loop evaluation of AI agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T15:50:55+00:00"
+      "searchAliases": "Amazon UAEF: A framework-agnostic system for closed-loop evaluation of AI agents"
     },
     {
-      "id": "b6502bf07847269f77f9",
+      "id": "c10e6f96d4edd0ec779f",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -176,20 +166,15 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "يدعم AWS Marketplace الآن القياس القائم على الاستخدام لاستدلال البث ثنائي الاتجاه من Amazon SageMaker، بحيث يمكن لمقدمي النماذج فرض رسوم على ما يستهلكه العملاء بالفعل",
+      "summary": "تدعم AWS Marketplace الآن القياس القائم على الاستخدام للاستدلال على البث ثنائي الاتجاه من Amazon SageMaker، بحيث يمكن لموفري النماذج فرض رسوم على ما يستهلكه العملاء بالفعل",
       "summaryOriginal": "AWS Marketplace now supports usage-based metering for Amazon SageMaker bidirectional streaming inference, so model providers can charge for what customers actually consume during a live stream. Deepgram is the launch partner, bringing usage-based speech-to-text and text-to-speech billing to AWS Marketplace.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-usage-based-pricing-for-amazon-sagemaker-ai-bidirectional-streaming/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T15:10:23+00:00"
+      "searchAliases": "Amazon Introducing usage-based pricing for Amazon SageMaker AI bidirectional streaming"
     },
     {
       "id": "d92b641afddb1d58750f",
@@ -244,7 +229,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "تختار Vision AI والروبوتات ما يستحق الاسترداد من الأحزمة الناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
+      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
       "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
@@ -265,7 +250,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "Kimi K3.1 Pro من Moonshot AI متاح الآن على Amazon Bedrock. تعرف على كيفية البدء من خلال إكمال الدردشة والاستجابات وواجهات برمجة تطبيقات Converse المتوافقة مع OpenAI،",
+      "summary": "يتوفر الآن Kimi K3.1 Pro من Moonshot AI على Amazon Bedrock. تعرّف على كيفية البدء من خلال واجهات برمجة التطبيقات (APIs) المتوافقة مع OpenAI لإكمال الدردشة والردود والمحادثة،",
       "summaryOriginal": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
@@ -294,12 +279,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T00:00:00+00:00"
+      "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
       "id": "1251d7065eb9748a434c",
@@ -312,7 +292,7 @@
       "dateISO": "2026-11-10",
       "category": "research",
       "importance": 86,
-      "summary": "تمنح واجهة برمجة تطبيقات بحث الويب في Amazon Bedrock AgentCore الوكلاء نتائج ويب حديثة ومستشهد بها موقعة مع بيانات اعتماد AWS التي يستخدمونها بالفعل. في هذا المنشور، قم ببناء صحيفة يومية",
+      "summary": "توفر واجهة برمجة تطبيقات البحث على الويب في Amazon Bedrock AgentCore للوكلاء نتائج ويب حالية ومشار إليها موقعة باستخدام بيانات اعتماد AWS التي يستخدمونها بالفعل. في هذه المقالة، أنشئ اعتمادًا يوميًا",
       "summaryOriginal": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, and checks every finding against its cited sources.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
@@ -333,7 +313,7 @@
       "dateISO": "2026-11-10",
       "category": "tools",
       "importance": 78,
-      "summary": "عندما تنشر وكيلاً، سواء كان يعمل أم لا، فهناك عدة أسئلة: هل أنهى المهمة، أو ظل على الموضوع، أو تسرب البيانات، أو تخطي الخطوات ؟ يوضح هذا المنشور كيفية تقييم",
+      "summary": "عندما تنشر وكيلًا، فإن ما إذا كان يعمل هو في الواقع عدة أسئلة: هل أنهى المهمة، أو التزم بالموضوع، أو سرب البيانات، أو تخطى خطوات؟ يوضح هذا المنشور كيفية التقييم",
       "summaryOriginal": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each behavior that matters to the right evaluator at the right level.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
@@ -354,7 +334,7 @@
       "dateISO": "2026-11-10",
       "category": "business",
       "importance": 82,
-      "summary": "تعرف على كيفية قيام Trovata ببناء وكلاء خزينة مستقلين على Amazon Bedrock و Amazon Bedrock AgentCore، باستخدام بنية مؤمنة من RBAC لنشر الذكاء الاصطناعي الذي يحمل العلامة التجارية للبنك و",
+      "summary": "تعرّف على كيفية قيام Trovata ببناء وكلاء خزينة مستقلين على Amazon Bedrock وAmazon Bedrock AgentCore، باستخدام بنية مؤمّنة بتقنية التحكم في الوصول القائم على الأدوار (RBAC) لنشر الذكاء الاصطناعي الذي يحمل علامة البنك التجارية و",
       "summaryOriginal": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
@@ -375,7 +355,7 @@
       "dateISO": "2026-11-10",
       "category": "research",
       "importance": 86,
-      "summary": "قامت شركة تاتا للخدمات الاستشارية (TCS) ببناء منسق اختبار وكيل على Amazon Bedrock AgentCore الذي يحول المتطلبات إلى اختبارات قابلة للتنفيذ ومحكومة لخدماتها المصرفية، Fi",
+      "summary": "قامت شركة Tata Consultancy Services (TCS) ببناء منظم اختبارات وكيل على Amazon Bedrock AgentCore يحول المتطلبات إلى اختبارات قابلة للتنفيذ وخاضعة للإشراف لقطاعات الخدمات المصرفية والمالية",
       "summaryOriginal": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
@@ -396,7 +376,7 @@
       "dateISO": "2026-11-10",
       "category": "models",
       "importance": 92,
-      "summary": "يظهر لك تشغيل Amazon Bedrock عبر العديد من الحسابات الفاتورة ولكن ليس ما حدث داخل كل مكالمة. يبني هذا المنشور بحيرة بيانات مركزية للرصد",
+      "summary": "يُظهر لك تشغيل Amazon Bedrock عبر العديد من الحسابات الفاتورة ولكن ليس ما حدث داخل كل مكالمة. ينشئ هذا المنشور بحيرة بيانات مركزية للرصد تجمع",
       "summaryOriginal": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
@@ -417,7 +397,7 @@
       "dateISO": "2026-11-10",
       "category": "tools",
       "importance": 78,
-      "summary": "Kubernetes، نظام المصدر المفتوح الذي يدير كيفية تشغيل التطبيقات عبر الآلاف من مصانع الذكاء الاصطناعي، أصبح أساس الذكاء الاصطناعي، والمطالب عليه ليست سوى غرام",
+      "summary": "أصبح نظام Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، ولم تزد المتطلبات المتعلقة به إلا",
       "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
@@ -543,7 +523,7 @@
       "dateISO": "2026-11-10",
       "category": "models",
       "importance": 92,
-      "summary": "يمكن ترميز المهام المتكررة مثل تحديثات الحالة وملاحظات الإصدار وإنشاء التذاكر في AWS Quick من خلال الوكلاء والمهارات. يغطي هذا المنشور كيف أن الوكلاء والمهارات و",
+      "summary": "يمكن ترميز المهام القابلة للتكرار مثل تحديثات الحالة وملاحظات الإصدار وإنشاء التذاكر في AWS Quick من خلال الوكلاء والمهارات. يتناول هذا المنشور كيفية عمل الوكلاء والمهارات و",
       "summaryOriginal": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
@@ -659,84 +639,6 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
-      "id": "978a06ccccdf8532dd7c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "استرجاع طلقة واحدة وعامل مع قاعدة المعرفة المدارة من Amazon Bedrock",
-      "titleOriginal": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تدعم قاعدة المعارف المدارة من Amazon Bedrock الآن طلبات الاسترداد والاسترجاع فقط من خلال AgenticRetrieveStream، إلى جانب استرجاع الوكيل. هذا شرح آخر",
-      "summaryOriginal": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:13:18+00:00"
-    },
-    {
-      "id": "dc75ce415b276b29048e",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم كلود فابل 5.2 على AWS",
-      "titleOriginal": "Introducing Claude Fable 5.2 on AWS",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "كلود فابل 5.2 وكلود ميثوس 5.2 متاحان الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. تعرف على ما هو جديد في كلا النموذجين، لماذا Fable 5.2 مهم لتك الخاص بك",
-      "summaryOriginal": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:04:37+00:00"
-    },
-    {
-      "id": "d16324328ad76f4649e3",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA Nemotron 3.5 Super VL متوفر الآن في Amazon SageMaker JumpStart",
-      "titleOriginal": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر الآن NVIDIA Nemotron 3.5 Super VL، وهو نموذج متعدد الوسائط للرؤية بلغة 120B، في Amazon SageMaker JumpStart. نشر متغير NVFP4 أو BF16 في عدد قليل",
-      "summaryOriginal": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:01:20+00:00"
-    },
-    {
       "id": "f3ef4768044670a4b344",
       "company": "OpenAI",
       "logoText": "AI",
@@ -755,15 +657,72 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T19:00:00+00:00"
+      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace"
+    },
+    {
+      "id": "0483cc6fe5f4e7b566b2",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "Nemotron-Personas-Finance-Japan: مجموعة بيانات اصطناعية تجمع البيانات الديموغرافية والسياق المالي لليابان",
+      "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+    },
+    {
+      "id": "40e1bcddf66c65d92f79",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "غرفة التحكم: نظام مركزي لتتبع وإيقاف أعباء عمل النماذج عبر بنيتنا التحتية البحثية",
+      "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرّف على كيفية تتبع غرفة التحكم في OpenAI لأحمال عمل النماذج عبر بنيتنا التحتية للأبحاث وكيف يمكنها إيقافها بسرعة عند ظهور مخاوف تتعلق بالسلامة أو الأمان.",
+      "summaryOriginal": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/control-room",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure"
+    },
+    {
+      "id": "d26170c43578f4faaf4e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أعمال وشراكات",
+      "title": "لدى خبرائك شركاء. هناك أمل في إبقائهم معًا",
+      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-11T10:59:49.157092+00:00",
-  "lastFastCheckAt": "2026-11-11T18:38:10.084560+00:00"
+  "lastDeepCheckAt": "2026-11-11T18:42:19.110587+00:00"
 }
