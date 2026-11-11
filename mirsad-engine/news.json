@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T14:44:53.547116+00:00",
-  "checkedAt": "2026-11-11T14:44:53.547116+00:00",
+  "updatedAt": "2026-11-11T14:49:53.994489+00:00",
+  "checkedAt": "2026-11-11T14:49:53.994489+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -196,6 +196,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Introducing Kimi K3.1 Pro on Amazon Bedrock"
+    },
+    {
+      "id": "0c9b1bb5be7f65ca29a4",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "التدريب على تجميع الرموز لنماذج التضمين متعددة المتجهات",
+      "titleOriginal": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/token-pooling",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T00:00:00+00:00"
     },
     {
       "id": "1251d7065eb9748a434c",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T12:34:29+00:00"
-    },
-    {
-      "id": "a726b05e7ae1cc407b97",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تعلن عن استثمارات جديدة مخططة في الشركات الناشئة الكورية في منتدى شراكة MSIT - NVIDIA AI Startup",
-      "titleOriginal": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ممثلون من وزارة العلوم وتكنولوجيا المعلومات والاتصالات و NVIDI",
-      "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:53+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T10:59:49.157092+00:00",
-  "lastFastCheckAt": "2026-11-11T14:44:53.547116+00:00"
+  "lastFastCheckAt": "2026-11-11T14:49:53.994489+00:00"
 }
