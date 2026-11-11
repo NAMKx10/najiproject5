@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T01:03:57.031518+00:00",
-  "checkedAt": "2026-11-11T01:03:57.031518+00:00",
+  "updatedAt": "2026-11-11T01:09:01.108860+00:00",
+  "checkedAt": "2026-11-11T01:09:01.108860+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "2ff08325dfa9babfd51f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم Kimi K3.1 Pro على Amazon Bedrock",
+      "titleOriginal": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "Kimi K3.1 Pro من Moonshot AI متاح الآن على Amazon Bedrock. تعرف على كيفية البدء من خلال إكمال الدردشة والاستجابات وواجهات برمجة تطبيقات Converse المتوافقة مع OpenAI،",
+      "summaryOriginal": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Kimi K3.1 Pro on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T01:07:19+00:00"
     },
     {
       "id": "1251d7065eb9748a434c",
@@ -434,6 +460,32 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "8125218d29e0ffc2b182",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تبحث صناعات كوكين في 70 عامًا من الرسومات في دقائق",
+      "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تستخدم Kuken Industries واجهة برمجة تطبيقات OpenAI للبحث عن 70 عامًا من رسومات برج التبريد. يمكن للمهندسين العثور على الرسم للإصلاح في 4.5 دقيقة، بعد ما يقرب من ساعة.",
+      "summaryOriginal": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/kuken",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Kuken Industries searches 70 years of drawings in minutes",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T08:00:00+00:00"
+    },
+    {
       "id": "1103e2238f3c7a7f6cc1",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together"
-    },
-    {
-      "id": "0e3f5493656004bae247",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تعلن عن استثمارات جديدة مخططة في الشركات الناشئة الكورية في منتدى شراكة MSIT - NVIDIA AI Startup",
-      "titleOriginal": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ممثلون من وزارة العلوم وتكنولوجيا المعلومات والاتصالات و NVIDI",
-      "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
-    },
-    {
-      "id": "c82ebf36618531ca139c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يقيس CodeRabbit تطوير برمجيات الوكلاء ويشحن 20 مرة أكثر",
-      "titleOriginal": "CodeRabbit scales agentic software development and ships 20x more",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم CodeRabbit نماذج OpenAI للتحكم والثقة في التعليمات البرمجية التي تم إنشاؤها بواسطة AI و Codex لشحن برامج أكثر 20 مرة مع نفس الفريق الهندسي.",
-      "summaryOriginal": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/coderabbit-codex-daybreak",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI CodeRabbit scales agentic software development and ships 20x more"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T23:44:33.081060+00:00",
-  "lastFastCheckAt": "2026-11-11T01:03:57.031518+00:00"
+  "lastFastCheckAt": "2026-11-11T01:09:01.108860+00:00"
 }
