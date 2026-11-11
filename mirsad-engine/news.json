@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T03:36:06.572427+00:00",
-  "checkedAt": "2026-11-11T03:36:06.572427+00:00",
+  "updatedAt": "2026-11-11T03:41:10.611688+00:00",
+  "checkedAt": "2026-11-11T03:41:10.611688+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -471,6 +471,58 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "978a06ccccdf8532dd7c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "استرجاع طلقة واحدة وعامل مع قاعدة المعرفة المدارة من Amazon Bedrock",
+      "titleOriginal": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تدعم قاعدة المعارف المدارة من Amazon Bedrock الآن طلبات الاسترداد والاسترجاع فقط من خلال AgenticRetrieveStream، إلى جانب استرجاع الوكيل. هذا شرح آخر",
+      "summaryOriginal": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T20:13:18+00:00"
+    },
+    {
+      "id": "dc75ce415b276b29048e",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم كلود فابل 5.2 على AWS",
+      "titleOriginal": "Introducing Claude Fable 5.2 on AWS",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "كلود فابل 5.2 وكلود ميثوس 5.2 متاحان الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. تعرف على ما هو جديد في كلا النموذجين، لماذا Fable 5.2 مهم لتك الخاص بك",
+      "summaryOriginal": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T20:04:37+00:00"
+    },
+    {
       "id": "d16324328ad76f4649e3",
       "company": "Amazon",
       "logoText": "AWS",
@@ -729,61 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T05:00:39+00:00"
-    },
-    {
-      "id": "fc3eaa5ab9e2bf09cffd",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "من الرقائق إلى المهارات، توسع NVIDIA وكوريا التعاون السيادي في مجال الذكاء الاصطناعي",
-      "titleOriginal": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل NVIDIA ووزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية (MSIT) على توسيع تعاونهما عبر النظام البيئي السيادي للذكاء الاصطناعي في البلاد، من أشباه الموصلات ومركز البيانات للذكاء الاصطناعي",
-      "summaryOriginal": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:04+00:00"
-    },
-    {
-      "id": "19bc66bfcf75afbde388",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب وصفات NVIDIA Dynamo النماذج الكورية المفتوحة الرائدة إلى الإنتاج",
-      "titleOriginal": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطلق NVIDIA وصفات النشر المحسنة الديناميكية للنماذج المفتوحة الرائدة في كوريا: A.X K2 من SK Telecom، K - EXAONE 2.0 من LG AI Research، Solar Open 2 من Upsta",
-      "summaryOriginal": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00",
-  "lastFastCheckAt": "2026-11-11T03:36:06.572427+00:00"
+  "lastFastCheckAt": "2026-11-11T03:41:10.611688+00:00"
 }
