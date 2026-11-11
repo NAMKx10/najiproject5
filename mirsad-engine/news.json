@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T03:06:21.146390+00:00",
-  "checkedAt": "2026-11-11T03:06:21.146390+00:00",
+  "updatedAt": "2026-11-11T03:10:50.718540+00:00",
+  "checkedAt": "2026-11-11T03:10:50.718540+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -471,6 +471,58 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "fc3eaa5ab9e2bf09cffd",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "من الرقائق إلى المهارات، توسع NVIDIA وكوريا التعاون السيادي في مجال الذكاء الاصطناعي",
+      "titleOriginal": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل NVIDIA ووزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية (MSIT) على توسيع تعاونهما عبر النظام البيئي السيادي للذكاء الاصطناعي في البلاد، من أشباه الموصلات ومركز البيانات للذكاء الاصطناعي",
+      "summaryOriginal": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T05:00:04+00:00"
+    },
+    {
+      "id": "19bc66bfcf75afbde388",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تجلب وصفات NVIDIA Dynamo النماذج الكورية المفتوحة الرائدة إلى الإنتاج",
+      "titleOriginal": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "models",
+      "importance": 92,
+      "summary": "تطلق NVIDIA وصفات النشر المحسنة الديناميكية للنماذج المفتوحة الرائدة في كوريا: A.X K2 من SK Telecom، K - EXAONE 2.0 من LG AI Research، Solar Open 2 من Upsta",
+      "summaryOriginal": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T05:00:00+00:00"
+    },
+    {
       "id": "a4cf32f25535ff784630",
       "company": "Amazon",
       "logoText": "AWS",
@@ -679,50 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Kuken Industries searches 70 years of drawings in minutes"
-    },
-    {
-      "id": "d7a584818067b70736ba",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "تقدم كوريا الذكاء الاصطناعي المادي عبر الصناعات مع NVIDIA",
-      "titleOriginal": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بالاستفادة من نقاط القوة في البلاد في التصنيع والهندسة، تساعد NVIDIA في تعزيز النظام البيئي المادي للذكاء الاصطناعي في كوريا. يتقدم قادة الصناعة في البلاد",
-      "summaryOriginal": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Korea Advances Physical AI Across Industries With NVIDIA"
-    },
-    {
-      "id": "6c05bbda35dea4ef9934",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم النظام البيئي للذكاء الاصطناعي في كوريا وتأمين الذكاء الاصطناعي للوكلاء مع NVIDIA",
-      "titleOriginal": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع اضطلاع وكلاء الذكاء الاصطناعي بمزيد من العمل، يحتاجون إلى نماذج مفتوحة قادرة وأمان يتقدم جنبًا إلى جنب معهم. تستكشف مجموعة هيونداي موتور مخططات NVIDIA NemoClaw و",
-      "summaryOriginal": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00"
+  "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00",
+  "lastFastCheckAt": "2026-11-11T03:10:50.718540+00:00"
 }
