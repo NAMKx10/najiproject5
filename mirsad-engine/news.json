@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T23:35:09.345789+00:00",
-  "checkedAt": "2026-11-11T23:35:09.345789+00:00",
+  "updatedAt": "2026-11-11T23:40:16.083087+00:00",
+  "checkedAt": "2026-11-11T23:40:16.083087+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "16f776516c20cf0035d1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "OpenAI Codex على Amazon Bedrock",
+      "titleOriginal": "OpenAI Codex on Amazon Bedrock",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "دليل عملي للشركات التي تطرح OpenAI Codex للمطورين على AWS، مع Amazon Bedrock كنظام خلفي للنموذج، يغطي الوصول والحوكمة وقرارات التكلفة",
+      "summaryOriginal": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon OpenAI Codex on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T23:35:47+00:00"
     },
     {
       "id": "6f31f6c4b0680fed0aa7",
@@ -745,30 +771,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
-    },
-    {
-      "id": "16bc4c95d044b5238a3f",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تعمل المهارات والوكلاء في AWS Quick",
-      "titleOriginal": "How skills and agents work in AWS Quick",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يمكن ترميز المهام القابلة للتكرار مثل تحديثات الحالة وملاحظات الإصدار وإنشاء التذاكر في AWS Quick من خلال الوكلاء والمهارات. يتناول هذا المنشور كيفية عمل الوكلاء والمهارات و",
-      "summaryOriginal": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, skills, and your data fit together in AWS Quick, how to build and share skills for your team, and how the official catalog and custom agents help you use them.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How skills and agents work in AWS Quick"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T18:42:19.110587+00:00",
-  "lastFastCheckAt": "2026-11-11T23:35:09.345789+00:00"
+  "lastFastCheckAt": "2026-11-11T23:40:16.083087+00:00"
 }
