@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T18:42:19.110587+00:00",
-  "checkedAt": "2026-11-11T18:42:19.110587+00:00",
+  "updatedAt": "2026-11-11T18:48:20.087978+00:00",
+  "checkedAt": "2026-11-11T18:48:20.087978+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed",
+      "kind": "feed-fast",
       "ok": true,
       "items": 10,
       "error": null
@@ -280,6 +280,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
+    },
+    {
+      "id": "f21b619cd3e603510867",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "المهندس المعماري الرئيسي في JioStar حول اكتشاف الذكاء الاصطناعي على نطاق 500 مليون مستخدم",
+      "titleOriginal": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يشرح فيجاي سيشادري من JioStar اكتشاف الذكاء الاصطناعي على نطاق 500 مليون مستخدم. اقرأ دروسه حول التقييمات والضوابط وإدخال الذكاء الاصطناعي في مرحلة الإنتاج.",
+      "summaryOriginal": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/jiostar-vijay-seshadri",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI JioStar’s chief architect on AI discovery at 500M-user scale",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T00:00:00+00:00"
     },
     {
       "id": "1251d7065eb9748a434c",
@@ -639,90 +665,85 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
-      "id": "f3ef4768044670a4b344",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "a726b05e7ae1cc407b97",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "ChatGPT Enterprise متاح الآن في سوق AWS",
-      "titleOriginal": "ChatGPT Enterprise now available in AWS Marketplace",
+      "title": "تعلن NVIDIA عن استثمارات جديدة مخطط لها في الشركات الناشئة الكورية في منتدى شراكة الشركات الناشئة في مجال الذكاء الاصطناعي بين MSIT وNVIDIA",
+      "titleOriginal": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
       "dateLabel": "9 نوفمبر 2026",
       "dateISO": "2026-11-09",
       "category": "models",
       "importance": 92,
-      "summary": "أصبح ChatGPT Enterprise متاحًا الآن من خلال AWS Marketplace، مما يساعد المؤسسات على تبسيط المشتريات من خلال علاقات الشراء والفوترة الحالية لـ AWS.",
-      "summaryOriginal": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية وNVIDIA منتدى شراكة الشركات الناشئة في مجال الذكاء الاصطناعي بين وزارة العلوم وتكنولوجيا المعلومات والاتصالات وNVIDIA في مركز COEX. ممثلون عن وزارة العلوم وتكنولوجيا المعلومات والاتصالات وNVIDIA",
+      "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "sourceLabel": "OpenAI",
+      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace"
+      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T08:00:53+00:00"
     },
     {
-      "id": "0483cc6fe5f4e7b566b2",
-      "company": "Hugging Face",
-      "logoText": "HF",
+      "id": "1103e2238f3c7a7f6cc1",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "مستجد تقني",
-      "title": "Nemotron-Personas-Finance-Japan: مجموعة بيانات اصطناعية تجمع البيانات الديموغرافية والسياق المالي لليابان",
-      "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "title": "كوريا تتقدم في مجال الذكاء الاصطناعي المادي عبر مختلف الصناعات بالتعاون مع NVIDIA",
+      "titleOriginal": "Korea Advances Physical AI Across Industries With NVIDIA",
       "dateLabel": "9 نوفمبر 2026",
       "dateISO": "2026-11-09",
       "category": "tools",
       "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
+      "summary": "من خلال الاستفادة من نقاط القوة في البلاد في مجال التصنيع والهندسة، تساعد NVIDIA في تطوير النظام البيئي للذكاء الاصطناعي المادي في كوريا. يقوم قادة الصناعة في البلاد بتطبيق",
+      "summaryOriginal": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "sourceLabel": "Hugging Face Blog",
+      "source": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+      "searchAliases": "NVIDIA Korea Advances Physical AI Across Industries With NVIDIA",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T05:00:40+00:00"
     },
     {
-      "id": "40e1bcddf66c65d92f79",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "a02bd8aeaa72dd3294ce",
+      "company": "NVIDIA",
+      "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "غرفة التحكم: نظام مركزي لتتبع وإيقاف أعباء عمل النماذج عبر بنيتنا التحتية البحثية",
-      "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "title": "النظام البيئي للذكاء الاصطناعي في كوريا يتقدم ويؤمن الذكاء الاصطناعي الوكيل مع NVIDIA",
+      "titleOriginal": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
       "dateLabel": "9 نوفمبر 2026",
       "dateISO": "2026-11-09",
       "category": "models",
       "importance": 92,
-      "summary": "تعرّف على كيفية تتبع غرفة التحكم في OpenAI لأحمال عمل النماذج عبر بنيتنا التحتية للأبحاث وكيف يمكنها إيقافها بسرعة عند ظهور مخاوف تتعلق بالسلامة أو الأمان.",
-      "summaryOriginal": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "summary": "مع تولي وكلاء الذكاء الاصطناعي المزيد من العمل، فإنهم بحاجة إلى نماذج مفتوحة قادرة وأمان يتقدم جنبًا إلى جنب معهم. تستكشف مجموعة هيونداي موتور مخططات NVIDIA NemoClaw و",
+      "summaryOriginal": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/control-room",
-      "sourceLabel": "OpenAI",
+      "source": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure"
-    },
-    {
-      "id": "d26170c43578f4faaf4e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أعمال وشراكات",
-      "title": "لدى خبرائك شركاء. هناك أمل في إبقائهم معًا",
-      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together"
+      "searchAliases": "NVIDIA Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-09T05:00:39+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-11T18:42:19.110587+00:00"
+  "lastDeepCheckAt": "2026-11-11T18:42:19.110587+00:00",
+  "lastFastCheckAt": "2026-11-11T18:48:20.087978+00:00"
 }
