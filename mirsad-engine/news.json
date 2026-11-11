@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T03:05:46.753071+00:00",
-  "checkedAt": "2026-11-11T03:05:46.753071+00:00",
+  "updatedAt": "2026-11-11T03:06:21.146390+00:00",
+  "checkedAt": "2026-11-11T03:06:21.146390+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,15 +111,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T00:00:00+00:00"
+      "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
     },
     {
-      "id": "5cc7f59d2758a48cb924",
+      "id": "291372d89c892c05ff73",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -132,20 +127,15 @@
       "summary": "تختار Vision AI والروبوتات ما يستحق الاسترداد من الأحزمة الناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
       "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+      "source": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T03:00:20+00:00"
+      "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
     },
     {
-      "id": "2ff08325dfa9babfd51f",
+      "id": "527dcf49098b553b253c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -158,17 +148,12 @@
       "summary": "Kimi K3.1 Pro من Moonshot AI متاح الآن على Amazon Bedrock. تعرف على كيفية البدء من خلال إكمال الدردشة والاستجابات وواجهات برمجة تطبيقات Converse المتوافقة مع OpenAI،",
       "summaryOriginal": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T01:07:19+00:00"
+      "searchAliases": "Amazon Introducing Kimi K3.1 Pro on Amazon Bedrock"
     },
     {
       "id": "1251d7065eb9748a434c",
@@ -486,7 +471,7 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
-      "id": "978a06ccccdf8532dd7c",
+      "id": "a4cf32f25535ff784630",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -499,20 +484,15 @@
       "summary": "تدعم قاعدة المعارف المدارة من Amazon Bedrock الآن طلبات الاسترداد والاسترجاع فقط من خلال AgenticRetrieveStream، إلى جانب استرجاع الوكيل. هذا شرح آخر",
       "summaryOriginal": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This post explains how the maxAgentIteration parameter matches retrieval effort to each request, using an illustrative internal banking policy assistant.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base",
+      "source": "https://aws.amazon.com/blogs/machine-learning/single-shot-and-agentic-retrieval-with-amazon-bedrock-managed-knowledge-base/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:13:18+00:00"
+      "searchAliases": "Amazon Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base"
     },
     {
-      "id": "dc75ce415b276b29048e",
+      "id": "1854a34c44b493e0ca00",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -525,20 +505,15 @@
       "summary": "كلود فابل 5.2 وكلود ميثوس 5.2 متاحان الآن على منصة أمازون بيدروك وكلود على أمازون ويب سيرفيسز. تعرف على ما هو جديد في كلا النموذجين، لماذا Fable 5.2 مهم لتك الخاص بك",
       "summaryOriginal": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters for your technical workloads, and how to get started building with it on Amazon Bedrock.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-2-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:04:37+00:00"
+      "searchAliases": "Amazon Introducing Claude Fable 5.2 on AWS"
     },
     {
-      "id": "d16324328ad76f4649e3",
+      "id": "a631959c323165f24b29",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -551,17 +526,12 @@
       "summary": "يتوفر الآن NVIDIA Nemotron 3.5 Super VL، وهو نموذج متعدد الوسائط للرؤية بلغة 120B، في Amazon SageMaker JumpStart. نشر متغير NVFP4 أو BF16 في عدد قليل",
       "summaryOriginal": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 variant in a few steps, then run text, image, and video inference for document intelligence, computer-use agents, and multimodal agentic workloads.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart",
+      "source": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-super-vl-is-now-available-in-amazon-sagemaker-jumpstart/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T20:01:20+00:00"
+      "searchAliases": "Amazon NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart"
     },
     {
       "id": "f3ef4768044670a4b344",
@@ -582,12 +552,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T19:00:00+00:00"
+      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace"
     },
     {
       "id": "0483cc6fe5f4e7b566b2",
@@ -608,12 +573,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T15:05:57+00:00"
+      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
     },
     {
       "id": "40e1bcddf66c65d92f79",
@@ -634,12 +594,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T13:00:00+00:00"
+      "searchAliases": "OpenAI Control Room: A central system to track and stop model workloads across our research infrastructure"
     },
     {
       "id": "d26170c43578f4faaf4e",
@@ -660,15 +615,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T12:34:29+00:00"
+      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together"
     },
     {
-      "id": "a726b05e7ae1cc407b97",
+      "id": "0e3f5493656004bae247",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -681,43 +631,12 @@
       "summary": "استضافت وزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية و NVIDIA منتدى شراكة الشركات الناشئة MSIT - NVIDIA AI في COEX. ممثلون من وزارة العلوم وتكنولوجيا المعلومات والاتصالات و NVIDI",
       "summaryOriginal": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+      "source": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:53+00:00"
-    },
-    {
-      "id": "8125218d29e0ffc2b182",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تبحث صناعات كوكين في 70 عامًا من الرسومات في دقائق",
-      "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تستخدم Kuken Industries واجهة برمجة تطبيقات OpenAI للبحث عن 70 عامًا من رسومات برج التبريد. يمكن للمهندسين العثور على الرسم للإصلاح في 4.5 دقيقة، بعد ما يقرب من ساعة.",
-      "summaryOriginal": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/kuken",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Kuken Industries searches 70 years of drawings in minutes",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:00+00:00"
+      "searchAliases": "NVIDIA NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum"
     },
     {
       "id": "c82ebf36618531ca139c",
@@ -738,15 +657,31 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI CodeRabbit scales agentic software development and ships 20x more",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:00+00:00"
+      "searchAliases": "OpenAI CodeRabbit scales agentic software development and ships 20x more"
     },
     {
-      "id": "1103e2238f3c7a7f6cc1",
+      "id": "8125218d29e0ffc2b182",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تبحث صناعات كوكين في 70 عامًا من الرسومات في دقائق",
+      "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تستخدم Kuken Industries واجهة برمجة تطبيقات OpenAI للبحث عن 70 عامًا من رسومات برج التبريد. يمكن للمهندسين العثور على الرسم للإصلاح في 4.5 دقيقة، بعد ما يقرب من ساعة.",
+      "summaryOriginal": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/kuken",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Kuken Industries searches 70 years of drawings in minutes"
+    },
+    {
+      "id": "d7a584818067b70736ba",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -759,20 +694,15 @@
       "summary": "بالاستفادة من نقاط القوة في البلاد في التصنيع والهندسة، تساعد NVIDIA في تعزيز النظام البيئي المادي للذكاء الاصطناعي في كوريا. يتقدم قادة الصناعة في البلاد",
       "summaryOriginal": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+      "source": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Korea Advances Physical AI Across Industries With NVIDIA",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:40+00:00"
+      "searchAliases": "NVIDIA Korea Advances Physical AI Across Industries With NVIDIA"
     },
     {
-      "id": "a02bd8aeaa72dd3294ce",
+      "id": "6c05bbda35dea4ef9934",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -785,20 +715,14 @@
       "summary": "مع اضطلاع وكلاء الذكاء الاصطناعي بمزيد من العمل، يحتاجون إلى نماذج مفتوحة قادرة وأمان يتقدم جنبًا إلى جنب معهم. تستكشف مجموعة هيونداي موتور مخططات NVIDIA NemoClaw و",
       "summaryOriginal": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+      "source": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:39+00:00"
+      "searchAliases": "NVIDIA Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-10T23:44:33.081060+00:00",
-  "lastFastCheckAt": "2026-11-11T03:05:46.753071+00:00"
+  "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00"
 }
