@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T04:57:22.136878+00:00",
-  "checkedAt": "2026-11-11T04:57:22.136878+00:00",
+  "updatedAt": "2026-11-11T05:02:29.126270+00:00",
+  "checkedAt": "2026-11-11T05:02:29.126270+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "7a13abe51b6f6e812849",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "BotPsy: مساعد شخصي على الجهاز مع نموذج لغة عامل بمليار معلمة فرعية",
+      "titleOriginal": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/qvac/botpsy",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T05:01:16+00:00"
     },
     {
       "id": "291372d89c892c05ff73",
@@ -755,35 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T05:00:40+00:00"
-    },
-    {
-      "id": "a02bd8aeaa72dd3294ce",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تقدم النظام البيئي للذكاء الاصطناعي في كوريا وتأمين الذكاء الاصطناعي للوكلاء مع NVIDIA",
-      "titleOriginal": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "مع اضطلاع وكلاء الذكاء الاصطناعي بمزيد من العمل، يحتاجون إلى نماذج مفتوحة قادرة وأمان يتقدم جنبًا إلى جنب معهم. تستكشف مجموعة هيونداي موتور مخططات NVIDIA NemoClaw و",
-      "summaryOriginal": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:39+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00",
-  "lastFastCheckAt": "2026-11-11T04:57:22.136878+00:00"
+  "lastFastCheckAt": "2026-11-11T05:02:29.126270+00:00"
 }
