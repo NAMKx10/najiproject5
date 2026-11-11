@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T05:37:43.239933+00:00",
-  "checkedAt": "2026-11-11T05:37:43.239933+00:00",
+  "updatedAt": "2026-11-11T05:42:46.840106+00:00",
+  "checkedAt": "2026-11-11T05:42:46.840106+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "d92b641afddb1d58750f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "ChatGPT Plus للمحاربين القدامى وأعضاء الخدمة",
+      "titleOriginal": "ChatGPT Plus for veterans and servicemembers",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "طالب أكثر من 20000 من قدامى المحاربين وأعضاء الخدمة الانتقالية بسنة مجانية من ChatGPT Plus. انظر كيف يستخدمونها للتحضير للمهن المدنية.",
+      "summaryOriginal": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T08:00:00+00:00"
     },
     {
       "id": "7a13abe51b6f6e812849",
@@ -497,6 +523,32 @@
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     },
     {
+      "id": "d5ebec05920f1b1deb4c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقوم كوجنت وأوبن إيه آي ببناء مصانع للدفاع السيبراني للمؤسسات",
+      "titleOriginal": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تجمع Cogent بين نماذج OpenAI وسياق المؤسسة للمساعدة في معالجة نقاط الضعف تلقائيًا مع الوكلاء.",
+      "summaryOriginal": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/cogent-security",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Cogent and OpenAI build cyber defense factories for enterprises",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T00:00:00+00:00"
+    },
+    {
       "id": "978a06ccccdf8532dd7c",
       "company": "Amazon",
       "logoText": "AWS",
@@ -729,61 +781,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "id": "8125218d29e0ffc2b182",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تبحث صناعات كوكين في 70 عامًا من الرسومات في دقائق",
-      "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تستخدم Kuken Industries واجهة برمجة تطبيقات OpenAI للبحث عن 70 عامًا من رسومات برج التبريد. يمكن للمهندسين العثور على الرسم للإصلاح في 4.5 دقيقة، بعد ما يقرب من ساعة.",
-      "summaryOriginal": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/kuken",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Kuken Industries searches 70 years of drawings in minutes",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "id": "1103e2238f3c7a7f6cc1",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "تقدم كوريا الذكاء الاصطناعي المادي عبر الصناعات مع NVIDIA",
-      "titleOriginal": "Korea Advances Physical AI Across Industries With NVIDIA",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "بالاستفادة من نقاط القوة في البلاد في التصنيع والهندسة، تساعد NVIDIA في تعزيز النظام البيئي المادي للذكاء الاصطناعي في كوريا. يتقدم قادة الصناعة في البلاد",
-      "summaryOriginal": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Korea Advances Physical AI Across Industries With NVIDIA",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:40+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T03:06:21.146390+00:00",
-  "lastFastCheckAt": "2026-11-11T05:37:43.239933+00:00"
+  "lastFastCheckAt": "2026-11-11T05:42:46.840106+00:00"
 }
