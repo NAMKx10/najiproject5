@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T03:00:33.361117+00:00",
-  "checkedAt": "2026-11-11T03:00:33.361117+00:00",
+  "updatedAt": "2026-11-11T03:05:46.753071+00:00",
+  "checkedAt": "2026-11-11T03:05:46.753071+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "5cc7f59d2758a48cb924",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "كيف يساعد الذكاء الاصطناعي القائمين على إعادة التدوير على تحويل النفايات المختلطة إلى مواد قابلة لإعادة الاستخدام",
+      "titleOriginal": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تختار Vision AI والروبوتات ما يستحق الاسترداد من الأحزمة الناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
+      "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T03:00:20+00:00"
     },
     {
       "id": "2ff08325dfa9babfd51f",
@@ -770,35 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T05:00:39+00:00"
-    },
-    {
-      "id": "fc3eaa5ab9e2bf09cffd",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "من الرقائق إلى المهارات، توسع NVIDIA وكوريا التعاون السيادي في مجال الذكاء الاصطناعي",
-      "titleOriginal": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل NVIDIA ووزارة العلوم وتكنولوجيا المعلومات والاتصالات الكورية (MSIT) على توسيع تعاونهما عبر النظام البيئي السيادي للذكاء الاصطناعي في البلاد، من أشباه الموصلات ومركز البيانات للذكاء الاصطناعي",
-      "summaryOriginal": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T05:00:04+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T23:44:33.081060+00:00",
-  "lastFastCheckAt": "2026-11-11T03:00:33.361117+00:00"
+  "lastFastCheckAt": "2026-11-11T03:05:46.753071+00:00"
 }
