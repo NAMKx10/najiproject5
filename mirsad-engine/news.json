@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T00:38:39.619579+00:00",
-  "checkedAt": "2026-11-11T00:38:39.619579+00:00",
-  "newestPublishedAt": "2026-11-10T23:34:05+00:00",
+  "updatedAt": "2026-11-11T00:43:44.908734+00:00",
+  "checkedAt": "2026-11-11T00:43:44.908734+00:00",
+  "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "24e68a4ea5f660488dd5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "يعيد جيلبرت + توبين التفكير في عمل القانون مع الذكاء الاصطناعي",
+      "titleOriginal": "Gilbert + Tobin rethinks the business of law with AI",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "business",
+      "importance": 82,
+      "summary": "محادثة مع سام نيكليس، الشريك والرئيس التنفيذي في جيلبرت + توبين.",
+      "summaryOriginal": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T00:00:00+00:00"
+    },
     {
       "id": "1251d7065eb9748a434c",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
-    },
-    {
-      "id": "8f85f8277fc108b4aa12",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تجلب وصفات NVIDIA Dynamo النماذج الكورية المفتوحة الرائدة إلى الإنتاج",
-      "titleOriginal": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطلق NVIDIA وصفات النشر المحسنة الديناميكية للنماذج المفتوحة الرائدة في كوريا: A.X K2 من SK Telecom، K - EXAONE 2.0 من LG AI Research، Solar Open 2 من Upsta",
-      "summaryOriginal": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-10T23:44:33.081060+00:00",
-  "lastFastCheckAt": "2026-11-11T00:38:39.619579+00:00"
+  "lastFastCheckAt": "2026-11-11T00:43:44.908734+00:00"
 }
