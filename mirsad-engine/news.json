@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T23:09:52.376991+00:00",
-  "checkedAt": "2026-11-11T23:09:52.376991+00:00",
+  "updatedAt": "2026-11-11T23:14:58.642408+00:00",
+  "checkedAt": "2026-11-11T23:14:58.642408+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "7ebd4ffba25a0286e5c7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم واجهة برمجة تطبيقات البحث على الويب على Amazon Bedrock AgentCore",
+      "titleOriginal": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "models",
+      "importance": 92,
+      "summary": "نعلن اليوم عن واجهة برمجة التطبيقات للبحث على الويب على Amazon Bedrock AgentCore: يمكن لرمزك الخاص البحث على الويب من خلال استدعاء واحد لواجهة برمجة التطبيقات تم توقيعه، دون الحاجة إلى بوابة أو موارد",
+      "summaryOriginal": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing the Web Search API on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T23:13:16+00:00"
     },
     {
       "id": "d612a33d2cc4fdf3301c",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
-    },
-    {
-      "id": "ccccaea543f92701d818",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج القرار في وجه المعانقة",
-      "titleOriginal": "Decision Models in Hugging Face",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/decision",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Decision Models in Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T18:42:19.110587+00:00",
-  "lastFastCheckAt": "2026-11-11T23:09:52.376991+00:00"
+  "lastFastCheckAt": "2026-11-11T23:14:58.642408+00:00"
 }
