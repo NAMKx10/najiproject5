@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T16:05:35.658895+00:00",
-  "checkedAt": "2026-11-11T16:05:35.658895+00:00",
+  "updatedAt": "2026-11-11T16:10:54.092207+00:00",
+  "checkedAt": "2026-11-11T16:10:54.092207+00:00",
   "newestPublishedAt": "2026-11-12T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "2d3a30172582752d3931",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "تسريع تطوير المنتجات من خلال إدارة دورة الحياة المدفوعة بالذكاء الاصطناعي (AI-PDLC) في AWS Quick",
+      "titleOriginal": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعرّف على كيفية إنشاء دورة حياة لتطوير المنتجات مدفوعة بالذكاء الاصطناعي (AI-PDLC) مع مجموعة من ستة وكلاء AWS Quick الذين ينقلونك من الإشارات المتناثرة للعملاء إلى إشارات تم التحقق منها",
+      "summaryOriginal": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T16:05:33+00:00"
     },
     {
       "id": "4bd14b635d0d11835967",
@@ -735,35 +761,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "id": "0483cc6fe5f4e7b566b2",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "Nemotron - Personas - Finance - Japan: مجموعة بيانات اصطناعية تلتقط التركيبة السكانية والسياق المالي لليابان",
-      "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T15:05:57+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-11T10:59:49.157092+00:00",
-  "lastFastCheckAt": "2026-11-11T16:05:35.658895+00:00"
+  "lastFastCheckAt": "2026-11-11T16:10:54.092207+00:00"
 }
