@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T15:56:32.561007+00:00",
-  "checkedAt": "2026-11-12T15:56:32.561007+00:00",
-  "newestPublishedAt": "2026-11-12T15:42:21+00:00",
+  "updatedAt": "2026-11-12T16:01:37.501726+00:00",
+  "checkedAt": "2026-11-12T16:01:37.501726+00:00",
+  "newestPublishedAt": "2026-11-12T16:00:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ca611c5a9fabd6b8374e",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "بحث",
+      "title": "توسيع نطاق قيمة الذكاء الاصطناعي دون فقدان السيطرة: دروس من الشركات الرائدة",
+      "titleOriginal": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "research",
+      "importance": 86,
+      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من الالتزام",
+      "summaryOriginal": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value without losing control: Lessons from Frontier Firms appeared first on The Official Microsoft Blog .",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft Scaling AI value without losing control: Lessons from Frontier Firms",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T16:00:02+00:00"
+    },
     {
       "id": "39e3d116012a5a353aef",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Cogent and OpenAI build cyber defense factories for enterprises"
-    },
-    {
-      "id": "c8c8d80b1fe3bf157b5e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "ادفع مقابل Hugging Face Hub باستخدام حسابك على Google Cloud",
-      "titleOriginal": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T15:56:32.561007+00:00"
+  "lastFastCheckAt": "2026-11-12T16:01:37.501726+00:00"
 }
