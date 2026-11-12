@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T14:19:58.058372+00:00",
-  "checkedAt": "2026-11-12T14:19:58.058372+00:00",
+  "updatedAt": "2026-11-12T14:25:01.351930+00:00",
+  "checkedAt": "2026-11-12T14:25:01.351930+00:00",
   "newestPublishedAt": "2026-11-12T09:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -180,6 +180,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Supporting research on AI and children’s safety",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T00:00:00+00:00"
+    },
+    {
+      "id": "b5bfc2d3387b9ddeb1d0",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "الدليل النهائي للضبط الدقيق لنماذج إنشاء الصور ثلاثية الأبعاد",
+      "titleOriginal": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/3d-lora-finetuning",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -710,35 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
-    },
-    {
-      "id": "f3ef4768044670a4b344",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ChatGPT Enterprise متاح الآن في AWS Marketplace",
-      "titleOriginal": "ChatGPT Enterprise now available in AWS Marketplace",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر ChatGPT Enterprise الآن عبر AWS Marketplace، مما يساعد المؤسسات على تبسيط عمليات الشراء من خلال علاقات الشراء والفوترة الحالية مع AWS.",
-      "summaryOriginal": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T19:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T14:19:58.058372+00:00"
+  "lastFastCheckAt": "2026-11-12T14:25:01.351930+00:00"
 }
