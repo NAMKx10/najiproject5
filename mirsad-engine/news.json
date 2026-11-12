@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T17:58:17.836557+00:00",
-  "checkedAt": "2026-11-12T17:58:17.836557+00:00",
-  "newestPublishedAt": "2026-11-12T17:00:03+00:00",
+  "updatedAt": "2026-11-12T18:03:23.483006+00:00",
+  "checkedAt": "2026-11-12T18:03:23.483006+00:00",
+  "newestPublishedAt": "2026-11-12T17:59:59+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2ae50e7e47deda1e8438",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "قم بتشغيل البرامج الوسيطة بأمان وكفاءة باستخدام وقت تشغيل AgentCore من الجيل التالي",
+      "titleOriginal": "Run agents securely and efficiently with the next generation AgentCore runtime",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعمل وكالات الذكاء الاصطناعي الآن على تنفيذ أعباء عمل متعددة الخطوات لساعات وتتصرف نيابة عن المستخدمين، مما يرفع مستوى الحوسبة الآمنة والقابلة للتطوير للوكالات. تعرّف على كيفية عمل الجيل التالي من Amazon B",
+      "summaryOriginal": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Run agents securely and efficiently with the next generation AgentCore runtime",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T17:59:59+00:00"
+    },
     {
       "id": "c47f4e4f7578a9dc3d28",
       "company": "Microsoft",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Decision Models in Hugging Face"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي والسلامة تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T17:58:17.836557+00:00"
+  "lastFastCheckAt": "2026-11-12T18:03:23.483006+00:00"
 }
