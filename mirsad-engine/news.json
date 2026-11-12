@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T19:08:51.258324+00:00",
-  "checkedAt": "2026-11-12T19:08:51.258324+00:00",
+  "updatedAt": "2026-11-12T19:13:54.441234+00:00",
+  "checkedAt": "2026-11-12T19:13:54.441234+00:00",
   "newestPublishedAt": "2026-11-12T19:07:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -638,6 +638,32 @@
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
+      "id": "e408ab02dd9218605bc8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "العمل على الحدود: تأثير الذكاء الاصطناعي على العمل الحر",
+      "titleOriginal": "Work at the Frontier: AI’s effect on freelance work",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "توصلت دراسة جديدة أجرتها OpenAI وUpwork إلى تحول في الطلب على العمل الحر، ومجموعات مهارات جديدة، وميزانيات أكبر وساعات عمل أكثر للمشاريع المتعلقة بالذكاء الاصطناعي.",
+      "summaryOriginal": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/ai-effect-on-freelance-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T07:00:00+00:00"
+    },
+    {
       "id": "911277b5dfd1c0c61096",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Closing the AI guidance gap in education"
-    },
-    {
-      "id": "52033d249afe64a30482",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "الخطوط الجوية السنغافورية ترفع مستوى السفر والعمل باستخدام تقنية OpenAI",
-      "titleOriginal": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف تستخدم الخطوط الجوية السنغافورية نماذج OpenAI و API لتعزيز دعم العملاء، واكتشاف السفر، وإنتاجية الموظفين، ومضاعفة CSAT لروبوت الدردشة Kris الخاص بها.",
-      "summaryOriginal": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/singapore-airlines-travel-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T19:08:51.258324+00:00"
+  "lastFastCheckAt": "2026-11-12T19:13:54.441234+00:00"
 }
