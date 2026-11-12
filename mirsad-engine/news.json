@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T21:46:09.673046+00:00",
-  "checkedAt": "2026-11-12T21:46:09.673046+00:00",
-  "newestPublishedAt": "2026-11-12T20:51:55+00:00",
+  "updatedAt": "2026-11-12T21:51:11.152119+00:00",
+  "checkedAt": "2026-11-12T21:51:11.152119+00:00",
+  "newestPublishedAt": "2026-11-12T21:47:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f2bb9b8eb720287df79a",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف صممت Natera نظام ذكاء اصطناعي وكيلًا للعمليات المختبرية باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يجمع معرفة عمليات المختبرات المؤسسية وينشرها على نطاق واسع. تستعرض هذه المقالة",
+      "summaryOriginal": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Natera designed an agentic AI system for lab ops with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T21:47:07+00:00"
+    },
     {
       "id": "63840777b6f727739948",
       "company": "Amazon",
@@ -740,35 +766,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-10T16:00:03+00:00"
-    },
-    {
-      "id": "27031441594673205128",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة مقدمي الرعاية على استخدام الذكاء الاصطناعي في الحياة اليومية",
-      "titleOriginal": "Helping caregivers use AI in everyday life",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم أكاديمية OpenAI ورش عمل عملية مجانية حول ChatGPT لمقدمي الرعاية في خمس مدن أمريكية، مما يساعدهم على بناء مهارات الذكاء الاصطناعي العملية للحياة اليومية.",
-      "summaryOriginal": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping caregivers use AI in everyday life",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T21:46:09.673046+00:00"
+  "lastFastCheckAt": "2026-11-12T21:51:11.152119+00:00"
 }
