@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T16:57:29.655691+00:00",
-  "checkedAt": "2026-11-12T16:57:29.655691+00:00",
-  "newestPublishedAt": "2026-11-12T16:16:45+00:00",
+  "updatedAt": "2026-11-12T17:02:32.694880+00:00",
+  "checkedAt": "2026-11-12T17:02:32.694880+00:00",
+  "newestPublishedAt": "2026-11-12T17:00:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "78db2f2a8bae994e4aa1",
+      "company": "Microsoft",
+      "logoText": "MS",
+      "type": "أعمال وشراكات",
+      "title": "من طموح الذكاء الاصطناعي إلى التأثير على الأعمال",
+      "titleOriginal": "From AI ambition to business impact",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "business",
+      "importance": 82,
+      "summary": "لم يعد معظم قادة الأعمال الذين أقابلهم بحاجة إلى الإقناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في غرف الاجتماعات الآن هو",
+      "summaryOriginal": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact",
+      "sourceLabel": "Microsoft",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Microsoft From AI ambition to business impact",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T17:00:03+00:00"
+    },
     {
       "id": "3baa915efed999309f51",
       "company": "Amazon",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology"
-    },
-    {
-      "id": "e408ab02dd9218605bc8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "العمل على الحدود: تأثير الذكاء الاصطناعي على العمل الحر",
-      "titleOriginal": "Work at the Frontier: AI’s effect on freelance work",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "وجد بحث جديد من OpenAI و Upwork طلبًا متغيرًا على العمل الحر، ومجموعات مهارات جديدة، وميزانيات أكبر وساعات أكثر للمشاريع المتعلقة بالذكاء الاصطناعي.",
-      "summaryOriginal": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ai-effect-on-freelance-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T16:57:29.655691+00:00"
+  "lastFastCheckAt": "2026-11-12T17:02:32.694880+00:00"
 }
