@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T18:38:58.538113+00:00",
-  "checkedAt": "2026-11-12T18:38:58.538113+00:00",
-  "newestPublishedAt": "2026-11-12T17:59:59+00:00",
+  "updatedAt": "2026-11-12T18:44:01.612353+00:00",
+  "checkedAt": "2026-11-12T18:44:01.612353+00:00",
+  "newestPublishedAt": "2026-11-12T18:43:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "dfad92f5bfb82ae1e8a6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تحسين التكلفة لكل مهمة وإثبات عائد الاستثمار للموظف على Amazon Bedrock",
+      "titleOriginal": "Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "تؤدي مقارنة الأسعار لكل رمز إلى إخفاء التكلفة الحقيقية لتشغيل نموذج على Amazon Bedrock. يوضح هذا المنشور كيفية حساب التكلفة الحقيقية لكل مهمة عبر أربعة عوامل تكلفة خفية",
+      "summaryOriginal": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines, holdout experiments, and a five-dimension scorecard.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Optimizing cost per task and proving agent ROI on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T18:43:19+00:00"
+    },
+    {
+      "id": "9fbfbbcecd4f371ea4f7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء بوابة LLM للخدمة الذاتية باستخدام Amazon Bedrock وLiteLLM",
+      "titleOriginal": "Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "أنشئ بوابة LLM ذاتية الخدمة باستخدام LiteLLM على AWS Fargate تضع نماذج Amazon Bedrock الأساسية خلف واجهة برمجة تطبيقات متوافقة مع OpenAI. يحصل المطورون على وصول فوري من خلال",
+      "summaryOriginal": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Building a self-service LLM gateway with Amazon Bedrock and LiteLLM",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T18:41:12+00:00"
+    },
     {
       "id": "2ae50e7e47deda1e8438",
       "company": "Amazon",
@@ -684,51 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
-    },
-    {
-      "id": "c8c8d80b1fe3bf157b5e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "ادفع مقابل Hugging Face Hub باستخدام حسابك على Google Cloud",
-      "titleOriginal": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
-    },
-    {
-      "id": "ccccaea543f92701d818",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج القرار في Hugging Face",
-      "titleOriginal": "Decision Models in Hugging Face",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/decision",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Decision Models in Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T18:38:58.538113+00:00"
+  "lastFastCheckAt": "2026-11-12T18:44:01.612353+00:00"
 }
