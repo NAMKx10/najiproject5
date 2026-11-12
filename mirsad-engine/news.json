@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T10:18:21.246439+00:00",
-  "checkedAt": "2026-11-12T10:18:21.246439+00:00",
-  "newestPublishedAt": "2026-11-12T01:18:23+00:00",
+  "updatedAt": "2026-11-12T10:23:25.388334+00:00",
+  "checkedAt": "2026-11-12T10:23:25.388334+00:00",
+  "newestPublishedAt": "2026-11-12T09:30:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -93,6 +93,32 @@
   ],
   "items": [
     {
+      "id": "3e8f71b4d23b54f7316f",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "تعيد Holiday Extras التفكير فيما يمكنها إنشاؤه باستخدام Codex",
+      "titleOriginal": "Holiday Extras is rethinking what it can build with Codex",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "business",
+      "importance": 82,
+      "summary": "مع Codex، تحول Holiday Extras خبرة العملاء إلى تطبيقات أفضل، وتحويل أعلى للحجوزات وإمكانيات جديدة للنمو.",
+      "summaryOriginal": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Holiday Extras is rethinking what it can build with Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T09:30:00+00:00"
+    },
+    {
       "id": "a363b566d6d16699dd7d",
       "company": "Amazon",
       "logoText": "AWS",
@@ -133,6 +159,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
+    },
+    {
+      "id": "49a30a9055d79ab7015a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "دعم البحوث المتعلقة بالذكاء الاصطناعي وسلامة الأطفال",
+      "titleOriginal": "Supporting research on AI and children’s safety",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "research",
+      "importance": 86,
+      "summary": "تخصص OpenAI مبلغ 2 مليون دولار للبحث في الذكاء الاصطناعي وسلامة الأطفال. يدعم العمل الأدوات المشتركة لقياس المخاطر والفرص للشباب.",
+      "summaryOriginal": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/children-first-declaration",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Supporting research on AI and children’s safety",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T00:00:00+00:00"
     },
     {
       "id": "ddd335f18c287dd44525",
@@ -684,61 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "id": "0483cc6fe5f4e7b566b2",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "Nemotron-Personas-Finance-Japan: مجموعة بيانات اصطناعية تلتقط التركيبة السكانية والسياق المالي لليابان",
-      "titleOriginal": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T15:05:57+00:00"
-    },
-    {
-      "id": "d26170c43578f4faaf4e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أعمال وشراكات",
-      "title": "لدى خبرائك شركاء. هناك أمل في إبقائهم معًا",
-      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T12:34:29+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T10:18:21.246439+00:00"
+  "lastFastCheckAt": "2026-11-12T10:23:25.388334+00:00"
 }
