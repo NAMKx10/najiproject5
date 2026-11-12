@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T15:41:13.786552+00:00",
-  "checkedAt": "2026-11-12T15:41:13.786552+00:00",
-  "newestPublishedAt": "2026-11-12T15:40:24+00:00",
+  "updatedAt": "2026-11-12T15:46:25.523335+00:00",
+  "checkedAt": "2026-11-12T15:46:25.523335+00:00",
+  "newestPublishedAt": "2026-11-12T15:42:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "39e3d116012a5a353aef",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء أنظمة متعددة العوامل قابلة للتكوين وقابلة للتشغيل البيني باستخدام A2A على AWS",
+      "titleOriginal": "Build composable, interoperable multi-agent systems with A2A on AWS",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قم ببناء نظام متعدد العوامل قابل للتكوين وقابل للتشغيل البيني على AWS باستخدام بروتوكول Agent-to-Agent (A2A). يتواصل منظم LangChain على Amazon ECS مع وكيل Strands",
+      "summaryOriginal": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated calls, with neither side depending on the other's framework or SDK.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build composable, interoperable multi-agent systems with A2A on AWS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T15:42:21+00:00"
+    },
     {
       "id": "6fcea8aba768d72c73e3",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
-    },
-    {
-      "id": "ccccaea543f92701d818",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج القرار في Hugging Face",
-      "titleOriginal": "Decision Models in Hugging Face",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/decision",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Decision Models in Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T15:41:13.786552+00:00"
+  "lastFastCheckAt": "2026-11-12T15:46:25.523335+00:00"
 }
