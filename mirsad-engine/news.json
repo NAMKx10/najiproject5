@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T01:16:36.707881+00:00",
-  "checkedAt": "2026-11-12T01:16:36.707881+00:00",
-  "newestPublishedAt": "2026-11-12T00:00:00+00:00",
+  "updatedAt": "2026-11-12T01:21:38.452234+00:00",
+  "checkedAt": "2026-11-12T01:21:38.452234+00:00",
+  "newestPublishedAt": "2026-11-12T01:18:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "309d52ea833f642d2b62",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء وكلاء ذكاء اصطناعي مستقلين باستخدام Amazon Bedrock وSpring AI",
+      "titleOriginal": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرّف على كيفية تمكّن مطوري Java من إنشاء وكلاء ذكاء اصطناعي مستقلين جاهزين للإنتاج باستخدام Amazon Bedrock وSpring AI. يتناول هذا المنشور استدعاء الأدوات، وذاكرة المحادثة، و",
+      "summaryOriginal": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T01:18:23+00:00"
+    },
     {
       "id": "24e68a4ea5f660488dd5",
       "company": "OpenAI",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-09T15:05:57+00:00"
-    },
-    {
-      "id": "d26170c43578f4faaf4e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "أعمال وشراكات",
-      "title": "لدى خبرائك شركاء. هناك أمل في إبقائهم معًا",
-      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "dateLabel": "9 نوفمبر 2026",
-      "dateISO": "2026-11-09",
-      "category": "business",
-      "importance": 82,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T12:34:29+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T01:01:26.245940+00:00",
-  "lastFastCheckAt": "2026-11-12T01:16:36.707881+00:00"
+  "lastFastCheckAt": "2026-11-12T01:21:38.452234+00:00"
 }
