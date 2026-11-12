@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T19:29:04.385750+00:00",
-  "checkedAt": "2026-11-12T19:29:04.385750+00:00",
-  "newestPublishedAt": "2026-11-12T19:07:35+00:00",
+  "updatedAt": "2026-11-12T19:34:08.153729+00:00",
+  "checkedAt": "2026-11-12T19:34:08.153729+00:00",
+  "newestPublishedAt": "2026-11-12T19:29:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "6a74f1a6017fb2a3aec4",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "اقتصاديات الرموز على نطاق واسع: تتبع وحدد نفقات Amazon Bedrock لكل كيان رئيسي في IAM باستخدام CUR 2.0 وAWS Budgets",
+      "titleOriginal": "Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "policy",
+      "importance": 88,
+      "summary": "احصل على رؤية لتكلفة Amazon Bedrock لكل هوية وحدود إنفاق قابلة للتنفيذ باستخدام الميزات الأصلية لخدمة AWS فقط، دون أي رمز تطبيق للحالة الشائعة. إنفاق السمات",
+      "summaryOriginal": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Tokenomics at scale: Track and cap Amazon Bedrock spend per IAM principal with CUR 2.0 and AWS Budgets",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T19:29:55+00:00"
+    },
     {
       "id": "01974f612fbc826bc368",
       "company": "Hugging Face",
@@ -638,6 +664,32 @@
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
+      "id": "27031441594673205128",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مساعدة مقدمي الرعاية على استخدام الذكاء الاصطناعي في الحياة اليومية",
+      "titleOriginal": "Helping caregivers use AI in everyday life",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم أكاديمية OpenAI ورش عمل عملية مجانية حول ChatGPT لمقدمي الرعاية في خمس مدن أمريكية، مما يساعدهم على بناء مهارات الذكاء الاصطناعي العملية للحياة اليومية.",
+      "summaryOriginal": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Helping caregivers use AI in everyday life",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T12:00:00+00:00"
+    },
+    {
       "id": "56cb7629a234beb0cd3a",
       "company": "OpenAI",
       "logoText": "AI",
@@ -714,56 +766,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-10T08:00:00+00:00"
-    },
-    {
-      "id": "e408ab02dd9218605bc8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "العمل على الحدود: تأثير الذكاء الاصطناعي على العمل الحر",
-      "titleOriginal": "Work at the Frontier: AI’s effect on freelance work",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "توصلت دراسة جديدة أجرتها OpenAI وUpwork إلى تحول في الطلب على العمل الحر، ومجموعات مهارات جديدة، وميزانيات أكبر وساعات عمل أكثر للمشاريع المتعلقة بالذكاء الاصطناعي.",
-      "summaryOriginal": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ai-effect-on-freelance-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T07:00:00+00:00"
-    },
-    {
-      "id": "911277b5dfd1c0c61096",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "توسع NVIDIA التزامها بالمصادر المفتوحة من خلال التبرع بـ OpenShell والبنية التحتية الجديدة للذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه في تزايد مستمر فقط.",
-      "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T19:29:04.385750+00:00"
+  "lastFastCheckAt": "2026-11-12T19:34:08.153729+00:00"
 }
