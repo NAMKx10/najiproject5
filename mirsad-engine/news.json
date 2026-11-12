@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T17:02:32.694880+00:00",
-  "checkedAt": "2026-11-12T17:02:32.694880+00:00",
+  "updatedAt": "2026-11-12T17:05:56.748403+00:00",
+  "checkedAt": "2026-11-12T17:05:56.748403+00:00",
   "newestPublishedAt": "2026-11-12T17:00:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "78db2f2a8bae994e4aa1",
+      "id": "c47f4e4f7578a9dc3d28",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "أعمال وشراكات",
@@ -103,23 +103,18 @@
       "dateISO": "2026-11-12",
       "category": "business",
       "importance": 82,
-      "summary": "لم يعد معظم قادة الأعمال الذين أقابلهم بحاجة إلى الإقناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في غرف الاجتماعات الآن هو",
+      "summary": "لم يعد معظم قادة الأعمال الذين ألتقي بهم بحاجة إلى الاقتناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في غرف الاجتماعات الآن هو",
       "summaryOriginal": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact",
+      "source": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft From AI ambition to business impact",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T17:00:03+00:00"
+      "searchAliases": "Microsoft From AI ambition to business impact"
     },
     {
-      "id": "3baa915efed999309f51",
+      "id": "756409d62dfabb8598ef",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -132,20 +127,15 @@
       "summary": "يساعدك دليل الترحيل في مهارة Amazon Bedrock على ترحيل قاعدة معارف Amazon Bedrock التي يديرها العميل إلى قاعدة معارف مُدارة. يخطط وكيل البرمجة الخاص بك",
       "summaryOriginal": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template alongside the original, and validates retrieval before you cut over.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent",
+      "source": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T16:16:45+00:00"
+      "searchAliases": "Amazon Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent"
     },
     {
-      "id": "ca611c5a9fabd6b8374e",
+      "id": "334aee900f7115defc4c",
       "company": "Microsoft",
       "logoText": "MS",
       "type": "بحث",
@@ -155,23 +145,18 @@
       "dateISO": "2026-11-12",
       "category": "research",
       "importance": 86,
-      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من الالتزام",
+      "summary": "النتائج منتشرة على نطاق واسع. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من الالتزام",
       "summaryOriginal": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value without losing control: Lessons from Frontier Firms appeared first on The Official Microsoft Blog .",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms",
+      "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
       "sourceLabel": "Microsoft",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Microsoft Scaling AI value without losing control: Lessons from Frontier Firms",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T16:00:02+00:00"
+      "searchAliases": "Microsoft Scaling AI value without losing control: Lessons from Frontier Firms"
     },
     {
-      "id": "39e3d116012a5a353aef",
+      "id": "4fc508bbe8f19fe84ace",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -184,20 +169,15 @@
       "summary": "قم ببناء نظام متعدد العوامل قابل للتكوين وقابل للتشغيل البيني على AWS باستخدام بروتوكول Agent-to-Agent (A2A). يتواصل منظم LangChain على Amazon ECS مع وكيل Strands",
       "summaryOriginal": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated calls, with neither side depending on the other's framework or SDK.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build composable, interoperable multi-agent systems with A2A on AWS",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T15:42:21+00:00"
+      "searchAliases": "Amazon Build composable, interoperable multi-agent systems with A2A on AWS"
     },
     {
-      "id": "6fcea8aba768d72c73e3",
+      "id": "19b46e3f0a7473ea3ca7",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أمان وسياسات",
@@ -210,20 +190,15 @@
       "summary": "تعرّف على كيفية عرض قاعدة المعرفة المُدارة من Amazon Bedrock على وكلاء الذكاء الاصطناعي كأدوات MCP من خلال بوابة AgentCore من Amazon Bedrock مع الحفاظ على التحكم في الوصول لكل مستخدم.",
       "summaryOriginal": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T15:40:24+00:00"
+      "searchAliases": "Amazon Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools"
     },
     {
-      "id": "af5e4eed4ad76ac6e6af",
+      "id": "afc83643d0a65269e40e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -236,17 +211,12 @@
       "summary": "يتوقف الوكلاء بين العرض التوضيحي والإصدار عندما تفتقر الفرق إلى طريقة قابلة للتكرار لقياس مدى جودة الوكيل وما إذا كان التغيير الأخير قد ساعد. يتناول هذا المنشور ثلاثة إجراءات متعلقة بالوكيل",
       "summaryOriginal": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and Agent DLC: one lifecycle, two loops, and one explicit standard for judging every change.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon From prototype to production: Engineering agents with Agent DLC",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T15:38:47+00:00"
+      "searchAliases": "Amazon From prototype to production: Engineering agents with Agent DLC"
     },
     {
       "id": "3e8f71b4d23b54f7316f",
@@ -267,12 +237,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Holiday Extras is rethinking what it can build with Codex",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T09:30:00+00:00"
+      "searchAliases": "OpenAI Holiday Extras is rethinking what it can build with Codex"
     },
     {
       "id": "a363b566d6d16699dd7d",
@@ -296,6 +261,27 @@
       "searchAliases": "Amazon Build autonomous AI agents with Amazon Bedrock and Spring AI"
     },
     {
+      "id": "49a30a9055d79ab7015a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "دعم البحوث المتعلقة بالذكاء الاصطناعي وسلامة الأطفال",
+      "titleOriginal": "Supporting research on AI and children’s safety",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "research",
+      "importance": 86,
+      "summary": "تخصص OpenAI مبلغ 2 مليون دولار للبحث في الذكاء الاصطناعي وسلامة الأطفال. يدعم العمل الأدوات المشتركة لقياس المخاطر والفرص للشباب.",
+      "summaryOriginal": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/children-first-declaration",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Supporting research on AI and children’s safety"
+    },
+    {
       "id": "24e68a4ea5f660488dd5",
       "company": "OpenAI",
       "logoText": "AI",
@@ -317,32 +303,6 @@
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
     },
     {
-      "id": "49a30a9055d79ab7015a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "دعم البحوث المتعلقة بالذكاء الاصطناعي وسلامة الأطفال",
-      "titleOriginal": "Supporting research on AI and children’s safety",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "research",
-      "importance": 86,
-      "summary": "تخصص OpenAI مبلغ 2 مليون دولار للبحث في الذكاء الاصطناعي وسلامة الأطفال. يدعم العمل الأدوات المشتركة لقياس المخاطر والفرص للشباب.",
-      "summaryOriginal": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/children-first-declaration",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Supporting research on AI and children’s safety",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T00:00:00+00:00"
-    },
-    {
       "id": "b5bfc2d3387b9ddeb1d0",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -361,12 +321,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T00:00:00+00:00"
+      "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
     },
     {
       "id": "ddd335f18c287dd44525",
@@ -379,7 +334,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "دليل عملي للمؤسسات التي تنشر OpenAI Codex للمطورين على AWS، مع Amazon Bedrock كواجهة خلفية للنموذج، يغطي الوصول والحوكمة وقرارات التكلفة",
+      "summary": "دليل عملي للشركات التي تطرح OpenAI Codex للمطورين على AWS، مع Amazon Bedrock كنظام خلفي للنموذج، يغطي الوصول والحوكمة وقرارات التكلفة",
       "summaryOriginal": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
@@ -442,7 +397,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "نعلن اليوم عن واجهة برمجة التطبيقات (API) للبحث على الويب على Amazon Bedrock AgentCore: يمكن لرمزك الخاص البحث على الويب باستخدام استدعاء واحد لواجهة برمجة التطبيقات (API) موقع، بدون بوابة وبدون موارد",
+      "summary": "نعلن اليوم عن واجهة برمجة التطبيقات للبحث على الويب على Amazon Bedrock AgentCore: يمكن لرمزك الخاص البحث على الويب باستخدام استدعاء واحد لواجهة برمجة التطبيقات تم توقيعه، دون الحاجة إلى بوابة أو موارد",
       "summaryOriginal": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
@@ -463,7 +418,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "ملخص للتحديثات الرئيسية لـ Amazon Bedrock وAmazon Bedrock AgentCore وStrands من أكتوبر 2026: نماذج جديدة تتناسب مع كل مهمة، وتحديثات تحافظ على توفر الوكلاء",
+      "summary": "ملخص للتحديثات الرئيسية لـ Amazon Bedrock وAmazon Bedrock AgentCore وStrands اعتبارًا من أكتوبر 2026: نماذج جديدة تتناسب مع كل مهمة، وتحديثات تحافظ على توفر الوكلاء",
       "summaryOriginal": "A recap of the major Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from October 2026: new models to match each task, updates that keep agents available and grounded, and clearer cost reporting for AI builders.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-october-2026/",
@@ -472,90 +427,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon ICYMI: What landed for AI builders in October 2026"
-    },
-    {
-      "id": "80b2e60f224c6577c83d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "دليل المشاركين في مسار الذكاء الاصطناعي/تعلم الآلة في مؤتمر AWS re:Invent 2026",
-      "titleOriginal": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتضمن مؤتمر AWS re:Invent 2026 أكثر من 140 جلسة في مسار الذكاء الاصطناعي/التعلم الآلي. يساعدك دليل الحضور هذا في العثور على الجلسات الفرعية والمحاضرات التفاعلية وورش العمل وجلسات المطورين التي تناسبك",
-      "summaryOriginal": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon The attendee’s guide to the AWS re:Invent 2026 AI/ML track"
-    },
-    {
-      "id": "67f3a165abcd61edc324",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "أتمتة تحديثات سجل وكيل AWS باستخدام بنية قائمة على الإرسال",
-      "titleOriginal": "Automating AWS Agent Registry updates with push-based architecture",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يوضح هذا المنشور كيفية تحديث سجل وكيل AWS تلقائيًا. باستخدام AWS CloudTrail وAmazon EventBridge وAWS Lambda وAgentCore Identity، يتم إنشاء خط أنابيب قائم على الأحداث",
-      "summaryOriginal": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Automating AWS Agent Registry updates with push-based architecture"
-    },
-    {
-      "id": "f318598f44ec87557ddb",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف أنشأت DXC Technology طبقة أساسية للذكاء الاصطناعي متعددة النماذج على Amazon Bedrock",
-      "titleOriginal": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "تدير DXC Technology خدمات تكنولوجيا المعلومات المُدارة الحيوية للمؤسسات الخاضعة للتنظيم في 70 دولة. تعرّف على كيفية إنشاء DXC لـ DCX OASIS، نموذجها التشغيلي للإنسان + الذكاء الاصطناعي، على",
-      "summaryOriginal": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How DXC Technology built a multi-model AI substrate on Amazon Bedrock"
-    },
-    {
-      "id": "3136dc09e029e2dfda29",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تسريع تقديم الذكاء الاصطناعي التوليدي باستخدام الأصول القابلة لإعادة الاستخدام",
-      "titleOriginal": "Accelerating generative AI delivery with reusable assets",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يستمر كل فريق من فرق الذكاء الاصطناعي التوليدي في إعادة بناء المكونات نفسها: مسارات RAG ومعالجات المستندات وإعدادات الوكيل. يوضح هذا المنشور كيفية الوصول إلى كتالوج منتقى بعناية",
-      "summaryOriginal": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Accelerating generative AI delivery with reusable assets"
     },
     {
       "id": "d92b641afddb1d58750f",
@@ -673,7 +544,7 @@
       "dateISO": "2026-11-10",
       "category": "tools",
       "importance": 78,
-      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه آخذ في الازدياد فقط.",
+      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه في تزايد مستمر فقط.",
       "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
@@ -766,9 +637,92 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology"
+    },
+    {
+      "id": "e408ab02dd9218605bc8",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "العمل في المجال الرائد: تأثير الذكاء الاصطناعي على العمل الحر",
+      "titleOriginal": "Work at the Frontier: AI’s effect on freelance work",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "توصلت دراسة جديدة أجرتها OpenAI وUpwork إلى حدوث تحول في الطلب على العمل الحر، ومجموعات المهارات الجديدة، والميزانيات الأكبر، والمزيد من الساعات للمشاريع المتعلقة بالذكاء الاصطناعي.",
+      "summaryOriginal": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/ai-effect-on-freelance-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
+    },
+    {
+      "id": "c8c8d80b1fe3bf157b5e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "ادفع مقابل Hugging Face Hub باستخدام حسابك على Google Cloud",
+      "titleOriginal": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
+    },
+    {
+      "id": "ccccaea543f92701d818",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج القرار في Hugging Face",
+      "titleOriginal": "Decision Models in Hugging Face",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/decision",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Decision Models in Hugging Face"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي والسلامة تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T17:02:32.694880+00:00"
+  "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00"
 }
