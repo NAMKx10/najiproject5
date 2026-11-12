@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T23:17:21.037114+00:00",
-  "checkedAt": "2026-11-12T23:17:21.037114+00:00",
+  "updatedAt": "2026-11-12T23:22:22.191369+00:00",
+  "checkedAt": "2026-11-12T23:22:22.191369+00:00",
   "newestPublishedAt": "2026-11-12T22:03:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8eefab753168f2d9346d",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "Gondola تُضاعف إيراداتها مع قيام فريقها ببناء المزيد باستخدام Codex",
+      "titleOriginal": "Gondola doubles revenue as its team builds more with Codex",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعد غوندولا المبدعين على الحصول على التقدير والتوظيف، حيث رفعت كوديكس إنتاجية مهندسها الرئيسي بنسبة 50% وأتاح ChatGPT تبسيط العمل اليومي.",
+      "summaryOriginal": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/gondola",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Gondola doubles revenue as its team builds more with Codex",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T12:00:00+00:00"
+    },
     {
       "id": "19318a3cf4f35f056ba9",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
-    },
-    {
-      "id": "ccccaea543f92701d818",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج القرار في Hugging Face",
-      "titleOriginal": "Decision Models in Hugging Face",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/decision",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Decision Models in Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T22:43:52.459440+00:00",
-  "lastFastCheckAt": "2026-11-12T23:17:21.037114+00:00"
+  "lastFastCheckAt": "2026-11-12T23:22:22.191369+00:00"
 }
