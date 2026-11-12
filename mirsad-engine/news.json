@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T20:50:21.471051+00:00",
-  "checkedAt": "2026-11-12T20:50:21.471051+00:00",
-  "newestPublishedAt": "2026-11-12T20:00:00+00:00",
+  "updatedAt": "2026-11-12T20:55:20.632926+00:00",
+  "checkedAt": "2026-11-12T20:55:20.632926+00:00",
+  "newestPublishedAt": "2026-11-12T20:51:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "63840777b6f727739948",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أربعة خيارات استدلال Amazon Bedrock تؤثر على التكلفة",
+      "titleOriginal": "Four Amazon Bedrock inference choices that affect cost",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قد تستمر فاتورة استنتاج Amazon Bedrock في الارتفاع حتى بعد ضبط المطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال",
+      "summaryOriginal": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Four Amazon Bedrock inference choices that affect cost",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T20:51:55+00:00"
+    },
     {
       "id": "3e4de0d5dce212eb6824",
       "company": "OpenAI",
@@ -740,35 +766,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "id": "56cb7629a234beb0cd3a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم الشركات في ChatGPT",
-      "titleOriginal": "Introducing Businesses in ChatGPT",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "يمكنك إدارة معلومات شركتك، والحصول على رؤى حول كيفية ظهور شركتك، وتحويل الاهتمام إلى إجراءات في ChatGPT.",
-      "summaryOriginal": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-businesses-chatgpt",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing Businesses in ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T10:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T20:50:21.471051+00:00"
+  "lastFastCheckAt": "2026-11-12T20:55:20.632926+00:00"
 }
