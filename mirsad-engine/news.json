@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T19:13:54.441234+00:00",
-  "checkedAt": "2026-11-12T19:13:54.441234+00:00",
+  "updatedAt": "2026-11-12T19:18:56.542037+00:00",
+  "checkedAt": "2026-11-12T19:18:56.542037+00:00",
   "newestPublishedAt": "2026-11-12T19:07:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -638,6 +638,32 @@
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
+      "id": "52033d249afe64a30482",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "الخطوط الجوية السنغافورية ترفع مستوى السفر والعمل باستخدام تقنية OpenAI",
+      "titleOriginal": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف تستخدم الخطوط الجوية السنغافورية نماذج OpenAI وواجهة برمجة التطبيقات (API) لتعزيز دعم العملاء واكتشاف أماكن السفر وإنتاجية الموظفين، مما يضاعف رضا العملاء عن روبوت الدردشة الخاص بها Kris.",
+      "summaryOriginal": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/singapore-airlines-travel-work",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T08:00:00+00:00"
+    },
+    {
       "id": "e408ab02dd9218605bc8",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing Businesses in ChatGPT"
-    },
-    {
-      "id": "7d36bedb27f3251ba8b1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "سد فجوة توجيه الذكاء الاصطناعي في التعليم",
-      "titleOriginal": "Closing the AI guidance gap in education",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "أبحاث ThinkYoung الجديدة والدروس المستفادة من شراكات التعليم في أوروبا والشرق الأوسط وأفريقيا التابعة لـ OpenAI حول دعم المعلمين ومحو الأمية في مجال الذكاء الاصطناعي والتعلم المستقل.",
-      "summaryOriginal": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Closing the AI guidance gap in education"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T19:13:54.441234+00:00"
+  "lastFastCheckAt": "2026-11-12T19:18:56.542037+00:00"
 }
