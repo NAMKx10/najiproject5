@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T19:18:56.542037+00:00",
-  "checkedAt": "2026-11-12T19:18:56.542037+00:00",
+  "updatedAt": "2026-11-12T19:24:02.831152+00:00",
+  "checkedAt": "2026-11-12T19:24:02.831152+00:00",
   "newestPublishedAt": "2026-11-12T19:07:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -638,6 +638,32 @@
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
+      "id": "7d36bedb27f3251ba8b1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "سد فجوة التوجيه بالذكاء الاصطناعي في التعليم",
+      "titleOriginal": "Closing the AI guidance gap in education",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "research",
+      "importance": 86,
+      "summary": "أبحاث ThinkYoung الجديدة والدروس المستفادة من شراكات OpenAI التعليمية في أوروبا والشرق الأوسط وأفريقيا لدعم المعلمين ومحو الأمية في مجال الذكاء الاصطناعي والتعلم المستقل.",
+      "summaryOriginal": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Closing the AI guidance gap in education",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T09:00:00+00:00"
+    },
+    {
       "id": "52033d249afe64a30482",
       "company": "OpenAI",
       "logoText": "AI",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Helping caregivers use AI in everyday life"
-    },
-    {
-      "id": "56cb7629a234beb0cd3a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم الشركات في ChatGPT",
-      "titleOriginal": "Introducing Businesses in ChatGPT",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "إدارة معلومات عملك، والحصول على رؤى حول كيفية ظهور عملك، وتحويل الاهتمام إلى عمل في ChatGPT.",
-      "summaryOriginal": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-businesses-chatgpt",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing Businesses in ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T19:18:56.542037+00:00"
+  "lastFastCheckAt": "2026-11-12T19:24:02.831152+00:00"
 }
