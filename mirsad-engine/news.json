@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T23:52:54.289583+00:00",
-  "checkedAt": "2026-11-12T23:52:54.289583+00:00",
+  "updatedAt": "2026-11-12T23:57:57.880916+00:00",
+  "checkedAt": "2026-11-12T23:57:57.880916+00:00",
   "newestPublishedAt": "2026-11-12T22:03:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a06c84e5376ffee182dd",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تطرح Amplitude تحسينات المنتج في غضون يوم أو يومين باستخدام OpenAI",
+      "titleOriginal": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعمل وكيل المنتج الاستباقي من Amplitude، Wave، الذي يعتمد بشكل أساسي على نماذج OpenAI، على تحديد ما يجب إنشاؤه، ويساعد الفرق على تنفيذ التغييرات باستخدام وكلاء البرمجة، ويقيس التأثير",
+      "summaryOriginal": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/amplitude",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T20:00:00+00:00"
+    },
     {
       "id": "8eefab753168f2d9346d",
       "company": "OpenAI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology"
-    },
-    {
-      "id": "c8c8d80b1fe3bf157b5e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "ادفع مقابل Hugging Face Hub باستخدام حسابك على Google Cloud",
-      "titleOriginal": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T22:43:52.459440+00:00",
-  "lastFastCheckAt": "2026-11-12T23:52:54.289583+00:00"
+  "lastFastCheckAt": "2026-11-12T23:57:57.880916+00:00"
 }
