@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T15:36:07.131268+00:00",
-  "checkedAt": "2026-11-12T15:36:07.131268+00:00",
-  "newestPublishedAt": "2026-11-12T09:30:00+00:00",
+  "updatedAt": "2026-11-12T15:41:13.786552+00:00",
+  "checkedAt": "2026-11-12T15:41:13.786552+00:00",
+  "newestPublishedAt": "2026-11-12T15:40:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "6fcea8aba768d72c73e3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "التحكم الدقيق في الوصول لأدوات قاعدة المعرفة المُدارة من Amazon Bedrock",
+      "titleOriginal": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تعرّف على كيفية عرض قاعدة المعرفة المُدارة من Amazon Bedrock على وكلاء الذكاء الاصطناعي كأدوات MCP من خلال بوابة AgentCore من Amazon Bedrock مع الحفاظ على التحكم في الوصول لكل مستخدم.",
+      "summaryOriginal": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T15:40:24+00:00"
+    },
+    {
+      "id": "af5e4eed4ad76ac6e6af",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "من النموذج الأولي إلى الإنتاج: هندسة العوامل باستخدام Agent DLC",
+      "titleOriginal": "From prototype to production: Engineering agents with Agent DLC",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوقف الوكلاء بين العرض التوضيحي والإصدار عندما تفتقر الفرق إلى طريقة قابلة للتكرار لقياس مدى جودة الوكيل وما إذا كان التغيير الأخير قد ساعد. يتناول هذا المنشور ثلاثة إجراءات متعلقة بالوكيل",
+      "summaryOriginal": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers three agent properties that break traditional CI/CD, a measured case where an aggregate metric hides a coverage gap, and Agent DLC: one lifecycle, two loops, and one explicit standard for judging every change.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon From prototype to production: Engineering agents with Agent DLC",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T15:38:47+00:00"
+    },
     {
       "id": "3e8f71b4d23b54f7316f",
       "company": "OpenAI",
@@ -694,51 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Decision Models in Hugging Face"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي وسلامته تعمل على بناء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "f5c4d1ca9e6815dc9973",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "إطلاق أو تحديث",
-      "title": "تطلق أنثروبيك جولةً تعريفيةً للعرض العام الأولي المقترح",
-      "titleOriginal": "Anthropic launches roadshow for proposed initial public offering",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أطلقت شركة أنثروبيك، بي بي سي اليوم الجولة الترويجية للعرض العام الأولي المقترح لأسهمها العادية من الفئة أ.",
-      "summaryOriginal": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.anthropic.com/news/roadshow-launch",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Anthropic launches roadshow for proposed initial public offering"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T15:36:07.131268+00:00"
+  "lastFastCheckAt": "2026-11-12T15:41:13.786552+00:00"
 }
