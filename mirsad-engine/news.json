@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T19:03:46.896691+00:00",
-  "checkedAt": "2026-11-12T19:03:46.896691+00:00",
-  "newestPublishedAt": "2026-11-12T18:43:19+00:00",
+  "updatedAt": "2026-11-12T19:08:51.258324+00:00",
+  "checkedAt": "2026-11-12T19:08:51.258324+00:00",
+  "newestPublishedAt": "2026-11-12T19:07:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "01974f612fbc826bc368",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "LLMON: لغة ترميز أصلية للنماذج اللغوية الكبيرة (LLM)، متاحة الآن في Granite 4.1 3B و8B",
+      "titleOriginal": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T19:07:35+00:00"
+    },
     {
       "id": "dfad92f5bfb82ae1e8a6",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Singapore Airlines elevates travel & work with OpenAI technology"
-    },
-    {
-      "id": "e408ab02dd9218605bc8",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "العمل في المجال الرائد: تأثير الذكاء الاصطناعي على العمل الحر",
-      "titleOriginal": "Work at the Frontier: AI’s effect on freelance work",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "توصلت دراسة جديدة أجرتها OpenAI وUpwork إلى حدوث تحول في الطلب على العمل الحر، ومجموعات المهارات الجديدة، والميزانيات الأكبر، والمزيد من الساعات للمشاريع المتعلقة بالذكاء الاصطناعي.",
-      "summaryOriginal": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/ai-effect-on-freelance-work",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T19:03:46.896691+00:00"
+  "lastFastCheckAt": "2026-11-12T19:08:51.258324+00:00"
 }
