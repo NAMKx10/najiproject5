@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T16:16:51.465213+00:00",
-  "checkedAt": "2026-11-12T16:16:51.465213+00:00",
-  "newestPublishedAt": "2026-11-12T16:00:02+00:00",
+  "updatedAt": "2026-11-12T16:21:56.348115+00:00",
+  "checkedAt": "2026-11-12T16:21:56.348115+00:00",
+  "newestPublishedAt": "2026-11-12T16:16:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3baa915efed999309f51",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "الانتقال إلى قاعدة المعرفة المُدارة من Amazon Bedrock باستخدام وكيل البرمجة الخاص بك",
+      "titleOriginal": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "dateLabel": "12 نوفمبر 2026",
+      "dateISO": "2026-11-12",
+      "category": "business",
+      "importance": 82,
+      "summary": "يساعدك دليل الترحيل في مهارة Amazon Bedrock على ترحيل قاعدة معارف Amazon Bedrock التي يديرها العميل إلى قاعدة معارف مُدارة. يخطط وكيل البرمجة الخاص بك",
+      "summaryOriginal": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agent plans the move with read-only discovery, creates the new knowledge base or an infrastructure-as-code template alongside the original, and validates retrieval before you cut over.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-12T16:16:45+00:00"
+    },
     {
       "id": "ca611c5a9fabd6b8374e",
       "company": "Microsoft",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Work at the Frontier: AI’s effect on freelance work"
-    },
-    {
-      "id": "d5ebec05920f1b1deb4c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "تقوم Cogent وOpenAI ببناء مصانع للدفاع السيبراني للشركات",
-      "titleOriginal": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تجمع Cogent بين نماذج OpenAI وسياق المؤسسة للمساعدة في معالجة الثغرات الأمنية تلقائيًا باستخدام الوكلاء.",
-      "summaryOriginal": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/cogent-security",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Cogent and OpenAI build cyber defense factories for enterprises"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00",
-  "lastFastCheckAt": "2026-11-12T16:16:51.465213+00:00"
+  "lastFastCheckAt": "2026-11-12T16:21:56.348115+00:00"
 }
