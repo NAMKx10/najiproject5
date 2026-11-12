@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T19:24:02.831152+00:00",
-  "checkedAt": "2026-11-12T19:24:02.831152+00:00",
+  "updatedAt": "2026-11-12T19:29:04.385750+00:00",
+  "checkedAt": "2026-11-12T19:29:04.385750+00:00",
   "newestPublishedAt": "2026-11-12T19:07:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -638,6 +638,32 @@
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
+      "id": "56cb7629a234beb0cd3a",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم الشركات في ChatGPT",
+      "titleOriginal": "Introducing Businesses in ChatGPT",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "models",
+      "importance": 92,
+      "summary": "يمكنك إدارة معلومات شركتك، والحصول على رؤى حول كيفية ظهور شركتك، وتحويل الاهتمام إلى إجراءات في ChatGPT.",
+      "summaryOriginal": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-businesses-chatgpt",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing Businesses in ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T10:00:00+00:00"
+    },
+    {
       "id": "7d36bedb27f3251ba8b1",
       "company": "OpenAI",
       "logoText": "AI",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure"
-    },
-    {
-      "id": "27031441594673205128",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة مقدمي الرعاية على استخدام الذكاء الاصطناعي في الحياة اليومية",
-      "titleOriginal": "Helping caregivers use AI in everyday life",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم أكاديمية OpenAI ورش عمل ChatGPT مجانية وعملية لمقدمي الرعاية في خمس مدن أمريكية، مما يساعدهم على بناء مهارات الذكاء الاصطناعي العملية للحياة اليومية.",
-      "summaryOriginal": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping caregivers use AI in everyday life"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-12T17:05:56.748403+00:00",
-  "lastFastCheckAt": "2026-11-12T19:24:02.831152+00:00"
+  "lastFastCheckAt": "2026-11-12T19:29:04.385750+00:00"
 }
