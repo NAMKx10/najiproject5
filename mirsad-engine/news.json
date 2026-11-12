@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-12T08:16:34.344926+00:00",
-  "checkedAt": "2026-11-12T08:16:34.344926+00:00",
+  "updatedAt": "2026-11-12T08:21:16.533836+00:00",
+  "checkedAt": "2026-11-12T08:21:16.533836+00:00",
   "newestPublishedAt": "2026-11-12T01:18:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "309d52ea833f642d2b62",
+      "id": "a363b566d6d16699dd7d",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,17 +106,12 @@
       "summary": "تعرّف على كيفية تمكّن مطوري Java من إنشاء وكلاء ذكاء اصطناعي مستقلين جاهزين للإنتاج باستخدام Amazon Bedrock وSpring AI. يتناول هذا المنشور استدعاء الأدوات، وذاكرة المحادثة، و",
       "summaryOriginal": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation memory, resilience patterns, and multi-agent orchestration, then deploys the agent to AWS with Amazon Bedrock AgentCore.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build autonomous AI agents with Amazon Bedrock and Spring AI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-12T01:18:23+00:00"
+      "searchAliases": "Amazon Build autonomous AI agents with Amazon Bedrock and Spring AI"
     },
     {
       "id": "24e68a4ea5f660488dd5",
@@ -150,7 +145,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "دليل عملي للمؤسسات التي تطرح OpenAI Codex للمطورين على AWS، مع Amazon Bedrock كواجهة خلفية للنموذج، ويغطي الوصول والحوكمة وقرارات التكلفة",
+      "summary": "دليل عملي للمؤسسات التي تنشر OpenAI Codex للمطورين على AWS، مع Amazon Bedrock كواجهة خلفية للنموذج، يغطي الوصول والحوكمة وقرارات التكلفة",
       "summaryOriginal": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and cost decisions that platform, security, and finance teams need to align on.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
@@ -192,7 +187,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "فساد البيانات الصامت هو خطأ في وحدة معالجة الرسومات (GPU) يعطي أرقامًا خاطئة ولكنها معقولة دون أي خطأ، مما يؤدي إلى إفساد التدريب الموزع بصمت. تضيف هذه المقالة ثلاثة فحوصات إلى PyT",
+      "summary": "فساد البيانات الصامت هو عطل في وحدة معالجة الرسومات يعيد أرقامًا خاطئة ولكنها معقولة دون أي خطأ، مما يؤدي إلى إفساد التدريب الموزع بصمت. تضيف هذه المقالة ثلاثة فحوصات إلى PyT",
       "summaryOriginal": "Silent data corruption is a GPU fault that returns wrong but plausible numbers with no error, quietly poisoning distributed training. This post adds three checks to a PyTorch DDP loop to detect it, localize the faulty node on Amazon SageMaker HyperPod, and hand the node to automatic recovery for replacement.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
@@ -213,7 +208,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "نعلن اليوم عن واجهة برمجة التطبيقات للبحث على الويب على Amazon Bedrock AgentCore: يمكن لرمزك الخاص البحث على الويب باستخدام استدعاء واحد لواجهة برمجة التطبيقات تم توقيعه، دون الحاجة إلى بوابة أو موارد",
+      "summary": "نعلن اليوم عن واجهة برمجة التطبيقات (API) للبحث على الويب على Amazon Bedrock AgentCore: يمكن لرمزك الخاص البحث على الويب باستخدام استدعاء واحد لواجهة برمجة التطبيقات (API) موقع، بدون بوابة وبدون موارد",
       "summaryOriginal": "Today we're announcing the Web Search API on Amazon Bedrock AgentCore: your own code can search the web with a single signed API call, with no gateway and no resources to create. Call it from the AWS SDKs or the AWS CLI and use it in applications, agent loops, and data pipelines.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
@@ -255,7 +250,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "يتضمن مؤتمر AWS re:Invent 2026 أكثر من 140 جلسة في مسار الذكاء الاصطناعي/تعلم الآلة. يساعدك دليل الحضور هذا على العثور على الجلسات الفرعية والمحاضرات التفاعلية وورش العمل وجلسات المطورين التي تناسبك.",
+      "summary": "يتضمن مؤتمر AWS re:Invent 2026 أكثر من 140 جلسة في مسار الذكاء الاصطناعي/التعلم الآلي. يساعدك دليل الحضور هذا في العثور على الجلسات الفرعية والمحاضرات التفاعلية وورش العمل وجلسات المطورين التي تناسبك",
       "summaryOriginal": "AWS re:Invent 2026 includes more than 140 AI/ML track sessions. This attendee's guide helps you find the breakouts, chalk talks, workshops, and builders' sessions that fit your role and goals, spanning AI chips, models and inference, agents, agent trust, and sustainability, so you can build a smarter re:Invent schedule.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/",
@@ -276,7 +271,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "يوضح هذا المنشور كيفية تحديث سجل AWS Agent تلقائيًا. باستخدام AWS CloudTrail وAmazon EventBridge وAWS Lambda وAgentCore Identity، يتم إنشاء خط أنابيب قائم على الأحداث",
+      "summary": "يوضح هذا المنشور كيفية تحديث سجل وكيل AWS تلقائيًا. باستخدام AWS CloudTrail وAmazon EventBridge وAWS Lambda وAgentCore Identity، يتم إنشاء خط أنابيب قائم على الأحداث",
       "summaryOriginal": "This post shows how to keep the AWS Agent Registry current automatically. Using AWS CloudTrail, Amazon EventBridge, AWS Lambda, and AgentCore Identity, an event-driven pipeline detects MCP server changes and pushes updated tool metadata to the registry with no stored secrets, across single- and multi-account environments.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/",
@@ -297,7 +292,7 @@
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "تدير DXC Technology خدمات تكنولوجيا المعلومات المُدارة ذات الأهمية الحيوية للمؤسسات الخاضعة للتنظيم في 70 دولة. تعرّف على كيفية إنشاء DXC لـ DCX OASIS، نموذجها التشغيلي للإنسان + الذكاء الاصطناعي، على",
+      "summary": "تدير DXC Technology خدمات تكنولوجيا المعلومات المُدارة الحيوية للمؤسسات الخاضعة للتنظيم في 70 دولة. تعرّف على كيفية إنشاء DXC لـ DCX OASIS، نموذجها التشغيلي للإنسان + الذكاء الاصطناعي، على",
       "summaryOriginal": "DXC Technology runs mission-critical managed IT services for regulated organizations across 70 countries. Learn how DXC built DCX OASIS, its Human+AI operating model, on a governed multi-model substrate in Amazon Bedrock, separating a resilient model substrate from a trusted harness that orchestrates, governs, and audits AI agents at scale.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/",
@@ -318,7 +313,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "يستمر كل فريق ذكاء اصطناعي توليدي في إعادة بناء المكونات نفسها: مسارات RAG ومعالجات المستندات وإعدادات الوكيل. يوضح هذا المنشور كيفية الوصول إلى كتالوج منتقى بعناية",
+      "summary": "يستمر كل فريق من فرق الذكاء الاصطناعي التوليدي في إعادة بناء المكونات نفسها: مسارات RAG ومعالجات المستندات وإعدادات الوكيل. يوضح هذا المنشور كيفية الوصول إلى كتالوج منتقى بعناية",
       "summaryOriginal": "Every generative AI team keeps rebuilding the same components: RAG pipelines, document processors, and agent scaffolding. This post shows how to access a curated catalog of 23 production-ready, open source reusable assets from the AWS Generative AI Innovation Center, with real delivery results from DoorDash, Lyft, and Ricoh.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-generative-ai-delivery-with-reusable-assets/",
@@ -327,27 +322,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Accelerating generative AI delivery with reusable assets"
-    },
-    {
-      "id": "f96d4c048d40cc20969d",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "تسريع تطوير المنتجات من خلال إدارة دورة الحياة المدفوعة بالذكاء الاصطناعي (AI-PDLC) في AWS Quick",
-      "titleOriginal": "Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "business",
-      "importance": 82,
-      "summary": "تعرّف على كيفية إنشاء دورة حياة لتطوير المنتجات مدفوعة بالذكاء الاصطناعي (AI-PDLC) مع مجموعة من ستة وكلاء AWS Quick الذين ينقلونك من الإشارات المتفرقة للعملاء إلى إشارات مؤكدة",
-      "summaryOriginal": "Learn how to build an AI-driven product development lifecycle (AI-PDLC) with a suite of six AWS Quick agents that take you from scattered customer signals to a validated prototype across Discover, Decide, Design, and Prototype, with human approval at every gate and a specification ready to hand to coding agents like Kiro.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/accelerating-product-development-with-ai-driven-lifecycle-management-ai-pdlc-in-aws-quick/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Accelerating product development with AI-driven lifecycle management (AI-PDLC) in AWS Quick"
     },
     {
       "id": "d92b641afddb1d58750f",
@@ -402,7 +376,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة النقل الخاصة بالملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
+      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
       "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
@@ -465,7 +439,7 @@
       "dateISO": "2026-11-10",
       "category": "tools",
       "importance": 78,
-      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه في تزايد مستمر فقط.",
+      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه آخذ في الازدياد فقط.",
       "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
@@ -704,12 +678,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T19:00:00+00:00"
+      "searchAliases": "OpenAI ChatGPT Enterprise now available in AWS Marketplace"
     },
     {
       "id": "0483cc6fe5f4e7b566b2",
@@ -730,15 +699,30 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-09T15:05:57+00:00"
+      "searchAliases": "Hugging Face Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+    },
+    {
+      "id": "d26170c43578f4faaf4e",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "أعمال وشراكات",
+      "title": "لدى خبرائك شركاء. هناك أمل في إبقائهم معًا",
+      "titleOriginal": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "dateLabel": "9 نوفمبر 2026",
+      "dateISO": "2026-11-09",
+      "category": "business",
+      "importance": 82,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Your Experts Have Partners. There's HOPE for Keeping Them Together"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-12T01:01:26.245940+00:00",
-  "lastFastCheckAt": "2026-11-12T08:16:34.344926+00:00"
+  "lastDeepCheckAt": "2026-11-12T08:21:16.533836+00:00"
 }
