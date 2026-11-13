@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T23:21:37.558208+00:00",
-  "checkedAt": "2026-11-13T23:21:37.558208+00:00",
-  "newestPublishedAt": "2026-11-13T22:30:12+00:00",
+  "updatedAt": "2026-11-13T23:26:40.335600+00:00",
+  "checkedAt": "2026-11-13T23:26:40.335600+00:00",
+  "newestPublishedAt": "2026-11-13T23:22:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "bcee9ef1f6621341ef86",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "عمليات التعلم الآلي للإنتاج في GS Caltex باستخدام Amazon SageMaker Canvas، الجزء 1",
+      "titleOriginal": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقوم GS Caltex بربط Amazon SageMaker Canvas بـ Amazon SageMaker Pipelines بحيث تعمل نماذج مهندسي العمليات الخالية من الأكواد في مرحلة الإنتاج. يوضح هذا المنشور كيف يعيد مهندسو التعلم الآلي استخدام",
+      "summaryOriginal": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T23:22:09+00:00"
+    },
     {
       "id": "05a08c83991789dd7d1c",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
-    },
-    {
-      "id": "b5bfc2d3387b9ddeb1d0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الدليل النهائي للضبط الدقيق لنماذج إنشاء الصور ثلاثية الأبعاد",
-      "titleOriginal": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/3d-lora-finetuning",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T23:21:37.558208+00:00"
+  "lastFastCheckAt": "2026-11-13T23:26:40.335600+00:00"
 }
