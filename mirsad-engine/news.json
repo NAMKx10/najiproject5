@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T10:57:26.461388+00:00",
-  "checkedAt": "2026-11-13T10:57:26.461388+00:00",
+  "updatedAt": "2026-11-13T11:00:07.743351+00:00",
+  "checkedAt": "2026-11-13T11:00:07.743351+00:00",
   "newestPublishedAt": "2026-11-12T22:03:34+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -124,7 +124,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يلتقط المعرفة الخاصة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. يستعرض هذا المنشور",
+      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يجمع المعرفة المتعلقة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. يتناول هذا المنشور بالتفصيل",
       "summaryOriginal": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
@@ -145,7 +145,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "قد تستمر فاتورة استدلال Amazon Bedrock في الارتفاع حتى بعد ضبط المطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال",
+      "summary": "قد تستمر فاتورة استدلال Amazon Bedrock في الارتفاع حتى بعد ضبطك للمطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال)",
       "summaryOriginal": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
@@ -187,7 +187,7 @@
       "dateISO": "2026-11-12",
       "category": "policy",
       "importance": 88,
-      "summary": "احصل على رؤية لتكلفة Amazon Bedrock لكل هوية وحدود إنفاق قابلة للتنفيذ باستخدام الميزات الأصلية لخدمة AWS فقط، دون الحاجة إلى رمز تطبيق للحالة الشائعة.",
+      "summary": "احصل على رؤية لتكلفة Amazon Bedrock لكل هوية وحدود إنفاق قابلة للتنفيذ باستخدام الميزات الأصلية لـ AWS فقط، دون الحاجة إلى رمز تطبيق للحالة الشائعة. عزو الإنفاق",
       "summaryOriginal": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
@@ -250,7 +250,7 @@
       "dateISO": "2026-11-12",
       "category": "models",
       "importance": 92,
-      "summary": "أنشئ بوابة LLM للخدمة الذاتية باستخدام LiteLLM على AWS Fargate تضع نماذج Amazon Bedrock الأساسية خلف واجهة برمجة تطبيقات متوافقة مع OpenAI. يحصل المطورون على وصول فوري من خلال",
+      "summary": "قم ببناء بوابة LLM ذاتية الخدمة باستخدام LiteLLM على AWS Fargate والتي تضع نماذج Amazon Bedrock الأساسية خلف واجهة برمجة تطبيقات متوافقة مع OpenAI. يحصل المطورون على وصول فوري من خلال",
       "summaryOriginal": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
@@ -271,7 +271,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "تقوم وكلاء الذكاء الاصطناعي الآن بتشغيل أعباء عمل متعددة الخطوات لساعات وتتصرف نيابة عن المستخدمين، مما يرفع مستوى الحوسبة الآمنة والقابلة للتطوير للوكلاء. تعرّف على كيفية عمل الجيل التالي من Amazon B",
+      "summary": "تقوم وكلاء الذكاء الاصطناعي الآن بتشغيل أعباء عمل متعددة الخطوات لساعات وتتصرف نيابةً عن المستخدمين، مما يرفع مستوى الحوسبة الآمنة والقابلة للتطوير للوكلاء. تعرّف على كيفية عمل الجيل التالي من Amazon B",
       "summaryOriginal": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
@@ -292,7 +292,7 @@
       "dateISO": "2026-11-12",
       "category": "business",
       "importance": 82,
-      "summary": "لم يعد معظم قادة الأعمال الذين ألتقي بهم بحاجة إلى الإقناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في غرف الاجتماعات الآن هو",
+      "summary": "لم يعد معظم قادة الأعمال الذين أقابلهم بحاجة إلى الإقناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في مجالس الإدارة الآن هو",
       "summaryOriginal": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
@@ -334,7 +334,7 @@
       "dateISO": "2026-11-12",
       "category": "research",
       "importance": 86,
-      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي أجرته Microsoft، إلى توضيحه. في عامنا الرابع من الالتزام",
+      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من التعاون",
       "summaryOriginal": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value without losing control: Lessons from Frontier Firms appeared first on The Official Microsoft Blog .",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
@@ -376,7 +376,7 @@
       "dateISO": "2026-11-12",
       "category": "policy",
       "importance": 88,
-      "summary": "تعرّف على كيفية عرض قاعدة معارف مُدارة من Amazon Bedrock على وكلاء الذكاء الاصطناعي كأدوات MCP من خلال بوابة AgentCore من Amazon Bedrock مع الحفاظ على التحكم في الوصول لكل مستخدم.",
+      "summary": "تعرّف على كيفية عرض قاعدة المعرفة المُدارة من Amazon Bedrock على وكلاء الذكاء الاصطناعي كأدوات MCP من خلال بوابة AgentCore من Amazon Bedrock مع الحفاظ على التحكم في الوصول لكل مستخدم.",
       "summaryOriginal": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
@@ -544,7 +544,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة النقل للألبسة المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
+      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
       "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
@@ -724,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-13T02:57:22.562262+00:00",
-  "lastFastCheckAt": "2026-11-13T10:57:26.461388+00:00"
+  "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00"
 }
