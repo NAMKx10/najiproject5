@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T21:59:31.621453+00:00",
-  "checkedAt": "2026-11-13T21:59:31.621453+00:00",
-  "newestPublishedAt": "2026-11-13T21:53:40+00:00",
+  "updatedAt": "2026-11-13T22:04:34.223897+00:00",
+  "checkedAt": "2026-11-13T22:04:34.223897+00:00",
+  "newestPublishedAt": "2026-11-13T22:02:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "86b93b336c0681d7a760",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أنماط البنية البرمجية لبدء الجلسة بسرعة على وقت تشغيل AgentCore في Amazon Bedrock",
+      "titleOriginal": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يقوم وقت تشغيل Amazon Bedrock AgentCore V2 بأخذ لقطات لبيئتك التي تم تهيئتها ويعيدها لكل جلسة جديدة، بحيث لم يعد بدء الجلسة يزداد مع حجم الصورة.",
+      "summaryOriginal": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T22:02:39+00:00"
+    },
     {
       "id": "a2db9e008983c7cf65e7",
       "company": "Amazon",
@@ -696,54 +722,33 @@
       "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
     },
     {
-      "id": "5cc7f59d2758a48cb924",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "كيف يساعد الذكاء الاصطناعي شركات إعادة التدوير على تحويل النفايات المختلطة إلى مواد قابلة لإعادة الاستخدام",
-      "titleOriginal": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
-      "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-recycling-startups",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T03:00:20+00:00"
-    },
-    {
-      "id": "d92b641afddb1d58750f",
-      "company": "OpenAI",
-      "logoText": "AI",
+      "id": "7a13abe51b6f6e812849",
+      "company": "Hugging Face",
+      "logoText": "HF",
       "type": "إطلاق أو تحديث",
-      "title": "ChatGPT Plus للمحاربين القدامى وأعضاء الخدمة",
-      "titleOriginal": "ChatGPT Plus for veterans and servicemembers",
+      "title": "BotPsy: مساعد شخصي على الجهاز مع نموذج لغوي وكيل بأقل من مليار معلمة",
+      "titleOriginal": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "dateLabel": "11 نوفمبر 2026",
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "طالب أكثر من 20000 من قدامى المحاربين وأعضاء الخدمة الانتقالية بسنة مجانية من ChatGPT Plus. انظر كيف يستخدمونها للتحضير للمهن المدنية.",
-      "summaryOriginal": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "sourceLabel": "OpenAI",
+      "source": "https://huggingface.co/blog/qvac/botpsy",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers"
+      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T05:01:16+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T21:59:31.621453+00:00"
+  "lastFastCheckAt": "2026-11-13T22:04:34.223897+00:00"
 }
