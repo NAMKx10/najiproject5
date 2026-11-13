@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T14:04:56.694062+00:00",
-  "checkedAt": "2026-11-13T14:04:56.694062+00:00",
-  "newestPublishedAt": "2026-11-13T13:00:42+00:00",
+  "updatedAt": "2026-11-13T14:09:59.898896+00:00",
+  "checkedAt": "2026-11-13T14:09:59.898896+00:00",
+  "newestPublishedAt": "2026-11-13T14:05:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "812aed6d608874a40b01",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "llama.cpp v1.0.0 : أساس أقوى للنظام البيئي للذكاء الاصطناعي المحلي",
+      "titleOriginal": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T14:05:22+00:00"
+    },
     {
       "id": "0b117ce34fb45a81bb1e",
       "company": "NVIDIA",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Closing the AI guidance gap in education"
-    },
-    {
-      "id": "c8c8d80b1fe3bf157b5e",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "ادفع مقابل Hugging Face Hub باستخدام حسابك على Google Cloud",
-      "titleOriginal": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T14:04:56.694062+00:00"
+  "lastFastCheckAt": "2026-11-13T14:09:59.898896+00:00"
 }
