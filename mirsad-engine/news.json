@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T18:01:04.888353+00:00",
-  "checkedAt": "2026-11-13T18:01:04.888353+00:00",
-  "newestPublishedAt": "2026-11-13T18:00:39+00:00",
+  "updatedAt": "2026-11-13T18:06:04.038441+00:00",
+  "checkedAt": "2026-11-13T18:06:04.038441+00:00",
+  "newestPublishedAt": "2026-11-13T18:01:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8819672c642fb0b0203d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "بناء عجلة تحسين النموذج مع Amazon SageMaker HyperPod Data Capture",
+      "titleOriginal": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تسجل ميزة التقاط البيانات في Amazon SageMaker HyperPod مدخلات ومخرجات الاستدلال المباشر إلى Amazon S3. يستعرض هذا المنشور مثالًا واحدًا شاملًا: التقاط جهاز توجيه الدعم",
+      "summaryOriginal": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T18:01:15+00:00"
+    },
     {
       "id": "280ab3ad8ac54ae5be43",
       "company": "Hugging Face",
@@ -725,35 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
-    },
-    {
-      "id": "f986b6730c9ba5576d04",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "NVIDIA توسع التزامها بالمصادر المفتوحة من خلال مساهمة OpenShell والبنية التحتية الجديدة للذكاء الاصطناعي",
-      "titleOriginal": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه آخذ في الازدياد فقط.",
-      "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T16:00:03+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T18:01:04.888353+00:00"
+  "lastFastCheckAt": "2026-11-13T18:06:04.038441+00:00"
 }
