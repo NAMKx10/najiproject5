@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T22:04:34.223897+00:00",
-  "checkedAt": "2026-11-13T22:04:34.223897+00:00",
+  "updatedAt": "2026-11-13T22:09:37.630173+00:00",
+  "checkedAt": "2026-11-13T22:09:37.630173+00:00",
   "newestPublishedAt": "2026-11-13T22:02:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -722,33 +722,33 @@
       "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
     },
     {
-      "id": "7a13abe51b6f6e812849",
-      "company": "Hugging Face",
-      "logoText": "HF",
+      "id": "d92b641afddb1d58750f",
+      "company": "OpenAI",
+      "logoText": "AI",
       "type": "إطلاق أو تحديث",
-      "title": "BotPsy: مساعد شخصي على الجهاز مع نموذج لغوي وكيل بأقل من مليار معلمة",
-      "titleOriginal": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "title": "ChatGPT Plus للمحاربين القدامى وأفراد الخدمة",
+      "titleOriginal": "ChatGPT Plus for veterans and servicemembers",
       "dateLabel": "11 نوفمبر 2026",
       "dateISO": "2026-11-11",
       "category": "models",
       "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
+      "summary": "استفاد أكثر من 20000 من قدامى المحاربين وأفراد الخدمة الذين ينتقلون إلى الحياة المدنية من عام مجاني من ChatGPT Plus. تعرّف على كيفية استخدامهم له للتحضير للمهن المدنية.",
+      "summaryOriginal": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/qvac/botpsy",
-      "sourceLabel": "Hugging Face Blog",
+      "source": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-11-11T05:01:16+00:00"
+      "publishedAt": "2026-11-11T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T22:04:34.223897+00:00"
+  "lastFastCheckAt": "2026-11-13T22:09:37.630173+00:00"
 }
