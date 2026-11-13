@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T17:00:05.135647+00:00",
-  "checkedAt": "2026-11-13T17:00:05.135647+00:00",
-  "newestPublishedAt": "2026-11-13T15:00:00+00:00",
+  "updatedAt": "2026-11-13T17:05:09.232526+00:00",
+  "checkedAt": "2026-11-13T17:05:09.232526+00:00",
+  "newestPublishedAt": "2026-11-13T17:02:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "280e7a2e0502f38c1f25",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "XYBench: المساعدة في حل المشكلة الكامنة وراء السؤال",
+      "titleOriginal": "XYBench: Helping with the problem behind the question",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/xybench",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face XYBench: Helping with the problem behind the question",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T17:02:35+00:00"
+    },
     {
       "id": "8c23c72f8d6120b37f69",
       "company": "OpenAI",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Helping caregivers use AI in everyday life"
-    },
-    {
-      "id": "56cb7629a234beb0cd3a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم الشركات في ChatGPT",
-      "titleOriginal": "Introducing Businesses in ChatGPT",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أدر معلومات شركتك، واحصل على رؤى حول كيفية ظهور شركتك، وحوّل الاهتمام إلى إجراء في ChatGPT.",
-      "summaryOriginal": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-businesses-chatgpt",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing Businesses in ChatGPT"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T17:00:05.135647+00:00"
+  "lastFastCheckAt": "2026-11-13T17:05:09.232526+00:00"
 }
