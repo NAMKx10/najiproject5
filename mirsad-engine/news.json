@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T21:54:20.257459+00:00",
-  "checkedAt": "2026-11-13T21:54:20.257459+00:00",
+  "updatedAt": "2026-11-13T21:59:31.621453+00:00",
+  "checkedAt": "2026-11-13T21:59:31.621453+00:00",
   "newestPublishedAt": "2026-11-13T21:53:40+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -696,6 +696,32 @@
       "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
     },
     {
+      "id": "5cc7f59d2758a48cb924",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "كيف يساعد الذكاء الاصطناعي شركات إعادة التدوير على تحويل النفايات المختلطة إلى مواد قابلة لإعادة الاستخدام",
+      "titleOriginal": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "dateLabel": "11 نوفمبر 2026",
+      "dateISO": "2026-11-11",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
+      "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-11T03:00:20+00:00"
+    },
+    {
       "id": "d92b641afddb1d58750f",
       "company": "OpenAI",
       "logoText": "AI",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers"
-    },
-    {
-      "id": "7a13abe51b6f6e812849",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "BotPsy: مساعد شخصي على الجهاز مع نموذج لغة عامل بمليار معلمة فرعية",
-      "titleOriginal": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/qvac/botpsy",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T21:54:20.257459+00:00"
+  "lastFastCheckAt": "2026-11-13T21:59:31.621453+00:00"
 }
