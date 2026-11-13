@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T15:51:36.458350+00:00",
-  "checkedAt": "2026-11-13T15:51:36.458350+00:00",
-  "newestPublishedAt": "2026-11-13T14:05:22+00:00",
+  "updatedAt": "2026-11-13T15:56:39.509882+00:00",
+  "checkedAt": "2026-11-13T15:56:39.509882+00:00",
+  "newestPublishedAt": "2026-11-13T15:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8c23c72f8d6120b37f69",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم محفظة ChatGPT",
+      "titleOriginal": "Introducing ChatGPT Wallet",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "نقدم لكم محفظة ChatGPT، وهي طريقة آمنة للوكلاء في ChatGPT Work وCodex وdots لإكمال عمليات الشراء بموافقة المستخدم والحماية الحالية للبطاقات.",
+      "summaryOriginal": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-wallet",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT Wallet",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T15:00:00+00:00"
+    },
     {
       "id": "812aed6d608874a40b01",
       "company": "Hugging Face",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing Businesses in ChatGPT"
-    },
-    {
-      "id": "7d36bedb27f3251ba8b1",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "سد فجوة التوجيه بالذكاء الاصطناعي في التعليم",
-      "titleOriginal": "Closing the AI guidance gap in education",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "research",
-      "importance": 86,
-      "summary": "أبحاث ThinkYoung الجديدة والدروس المستفادة من شراكات OpenAI التعليمية في أوروبا والشرق الأوسط وأفريقيا لدعم المعلمين والثقافة المتعلقة بالذكاء الاصطناعي والتعلم المستقل.",
-      "summaryOriginal": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Closing the AI guidance gap in education"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T15:51:36.458350+00:00"
+  "lastFastCheckAt": "2026-11-13T15:56:39.509882+00:00"
 }
