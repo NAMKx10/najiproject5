@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T19:32:29.272861+00:00",
-  "checkedAt": "2026-11-13T19:32:29.272861+00:00",
-  "newestPublishedAt": "2026-11-13T18:44:02+00:00",
+  "updatedAt": "2026-11-13T19:37:27.958798+00:00",
+  "checkedAt": "2026-11-13T19:37:27.958798+00:00",
+  "newestPublishedAt": "2026-11-13T19:35:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3756e2f477fb47a13770",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تحسين تكلفة استنتاج تحويل الكلام إلى نص من AssemblyAI على AWS باستخدام Amazon EC2 Spot",
+      "titleOriginal": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرّف على كيفية قيام AssemblyAI بإجراء استدلال تحويل الكلام إلى نص محسن التكلفة على نطاق واسع على AWS، باستخدام Amazon ECS ومثيلات وحدة معالجة الرسومات الفورية من Amazon EC2 وبنية إعادة المحاولة القائمة على Amazon SQS",
+      "summaryOriginal": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T19:35:35+00:00"
+    },
     {
       "id": "e9a4c58eee10bc347817",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
-    },
-    {
-      "id": "f21b619cd3e603510867",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "المهندس المعماري الرئيسي في JioStar حول اكتشاف الذكاء الاصطناعي على نطاق 500 مليون مستخدم",
-      "titleOriginal": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يشرح فيجاي سيشادري من JioStar اكتشاف الذكاء الاصطناعي على نطاق 500 مليون مستخدم. اقرأ دروسه حول التقييمات والضوابط وإدخال الذكاء الاصطناعي في مرحلة الإنتاج.",
-      "summaryOriginal": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/jiostar-vijay-seshadri",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI JioStar’s chief architect on AI discovery at 500M-user scale"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T19:32:29.272861+00:00"
+  "lastFastCheckAt": "2026-11-13T19:37:27.958798+00:00"
 }
