@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T17:59:39.064351+00:00",
-  "checkedAt": "2026-11-13T17:59:39.064351+00:00",
-  "newestPublishedAt": "2026-11-13T17:02:35+00:00",
+  "updatedAt": "2026-11-13T18:01:04.888353+00:00",
+  "checkedAt": "2026-11-13T18:01:04.888353+00:00",
+  "newestPublishedAt": "2026-11-13T18:00:39+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "280ab3ad8ac54ae5be43",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "بناء محاكاة روبوت للالتقاط والوضع باستخدام أصول SimReady",
+      "titleOriginal": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T18:00:39+00:00"
+    },
     {
       "id": "280e7a2e0502f38c1f25",
       "company": "Hugging Face",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-10T16:00:03+00:00"
-    },
-    {
-      "id": "27031441594673205128",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مساعدة مقدمي الرعاية على استخدام الذكاء الاصطناعي في الحياة اليومية",
-      "titleOriginal": "Helping caregivers use AI in everyday life",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم أكاديمية OpenAI ورش عمل عملية مجانية حول ChatGPT لمقدمي الرعاية في خمس مدن أمريكية، مما يساعدهم على بناء مهارات الذكاء الاصطناعي العملية للحياة اليومية.",
-      "summaryOriginal": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Helping caregivers use AI in everyday life",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T17:59:39.064351+00:00"
+  "lastFastCheckAt": "2026-11-13T18:01:04.888353+00:00"
 }
