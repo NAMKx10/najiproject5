@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T13:09:16.599597+00:00",
-  "checkedAt": "2026-11-13T13:09:16.599597+00:00",
-  "newestPublishedAt": "2026-11-12T22:03:34+00:00",
+  "updatedAt": "2026-11-13T13:14:12.398778+00:00",
+  "checkedAt": "2026-11-13T13:14:12.398778+00:00",
+  "newestPublishedAt": "2026-11-13T13:00:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "0b117ce34fb45a81bb1e",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "كيف يساعد الذكاء الاصطناعي فرق الرعاية في تقديم الرعاية المناسبة للمرضى، في وقت أقرب",
+      "titleOriginal": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "research",
+      "importance": 86,
+      "summary": "من الأبحاث في مجال طب الأطفال إلى المستشفيات الذكية، يساعد الذكاء الاصطناعي فرق الرعاية على قضاء وقت أقل في المهام الروتينية ووقت أطول مع المرضى. تعمل النظم الصحية والشركات الناشئة على",
+      "summaryOriginal": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T13:00:42+00:00"
+    },
     {
       "id": "19318a3cf4f35f056ba9",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Pay for Hugging Face Hub with your Google Cloud Account"
-    },
-    {
-      "id": "ccccaea543f92701d818",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج القرار في Hugging Face",
-      "titleOriginal": "Decision Models in Hugging Face",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/decision",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Decision Models in Hugging Face"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T13:09:16.599597+00:00"
+  "lastFastCheckAt": "2026-11-13T13:14:12.398778+00:00"
 }
