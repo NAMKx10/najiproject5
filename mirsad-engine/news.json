@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T18:41:52.708264+00:00",
-  "checkedAt": "2026-11-13T18:41:52.708264+00:00",
-  "newestPublishedAt": "2026-11-13T18:01:15+00:00",
+  "updatedAt": "2026-11-13T18:46:42.621231+00:00",
+  "checkedAt": "2026-11-13T18:46:42.621231+00:00",
+  "newestPublishedAt": "2026-11-13T18:44:02+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e9a4c58eee10bc347817",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إسناد التكاليف والضوابط لمطور الذكاء الاصطناعي وأدوات الإنتاجية على Amazon Bedrock",
+      "titleOriginal": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "توفر Amazon Bedrock إسناد تكلفة مدمجًا بدون أجهزة، يتتبع كل استدعاء استدلال إلى كيان IAM الرئيسي الذي أجراه. توضح هذه المقالة كيفية",
+      "summaryOriginal": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T18:44:02+00:00"
+    },
     {
       "id": "d963ccaf9e75df83f21c",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI JioStar’s chief architect on AI discovery at 500M-user scale"
-    },
-    {
-      "id": "0c9b1bb5be7f65ca29a4",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "التدريب على تجميع الرموز لنماذج التضمين متعددة المتجهات",
-      "titleOriginal": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/token-pooling",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T18:41:52.708264+00:00"
+  "lastFastCheckAt": "2026-11-13T18:46:42.621231+00:00"
 }
