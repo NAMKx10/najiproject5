@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T18:26:44.795463+00:00",
-  "checkedAt": "2026-11-13T18:26:44.795463+00:00",
+  "updatedAt": "2026-11-13T18:31:11.970169+00:00",
+  "checkedAt": "2026-11-13T18:31:11.970169+00:00",
   "newestPublishedAt": "2026-11-13T18:01:15+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "8819672c642fb0b0203d",
+      "id": "d963ccaf9e75df83f21c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -103,20 +103,15 @@
       "dateISO": "2026-11-13",
       "category": "models",
       "importance": 92,
-      "summary": "تسجل ميزة التقاط البيانات في Amazon SageMaker HyperPod مدخلات ومخرجات الاستدلال المباشر إلى Amazon S3. يستعرض هذا المنشور مثالًا واحدًا شاملًا: التقاط جهاز توجيه الدعم",
+      "summary": "تسجل ميزة التقاط البيانات في Amazon SageMaker HyperPod مدخلات ومخرجات الاستدلال المباشر إلى Amazon S3. يستعرض هذا المنشور مثالًا واحدًا من البداية إلى النهاية: التقاط جهاز توجيه الدعم",
       "summaryOriginal": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T18:01:15+00:00"
+      "searchAliases": "Amazon Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture"
     },
     {
       "id": "280ab3ad8ac54ae5be43",
@@ -137,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T18:00:39+00:00"
+      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets"
     },
     {
       "id": "280e7a2e0502f38c1f25",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face XYBench: Helping with the problem behind the question",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T17:02:35+00:00"
+      "searchAliases": "Hugging Face XYBench: Helping with the problem behind the question"
     },
     {
       "id": "8c23c72f8d6120b37f69",
@@ -189,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Wallet",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T15:00:00+00:00"
+      "searchAliases": "OpenAI Introducing ChatGPT Wallet"
     },
     {
       "id": "812aed6d608874a40b01",
@@ -215,15 +195,31 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T14:05:22+00:00"
+      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
     },
     {
-      "id": "0b117ce34fb45a81bb1e",
+      "id": "5a9f4d3db3c0a436f10c",
+      "company": "Cohere",
+      "logoText": "CO",
+      "type": "أعمال وشراكات",
+      "title": "توسّع Cohere منصة الذكاء الاصطناعي السيادية مع AISLE وcubic",
+      "titleOriginal": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "business",
+      "importance": 82,
+      "summary": "توسّع Cohere منصتها للذكاء الاصطناعي السيادي من خلال الاستحواذ على AISLE للدفاع السيبراني والتكامل المكعب لضمان اعتماد الذكاء الاصطناعي في المؤسسات.",
+      "summaryOriginal": "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "sourceLabel": "Cohere Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Cohere Cohere Expands Sovereign AI Platform with AISLE and cubic"
+    },
+    {
+      "id": "c77b055ceea22858fc5b",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "بحث",
@@ -233,20 +229,15 @@
       "dateISO": "2026-11-13",
       "category": "research",
       "importance": 86,
-      "summary": "من الأبحاث في مجال طب الأطفال إلى المستشفيات الذكية، يساعد الذكاء الاصطناعي فرق الرعاية على قضاء وقت أقل في المهام الروتينية ووقت أطول مع المرضى. تعمل النظم الصحية والشركات الناشئة على",
+      "summary": "من الأبحاث في مجال طب الأطفال إلى المستشفيات الذكية، يساعد الذكاء الاصطناعي فرق الرعاية على قضاء وقت أقل في المهام الروتينية والمزيد من الوقت مع المرضى. تعمل النظم الصحية والشركات الناشئة على",
       "summaryOriginal": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "source": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T13:00:42+00:00"
+      "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
     },
     {
       "id": "19318a3cf4f35f056ba9",
@@ -280,7 +271,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يجمع المعرفة المتعلقة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. يتناول هذا المنشور بالتفصيل",
+      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يلتقط المعرفة الخاصة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. تستعرض هذه المقالة",
       "summaryOriginal": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
@@ -343,7 +334,7 @@
       "dateISO": "2026-11-12",
       "category": "policy",
       "importance": 88,
-      "summary": "احصل على رؤية لتكلفة Amazon Bedrock لكل هوية وحدود إنفاق قابلة للتنفيذ باستخدام الميزات الأصلية لـ AWS فقط، دون الحاجة إلى رمز تطبيق للحالة الشائعة. عزو الإنفاق",
+      "summary": "احصل على رؤية لتكلفة Amazon Bedrock لكل هوية وحدود إنفاق قابلة للتنفيذ باستخدام الميزات الأصلية لخدمة AWS فقط، دون أي كود تطبيق للحالة الشائعة. خصص الإنفاق",
       "summaryOriginal": "Get per-identity Amazon Bedrock cost visibility and enforceable spend limits using only AWS-native features, with no application code for the common case. Attribute spend with IAM principal tags, report with CUR 2.0 or Cost Explorer, and enforce with AWS Budgets actions that apply a Deny policy when a threshold is crossed.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
@@ -385,7 +376,7 @@
       "dateISO": "2026-11-12",
       "category": "models",
       "importance": 92,
-      "summary": "تؤدي مقارنة الأسعار لكل رمز إلى إخفاء التكلفة الحقيقية لتشغيل نموذج على Amazon Bedrock. يوضح هذا المنشور كيفية حساب التكلفة الحقيقية لكل مهمة عبر أربعة عوامل تكلفة خفية",
+      "summary": "تؤدي مقارنة الأسعار لكل رمز إلى إخفاء التكلفة الحقيقية لتشغيل نموذج على Amazon Bedrock. يوضح هذا المنشور كيفية حساب التكلفة الحقيقية لكل مهمة عبر أربعة عوامل تكلفة مخفية",
       "summaryOriginal": "Comparing per-token prices hides the real cost of running a model on Amazon Bedrock. This post shows how to calculate the true cost per task across four hidden cost drivers, reduce it with caching, routing, and output constraints, and prove agent ROI with human baselines, holdout experiments, and a five-dimension scorecard.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
@@ -406,7 +397,7 @@
       "dateISO": "2026-11-12",
       "category": "models",
       "importance": 92,
-      "summary": "قم ببناء بوابة LLM ذاتية الخدمة باستخدام LiteLLM على AWS Fargate والتي تضع نماذج Amazon Bedrock الأساسية خلف واجهة برمجة تطبيقات متوافقة مع OpenAI. يحصل المطورون على وصول فوري من خلال",
+      "summary": "أنشئ بوابة LLM ذاتية الخدمة باستخدام LiteLLM على AWS Fargate تضع نماذج Amazon Bedrock الأساسية خلف واجهة برمجة تطبيقات متوافقة مع OpenAI. يحصل المطورون على وصول فوري من خلال",
       "summaryOriginal": "Build a self-service LLM gateway with LiteLLM on AWS Fargate that puts Amazon Bedrock foundation models behind an OpenAI-compatible API. Developers get instant access through a single API key, while platform teams gain per-user cost controls, quota isolation, and observability.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
@@ -427,7 +418,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "تقوم وكلاء الذكاء الاصطناعي الآن بتشغيل أعباء عمل متعددة الخطوات لساعات وتتصرف نيابةً عن المستخدمين، مما يرفع مستوى الحوسبة الآمنة والقابلة للتطوير للوكلاء. تعرّف على كيفية عمل الجيل التالي من Amazon B",
+      "summary": "تعمل وكالات الذكاء الاصطناعي الآن على تنفيذ أعباء عمل متعددة الخطوات لساعات وتتصرف نيابة عن المستخدمين، مما يرفع مستوى الحوسبة الآمنة والقابلة للتطوير للوكالات. تعرّف على كيفية عمل الجيل التالي من Amazon B",
       "summaryOriginal": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation of Amazon Bedrock AgentCore runtime delivers hardware-isolated sessions with faster starts, more compute, usage-based billing, and isolation that now extends to your data.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
@@ -448,7 +439,7 @@
       "dateISO": "2026-11-12",
       "category": "business",
       "importance": 82,
-      "summary": "لم يعد معظم قادة الأعمال الذين أقابلهم بحاجة إلى الإقناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في مجالس الإدارة الآن هو",
+      "summary": "لم يعد معظم قادة الأعمال الذين ألتقي بهم بحاجة إلى الاقتناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في مجالس الإدارة الآن هو",
       "summaryOriginal": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
@@ -490,7 +481,7 @@
       "dateISO": "2026-11-12",
       "category": "research",
       "importance": 86,
-      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من التعاون",
+      "summary": "النتائج منتشرة على نطاق واسع. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من التعاون",
       "summaryOriginal": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value without losing control: Lessons from Frontier Firms appeared first on The Official Microsoft Blog .",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
@@ -511,7 +502,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "قم ببناء نظام متعدد العوامل قابل للتكوين وقابل للتشغيل البيني على AWS باستخدام بروتوكول Agent-to-Agent (A2A). يتواصل منظم LangChain على Amazon ECS مع وكيل Strands",
+      "summary": "قم ببناء نظام متعدد الوكلاء قابل للتكوين وقابل للتشغيل البيني على AWS باستخدام بروتوكول الوكيل إلى الوكيل (A2A). يتواصل منظم LangChain على Amazon ECS مع وكيل Strands",
       "summaryOriginal": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a Strands agent on Amazon Bedrock AgentCore across organizational boundaries, using bidirectional, OAuth-authenticated calls, with neither side depending on the other's framework or SDK.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
@@ -520,27 +511,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Build composable, interoperable multi-agent systems with A2A on AWS"
-    },
-    {
-      "id": "19b46e3f0a7473ea3ca7",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "التحكم الدقيق في الوصول لأدوات قاعدة المعرفة المُدارة من Amazon Bedrock",
-      "titleOriginal": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تعرّف على كيفية عرض قاعدة المعرفة المُدارة من Amazon Bedrock على وكلاء الذكاء الاصطناعي كأدوات MCP من خلال بوابة AgentCore من Amazon Bedrock مع الحفاظ على التحكم في الوصول لكل مستخدم.",
-      "summaryOriginal": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access control. A request interceptor injects verified identity, Policy in AgentCore validates it independently, and a resource-based policy restricts direct access to the knowledge base.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools"
     },
     {
       "id": "8eefab753168f2d9346d",
@@ -754,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T18:26:44.795463+00:00"
+  "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00"
 }
