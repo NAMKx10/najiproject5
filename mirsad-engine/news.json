@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T17:15:18.756219+00:00",
-  "checkedAt": "2026-11-13T17:15:18.756219+00:00",
+  "updatedAt": "2026-11-13T17:20:36.967710+00:00",
+  "checkedAt": "2026-11-13T17:20:36.967710+00:00",
   "newestPublishedAt": "2026-11-13T17:02:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -701,6 +701,32 @@
       "searchAliases": "Hugging Face Token Pooling-Aware Training for Multi-Vector Embedding Models"
     },
     {
+      "id": "f986b6730c9ba5576d04",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "NVIDIA توسع التزامها بالمصادر المفتوحة من خلال مساهمة OpenShell والبنية التحتية الجديدة للذكاء الاصطناعي",
+      "titleOriginal": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+      "dateLabel": "10 نوفمبر 2026",
+      "dateISO": "2026-11-10",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أصبح Kubernetes، وهو النظام مفتوح المصدر الذي يدير كيفية تشغيل التطبيقات عبر آلاف مصانع الذكاء الاصطناعي، الأساس للذكاء الاصطناعي، والطلب عليه آخذ في الازدياد فقط.",
+      "summaryOriginal": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-10T16:00:03+00:00"
+    },
+    {
       "id": "27031441594673205128",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "id": "56cb7629a234beb0cd3a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم الشركات في ChatGPT",
-      "titleOriginal": "Introducing Businesses in ChatGPT",
-      "dateLabel": "10 نوفمبر 2026",
-      "dateISO": "2026-11-10",
-      "category": "models",
-      "importance": 92,
-      "summary": "أدر معلومات شركتك، واحصل على رؤى حول كيفية ظهور شركتك، وحوّل الاهتمام إلى إجراءات في ChatGPT.",
-      "summaryOriginal": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-businesses-chatgpt",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing Businesses in ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-10T10:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T11:00:07.743351+00:00",
-  "lastFastCheckAt": "2026-11-13T17:15:18.756219+00:00"
+  "lastFastCheckAt": "2026-11-13T17:20:36.967710+00:00"
 }
