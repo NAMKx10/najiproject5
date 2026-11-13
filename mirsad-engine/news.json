@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-13T22:29:50.073387+00:00",
-  "checkedAt": "2026-11-13T22:29:50.073387+00:00",
-  "newestPublishedAt": "2026-11-13T22:02:39+00:00",
+  "updatedAt": "2026-11-13T22:34:55.766530+00:00",
+  "checkedAt": "2026-11-13T22:34:55.766530+00:00",
+  "newestPublishedAt": "2026-11-13T22:30:12+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "05a08c83991789dd7d1c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "توجيه طلبات وكيل الترميز إلى النموذج الصحيح على Amazon Bedrock باستخدام NVIDIA NeMo Switchyard",
+      "titleOriginal": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل وكلاء البرمجة في المهام، والرقم المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
+      "summaryOriginal": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T22:30:12+00:00"
+    },
     {
       "id": "86b93b336c0681d7a760",
       "company": "Amazon",
@@ -720,35 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
-    },
-    {
-      "id": "d92b641afddb1d58750f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ChatGPT Plus للمحاربين القدامى وأفراد الخدمة",
-      "titleOriginal": "ChatGPT Plus for veterans and servicemembers",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "استفاد أكثر من 20000 من قدامى المحاربين وأفراد الخدمة الذين ينتقلون إلى الحياة المدنية من عام مجاني من ChatGPT Plus. تعرّف على كيفية استخدامهم له للتحضير للمهن المدنية.",
-      "summaryOriginal": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-13T18:31:11.970169+00:00",
-  "lastFastCheckAt": "2026-11-13T22:29:50.073387+00:00"
+  "lastFastCheckAt": "2026-11-13T22:34:55.766530+00:00"
 }
