@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-14T13:43:36.561439+00:00",
-  "checkedAt": "2026-11-14T13:43:36.561439+00:00",
+  "updatedAt": "2026-11-14T13:48:17.409136+00:00",
+  "checkedAt": "2026-11-14T13:48:17.409136+00:00",
   "newestPublishedAt": "2026-11-13T23:22:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 4,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -124,7 +124,7 @@
       "dateISO": "2026-11-13",
       "category": "models",
       "importance": 92,
-      "summary": "تعمل وكلاء البرمجة في المهام، والرقم المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
+      "summary": "تعمل وكلاء البرمجة في المهام، والعدد المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
       "summaryOriginal": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
@@ -166,7 +166,7 @@
       "dateISO": "2026-11-13",
       "category": "policy",
       "importance": 88,
-      "summary": "انشر OpenFold3-preview من Amazon SageMaker JumpStart للتنبؤ بالبنى ثلاثية الأبعاد للبروتينات والحمض النووي والحمض النووي الريبي ومعقدات الرابط في حساب AWS الخاص بك. يتناول المنشور...",
+      "summary": "انشر OpenFold3-preview من Amazon SageMaker JumpStart للتنبؤ بالبنى ثلاثية الأبعاد للبروتينات والحمض النووي الريبي المنزوع الأكسجين (RNA) والحمض النووي الريبي (DNA) ومعقدات الرابط في حساب AWS الخاص بك. يتناول المنشور...",
       "summaryOriginal": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
@@ -208,7 +208,7 @@
       "dateISO": "2026-11-13",
       "category": "tools",
       "importance": 78,
-      "summary": "توفر Amazon Bedrock إسناد تكلفة مدمجًا بدون أجهزة، يتتبع كل استدعاء استدلال إلى كيان IAM الرئيسي الذي أجراه. توضح هذه المقالة كيفية القيام بذلك على",
+      "summary": "توفر Amazon Bedrock إسناد تكلفة مدمجًا بدون أجهزة، يتتبع كل استدعاء استدلال إلى كيان IAM الرئيسي الذي أجراه. توضح هذه المقالة كيفية",
       "summaryOriginal": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
@@ -418,7 +418,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يلتقط المعرفة الخاصة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. يستعرض هذا المنشور",
+      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يلتقط المعرفة الخاصة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. تستعرض هذه المقالة",
       "summaryOriginal": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
@@ -439,7 +439,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "قد تستمر فاتورة استدلال Amazon Bedrock في الارتفاع حتى بعد ضبط المطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال",
+      "summary": "قد تستمر فاتورة استدلال Amazon Bedrock في الارتفاع حتى بعد ضبط المطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال)",
       "summaryOriginal": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
@@ -502,7 +502,7 @@
       "dateISO": "2026-11-12",
       "category": "business",
       "importance": 82,
-      "summary": "لم يعد معظم قادة الأعمال الذين ألتقي بهم بحاجة إلى الإقناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في مجالس الإدارة الآن هو",
+      "summary": "لم يعد معظم قادة الأعمال الذين ألتقي بهم بحاجة إلى الاقتناع بأن الذكاء الاصطناعي يعمل. لقد شاهدوا المشاريع التجريبية والعروض التوضيحية والمساعدين. السؤال الذي أسمعه في مجالس الإدارة الآن هو",
       "summaryOriginal": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact appeared first on The Official Microsoft Blog .",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
@@ -691,7 +691,7 @@
       "dateISO": "2026-11-11",
       "category": "tools",
       "importance": 78,
-      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
+      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يؤدي إلى تحويل آلاف الأطنان من المواد من",
       "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
@@ -724,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-14T06:25:10.544544+00:00",
-  "lastFastCheckAt": "2026-11-14T13:43:36.561439+00:00"
+  "lastDeepCheckAt": "2026-11-14T13:48:17.409136+00:00"
 }
