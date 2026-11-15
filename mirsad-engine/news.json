@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-15T22:26:05.529042+00:00",
-  "checkedAt": "2026-11-15T22:26:05.529042+00:00",
-  "newestPublishedAt": "2026-11-13T23:22:09+00:00",
+  "updatedAt": "2026-11-15T22:31:08.553267+00:00",
+  "checkedAt": "2026-11-15T22:31:08.553267+00:00",
+  "newestPublishedAt": "2026-11-15T22:00:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "f997e97484bc48cb4bbc",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "خطوة نحو تحديد النموذج القياسي على شبكة",
+      "titleOriginal": "A step toward defining the Standard Model on a lattice",
+      "dateLabel": "15 نوفمبر 2026",
+      "dateISO": "2026-11-15",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف تعريفًا مرشحًا للشبكة غير المضطربة للنموذج القياسي وكيف ساعد GPT-6 Astra في تحويل الفكرة إلى برهان مفصل.",
+      "summaryOriginal": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI A step toward defining the Standard Model on a lattice",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-15T22:00:01+00:00"
+    },
+    {
+      "id": "645c8a8eb2b95ab3f83c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "مدونتنا الجديدة للعلوم",
+      "titleOriginal": "Our new blog for science",
+      "dateLabel": "15 نوفمبر 2026",
+      "dateISO": "2026-11-15",
+      "category": "research",
+      "importance": 86,
+      "summary": "تشارك مدونة OpenAI العلمية النتائج الجديدة والأساليب العملية والروايات المباشرة من الباحثين الذين يستخدمون الذكاء الاصطناعي للنهوض بالاكتشافات العلمية.",
+      "summaryOriginal": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/our-new-blog-for-science",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our new blog for science",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-15T22:00:00+00:00"
+    },
     {
       "id": "3d09a0392cf3d95dc938",
       "company": "Amazon",
@@ -679,51 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model"
-    },
-    {
-      "id": "291372d89c892c05ff73",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "كيف يساعد الذكاء الاصطناعي شركات إعادة التدوير على تحويل النفايات المختلطة إلى مواد قابلة لإعادة الاستخدام",
-      "titleOriginal": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يختار الذكاء الاصطناعي للرؤية والروبوتات ما يستحق استعادته من أحزمة ناقلة للملابس المستعملة والزجاجات والمواد القابلة لإعادة التدوير المختلطة، مما يحول آلاف الأطنان من المواد من",
-      "summaryOriginal": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
-    },
-    {
-      "id": "f21b619cd3e603510867",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "المهندس المعماري الرئيسي في JioStar حول اكتشاف الذكاء الاصطناعي على نطاق 500 مليون مستخدم",
-      "titleOriginal": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يشرح فيجاي شيشادري من JioStar اكتشاف الذكاء الاصطناعي على نطاق 500 مليون مستخدم. اقرأ دروسه حول التقييمات والضوابط وإدخال الذكاء الاصطناعي في مرحلة الإنتاج.",
-      "summaryOriginal": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/jiostar-vijay-seshadri",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI JioStar’s chief architect on AI discovery at 500M-user scale"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-15T21:50:26.725413+00:00",
-  "lastFastCheckAt": "2026-11-15T22:26:05.529042+00:00"
+  "lastFastCheckAt": "2026-11-15T22:31:08.553267+00:00"
 }
