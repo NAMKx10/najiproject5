@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T01:19:05.770205+00:00",
-  "checkedAt": "2026-11-16T01:19:05.770205+00:00",
-  "newestPublishedAt": "2026-11-16T00:00:28+00:00",
+  "updatedAt": "2026-11-16T01:24:19.218600+00:00",
+  "checkedAt": "2026-11-16T01:24:19.218600+00:00",
+  "newestPublishedAt": "2026-11-16T01:18:33.934000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -38,7 +38,7 @@
       "company": "Apple",
       "kind": "feed-fast",
       "ok": true,
-      "items": 4,
+      "items": 5,
       "error": null
     },
     {
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fdd3b67d6d1e35fabd63",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "أبل تطلق دراسة بحثية لاستكشاف استخدام الذكاء الاصطناعي في مجال الصحة",
+      "titleOriginal": "Apple launches research study to explore the use of AI for health",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت شركة آبل اليوم عن إطلاق دراسة استخدام الذكاء الاصطناعي في مجال الصحة من آبل في الولايات المتحدة، والتي تتضمن دراسة بحثية افتراضية وتطبيقًا مرتبطًا بها.",
+      "summaryOriginal": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple launches research study to explore the use of AI for health",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T01:18:33.934000+00:00"
+    },
     {
       "id": "623a51ed1a668ffbfad5",
       "company": "NVIDIA",
@@ -715,35 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
-    },
-    {
-      "id": "d92b641afddb1d58750f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "ChatGPT Plus للمحاربين القدامى وأفراد الخدمة",
-      "titleOriginal": "ChatGPT Plus for veterans and servicemembers",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "استفاد أكثر من 20000 من قدامى المحاربين وأفراد الخدمة الذين ينتقلون إلى الحياة المدنية من عام مجاني من ChatGPT Plus. تعرّف على كيفية استخدامهم له للتحضير للمهن المدنية.",
-      "summaryOriginal": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI ChatGPT Plus for veterans and servicemembers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-15T21:50:26.725413+00:00",
-  "lastFastCheckAt": "2026-11-16T01:19:05.770205+00:00"
+  "lastFastCheckAt": "2026-11-16T01:24:19.218600+00:00"
 }
