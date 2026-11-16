@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T16:33:45.642746+00:00",
-  "checkedAt": "2026-11-16T16:33:45.642746+00:00",
+  "updatedAt": "2026-11-16T16:38:49.427127+00:00",
+  "checkedAt": "2026-11-16T16:38:49.427127+00:00",
   "newestPublishedAt": "2026-11-16T16:12:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -515,6 +515,32 @@
       "searchAliases": "OpenAI Our new blog for science"
     },
     {
+      "id": "0b117ce34fb45a81bb1e",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "كيف يساعد الذكاء الاصطناعي فرق الرعاية في تقديم الرعاية المناسبة للمرضى، في وقت أقرب",
+      "titleOriginal": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "research",
+      "importance": 86,
+      "summary": "من الأبحاث الخاصة بطب الأطفال إلى المستشفيات الذكية، يساعد الذكاء الاصطناعي فرق الرعاية على قضاء وقت أقل في المهام الروتينية ووقت أطول مع المرضى. تعمل النظم الصحية والشركات الناشئة على",
+      "summaryOriginal": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T13:00:42+00:00"
+    },
+    {
       "id": "b1d639a251b9b815ab96",
       "company": "OpenAI",
       "logoText": "AI",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
-    },
-    {
-      "id": "5a9f4d3db3c0a436f10c",
-      "company": "Cohere",
-      "logoText": "CO",
-      "type": "أعمال وشراكات",
-      "title": "توسّع Cohere منصة الذكاء الاصطناعي السيادية مع AISLE وcubic",
-      "titleOriginal": "Cohere Expands Sovereign AI Platform with AISLE and cubic",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "business",
-      "importance": 82,
-      "summary": "توسّع Cohere منصتها للذكاء الاصطناعي السيادي من خلال الاستحواذ على AISLE للدفاع السيبراني والتكامل المكعب لضمان اعتماد الذكاء الاصطناعي في المؤسسات.",
-      "summaryOriginal": "Cohere expands its sovereign AI platform with AISLE acquisition for cyber defense and cubic integration for secure enterprise AI adoption.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
-      "sourceLabel": "Cohere Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Cohere Cohere Expands Sovereign AI Platform with AISLE and cubic"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T16:33:45.642746+00:00"
+  "lastFastCheckAt": "2026-11-16T16:38:49.427127+00:00"
 }
