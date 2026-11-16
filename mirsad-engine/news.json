@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T18:15:08.096256+00:00",
-  "checkedAt": "2026-11-16T18:15:08.096256+00:00",
-  "newestPublishedAt": "2026-11-16T17:29:29+00:00",
+  "updatedAt": "2026-11-16T18:20:11.464071+00:00",
+  "checkedAt": "2026-11-16T18:20:11.464071+00:00",
+  "newestPublishedAt": "2026-11-16T18:16:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "861cda688f53df81936c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف أنشأت MoEngage تفاعل العملاء الوكيل على Amazon Bedrock AgentCore",
+      "titleOriginal": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "business",
+      "importance": 82,
+      "summary": "قامت MoEngage ببناء Merlin AI، وهي مجموعة من وكلاء الذكاء الاصطناعي على Amazon Bedrock وAmazon Bedrock AgentCore التي تتيح لفرق التسويق والمنتجات صياغة الحملات وتحليلها وتعديلها من",
+      "summaryOriginal": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T18:16:07+00:00"
+    },
     {
       "id": "07f18dea723bbe7067e1",
       "company": "Amazon",
@@ -825,35 +851,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-13T19:35:35+00:00"
-    },
-    {
-      "id": "280ab3ad8ac54ae5be43",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "بناء محاكاة روبوت للالتقاط والوضع باستخدام أصول SimReady",
-      "titleOriginal": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T18:00:39+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T18:15:08.096256+00:00"
+  "lastFastCheckAt": "2026-11-16T18:20:11.464071+00:00"
 }
