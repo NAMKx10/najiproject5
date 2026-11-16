@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T22:04:23.147232+00:00",
-  "checkedAt": "2026-11-16T22:04:23.147232+00:00",
-  "newestPublishedAt": "2026-11-16T21:53:46+00:00",
+  "updatedAt": "2026-11-16T22:09:25.767790+00:00",
+  "checkedAt": "2026-11-16T22:09:25.767790+00:00",
+  "newestPublishedAt": "2026-11-16T22:06:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "c8fe820387f228637cbc",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تحول Duco أتمتة البيانات المالية باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعادت Duco، وهي منصة لأتمتة البيانات للبنوك من الدرجة الأولى، بناء مجموعة أدوات الذكاء الاصطناعي الوكيلية الخاصة بها على Amazon Bedrock وAmazon Bedrock AgentCore. مع العزل الصارم لكل مستأجر،",
+      "summaryOriginal": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Duco transforms financial data automation with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T22:06:08+00:00"
+    },
     {
       "id": "8a5930aa5310491bd5d7",
       "company": "Amazon",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-13T23:22:09+00:00"
-    },
-    {
-      "id": "05a08c83991789dd7d1c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "توجيه طلبات وكيل الترميز إلى النموذج الصحيح على Amazon Bedrock باستخدام NVIDIA NeMo Switchyard",
-      "titleOriginal": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعمل وكلاء البرمجة في المهام، والرقم المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
-      "summaryOriginal": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T22:30:12+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T19:53:32.432981+00:00",
-  "lastFastCheckAt": "2026-11-16T22:04:23.147232+00:00"
+  "lastFastCheckAt": "2026-11-16T22:09:25.767790+00:00"
 }
