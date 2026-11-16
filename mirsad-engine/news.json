@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T16:23:47.559210+00:00",
-  "checkedAt": "2026-11-16T16:23:47.559210+00:00",
+  "updatedAt": "2026-11-16T16:33:45.642746+00:00",
+  "checkedAt": "2026-11-16T16:33:45.642746+00:00",
   "newestPublishedAt": "2026-11-16T16:12:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -515,6 +515,32 @@
       "searchAliases": "OpenAI Our new blog for science"
     },
     {
+      "id": "b1d639a251b9b815ab96",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "تساعد Shield الفنيين على تسليم أعمال البوابة القديمة باستخدام OpenAI",
+      "titleOriginal": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تستخدم Shield تقنية OpenAI لمساعدة فنيي تكنولوجيا المعلومات على تسليم العمل في البوابات القديمة. تقوم وكالات Forge الخاصة بها بالتنقل في الأنظمة حتى يتمكن الفنيون من التركيز على المشكلات التي تحتاج إلى حكمهم.",
+      "summaryOriginal": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/business/customer-stories/shield",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Shield helps technicians hand off legacy portal work with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T08:00:00+00:00"
+    },
+    {
       "id": "3d09a0392cf3d95dc938",
       "company": "Amazon",
       "logoText": "AWS",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Cohere Cohere Expands Sovereign AI Platform with AISLE and cubic"
-    },
-    {
-      "id": "c77b055ceea22858fc5b",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "كيف يساعد الذكاء الاصطناعي فرق الرعاية في تقديم الرعاية المناسبة للمرضى، في وقت أقرب",
-      "titleOriginal": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "research",
-      "importance": 86,
-      "summary": "من الأبحاث في مجال طب الأطفال إلى المستشفيات الذكية، يساعد الذكاء الاصطناعي فرق الرعاية على قضاء وقت أقل في المهام الروتينية ووقت أطول مع المرضى. تعمل النظم الصحية والشركات الناشئة على",
-      "summaryOriginal": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T16:23:47.559210+00:00"
+  "lastFastCheckAt": "2026-11-16T16:33:45.642746+00:00"
 }
