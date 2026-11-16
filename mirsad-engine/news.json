@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T15:43:00.371440+00:00",
-  "checkedAt": "2026-11-16T15:43:00.371440+00:00",
-  "newestPublishedAt": "2026-11-16T09:00:00+00:00",
+  "updatedAt": "2026-11-16T15:48:02.388912+00:00",
+  "checkedAt": "2026-11-16T15:48:02.388912+00:00",
+  "newestPublishedAt": "2026-11-16T15:46:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "9045b6bdddba833aebca",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "تخصيص الإجابات لكل مستأجر في قاعدة المعرفة المُدارة من Amazon Bedrock",
+      "titleOriginal": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "policy",
+      "importance": 88,
+      "summary": "تحدد تعليمات الاسترجاع في قاعدة المعرفة المُدارة من Amazon Bedrock اللهجة والصيغة وإرشادات الاسترجاع وسياسة الإجابة لكل مستأجر في قواعد المعرفة المشتركة.",
+      "summaryOriginal": "Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope access with IAM tags, and roll out changes one tenant at a time.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T15:46:28+00:00"
+    },
+    {
+      "id": "659b0bc76100189139f1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استخدام التخزين المؤقت للمطالبات مع نماذج الأوزان المفتوحة على Amazon Bedrock",
+      "titleOriginal": "Use prompt caching with open-weight models on Amazon Bedrock",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعيد العديد من تطبيقات الذكاء الاصطناعي التوليدية إرسال السياق الطويل نفسه في كل طلب. يتيح التخزين المؤقت للمطالبات للنماذج مفتوحة الأوزان على Amazon Bedrock إعادة استخدامها لتقليل تكلفة الإدخال و",
+      "summaryOriginal": "Many generative AI applications resend the same long context on every request. Prompt caching lets open-weight models on Amazon Bedrock reuse it to reduce input cost and latency. This post shows implicit and explicit caching through the Chat Completions API and applies caching to an OpenCode coding agent session.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Use prompt caching with open-weight models on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T15:42:41+00:00"
+    },
     {
       "id": "513ee61a931ffe773493",
       "company": "OpenAI",
@@ -699,51 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Microsoft From AI ambition to business impact"
-    },
-    {
-      "id": "334aee900f7115defc4c",
-      "company": "Microsoft",
-      "logoText": "MS",
-      "type": "بحث",
-      "title": "توسيع نطاق قيمة الذكاء الاصطناعي دون فقدان السيطرة: دروس من الشركات الرائدة",
-      "titleOriginal": "Scaling AI value without losing control: Lessons from Frontier Firms",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "research",
-      "importance": 86,
-      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من التعاون",
-      "summaryOriginal": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value without losing control: Lessons from Frontier Firms appeared first on The Official Microsoft Blog .",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
-      "sourceLabel": "Microsoft",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Microsoft Scaling AI value without losing control: Lessons from Frontier Firms"
-    },
-    {
-      "id": "8eefab753168f2d9346d",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "Gondola تُضاعف إيراداتها مع قيام فريقها ببناء المزيد باستخدام Codex",
-      "titleOriginal": "Gondola doubles revenue as its team builds more with Codex",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "تساعد غوندولا المبدعين على الحصول على التقدير والتوظيف، حيث رفعت كوديكس إنتاجية مهندسها الرئيسي بنسبة 50% وأتاح ChatGPT تبسيط العمل اليومي.",
-      "summaryOriginal": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/business/customer-stories/gondola",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Gondola doubles revenue as its team builds more with Codex"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T15:43:00.371440+00:00"
+  "lastFastCheckAt": "2026-11-16T15:48:02.388912+00:00"
 }
