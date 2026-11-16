@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T02:09:47.403902+00:00",
-  "checkedAt": "2026-11-16T02:09:47.403902+00:00",
+  "updatedAt": "2026-11-16T02:10:19.070675+00:00",
+  "checkedAt": "2026-11-16T02:10:19.070675+00:00",
   "newestPublishedAt": "2026-11-16T01:18:33.934000+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "fdd3b67d6d1e35fabd63",
+      "id": "f2cfabb65614c1a48e11",
       "company": "Apple",
       "logoText": "",
       "type": "إطلاق أو تحديث",
@@ -106,20 +106,15 @@
       "summary": "أعلنت شركة آبل اليوم عن إطلاق دراسة استخدام الذكاء الاصطناعي في مجال الصحة من آبل في الولايات المتحدة، والتي تتضمن دراسة بحثية افتراضية وتطبيقًا مرتبطًا بها.",
       "summaryOriginal": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
       "sourceLabel": "Apple Newsroom",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Apple Apple launches research study to explore the use of AI for health",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T01:18:33.934000+00:00"
+      "searchAliases": "Apple Apple launches research study to explore the use of AI for health"
     },
     {
-      "id": "623a51ed1a668ffbfad5",
+      "id": "72b0f355c3cfd249a40d",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "مستجد تقني",
@@ -132,17 +127,12 @@
       "summary": "على مدار يومين في مركز COEX، اجتمع أكثر من 2000 مشارك في يوم الذكاء الاصطناعي في سيول، حيث جمع قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا الذين يطورون",
       "summaryOriginal": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+      "source": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T00:00:28+00:00"
+      "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
     },
     {
       "id": "f997e97484bc48cb4bbc",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI A step toward defining the Standard Model on a lattice",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-15T22:00:01+00:00"
+      "searchAliases": "OpenAI A step toward defining the Standard Model on a lattice"
     },
     {
       "id": "645c8a8eb2b95ab3f83c",
@@ -189,12 +174,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Our new blog for science",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-15T22:00:00+00:00"
+      "searchAliases": "OpenAI Our new blog for science"
     },
     {
       "id": "3d09a0392cf3d95dc938",
@@ -207,7 +187,7 @@
       "dateISO": "2026-11-13",
       "category": "models",
       "importance": 92,
-      "summary": "تقوم GS Caltex بربط Amazon SageMaker Canvas بـ Amazon SageMaker Pipelines بحيث تعمل نماذج مهندسي العمليات بدون تعليمات برمجية في مرحلة الإنتاج. يوضح هذا المنشور كيف يعيد مهندسو التعلم الآلي استخدام",
+      "summary": "تربط GS Caltex Amazon SageMaker Canvas بـ Amazon SageMaker Pipelines بحيث تعمل نماذج مهندسي العمليات الخالية من الأكواد في مرحلة الإنتاج. يوضح هذا المنشور كيف يعيد مهندسو التعلم الآلي استخدام",
       "summaryOriginal": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
@@ -228,7 +208,7 @@
       "dateISO": "2026-11-13",
       "category": "models",
       "importance": 92,
-      "summary": "تعمل وكلاء البرمجة في المهام، والرقم المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
+      "summary": "تعمل وكلاء البرمجة في المهام، والعدد المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
       "summaryOriginal": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
@@ -249,7 +229,7 @@
       "dateISO": "2026-11-13",
       "category": "tools",
       "importance": 78,
-      "summary": "يقوم وقت تشغيل Amazon Bedrock AgentCore V2 بأخذ لقطات لبيئتك التي تم تهيئتها ويعيدها لكل جلسة جديدة، بحيث لم يعد بدء الجلسة يزداد مع حجم الصورة.",
+      "summary": "يقوم وقت تشغيل Amazon Bedrock AgentCore الإصدار 2 بأخذ لقطات لبيئتك التي تم تهيئتها ويعيدها لكل جلسة جديدة، بحيث لم يعد بدء الجلسة يزداد مع حجم الصورة.",
       "summaryOriginal": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
@@ -291,7 +271,7 @@
       "dateISO": "2026-11-13",
       "category": "tools",
       "importance": 78,
-      "summary": "تعرّف على كيفية قيام AssemblyAI بتشغيل استنتاج التحويل من الكلام إلى النص الأمثل من حيث التكلفة على نطاق واسع على AWS، باستخدام Amazon ECS ومثيلات وحدة معالجة الرسومات الفورية من Amazon EC2 وبنية إعادة المحاولة القائمة على Amazon SQS",
+      "summary": "تعرّف على كيفية قيام AssemblyAI بإجراء استدلال من الكلام إلى النص محسن التكلفة على نطاق واسع على AWS، باستخدام Amazon ECS ومثيلات وحدة معالجة الرسومات الفورية من Amazon EC2 وبنية إعادة المحاولة القائمة على Amazon SQS",
       "summaryOriginal": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
@@ -312,7 +292,7 @@
       "dateISO": "2026-11-13",
       "category": "tools",
       "importance": 78,
-      "summary": "توفر Amazon Bedrock إسناد تكلفة مدمجًا بدون أدوات يتتبع كل استدعاء استدلال إلى كيان IAM الرئيسي الذي أجراه. توضح هذه المقالة كيفية",
+      "summary": "توفر Amazon Bedrock إسناد تكلفة مدمجًا بدون أجهزة، يتتبع كل استدعاء استدلال إلى كيان IAM الرئيسي الذي أجراه. توضح هذه المقالة كيفية",
       "summaryOriginal": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
@@ -333,7 +313,7 @@
       "dateISO": "2026-11-13",
       "category": "models",
       "importance": 92,
-      "summary": "تسجل ميزة التقاط البيانات في Amazon SageMaker HyperPod مدخلات ومخرجات الاستدلال المباشر إلى Amazon S3. يستعرض هذا المنشور مثالًا واحدًا من البداية إلى النهاية: التقاط جهاز توجيه الدعم",
+      "summary": "يسجل Amazon SageMaker HyperPod Data Capture مدخلات ومخرجات الاستدلال المباشر إلى Amazon S3. يستعرض هذا المنشور مثالًا واحدًا من البداية إلى النهاية: التقاط جهاز توجيه الدعم",
       "summaryOriginal": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
@@ -522,7 +502,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يجمع معرفة عمليات المختبرات المؤسسية وينشرها على نطاق واسع. يتناول هذا المنشور",
+      "summary": "طورت Natera نظام SWARM، وهو نظام ذكاء اصطناعي وكيل على Amazon Bedrock AgentCore يجمع المعرفة المتعلقة بعمليات المختبرات المؤسسية وينشرها على نطاق واسع. يستعرض هذا المنشور",
       "summaryOriginal": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post walks through the full architecture, from knowledge base construction to deployment and evaluation, delivering about 130x faster first response and 96.2% automated coverage across support tickets.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-natera-designed-an-agentic-ai-system-for-lab-ops-with-amazon-bedrock-agentcore/",
@@ -543,7 +523,7 @@
       "dateISO": "2026-11-12",
       "category": "tools",
       "importance": 78,
-      "summary": "قد تستمر فاتورة استنتاج Amazon Bedrock في الارتفاع حتى بعد ضبط المطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال)",
+      "summary": "قد تستمر فاتورة استنتاج Amazon Bedrock في الارتفاع حتى بعد ضبطك للمطالبات ومنطق التطبيق. أربعة خيارات على مستوى الطلب (مدة التخزين المؤقت، ومستوى الخدمة، والاستدلال",
       "summaryOriginal": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier, reasoning effort, and maxTokens) change how many tokens the service processes and the rate applied. We show how we tested each and how to verify the effect.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/four-amazon-bedrock-inference-choices-that-affect-cost/",
@@ -627,7 +607,7 @@
       "dateISO": "2026-11-12",
       "category": "research",
       "importance": 86,
-      "summary": "النتائج منتشرة على نطاق واسع. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من الالتزام",
+      "summary": "النتائج واسعة الانتشار. ولكن القيمة على نطاق واسع ليست كذلك، وهذه الفجوة هي ما سعى بحث IDC لهذا العام، الذي كلفت به مايكروسوفت، إلى توضيحه. في عامنا الرابع من الالتزام",
       "summaryOriginal": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value without losing control: Lessons from Frontier Firms appeared first on The Official Microsoft Blog .",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
@@ -744,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-15T21:50:26.725413+00:00",
-  "lastFastCheckAt": "2026-11-16T02:09:47.403902+00:00"
+  "lastDeepCheckAt": "2026-11-16T02:10:19.070675+00:00"
 }
