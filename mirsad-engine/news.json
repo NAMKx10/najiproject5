@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T17:09:10.146355+00:00",
-  "checkedAt": "2026-11-16T17:09:10.146355+00:00",
+  "updatedAt": "2026-11-16T17:14:13.979524+00:00",
+  "checkedAt": "2026-11-16T17:14:13.979524+00:00",
   "newestPublishedAt": "2026-11-16T17:04:11+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -567,6 +567,32 @@
       "searchAliases": "OpenAI Our new blog for science"
     },
     {
+      "id": "280ab3ad8ac54ae5be43",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "بناء محاكاة روبوت للالتقاط والوضع باستخدام أصول SimReady",
+      "titleOriginal": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T18:00:39+00:00"
+    },
+    {
       "id": "280e7a2e0502f38c1f25",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -805,30 +831,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures"
-    },
-    {
-      "id": "cafaa74755aab3a28d86",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تحسين تكلفة استنتاج تحويل الكلام إلى نص من AssemblyAI على AWS باستخدام Amazon EC2 Spot",
-      "titleOriginal": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرّف على كيفية قيام AssemblyAI بإجراء استدلال تحويل الكلام إلى نص محسن التكلفة على نطاق واسع على AWS، باستخدام Amazon ECS ومثيلات وحدة معالجة الرسومات الفورية من Amazon EC2 وبنية إعادة المحاولة القائمة على Amazon SQS",
-      "summaryOriginal": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T17:09:10.146355+00:00"
+  "lastFastCheckAt": "2026-11-16T17:14:13.979524+00:00"
 }
