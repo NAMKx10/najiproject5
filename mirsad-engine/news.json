@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T22:39:51.790832+00:00",
-  "checkedAt": "2026-11-16T22:39:51.790832+00:00",
-  "newestPublishedAt": "2026-11-16T22:06:08+00:00",
+  "updatedAt": "2026-11-16T22:44:49.760796+00:00",
+  "checkedAt": "2026-11-16T22:44:49.760796+00:00",
+  "newestPublishedAt": "2026-11-16T22:43:30+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fa3fef96155a2410e9ea",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "بناء وكلاء ذكاء اصطناعي واعين للذاكرة مع Agentic Retrieve على قاعدة المعرفة المُدارة من Amazon Bedrock",
+      "titleOriginal": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تقوم قاعدة المعرفة المُدارة من Amazon Bedrock وذاكرة AgentCore من Amazon Bedrock الآن بتخزين المحادثات واستخراج الحقائق وإدخال الذاكرة طويلة الأمد في AgenticRetrieve واحد",
+      "summaryOriginal": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T22:43:30+00:00"
+    },
     {
       "id": "c8fe820387f228637cbc",
       "company": "Amazon",
@@ -720,35 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Our new blog for science"
-    },
-    {
-      "id": "bcee9ef1f6621341ef86",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "عمليات التعلم الآلي للإنتاج في GS Caltex باستخدام Amazon SageMaker Canvas، الجزء 1",
-      "titleOriginal": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "تربط GS Caltex Amazon SageMaker Canvas بـ Amazon SageMaker Pipelines بحيث تعمل نماذج مهندسي العمليات الخالية من الأكواد في مرحلة الإنتاج. يوضح هذا المنشور كيف يعيد مهندسو التعلم الآلي استخدام",
-      "summaryOriginal": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T23:22:09+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T19:53:32.432981+00:00",
-  "lastFastCheckAt": "2026-11-16T22:39:51.790832+00:00"
+  "lastFastCheckAt": "2026-11-16T22:44:49.760796+00:00"
 }
