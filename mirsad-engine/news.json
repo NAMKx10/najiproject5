@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T11:52:59.539033+00:00",
-  "checkedAt": "2026-11-16T11:52:59.539033+00:00",
+  "updatedAt": "2026-11-16T11:58:07.757730+00:00",
+  "checkedAt": "2026-11-16T11:58:07.757730+00:00",
   "newestPublishedAt": "2026-11-16T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -159,6 +159,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
+    },
+    {
+      "id": "797b3cf47d255a9baa71",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "صندوق الملك الخيرية وOpenAI يطلقان شراكة بقيمة مليون جنيه إسترليني",
+      "titleOriginal": "The King’s Trust and OpenAI launch £1m partnership",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تطلق مؤسسة The King’s Trust وOpenAI شراكة بقيمة مليون جنيه إسترليني لمساعدة ما يصل إلى 25000 شاب في جميع أنحاء المملكة المتحدة على بناء مهارات عملية في مجال الذكاء الاصطناعي للعمل.",
+      "summaryOriginal": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/the-kings-trust-and-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The King’s Trust and OpenAI launch £1m partnership",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T00:00:00+00:00"
     },
     {
       "id": "f997e97484bc48cb4bbc",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Supporting research on AI and children’s safety"
-    },
-    {
-      "id": "24e68a4ea5f660488dd5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "يعيد جيلبرت + توبين التفكير في عمل القانون مع الذكاء الاصطناعي",
-      "titleOriginal": "Gilbert + Tobin rethinks the business of law with AI",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "business",
-      "importance": 82,
-      "summary": "محادثة مع سام نيكليس، الشريك والرئيس التنفيذي في جيلبرت + توبين.",
-      "summaryOriginal": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T11:52:59.539033+00:00"
+  "lastFastCheckAt": "2026-11-16T11:58:07.757730+00:00"
 }
