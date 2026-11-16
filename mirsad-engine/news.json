@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T14:52:19.162008+00:00",
-  "checkedAt": "2026-11-16T14:52:19.162008+00:00",
+  "updatedAt": "2026-11-16T14:57:31.551721+00:00",
+  "checkedAt": "2026-11-16T14:57:31.551721+00:00",
   "newestPublishedAt": "2026-11-16T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T09:00:00+00:00"
+    },
+    {
+      "id": "e58e6a6159841f74e620",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Advancing computer-use agents for healthcare teams",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advancing computer-use agents for healthcare teams",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T06:00:00+00:00"
+    },
+    {
+      "id": "49337d7da50bf1420f2e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "More ways to move care forward with ChatGPT for Healthcare",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI More ways to move care forward with ChatGPT for Healthcare",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T06:00:00+00:00"
     },
     {
       "id": "f2cfabb65614c1a48e11",
@@ -689,51 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gondola doubles revenue as its team builds more with Codex"
-    },
-    {
-      "id": "3e8f71b4d23b54f7316f",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "تعيد Holiday Extras التفكير فيما يمكنها إنشاؤه باستخدام Codex",
-      "titleOriginal": "Holiday Extras is rethinking what it can build with Codex",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "business",
-      "importance": 82,
-      "summary": "مع Codex، تحول Holiday Extras خبرة العملاء إلى تطبيقات أفضل، وتحويل أعلى للحجوزات وإمكانيات جديدة للنمو.",
-      "summaryOriginal": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Holiday Extras is rethinking what it can build with Codex"
-    },
-    {
-      "id": "49a30a9055d79ab7015a",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "دعم البحوث المتعلقة بالذكاء الاصطناعي وسلامة الأطفال",
-      "titleOriginal": "Supporting research on AI and children’s safety",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "research",
-      "importance": 86,
-      "summary": "تخصص OpenAI مبلغ 2 مليون دولار للبحث في الذكاء الاصطناعي وسلامة الأطفال. يدعم العمل الأدوات المشتركة لقياس المخاطر والفرص للشباب.",
-      "summaryOriginal": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/children-first-declaration",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Supporting research on AI and children’s safety"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T14:52:19.162008+00:00"
+  "lastFastCheckAt": "2026-11-16T14:57:31.551721+00:00"
 }
