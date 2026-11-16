@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T00:03:12.400348+00:00",
-  "checkedAt": "2026-11-16T00:03:12.400348+00:00",
-  "newestPublishedAt": "2026-11-15T22:00:01+00:00",
+  "updatedAt": "2026-11-16T00:08:16.613064+00:00",
+  "checkedAt": "2026-11-16T00:08:16.613064+00:00",
+  "newestPublishedAt": "2026-11-16T00:00:28+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "623a51ed1a668ffbfad5",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "يجمع يوم الذكاء الاصطناعي في سيول قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا",
+      "titleOriginal": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "على مدار يومين في مركز COEX، اجتمع أكثر من 2000 مشارك في يوم الذكاء الاصطناعي في سيول، حيث جمع قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا الذين يطورون",
+      "summaryOriginal": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T00:00:28+00:00"
+    },
     {
       "id": "f997e97484bc48cb4bbc",
       "company": "OpenAI",
@@ -715,35 +741,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-11T08:00:00+00:00"
-    },
-    {
-      "id": "7a13abe51b6f6e812849",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "BotPsy: مساعد شخصي على الجهاز مع نموذج لغوي وكيل بأقل من مليار معلمة",
-      "titleOriginal": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "dateLabel": "11 نوفمبر 2026",
-      "dateISO": "2026-11-11",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/qvac/botpsy",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-11T05:01:16+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-15T21:50:26.725413+00:00",
-  "lastFastCheckAt": "2026-11-16T00:03:12.400348+00:00"
+  "lastFastCheckAt": "2026-11-16T00:08:16.613064+00:00"
 }
