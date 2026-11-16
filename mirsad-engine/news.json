@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T16:59:00.841586+00:00",
-  "checkedAt": "2026-11-16T16:59:00.841586+00:00",
+  "updatedAt": "2026-11-16T17:04:09.947838+00:00",
+  "checkedAt": "2026-11-16T17:04:09.947838+00:00",
   "newestPublishedAt": "2026-11-16T16:12:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -473,6 +473,32 @@
       "publishedAt": "2026-11-16T00:00:00+00:00"
     },
     {
+      "id": "231d6e25b614d8e859ee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تتحد Hugging Face وOpenRouter لكي يسهلا تشغيل النماذج مفتوحة الأوزان",
+      "titleOriginal": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/openrouter",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T00:00:00+00:00"
+    },
+    {
       "id": "f997e97484bc48cb4bbc",
       "company": "OpenAI",
       "logoText": "AI",
@@ -513,6 +539,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Our new blog for science"
+    },
+    {
+      "id": "812aed6d608874a40b01",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "llama.cpp v1.0.0 : أساس أقوى للنظام البيئي للذكاء الاصطناعي المحلي",
+      "titleOriginal": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T14:05:22+00:00"
     },
     {
       "id": "0b117ce34fb45a81bb1e",
@@ -759,51 +811,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets"
-    },
-    {
-      "id": "280e7a2e0502f38c1f25",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "XYBench: المساعدة في حل المشكلة الكامنة وراء السؤال",
-      "titleOriginal": "XYBench: Helping with the problem behind the question",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/xybench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face XYBench: Helping with the problem behind the question"
-    },
-    {
-      "id": "8c23c72f8d6120b37f69",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم محفظة ChatGPT",
-      "titleOriginal": "Introducing ChatGPT Wallet",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "نقدم لكم محفظة ChatGPT، وهي طريقة آمنة للوكلاء في ChatGPT Work وCodex وdots لإكمال عمليات الشراء بموافقة المستخدم والحماية الحالية للبطاقات.",
-      "summaryOriginal": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-wallet",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Wallet"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T16:59:00.841586+00:00"
+  "lastFastCheckAt": "2026-11-16T17:04:09.947838+00:00"
 }
