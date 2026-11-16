@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T16:54:00.969578+00:00",
-  "checkedAt": "2026-11-16T16:54:00.969578+00:00",
+  "updatedAt": "2026-11-16T16:59:00.841586+00:00",
+  "checkedAt": "2026-11-16T16:59:00.841586+00:00",
   "newestPublishedAt": "2026-11-16T16:12:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -567,6 +567,32 @@
       "publishedAt": "2026-11-13T08:00:00+00:00"
     },
     {
+      "id": "bff5476eefa9c5df1cbd",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مرحلتنا الأولى من التقييمات المضمنة",
+      "titleOriginal": "Our first phase of embedded assessments",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تبدأ OpenAI التقييمات المضمنة مع Apollo Research وMETR وTransluce وGoodfire لتقييم مواءمة النموذج والضمانات وأنظمة المراقبة بشكل مستقل.",
+      "summaryOriginal": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our first phase of embedded assessments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T08:00:00+00:00"
+    },
+    {
       "id": "3d09a0392cf3d95dc938",
       "company": "Amazon",
       "logoText": "AWS",
@@ -775,30 +801,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing ChatGPT Wallet"
-    },
-    {
-      "id": "812aed6d608874a40b01",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "llama.cpp v1.0.0 : أساس أقوى للنظام البيئي للذكاء الاصطناعي المحلي",
-      "titleOriginal": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T16:54:00.969578+00:00"
+  "lastFastCheckAt": "2026-11-16T16:59:00.841586+00:00"
 }
