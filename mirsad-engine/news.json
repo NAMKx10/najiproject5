@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T16:13:18.484371+00:00",
-  "checkedAt": "2026-11-16T16:13:18.484371+00:00",
-  "newestPublishedAt": "2026-11-16T16:00:51+00:00",
+  "updatedAt": "2026-11-16T16:23:47.559210+00:00",
+  "checkedAt": "2026-11-16T16:23:47.559210+00:00",
+  "newestPublishedAt": "2026-11-16T16:12:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "a9047f16f5ffbfa4666c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "احصل على إجابات من الجداول باستخدام البحث الجدولي في قاعدة المعرفة المُدارة من Amazon Bedrock",
+      "titleOriginal": "Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تدعم قاعدة المعارف المُدارة من Amazon Bedrock الآن البحث الجدولي، بحيث يمكن للاسترجاع الوكيل الإجابة على الأسئلة عبر ملفات CSV وXLSX وXLS. يبحث عن القيم ويقوم بتشغيل",
+      "summaryOriginal": "Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks up values and runs calculations across every relevant row, then combines the results with facts from related documents to answer multi-step analytical questions.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T16:12:16+00:00"
+    },
     {
       "id": "6d894986d7fa9080ff61",
       "company": "NVIDIA",
@@ -760,30 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner"
-    },
-    {
-      "id": "b1d639a251b9b815ab96",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تساعد Shield الفنيين على تسليم أعمال البوابة القديمة باستخدام OpenAI",
-      "titleOriginal": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تستخدم Shield تقنية OpenAI لمساعدة فنيي تكنولوجيا المعلومات على تسليم العمل في البوابات القديمة. تقوم وكلاء Forge بالتنقل في الأنظمة حتى يتمكن الفنيون من التركيز على المشكلات التي تحتاج إلى حكمهم.",
-      "summaryOriginal": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/business/customer-stories/shield",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Shield helps technicians hand off legacy portal work with OpenAI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T16:13:18.484371+00:00"
+  "lastFastCheckAt": "2026-11-16T16:23:47.559210+00:00"
 }
