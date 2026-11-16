@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T17:24:23.430862+00:00",
-  "checkedAt": "2026-11-16T17:24:23.430862+00:00",
+  "updatedAt": "2026-11-16T17:29:37.216116+00:00",
+  "checkedAt": "2026-11-16T17:29:37.216116+00:00",
   "newestPublishedAt": "2026-11-16T17:04:11+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -457,6 +457,32 @@
       "publishedAt": "2026-11-16T09:00:00+00:00"
     },
     {
+      "id": "bff5476eefa9c5df1cbd",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مرحلتنا الأولى من التقييمات المضمنة",
+      "titleOriginal": "Our first phase of embedded assessments",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تبدأ OpenAI التقييمات المضمنة مع Apollo Research وMETR وTransluce وGoodfire لتقييم مواءمة النموذج والضمانات وأنظمة المراقبة بشكل مستقل.",
+      "summaryOriginal": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Our first phase of embedded assessments",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T08:00:00+00:00"
+    },
+    {
       "id": "e58e6a6159841f74e620",
       "company": "OpenAI",
       "logoText": "AI",
@@ -645,6 +671,58 @@
       "searchAliases": "OpenAI Our new blog for science"
     },
     {
+      "id": "bcee9ef1f6621341ef86",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "عمليات التعلم الآلي للإنتاج في GS Caltex باستخدام Amazon SageMaker Canvas، الجزء 1",
+      "titleOriginal": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تربط GS Caltex Amazon SageMaker Canvas بـ Amazon SageMaker Pipelines بحيث تعمل نماذج مهندسي العمليات الخالية من الأكواد في مرحلة الإنتاج. يوضح هذا المنشور كيف يعيد مهندسو التعلم الآلي استخدام",
+      "summaryOriginal": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T23:22:09+00:00"
+    },
+    {
+      "id": "05a08c83991789dd7d1c",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "توجيه طلبات وكيل الترميز إلى النموذج الصحيح على Amazon Bedrock باستخدام NVIDIA NeMo Switchyard",
+      "titleOriginal": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعمل وكلاء البرمجة في المهام، والرقم المهم هو التكلفة لكل مهمة تم حلها، وليس السعر لكل رمز. في هذه المقالة، ستستخدم AWS CDK لنشر LiteLLM مع NVIDIA",
+      "summaryOriginal": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T22:30:12+00:00"
+    },
+    {
       "id": "86b93b336c0681d7a760",
       "company": "Amazon",
       "logoText": "AWS",
@@ -773,87 +851,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-13T17:02:35+00:00"
-    },
-    {
-      "id": "8c23c72f8d6120b37f69",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم محفظة ChatGPT",
-      "titleOriginal": "Introducing ChatGPT Wallet",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "نقدم لكم محفظة ChatGPT، وهي طريقة آمنة للوكلاء في ChatGPT Work وCodex وdots لإكمال عمليات الشراء بموافقة المستخدم والحماية الحالية للبطاقات.",
-      "summaryOriginal": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-wallet",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT Wallet",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "id": "812aed6d608874a40b01",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "llama.cpp v1.0.0 : أساس أقوى للنظام البيئي للذكاء الاصطناعي المحلي",
-      "titleOriginal": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T14:05:22+00:00"
-    },
-    {
-      "id": "0b117ce34fb45a81bb1e",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "كيف يساعد الذكاء الاصطناعي فرق الرعاية في تقديم الرعاية المناسبة للمرضى، في وقت أقرب",
-      "titleOriginal": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "research",
-      "importance": 86,
-      "summary": "من الأبحاث الخاصة بطب الأطفال إلى المستشفيات الذكية، يساعد الذكاء الاصطناعي فرق الرعاية على قضاء وقت أقل في المهام الروتينية ووقت أطول مع المرضى. تعمل النظم الصحية والشركات الناشئة على",
-      "summaryOriginal": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T13:00:42+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T17:24:23.430862+00:00"
+  "lastFastCheckAt": "2026-11-16T17:29:37.216116+00:00"
 }
