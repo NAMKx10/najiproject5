@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T09:54:13.191945+00:00",
-  "checkedAt": "2026-11-16T09:54:13.191945+00:00",
-  "newestPublishedAt": "2026-11-16T01:18:33.934000+00:00",
+  "updatedAt": "2026-11-16T09:59:14.955965+00:00",
+  "checkedAt": "2026-11-16T09:59:14.955965+00:00",
+  "newestPublishedAt": "2026-11-16T09:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "513ee61a931ffe773493",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يعلن قسم الإعلام في LVMH عن شراكة استراتيجية مع OpenAI",
+      "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعلن قسم الإعلام في LVMH وOpenAI عن شراكة لدعم الصحافة بالذكاء الاصطناعي وجعل منشوراتها أكثر سهولة من خلال ChatGPT.",
+      "summaryOriginal": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/lvmh-media-division-partnership",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LVMH’s Media Division announces strategic partnership with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T09:00:00+00:00"
+    },
     {
       "id": "f2cfabb65614c1a48e11",
       "company": "Apple",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Gilbert + Tobin rethinks the business of law with AI"
-    },
-    {
-      "id": "b5bfc2d3387b9ddeb1d0",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "الدليل النهائي للضبط الدقيق لنماذج إنشاء الصور ثلاثية الأبعاد",
-      "titleOriginal": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "dateLabel": "12 نوفمبر 2026",
-      "dateISO": "2026-11-12",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/3d-lora-finetuning",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face The Definitive Fine-Tuning Guide for 3D Generation Models"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T09:54:13.191945+00:00"
+  "lastFastCheckAt": "2026-11-16T09:59:14.955965+00:00"
 }
