@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T20:06:57.812231+00:00",
-  "checkedAt": "2026-11-16T20:06:57.812231+00:00",
-  "newestPublishedAt": "2026-11-16T18:16:07+00:00",
+  "updatedAt": "2026-11-16T20:11:49.491988+00:00",
+  "checkedAt": "2026-11-16T20:11:49.491988+00:00",
+  "newestPublishedAt": "2026-11-16T20:00:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d4b27dd825a046a13697",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تخترع سلسلة توريد البنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
+      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T20:00:37+00:00"
+    },
     {
       "id": "c709428a8b08a0580c2f",
       "company": "Amazon",
@@ -618,6 +644,32 @@
       "searchAliases": "OpenAI Our new blog for science"
     },
     {
+      "id": "bcee9ef1f6621341ef86",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "عمليات التعلم الآلي للإنتاج في GS Caltex باستخدام Amazon SageMaker Canvas، الجزء 1",
+      "titleOriginal": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "models",
+      "importance": 92,
+      "summary": "تربط GS Caltex Amazon SageMaker Canvas بـ Amazon SageMaker Pipelines بحيث تعمل نماذج مهندسي العمليات الخالية من الأكواد في مرحلة الإنتاج. يوضح هذا المنشور كيف يعيد مهندسو التعلم الآلي استخدام",
+      "summaryOriginal": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T23:22:09+00:00"
+    },
+    {
       "id": "05a08c83991789dd7d1c",
       "company": "Amazon",
       "logoText": "AWS",
@@ -694,61 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-13T18:00:39+00:00"
-    },
-    {
-      "id": "280e7a2e0502f38c1f25",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "XYBench: المساعدة في حل المشكلة الكامنة وراء السؤال",
-      "titleOriginal": "XYBench: Helping with the problem behind the question",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/allenai/xybench",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face XYBench: Helping with the problem behind the question",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T17:02:35+00:00"
-    },
-    {
-      "id": "812aed6d608874a40b01",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "llama.cpp الإصدار 1.0.0: أساس أقوى للنظام البيئي للذكاء الاصطناعي المحلي",
-      "titleOriginal": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T14:05:22+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T19:53:32.432981+00:00",
-  "lastFastCheckAt": "2026-11-16T20:06:57.812231+00:00"
+  "lastFastCheckAt": "2026-11-16T20:11:49.491988+00:00"
 }
