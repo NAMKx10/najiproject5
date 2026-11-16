@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-16T17:19:17.137842+00:00",
-  "checkedAt": "2026-11-16T17:19:17.137842+00:00",
+  "updatedAt": "2026-11-16T17:20:27.304350+00:00",
+  "checkedAt": "2026-11-16T17:20:27.304350+00:00",
   "newestPublishedAt": "2026-11-16T17:04:11+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -567,6 +567,32 @@
       "searchAliases": "OpenAI Our new blog for science"
     },
     {
+      "id": "a2db9e008983c7cf65e7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "OpenFold3 على Amazon SageMaker JumpStart: التنبؤ بالبنى الجزيئية الحيوية",
+      "titleOriginal": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "policy",
+      "importance": 88,
+      "summary": "انشر OpenFold3-preview من Amazon SageMaker JumpStart للتنبؤ بالبنى ثلاثية الأبعاد للبروتينات والحمض النووي والحمض النووي الريبي ومعقدات الرابط في حساب AWS الخاص بك. يتناول المنشور...",
+      "summaryOriginal": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-13T21:53:40+00:00"
+    },
+    {
       "id": "3756e2f477fb47a13770",
       "company": "Amazon",
       "logoText": "AWS",
@@ -815,30 +841,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard"
-    },
-    {
-      "id": "b59fc066776819b47e8a",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "أنماط البنية البرمجية لبدء الجلسة بسرعة على وقت تشغيل AgentCore في Amazon Bedrock",
-      "titleOriginal": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يقوم وقت تشغيل Amazon Bedrock AgentCore V2 بأخذ لقطات لبيئتك التي تم تهيئتها ويعيدها لكل جلسة جديدة، بحيث لم يعد بدء الجلسة يزداد مع حجم الصورة.",
-      "summaryOriginal": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-16T09:45:49.367900+00:00",
-  "lastFastCheckAt": "2026-11-16T17:19:17.137842+00:00"
+  "lastFastCheckAt": "2026-11-16T17:20:27.304350+00:00"
 }
