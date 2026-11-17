@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T16:13:32.554827+00:00",
-  "checkedAt": "2026-11-17T16:13:32.554827+00:00",
+  "updatedAt": "2026-11-17T16:18:47.327035+00:00",
+  "checkedAt": "2026-11-17T16:18:47.327035+00:00",
   "newestPublishedAt": "2026-11-17T15:57:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T15:57:09+00:00"
+    },
+    {
+      "id": "60265622d5cd3e224390",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "يان باك يفتتح أسبوع NVIDIA في SC26 مع دخول العلم عصر الوكلاء",
+      "titleOriginal": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "research",
+      "importance": 86,
+      "summary": "افتتح إيان باك من NVIDIA أسبوع الشركة في SC26 في شيكاغو يوم الاثنين بأدوات جديدة لوكلاء الذكاء الاصطناعي، وبرامج يمكنها تخطيط التجارب وتشغيل الأكواد والتحقق من النتائج",
+      "summaryOriginal": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T14:00:10+00:00"
     },
     {
       "id": "3048869c76c26eea6d6e",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
-    },
-    {
-      "id": "797b3cf47d255a9baa71",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "صندوق الملك الخيرية وOpenAI يطلقان شراكة بقيمة مليون جنيه إسترليني",
-      "titleOriginal": "The King’s Trust and OpenAI launch £1m partnership",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تطلق مؤسسة The King’s Trust وOpenAI شراكة بقيمة مليون جنيه إسترليني لمساعدة ما يصل إلى 25000 شاب في جميع أنحاء المملكة المتحدة على بناء مهارات عملية في مجال الذكاء الاصطناعي للعمل.",
-      "summaryOriginal": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/the-kings-trust-and-openai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The King’s Trust and OpenAI launch £1m partnership"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T16:13:32.554827+00:00"
+  "lastFastCheckAt": "2026-11-17T16:18:47.327035+00:00"
 }
