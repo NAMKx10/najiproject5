@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T22:44:25.300253+00:00",
-  "checkedAt": "2026-11-17T22:44:25.300253+00:00",
-  "newestPublishedAt": "2026-11-17T21:14:55+00:00",
+  "updatedAt": "2026-11-17T22:49:37.193321+00:00",
+  "checkedAt": "2026-11-17T22:49:37.193321+00:00",
+  "newestPublishedAt": "2026-11-17T22:44:51+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -93,6 +93,32 @@
   ],
   "items": [
     {
+      "id": "bf49bcc9bc3ed829ac78",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تقليل تكاليف الرموز ووقت الاستجابة في أعباء عمل JSON لـ Amazon Bedrock AgentCore",
+      "titleOriginal": "Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "نظرًا لأن الوكلاء الإنتاجيين على Amazon Bedrock AgentCore يعالجون حمولات JSON التي تبلغ أحجامها عدة ميغابايت، فإن تكاليف الرموز المميزة وزمن الاستجابة يرتفعان. تشارك هذه المقالة ثلاث استراتيجيات قابلة للتكوين: التفريغ",
+      "summaryOriginal": "As production agents on Amazon Bedrock AgentCore process multi-megabyte JSON payloads, token costs and latency climb. This post shares three composable strategies: offloading heavy artifacts to Amazon S3, on-demand result paging, and dictionary compaction. Together they cut per-turn token use by up to 71% and latency by up to 80%.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T22:44:51+00:00"
+    },
+    {
       "id": "ed3266eaf7290dc7fa9d",
       "company": "Amazon",
       "logoText": "AWS",
@@ -143,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T21:11:51+00:00"
+    },
+    {
+      "id": "db023ba03b68065607b2",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم ChatGPT للمبيعات",
+      "titleOriginal": "Introducing ChatGPT for Sales",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف المكون الإضافي الجديد للمبيعات وأكثر من 30 مكونًا إضافيًا جديدًا وموسعًا للشركاء في ChatGPT للبحث عن العملاء المحتملين وإعداد العروض التقديمية وتحديث نظام إدارة علاقات العملاء (CRM) والمضي قدمًا في الصفقات.",
+      "summaryOriginal": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing ChatGPT for Sales",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T08:00:00+00:00"
     },
     {
       "id": "930aa650e05cfc2afdd0",
@@ -744,61 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T09:00:00+00:00"
-    },
-    {
-      "id": "bff5476eefa9c5df1cbd",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحلتنا الأولى من التقييمات المضمنة",
-      "titleOriginal": "Our first phase of embedded assessments",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تبدأ OpenAI التقييمات المضمنة مع Apollo Research وMETR وTransluce وGoodfire لتقييم مواءمة النموذج والضمانات وأنظمة المراقبة بشكل مستقل.",
-      "summaryOriginal": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our first phase of embedded assessments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T08:00:00+00:00"
-    },
-    {
-      "id": "fdd3b67d6d1e35fabd63",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "أبل تطلق دراسة بحثية لاستكشاف استخدام الذكاء الاصطناعي في مجال الصحة",
-      "titleOriginal": "Apple launches research study to explore the use of AI for health",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت شركة آبل اليوم عن إطلاق دراسة استخدام الذكاء الاصطناعي في مجال الصحة من آبل في الولايات المتحدة، والتي تتضمن دراسة بحثية افتراضية وتطبيقًا مرتبطًا بها.",
-      "summaryOriginal": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple launches research study to explore the use of AI for health",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T01:18:33.934000+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T22:44:25.300253+00:00"
+  "lastFastCheckAt": "2026-11-17T22:49:37.193321+00:00"
 }
