@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T21:48:37.252928+00:00",
-  "checkedAt": "2026-11-17T21:48:37.252928+00:00",
+  "updatedAt": "2026-11-17T21:54:01.845906+00:00",
+  "checkedAt": "2026-11-17T21:54:01.845906+00:00",
   "newestPublishedAt": "2026-11-17T21:14:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -460,6 +460,32 @@
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     },
     {
+      "id": "3755e15af7a92fbb26c8",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "تعلن NVIDIA عن Rubin HPC — وحدة معالجة رسومات جديدة لتسريع العمليات الخاصة بالعلوم والهندسة والتحليلات",
+      "titleOriginal": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "research",
+      "importance": 86,
+      "summary": "تم الإعلان اليوم في SC26 عن NVIDIA Rubin HPC، وهي وحدة معالجة رسومات جديدة في منصة NVIDIA Vera Rubin مصممة لتسريع المحاكاة ومعالجة البيانات للعلوم والهندسة",
+      "summaryOriginal": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/rubin-hpc",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T16:00:01+00:00"
+    },
+    {
       "id": "843c978a7aa6edd6df4b",
       "company": "OpenAI",
       "logoText": "AI",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery"
-    },
-    {
-      "id": "c575f542dc25754ed4f6",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "CUDA في عامها العشرين: كيف أحدثت المنصة تحولاً في الحوسبة العلمية",
-      "titleOriginal": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "هذا الأسبوع في SC26، تحتفل NVIDIA بمرور عقدين على CUDA من خلال تكريم الباحثين والمطورين والمهندسين الذين ساعدوا في جعل حوسبة وحدات معالجة الرسومات أساسًا للعلوم الحديثة",
-      "summaryOriginal": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/20-years-cuda/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA CUDA at 20: How the Platform Transformed Scientific Computing"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T21:48:37.252928+00:00"
+  "lastFastCheckAt": "2026-11-17T21:54:01.845906+00:00"
 }
