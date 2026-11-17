@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T20:22:31.928288+00:00",
-  "checkedAt": "2026-11-17T20:22:31.928288+00:00",
-  "newestPublishedAt": "2026-11-17T19:40:01+00:00",
+  "updatedAt": "2026-11-17T20:27:31.833805+00:00",
+  "checkedAt": "2026-11-17T20:27:31.833805+00:00",
+  "newestPublishedAt": "2026-11-17T20:25:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "25531d387b44a4c02370",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "أنماط OAuth الآمنة لـ Snowflake Cortex AI من خلال Amazon Bedrock AgentCore",
+      "titleOriginal": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "عندما يتصل وكيل ذكاء اصطناعي على Amazon Bedrock AgentCore بوكيل Snowflake Cortex AI عبر MCP، كيف يتم المصادقة؟ يستعرض هذا المنشور ثلاثة أنماط OAuth اختبرناها على Agent",
+      "summaryOriginal": "When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can match your organization's identity, audit, and compliance needs.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T20:25:23+00:00"
+    },
     {
       "id": "34800244e0eee11fab78",
       "company": "Amazon",
@@ -840,35 +866,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T09:00:00+00:00"
-    },
-    {
-      "id": "bff5476eefa9c5df1cbd",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحلتنا الأولى من التقييمات المضمنة",
-      "titleOriginal": "Our first phase of embedded assessments",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تبدأ OpenAI التقييمات المضمنة مع Apollo Research وMETR وTransluce وGoodfire لتقييم مواءمة النموذج والضمانات وأنظمة المراقبة بشكل مستقل.",
-      "summaryOriginal": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our first phase of embedded assessments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T20:22:31.928288+00:00"
+  "lastFastCheckAt": "2026-11-17T20:27:31.833805+00:00"
 }
