@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T18:30:43.986386+00:00",
-  "checkedAt": "2026-11-17T18:30:43.986386+00:00",
+  "updatedAt": "2026-11-17T18:35:54.150569+00:00",
+  "checkedAt": "2026-11-17T18:35:54.150569+00:00",
   "newestPublishedAt": "2026-11-17T18:06:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -346,6 +346,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "07f18dea723bbe7067e1",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "تحديث Assembler للحاسوب المركزي إلى Java باستخدام Amazon Bedrock وAWS Transform",
+      "titleOriginal": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "business",
+      "importance": 82,
+      "summary": "تُعدّ تطبيقات Assembler القديمة للحواسيب المركزية مكلفة من حيث الصيانة ويصعب توفير الموظفين لها. يقدم هذا المنشور منهجية متعددة المراحل مدعومة بالذكاء الاصطناعي باستخدام Amazon Bedrock وKiro IDE،",
+      "summaryOriginal": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T17:29:29+00:00"
     },
     {
       "id": "dc1e32884a697e9f703e",
@@ -820,30 +846,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future"
-    },
-    {
-      "id": "c709428a8b08a0580c2f",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "كيف أنشأت MoEngage تفاعل العملاء الوكيل على Amazon Bedrock AgentCore",
-      "titleOriginal": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "قامت MoEngage ببناء Merlin AI، وهي مجموعة من وكلاء الذكاء الاصطناعي على Amazon Bedrock وAmazon Bedrock AgentCore التي تتيح لفرق التسويق والمنتجات صياغة الحملات وتحليلها وتعديلها من",
-      "summaryOriginal": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T18:30:43.986386+00:00"
+  "lastFastCheckAt": "2026-11-17T18:35:54.150569+00:00"
 }
