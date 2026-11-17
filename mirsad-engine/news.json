@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T02:53:32.643872+00:00",
-  "checkedAt": "2026-11-17T02:53:32.643872+00:00",
+  "updatedAt": "2026-11-17T02:56:02.609439+00:00",
+  "checkedAt": "2026-11-17T02:56:02.609439+00:00",
   "newestPublishedAt": "2026-11-16T22:43:30+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 7,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "fa3fef96155a2410e9ea",
+      "id": "9a8ba3d9dd9b0c2d642c",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "مستجد تقني",
@@ -106,20 +106,15 @@
       "summary": "تقوم قاعدة المعرفة المُدارة من Amazon Bedrock وذاكرة AgentCore من Amazon Bedrock الآن بتخزين المحادثات واستخراج الحقائق وإدخال الذاكرة طويلة الأمد في AgenticRetrieve واحد",
       "summaryOriginal": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T22:43:30+00:00"
+      "searchAliases": "Amazon Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base"
     },
     {
-      "id": "c8fe820387f228637cbc",
+      "id": "4f93e5e5d9c2ca8bb990",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -129,23 +124,18 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "أعادت Duco، وهي منصة لأتمتة البيانات للبنوك من الدرجة الأولى، بناء مجموعة أدوات الذكاء الاصطناعي الوكيلية الخاصة بها على Amazon Bedrock وAmazon Bedrock AgentCore. مع العزل الصارم لكل مستأجر،",
+      "summary": "أعادت Duco، وهي منصة أتمتة البيانات للبنوك من الدرجة الأولى، بناء مجموعة الذكاء الاصطناعي الوكيلية الخاصة بها على Amazon Bedrock وAmazon Bedrock AgentCore. مع العزل الصارم لكل مستأجر،",
       "summaryOriginal": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T22:06:08+00:00"
+      "searchAliases": "Amazon How Duco transforms financial data automation with Amazon Bedrock AgentCore"
     },
     {
-      "id": "8a5930aa5310491bd5d7",
+      "id": "9131f0a92d5ac7ed9d7b",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -155,23 +145,18 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "يُعدّ تنسيق العوامل المتعددة مشكلة تتعلق بالأنظمة الموزعة، وليس مشكلة تتعلق بالنموذج. يقدم هذا المنشور تصنيفًا تم اختباره ميدانيًا لأنماط التصميم وأنماط التصميم غير المرغوب فيها متعددة العوامل،",
+      "summary": "يُعدّ تنسيق عوامل متعددة مشكلة تتعلق بالأنظمة الموزعة، وليست مشكلة تتعلق بالنموذج. يقدم هذا المنشور تصنيفًا تم اختباره ميدانيًا لأنماط التصميم متعددة العوامل والأنماط المضادة،",
       "summaryOriginal": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T21:53:46+00:00"
+      "searchAliases": "Amazon Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing"
     },
     {
-      "id": "d4b27dd825a046a13697",
+      "id": "a64f29595959f22ac7e3",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -181,20 +166,15 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع التي تدعم منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
       "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T20:00:37+00:00"
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future"
     },
     {
       "id": "c709428a8b08a0580c2f",
@@ -354,7 +334,7 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "في أول ظهور لها في اختبارات الأداء المعيارية MLPerf، مع نتائج تم الإعلان عنها اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا عبر التدريب وما بعد التدريب والاستدلال الوكيل.",
+      "summary": "في أول ظهور لها في اختبارات الأداء القياسية MLPerf، مع نتائج تم الإعلان عنها اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا في مجالات التدريب وما بعد التدريب والاستدلال الوكيل.",
       "summaryOriginal": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
@@ -396,7 +376,7 @@
       "dateISO": "2026-11-16",
       "category": "research",
       "importance": 86,
-      "summary": "هذا الأسبوع في SC26، تحتفل NVIDIA بمرور عقدين على CUDA من خلال تكريم الباحثين والمطورين والمهندسين الذين ساعدوا في جعل حوسبة وحدات معالجة الرسومات أساسًا للعلوم الحديثة",
+      "summary": "هذا الأسبوع في SC26، تحتفل NVIDIA بمرور عقدين على إطلاق CUDA من خلال تكريم الباحثين والمطورين والمهندسين الذين ساهموا في جعل الحوسبة باستخدام وحدات معالجة الرسومات أساسًا للعلوم الحديثة",
       "summaryOriginal": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/20-years-cuda/",
@@ -417,7 +397,7 @@
       "dateISO": "2026-11-16",
       "category": "research",
       "importance": 86,
-      "summary": "تم الإعلان اليوم في SC26 عن NVIDIA Rubin HPC، وهي وحدة معالجة رسومات جديدة في منصة NVIDIA Vera Rubin مصممة لتسريع المحاكاة ومعالجة البيانات للعلوم والهندسة و",
+      "summary": "تم الإعلان اليوم في SC26 عن NVIDIA Rubin HPC، وهي وحدة معالجة رسومات جديدة في منصة NVIDIA Vera Rubin المصممة لتسريع المحاكاة ومعالجة البيانات للعلوم والهندسة",
       "summaryOriginal": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/rubin-hpc/",
@@ -438,7 +418,7 @@
       "dateISO": "2026-11-16",
       "category": "tools",
       "importance": 78,
-      "summary": "باستخدام الموضوعات المرفوضة في أدوات الحماية في Amazon Bedrock، يمكنك حظر فئة محتوى من خلال وصفها بلغة بسيطة، وتطابق أداة الحماية حسب المعنى بدلاً من الكلمة الرئيسية",
+      "summary": "باستخدام الموضوعات المرفوضة في أدوات الحماية في Amazon Bedrock، يمكنك حظر فئة محتوى من خلال وصفها بلغة بسيطة، وتطابق أداة الحماية بالمعنى بدلاً من الكلمة المفتاحية",
       "summaryOriginal": "With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning rather than keyword, which can block more than you intend. This post presents eight best practices for writing a topic precisely enough that the guardrail blocks what you mean and passes what you don't.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/",
@@ -459,7 +439,7 @@
       "dateISO": "2026-11-16",
       "category": "policy",
       "importance": 88,
-      "summary": "تحدد تعليمات الاسترجاع في قاعدة المعرفة المُدارة من Amazon Bedrock أسلوب الكلام والتنسيق وإرشادات الاسترجاع وسياسة الإجابة لكل مستأجر في قواعد المعرفة المشتركة.",
+      "summary": "تحدد تعليمات الاسترجاع في قاعدة المعرفة المُدارة من Amazon Bedrock الأسلوب والتنسيق وإرشادات الاسترجاع وسياسة الإجابة لكل مستأجر على قواعد المعرفة المشتركة.",
       "summaryOriginal": "Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope access with IAM tags, and roll out changes one tenant at a time.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/",
@@ -627,7 +607,7 @@
       "dateISO": "2026-11-16",
       "category": "tools",
       "importance": 78,
-      "summary": "على مدار يومين في مركز COEX، اجتمع أكثر من 2000 مشارك في يوم الذكاء الاصطناعي في سيول، حيث جمع قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا الذين يطورون",
+      "summary": "على مدار يومين في مركز COEX، اجتمع أكثر من 2000 مشارك في يوم الذكاء الاصطناعي في سيول، مما جمع قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا الذين يطورون",
       "summaryOriginal": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
@@ -659,6 +639,27 @@
       "searchAliases": "OpenAI The King’s Trust and OpenAI launch £1m partnership"
     },
     {
+      "id": "4e57f98ca8f393a9e613",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "في Holiday Extras، تبدأ النقاط العمل قبل أن يطلبها أي شخص",
+      "titleOriginal": "At Holiday Extras, dots get to work before anyone asks",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم Dots تقارير الإطلاق دون الحاجة إلى طلبها، وتحدد المشكلات التي قد يغفلها الأشخاص، وتناقش الاجتماعات القادمة أثناء التنقل إلى العمل.",
+      "summaryOriginal": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI At Holiday Extras, dots get to work before anyone asks"
+    },
+    {
       "id": "231d6e25b614d8e859ee",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -678,32 +679,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run"
-    },
-    {
-      "id": "4e57f98ca8f393a9e613",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "في Holiday Extras، تبدأ النقاط العمل قبل أن يطلبها أي شخص",
-      "titleOriginal": "At Holiday Extras, dots get to work before anyone asks",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقدم Dots تقارير الإطلاق دون الحاجة إلى طلبها، وتحدد المشكلات التي قد يغفلها الأشخاص، وتناقش الاجتماعات القادمة أثناء التنقل إلى العمل.",
-      "summaryOriginal": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI At Holiday Extras, dots get to work before anyone asks",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T00:00:00+00:00"
     },
     {
       "id": "f997e97484bc48cb4bbc",
@@ -727,28 +702,27 @@
       "searchAliases": "OpenAI A step toward defining the Standard Model on a lattice"
     },
     {
-      "id": "645c8a8eb2b95ab3f83c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "مدونتنا الجديدة للعلوم",
-      "titleOriginal": "Our new blog for science",
-      "dateLabel": "15 نوفمبر 2026",
-      "dateISO": "2026-11-15",
-      "category": "research",
-      "importance": 86,
-      "summary": "تشارك مدونة OpenAI العلمية النتائج الجديدة والأساليب العملية والروايات المباشرة من الباحثين الذين يستخدمون الذكاء الاصطناعي للنهوض بالاكتشافات العلمية.",
-      "summaryOriginal": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/our-new-blog-for-science",
-      "sourceLabel": "OpenAI",
+      "id": "280ab3ad8ac54ae5be43",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "بناء محاكاة روبوت للالتقاط والوضع باستخدام أصول SimReady",
+      "titleOriginal": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "dateLabel": "13 نوفمبر 2026",
+      "dateISO": "2026-11-13",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Our new blog for science"
+      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-16T19:53:32.432981+00:00",
-  "lastFastCheckAt": "2026-11-17T02:53:32.643872+00:00"
+  "lastDeepCheckAt": "2026-11-17T02:56:02.609439+00:00"
 }
