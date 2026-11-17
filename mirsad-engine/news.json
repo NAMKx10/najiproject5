@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T18:45:51.543139+00:00",
-  "checkedAt": "2026-11-17T18:45:51.543139+00:00",
-  "newestPublishedAt": "2026-11-17T18:06:44+00:00",
+  "updatedAt": "2026-11-17T18:50:56.630409+00:00",
+  "checkedAt": "2026-11-17T18:50:56.630409+00:00",
+  "newestPublishedAt": "2026-11-17T18:48:50+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b7ea7d97a0309a103dfb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إنشاء وكلاء الذكاء الاصطناعي لواتساب باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يقوم SMART، وهو حزمة تطوير برامج (SDK) مفتوحة المصدر بلغة Python ومجموعة Terraform، بنشر طبقة قناة WhatsApp الكاملة على حسابك في AWS بأمر واحد. أحضر أي وكيل يعمل على Amazon Be",
+      "summaryOriginal": "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, scheduling, and Meta message templates.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Build WhatsApp AI agents with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T18:48:50+00:00"
+    },
     {
       "id": "de6547b4cba5e68e85dd",
       "company": "Amazon",
@@ -346,6 +372,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "8a5930aa5310491bd5d7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تصنيف أنماط التصميم متعددة العوامل والأنماط المضادة والدروس المستفادة من التصنيع",
+      "titleOriginal": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "يُعدّ تنسيق العوامل المتعددة مشكلة تتعلق بالأنظمة الموزعة، وليس مشكلة تتعلق بالنموذج. يقدم هذا المنشور تصنيفًا تم اختباره ميدانيًا لأنماط التصميم وأنماط التصميم غير المرغوب فيها متعددة العوامل،",
+      "summaryOriginal": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T21:53:46+00:00"
     },
     {
       "id": "d4b27dd825a046a13697",
@@ -814,51 +866,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T00:00:28+00:00"
-    },
-    {
-      "id": "9a8ba3d9dd9b0c2d642c",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "بناء وكلاء ذكاء اصطناعي واعين للذاكرة مع Agentic Retrieve على قاعدة المعرفة المُدارة من Amazon Bedrock",
-      "titleOriginal": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تقوم قاعدة المعرفة المُدارة من Amazon Bedrock وذاكرة AgentCore من Amazon Bedrock الآن بتخزين المحادثات واستخراج الحقائق وإدخال الذاكرة طويلة الأمد في AgenticRetrieve واحد",
-      "summaryOriginal": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base"
-    },
-    {
-      "id": "4f93e5e5d9c2ca8bb990",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تحول Duco أتمتة البيانات المالية باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعادت Duco، وهي منصة أتمتة البيانات للبنوك من الدرجة الأولى، بناء مجموعة الذكاء الاصطناعي الوكيلية الخاصة بها على Amazon Bedrock وAmazon Bedrock AgentCore. مع العزل الصارم لكل مستأجر،",
-      "summaryOriginal": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon How Duco transforms financial data automation with Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T18:45:51.543139+00:00"
+  "lastFastCheckAt": "2026-11-17T18:50:56.630409+00:00"
 }
