@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T13:52:04.180476+00:00",
-  "checkedAt": "2026-11-17T13:52:04.180476+00:00",
+  "updatedAt": "2026-11-17T13:57:07.559061+00:00",
+  "checkedAt": "2026-11-17T13:57:07.559061+00:00",
   "newestPublishedAt": "2026-11-17T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
+    },
+    {
+      "id": "10235f5007203fe1aa5e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم OpenAI في تشيلي",
+      "titleOriginal": "Introducing OpenAI for Chile",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "تتعاون OpenAI وحكومة شيلي لدعم اعتماد الذكاء الاصطناعي المسؤول، وبناء مهارات القطاع العام، ومساعدة الشركات الناشئة المحلية على تطوير تطبيقات الذكاء الاصطناعي.",
+      "summaryOriginal": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-openai-for-chile",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing OpenAI for Chile",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T00:00:00+00:00"
     },
     {
       "id": "9a8ba3d9dd9b0c2d642c",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run"
-    },
-    {
-      "id": "280ab3ad8ac54ae5be43",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "بناء محاكاة روبوت للالتقاط والوضع باستخدام أصول SimReady",
-      "titleOriginal": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "dateLabel": "13 نوفمبر 2026",
-      "dateISO": "2026-11-13",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-13T18:00:39+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T13:52:04.180476+00:00"
+  "lastFastCheckAt": "2026-11-17T13:57:07.559061+00:00"
 }
