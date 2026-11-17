@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T17:14:41.705763+00:00",
-  "checkedAt": "2026-11-17T17:14:41.705763+00:00",
+  "updatedAt": "2026-11-17T17:19:54.992040+00:00",
+  "checkedAt": "2026-11-17T17:19:54.992040+00:00",
   "newestPublishedAt": "2026-11-17T17:08:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -268,6 +268,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "843c978a7aa6edd6df4b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "العلم على الحدود: كيف يستخدم العلماء ChatGPT",
+      "titleOriginal": "Science at the Frontier: How scientists use ChatGPT",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف كيف يستخدم أكثر من 1800 عالم ChatGPT في الأبحاث. اطّلع على النتائج المتعلقة بسير العمل اليومي والإنتاجية المبلغ عنها والتوقعات المتعلقة بالاكتشاف.",
+      "summaryOriginal": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/science-at-the-frontier",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Science at the Frontier: How scientists use ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T12:00:00+00:00"
+    },
+    {
+      "id": "c458e316d067406eb14c",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف ترفع Revolut الطموح دون خفض المستوى المطلوب",
+      "titleOriginal": "How Revolut raises ambition without lowering the bar",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "اكتشف كيف تستخدم Revolut نماذج OpenAI وCodex لتقليل وقت البرمجة بنسبة 30–60%، وتوسيع نطاق التحقيقات في الجرائم المالية، والابتكار دون المساس بالأمان.",
+      "summaryOriginal": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/revolut",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Revolut raises ambition without lowering the bar",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T09:30:00+00:00"
     },
     {
       "id": "513ee61a931ffe773493",
@@ -739,51 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics"
-    },
-    {
-      "id": "cd7d678506152351ff23",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "أفضل الممارسات لكتابة الموضوعات المرفوضة في أدوات الحماية في Amazon Bedrock",
-      "titleOriginal": "Best practices for writing Denied Topics in Amazon Bedrock Guardrails",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "باستخدام الموضوعات المرفوضة في أدوات الحماية في Amazon Bedrock، يمكنك حظر فئة محتوى من خلال وصفها بلغة بسيطة، وتطابق أداة الحماية حسب المعنى بدلاً من الكلمة المفتاحية",
-      "summaryOriginal": "With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning rather than keyword, which can block more than you intend. This post presents eight best practices for writing a topic precisely enough that the guardrail blocks what you mean and passes what you don't.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Best practices for writing Denied Topics in Amazon Bedrock Guardrails"
-    },
-    {
-      "id": "b2094f421f7309c33af9",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أمان وسياسات",
-      "title": "تخصيص الإجابات لكل مستأجر في قاعدة المعرفة المُدارة من Amazon Bedrock",
-      "titleOriginal": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "policy",
-      "importance": 88,
-      "summary": "تحدد تعليمات الاسترجاع في قاعدة المعارف المُدارة من Amazon Bedrock أسلوب الكلام والتنسيق وإرشادات الاسترجاع وسياسة الإجابة لكل مستأجر في قواعد المعارف المشتركة.",
-      "summaryOriginal": "Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope access with IAM tags, and roll out changes one tenant at a time.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Customize answers per tenant in Amazon Bedrock Managed Knowledge Base"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T17:14:41.705763+00:00"
+  "lastFastCheckAt": "2026-11-17T17:19:54.992040+00:00"
 }
