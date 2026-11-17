@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T18:40:48.107259+00:00",
-  "checkedAt": "2026-11-17T18:40:48.107259+00:00",
+  "updatedAt": "2026-11-17T18:45:51.543139+00:00",
+  "checkedAt": "2026-11-17T18:45:51.543139+00:00",
   "newestPublishedAt": "2026-11-17T18:06:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -346,6 +346,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "d4b27dd825a046a13697",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تخترع سلسلة توريد البنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
+      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T20:00:37+00:00"
     },
     {
       "id": "861cda688f53df81936c",
@@ -830,30 +856,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How Duco transforms financial data automation with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "9131f0a92d5ac7ed9d7b",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تصنيف أنماط التصميم متعددة العوامل والأنماط المضادة والدروس المستفادة من التصنيع",
-      "titleOriginal": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يُعدّ تنسيق العوامل المتعددة مشكلة تتعلق بالأنظمة الموزعة، وليس مشكلة تتعلق بالنموذج. يقدم هذا المنشور تصنيفًا تم اختباره ميدانيًا لأنماط التصميم وأنماط التصميم غير المرغوب فيها متعددة العوامل،",
-      "summaryOriginal": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T18:40:48.107259+00:00"
+  "lastFastCheckAt": "2026-11-17T18:45:51.543139+00:00"
 }
