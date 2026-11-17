@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T23:32:42.201542+00:00",
-  "checkedAt": "2026-11-17T23:32:42.201542+00:00",
-  "newestPublishedAt": "2026-11-17T22:44:51+00:00",
+  "updatedAt": "2026-11-17T23:37:46.729693+00:00",
+  "checkedAt": "2026-11-17T23:37:46.729693+00:00",
+  "newestPublishedAt": "2026-11-17T23:33:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "79da502507371a91b99d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "NVIDIA Dynamo المُدار على Amazon SageMaker HyperPod Inference",
+      "titleOriginal": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "تدعم Amazon SageMaker HyperPod Inference الآن NVIDIA Dynamo للاستدلال الموزع، مع الخدمة متعددة العقد وغير المجمعة، والتوجيه الواعي بقاعدة البيانات المفتاح-القيمة، والتعافي التلقائي من الأخطاء.",
+      "summaryOriginal": "Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for distributed inference, with multi-node and disaggregated serving, KV-aware routing, and automatic fault recovery. Serve large models across many nodes without building the orchestration layer yourself.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T23:33:26+00:00"
+    },
     {
       "id": "bf49bcc9bc3ed829ac78",
       "company": "Amazon",
@@ -770,35 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "513ee61a931ffe773493",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يعلن قسم الإعلام في LVMH عن شراكة استراتيجية مع OpenAI",
-      "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعلن قسم الإعلام في LVMH وOpenAI عن شراكة لدعم الصحافة بالذكاء الاصطناعي وجعل منشوراتها أكثر سهولة من خلال ChatGPT.",
-      "summaryOriginal": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/lvmh-media-division-partnership",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LVMH’s Media Division announces strategic partnership with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T09:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T23:32:42.201542+00:00"
+  "lastFastCheckAt": "2026-11-17T23:37:46.729693+00:00"
 }
