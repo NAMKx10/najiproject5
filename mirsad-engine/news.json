@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T18:20:35.750447+00:00",
-  "checkedAt": "2026-11-17T18:20:35.750447+00:00",
+  "updatedAt": "2026-11-17T18:25:41.089966+00:00",
+  "checkedAt": "2026-11-17T18:25:41.089966+00:00",
   "newestPublishedAt": "2026-11-17T18:06:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -346,6 +346,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "dc1e32884a697e9f703e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "تعزيز مكافحة الاعتداء الجنسي على الأطفال عبر الإنترنت باستخدام أدوات ودعم جدد",
+      "titleOriginal": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "business",
+      "importance": 82,
+      "summary": "ستساعد الأدوات الجديدة والإرشادات العملية والشراكات على منع الاستغلال الجنسي للأطفال والاعتداء عليهم عبر الإنترنت واكتشافهما والتصدي لهما.",
+      "summaryOriginal": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/strengthening-online-child-safety",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Strengthening the fight against online child sexual abuse with new tools and support",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "id": "6d894986d7fa9080ff61",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "تعزز لامبدا مرونة وكفاءة مصنع الذكاء الاصطناعي باستخدام تقنية فوتونيات إنفيديا",
+      "titleOriginal": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "لتدريب نموذج ذكاء اصطناعي، يجب أن تعمل آلاف وحدات معالجة الرسومات معًا، مما يتطلب شبكة سريعة وفعالة ومرنة. تعمل لامبدا على معالجة جزء الشبكة من اللغز",
+      "summaryOriginal": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/lambda-photonics",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T16:00:51+00:00"
     },
     {
       "id": "6c4b9ae57b327bac8d98",
@@ -784,51 +836,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform"
-    },
-    {
-      "id": "5a2a75b84e6c42cc0e84",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "تقوم نوفو نورديسك بتحديث وثائق عملية التصنيع باستخدام Amazon Bedrock AgentCore",
-      "titleOriginal": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "قام فريق تكنولوجيا التصنيع في نوفو نورديسك ضمن فريق قسم الأقراص ببناء مساعد ذكاء العمليات على Amazon Bedrock AgentCore، باستخدام بنية GraphRAG",
-      "summaryOriginal": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn millions of controlled manufacturing documents into grounded, cited answers.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "71915ef40a330028e0d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي للعلماء",
-      "titleOriginal": "Broadening access to AI for scientists",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "نحن بصدد توسيع برنامج ChatGPT للباحثين الأكاديميين لنقدم لـ 200,000 باحث في جميع أنحاء العالم إمكانية الوصول المجاني إلى نماذجنا الرائدة.",
-      "summaryOriginal": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Broadening access to AI for scientists"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T18:20:35.750447+00:00"
+  "lastFastCheckAt": "2026-11-17T18:25:41.089966+00:00"
 }
