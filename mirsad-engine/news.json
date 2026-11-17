@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T21:58:55.491611+00:00",
-  "checkedAt": "2026-11-17T21:58:55.491611+00:00",
+  "updatedAt": "2026-11-17T22:03:59.416422+00:00",
+  "checkedAt": "2026-11-17T22:03:59.416422+00:00",
   "newestPublishedAt": "2026-11-17T21:14:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -460,6 +460,32 @@
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     },
     {
+      "id": "2256197ec7d2529ac3d2",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "توفر مكتبات NVIDIA CUDA-X للوكلاء الأدوات اللازمة لتسريع الاكتشاف العلمي",
+      "titleOriginal": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "بفضل مكتبات NVIDIA CUDA-X الموسعة، بما في ذلك cuPhoton وcuPotential وcuSpa، يمكن للباحثين فرز كميات هائلة من البيانات لتسريع البحث، من الفيزياء الفلكية",
+      "summaryOriginal": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T16:00:16+00:00"
+    },
+    {
       "id": "d731ee200ba345ed3e81",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics"
-    },
-    {
-      "id": "a11f792983b14c7667ea",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تتفوق في تدريب MLPerf ونقاط النهاية مع ظهور Vera Rubin بأداء رائد",
-      "titleOriginal": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "في أول ظهور لها في اختبارات الأداء المعيارية MLPerf، مع نتائج تم الإعلان عنها اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا عبر التدريب وما بعد التدريب والاستدلال الوكيل.",
-      "summaryOriginal": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T21:58:55.491611+00:00"
+  "lastFastCheckAt": "2026-11-17T22:03:59.416422+00:00"
 }
