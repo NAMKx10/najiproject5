@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T22:09:35.786480+00:00",
-  "checkedAt": "2026-11-17T22:09:35.786480+00:00",
+  "updatedAt": "2026-11-17T22:14:05.994020+00:00",
+  "checkedAt": "2026-11-17T22:14:05.994020+00:00",
   "newestPublishedAt": "2026-11-17T21:14:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -460,6 +460,32 @@
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     },
     {
+      "id": "dc1e32884a697e9f703e",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "تعزيز مكافحة الاعتداء الجنسي على الأطفال عبر الإنترنت باستخدام أدوات ودعم جدد",
+      "titleOriginal": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "business",
+      "importance": 82,
+      "summary": "ستساعد الأدوات الجديدة والإرشادات العملية والشراكات على منع الاستغلال والاعتداء الجنسيين على الأطفال عبر الإنترنت واكتشافهما والتصدي لهما.",
+      "summaryOriginal": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/index/strengthening-online-child-safety",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Strengthening the fight against online child sexual abuse with new tools and support",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T17:00:00+00:00"
+    },
+    {
       "id": "6d894986d7fa9080ff61",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future"
-    },
-    {
-      "id": "71915ef40a330028e0d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي للعلماء",
-      "titleOriginal": "Broadening access to AI for scientists",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "نحن بصدد توسيع برنامج ChatGPT للباحثين الأكاديميين لنقدم لـ 200,000 باحث في جميع أنحاء العالم إمكانية الوصول المجاني إلى نماذجنا الرائدة.",
-      "summaryOriginal": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Broadening access to AI for scientists"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T22:09:35.786480+00:00"
+  "lastFastCheckAt": "2026-11-17T22:14:05.994020+00:00"
 }
