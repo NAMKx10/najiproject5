@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T17:04:20.551740+00:00",
-  "checkedAt": "2026-11-17T17:04:20.551740+00:00",
-  "newestPublishedAt": "2026-11-17T17:01:08+00:00",
+  "updatedAt": "2026-11-17T17:09:27.598179+00:00",
+  "checkedAt": "2026-11-17T17:09:27.598179+00:00",
+  "newestPublishedAt": "2026-11-17T17:08:21+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "93dc07b926a47e377173",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أمان وسياسات",
+      "title": "دليلك الكامل إلى AWS Quick في مؤتمر AWS re:Invent 2026",
+      "titleOriginal": "Your complete guide to AWS Quick at AWS re:Invent 2026",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "policy",
+      "importance": 88,
+      "summary": "يوفر AWS Quick لمؤسستك بأكملها الذكاء الاصطناعي الذي يعرف عملك ويحترم قواعد الأمان الخاصة بك ويتصرف نيابةً عنك. في مؤتمر AWS re:Invent 2026، العملاء بما في ذلك All",
+      "summaryOriginal": "AWS Quick gives your whole organization AI that knows your business, respects your security rules, and acts on your behalf. At AWS re:Invent 2026, customers including Allianz, Cox Automotive, and Southwest Airlines share how they govern, extend, and scale Quick. Use this guide to find the sessions that fit your goals.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Your complete guide to AWS Quick at AWS re:Invent 2026",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T17:08:21+00:00"
+    },
     {
       "id": "d5d254581d4fbdcebeaf",
       "company": "Amazon",
@@ -242,6 +268,58 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "e58e6a6159841f74e620",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "النهوض بوكلاء استخدام الكمبيوتر لفرق الرعاية الصحية",
+      "titleOriginal": "Advancing computer-use agents for healthcare teams",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advancing computer-use agents for healthcare teams",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T06:00:00+00:00"
+    },
+    {
+      "id": "fdd3b67d6d1e35fabd63",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "أبل تطلق دراسة بحثية لاستكشاف استخدام الذكاء الاصطناعي في مجال الصحة",
+      "titleOriginal": "Apple launches research study to explore the use of AI for health",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت شركة آبل اليوم عن إطلاق دراسة استخدام الذكاء الاصطناعي في مجال الصحة من آبل في الولايات المتحدة، والتي تتضمن دراسة بحثية افتراضية والتطبيق المرتبط بها.",
+      "summaryOriginal": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple launches research study to explore the use of AI for health",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T01:18:33.934000+00:00"
     },
     {
       "id": "623a51ed1a668ffbfad5",
@@ -688,72 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Revolut raises ambition without lowering the bar"
-    },
-    {
-      "id": "513ee61a931ffe773493",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يعلن قسم الإعلام في LVMH عن شراكة استراتيجية مع OpenAI",
-      "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعلن قسم الإعلام في LVMH وOpenAI عن شراكة لدعم الصحافة بالذكاء الاصطناعي وجعل منشوراتها أكثر سهولة من خلال ChatGPT.",
-      "summaryOriginal": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/lvmh-media-division-partnership",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LVMH’s Media Division announces strategic partnership with OpenAI"
-    },
-    {
-      "id": "bff5476eefa9c5df1cbd",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مرحلتنا الأولى من التقييمات المضمنة",
-      "titleOriginal": "Our first phase of embedded assessments",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تبدأ OpenAI التقييمات المضمنة مع Apollo Research وMETR وTransluce وGoodfire لتقييم مواءمة النموذج والضمانات وأنظمة المراقبة بشكل مستقل.",
-      "summaryOriginal": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Our first phase of embedded assessments"
-    },
-    {
-      "id": "49337d7da50bf1420f2e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "More ways to move care forward with ChatGPT for Healthcare",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI More ways to move care forward with ChatGPT for Healthcare"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T17:04:20.551740+00:00"
+  "lastFastCheckAt": "2026-11-17T17:09:27.598179+00:00"
 }
