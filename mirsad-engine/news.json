@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T20:27:31.833805+00:00",
-  "checkedAt": "2026-11-17T20:27:31.833805+00:00",
-  "newestPublishedAt": "2026-11-17T20:25:23+00:00",
+  "updatedAt": "2026-11-17T20:32:35.710922+00:00",
+  "checkedAt": "2026-11-17T20:32:35.710922+00:00",
+  "newestPublishedAt": "2026-11-17T20:31:04+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8ce49746db236689e2a0",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "إدارة السجلات واكتشافها باستخدام البيانات التعريفية المشتركة في سجل وكيل AWS",
+      "titleOriginal": "Govern and discover records with common metadata in AWS Agent Registry",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تتيح مخططات البيانات التعريفية المخصصة في سجل AWS Agent للمسؤول تعريف حقول مكتوبة ومُصدّقة يجب أن يحملها كل وكيل وخادم MCP ومهارة. تتبع هذه المقالة",
+      "summaryOriginal": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Govern and discover records with common metadata in AWS Agent Registry",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T20:31:04+00:00"
+    },
     {
       "id": "25531d387b44a4c02370",
       "company": "Amazon",
@@ -840,35 +866,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T09:30:00+00:00"
-    },
-    {
-      "id": "513ee61a931ffe773493",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يعلن قسم الإعلام في LVMH عن شراكة استراتيجية مع OpenAI",
-      "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعلن قسم الإعلام في LVMH وOpenAI عن شراكة لدعم الصحافة بالذكاء الاصطناعي وجعل منشوراتها أكثر سهولة من خلال ChatGPT.",
-      "summaryOriginal": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/lvmh-media-division-partnership",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LVMH’s Media Division announces strategic partnership with OpenAI",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T09:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T20:27:31.833805+00:00"
+  "lastFastCheckAt": "2026-11-17T20:32:35.710922+00:00"
 }
