@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T19:37:10.344491+00:00",
-  "checkedAt": "2026-11-17T19:37:10.344491+00:00",
-  "newestPublishedAt": "2026-11-17T19:05:22+00:00",
+  "updatedAt": "2026-11-17T19:41:49.879072+00:00",
+  "checkedAt": "2026-11-17T19:41:49.879072+00:00",
+  "newestPublishedAt": "2026-11-17T19:40:01+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "34800244e0eee11fab78",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الإعلان عن قدرات إعداد بيانات الذكاء الاصطناعي في Amazon SageMaker: إنشاء مجموعات بيانات عالية الجودة لعمليات سير عمل تطوير النماذج",
+      "titleOriginal": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "يوفر Amazon SageMaker AI الآن إمكانات إعداد بيانات الذكاء الاصطناعي لإنشاء بيانات تدريب وتقييم عالية الجودة. إنشاء أمثلة اصطناعية وتقييم البيانات وتحسينها",
+      "summaryOriginal": "Amazon SageMaker AI now offers AI data preparation capabilities for building high-quality training and evaluation data. Generate synthetic examples, assess and improve datasets, auto-label at scale, and bring in expert review through Python SDK APIs and an agent skill, all from your own notebook or IDE.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T19:40:01+00:00"
+    },
     {
       "id": "d22e16ab16a62492144d",
       "company": "Amazon",
@@ -840,35 +866,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T08:00:00+00:00"
-    },
-    {
-      "id": "e58e6a6159841f74e620",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "النهوض بوكلاء استخدام الكمبيوتر لفرق الرعاية الصحية",
-      "titleOriginal": "Advancing computer-use agents for healthcare teams",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advancing computer-use agents for healthcare teams",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T06:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T19:37:10.344491+00:00"
+  "lastFastCheckAt": "2026-11-17T19:41:49.879072+00:00"
 }
