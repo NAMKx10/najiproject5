@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T22:19:06.451830+00:00",
-  "checkedAt": "2026-11-17T22:19:06.451830+00:00",
+  "updatedAt": "2026-11-17T22:24:10.056232+00:00",
+  "checkedAt": "2026-11-17T22:24:10.056232+00:00",
   "newestPublishedAt": "2026-11-17T21:14:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -460,6 +460,32 @@
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     },
     {
+      "id": "d4b27dd825a046a13697",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تخترع سلسلة توريد البنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
+      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T20:00:37+00:00"
+    },
+    {
       "id": "dc1e32884a697e9f703e",
       "company": "OpenAI",
       "logoText": "AI",
@@ -770,35 +796,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T01:18:33.934000+00:00"
-    },
-    {
-      "id": "623a51ed1a668ffbfad5",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "مستجد تقني",
-      "title": "يجمع يوم الذكاء الاصطناعي في سيول قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا",
-      "titleOriginal": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "على مدار يومين في مركز COEX، اجتمع أكثر من 2000 مشارك في يوم الذكاء الاصطناعي في سيول، حيث جمع قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا الذين يطورون",
-      "summaryOriginal": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T00:00:28+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T22:19:06.451830+00:00"
+  "lastFastCheckAt": "2026-11-17T22:24:10.056232+00:00"
 }
