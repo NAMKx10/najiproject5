@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T15:53:25.803398+00:00",
-  "checkedAt": "2026-11-17T15:53:25.803398+00:00",
-  "newestPublishedAt": "2026-11-17T00:00:00+00:00",
+  "updatedAt": "2026-11-17T15:58:17.353003+00:00",
+  "checkedAt": "2026-11-17T15:58:17.353003+00:00",
+  "newestPublishedAt": "2026-11-17T15:57:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "006406d242dcb9beb1ea",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "كيف وسعت ArisGlobal نطاق استدلال الذكاء الاصطناعي التوليدي على Amazon Bedrock",
+      "titleOriginal": "How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "research",
+      "importance": 86,
+      "summary": "تدير ArisGlobal محرك NavaX، وهو محرك الذكاء الاصطناعي لعلوم الحياة، على Amazon Bedrock. من خلال تخزين بادئة المطالبة المشتركة مؤقتًا بدلاً من كل مستند لكل حالة، قللت ArisGlobal من المدخلات الفعالة",
+      "summaryOriginal": "ArisGlobal runs NavaX, its life-sciences AI engine, on Amazon Bedrock. By caching the shared prompt prefix instead of each per-case document, ArisGlobal cut effective input cost by about 50% and overall monthly inference spend by about 40%, while onboarding more tenants without proportional cost growth.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-arisglobal-scaled-generative-ai-inference-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How ArisGlobal scaled generative AI inference on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T15:57:09+00:00"
+    },
     {
       "id": "3048869c76c26eea6d6e",
       "company": "OpenAI",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The King’s Trust and OpenAI launch £1m partnership"
-    },
-    {
-      "id": "231d6e25b614d8e859ee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تتحد Hugging Face وOpenRouter لكي يسهلا تشغيل النماذج مفتوحة الأوزان",
-      "titleOriginal": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/openrouter",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T15:53:25.803398+00:00"
+  "lastFastCheckAt": "2026-11-17T15:58:17.353003+00:00"
 }
