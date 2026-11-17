@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T16:59:26.658936+00:00",
-  "checkedAt": "2026-11-17T16:59:26.658936+00:00",
-  "newestPublishedAt": "2026-11-17T16:56:31+00:00",
+  "updatedAt": "2026-11-17T17:04:20.551740+00:00",
+  "checkedAt": "2026-11-17T17:04:20.551740+00:00",
+  "newestPublishedAt": "2026-11-17T17:01:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d5d254581d4fbdcebeaf",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف أنشأت LoanPro مساعدًا لخدمات القروض يعمل بالذكاء الاصطناعي الفاعل باستخدام Amazon Bedrock AgentCore",
+      "titleOriginal": "How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "business",
+      "importance": 82,
+      "summary": "تعاونت LoanPro مع شريك AWS، AllCloud، ومركز AWS للابتكار في مجال الذكاء الاصطناعي التوليدي لبناء مساعد ذكاء اصطناعي متعدد الوكلاء على Amazon Bedrock وAmazon Bedrock AgentCore.",
+      "summaryOriginal": "LoanPro worked with AWS Partner AllCloud and the AWS Generative AI Innovation Center to build a multi-agent AI assistant on Amazon Bedrock and Amazon Bedrock AgentCore. It gives loan servicing agents instant borrower context and next-best-action recommendations, reducing customer call times by up to 15 percent.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T17:01:08+00:00"
+    },
     {
       "id": "61548491ff737d0ae2b0",
       "company": "Amazon",
@@ -216,6 +242,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-17T00:00:00+00:00"
+    },
+    {
+      "id": "623a51ed1a668ffbfad5",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "مستجد تقني",
+      "title": "يجمع يوم الذكاء الاصطناعي في سيول قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا",
+      "titleOriginal": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "tools",
+      "importance": 78,
+      "summary": "على مدار يومين في مركز COEX، اجتمع أكثر من 2000 مشارك في يوم الذكاء الاصطناعي في سيول، حيث جمع قادة الصناعة والشركات الناشئة ومجتمعات المطورين في كوريا الذين يطورون",
+      "summaryOriginal": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T00:00:28+00:00"
     },
     {
       "id": "9a8ba3d9dd9b0c2d642c",
@@ -699,51 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI More ways to move care forward with ChatGPT for Healthcare"
-    },
-    {
-      "id": "e58e6a6159841f74e620",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Advancing computer-use agents for healthcare teams",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Advancing computer-use agents for healthcare teams"
-    },
-    {
-      "id": "f2cfabb65614c1a48e11",
-      "company": "Apple",
-      "logoText": "",
-      "type": "إطلاق أو تحديث",
-      "title": "أبل تطلق دراسة بحثية لاستكشاف استخدام الذكاء الاصطناعي في مجال الصحة",
-      "titleOriginal": "Apple launches research study to explore the use of AI for health",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت شركة آبل اليوم عن إطلاق دراسة استخدام الذكاء الاصطناعي في مجال الصحة من آبل في الولايات المتحدة، والتي تتضمن دراسة بحثية افتراضية وتطبيقًا مرتبطًا بها.",
-      "summaryOriginal": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
-      "sourceLabel": "Apple Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Apple Apple launches research study to explore the use of AI for health"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T16:59:26.658936+00:00"
+  "lastFastCheckAt": "2026-11-17T17:04:20.551740+00:00"
 }
