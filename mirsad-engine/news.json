@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T18:25:41.089966+00:00",
-  "checkedAt": "2026-11-17T18:25:41.089966+00:00",
+  "updatedAt": "2026-11-17T18:30:43.986386+00:00",
+  "checkedAt": "2026-11-17T18:30:43.986386+00:00",
   "newestPublishedAt": "2026-11-17T18:06:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -367,6 +367,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Strengthening the fight against online child sexual abuse with new tools and support",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "id": "71915ef40a330028e0d0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي للعلماء",
+      "titleOriginal": "Broadening access to AI for scientists",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "نحن بصدد توسيع برنامج ChatGPT للباحثين الأكاديميين لنقدم لـ 200,000 باحث في جميع أنحاء العالم إمكانية الوصول المجاني إلى نماذجنا الرائدة.",
+      "summaryOriginal": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Broadening access to AI for scientists",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -815,30 +841,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "8c7f7d64933a331e2267",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "تحديث Assembler للحاسوب المركزي إلى Java باستخدام Amazon Bedrock وAWS Transform",
-      "titleOriginal": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "تُعدّ تطبيقات Assembler القديمة للحواسيب المركزية مكلفة من حيث الصيانة ويصعب توفير الموظفين لها. يقدم هذا المنشور منهجية متعددة المراحل مدعومة بالذكاء الاصطناعي باستخدام Amazon Bedrock وKiro IDE،",
-      "summaryOriginal": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applications on AWS.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T18:25:41.089966+00:00"
+  "lastFastCheckAt": "2026-11-17T18:30:43.986386+00:00"
 }
