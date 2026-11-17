@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T19:01:00.641715+00:00",
-  "checkedAt": "2026-11-17T19:01:00.641715+00:00",
-  "newestPublishedAt": "2026-11-17T18:48:50+00:00",
+  "updatedAt": "2026-11-17T19:06:22.248051+00:00",
+  "checkedAt": "2026-11-17T19:06:22.248051+00:00",
+  "newestPublishedAt": "2026-11-17T19:05:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d22e16ab16a62492144d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "إخراج الذكاء الاصطناعي من مرحلة العرض التوضيحي وإدخاله في الشركات على مستوى العالم",
+      "titleOriginal": "Getting AI out of the demo and into businesses globally",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "business",
+      "importance": 82,
+      "summary": "تمتلك معظم الشركات الذكاء الاصطناعي الذي يعمل في عرض توضيحي ولكنه يتوقف قبل الإنتاج. تعمل هندسة النشر المتقدمة من AWS على سد هذه الفجوة. ينضم مهندسو AWS إلى فرق العملاء من أجل",
+      "summaryOriginal": "Most enterprises have AI that works in a demo but stalls before production. AWS Forward Deployed Engineering closes that gap. AWS engineers embed with customer teams to take high-value workflows to production in 45-day sprints, leaving a foundation, workflows, and governance the customer owns.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/getting-ai-out-of-the-demo-and-into-businesses-globally",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Getting AI out of the demo and into businesses globally",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T19:05:22+00:00"
+    },
     {
       "id": "b7ea7d97a0309a103dfb",
       "company": "Amazon",
@@ -840,35 +866,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T06:00:00+00:00"
-    },
-    {
-      "id": "49337d7da50bf1420f2e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "المزيد من الطرق للارتقاء بالرعاية الصحية مع ChatGPT للرعاية الصحية",
-      "titleOriginal": "More ways to move care forward with ChatGPT for Healthcare",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "نقدم لكم وكلاء استخدام الكمبيوتر والإجابات السريرية المحسنة والمكونات الإضافية الجديدة للرعاية الصحية التي تعمل عبر برامج الرعاية الصحية لإنجاز العمل الفعلي.",
-      "summaryOriginal": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI More ways to move care forward with ChatGPT for Healthcare",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T06:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T19:01:00.641715+00:00"
+  "lastFastCheckAt": "2026-11-17T19:06:22.248051+00:00"
 }
