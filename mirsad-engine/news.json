@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T18:05:14.883870+00:00",
-  "checkedAt": "2026-11-17T18:05:14.883870+00:00",
-  "newestPublishedAt": "2026-11-17T17:08:21+00:00",
+  "updatedAt": "2026-11-17T18:10:26.633581+00:00",
+  "checkedAt": "2026-11-17T18:10:26.633581+00:00",
+  "newestPublishedAt": "2026-11-17T18:06:44+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "de6547b4cba5e68e85dd",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الاستدلال على البيانات الزمنية باستخدام OpenTSLM على Amazon SageMaker JumpStart",
+      "titleOriginal": "Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "أصبح OpenTSLM، وهي مجموعة مفتوحة المصدر من نماذج لغة السلاسل الزمنية، متاحًا الآن في Amazon SageMaker JumpStart. تعرّف على كيفية تطبيق Nexthink وAionic Labs لها على تكنولوجيا المعلومات الاستباقية",
+      "summaryOriginal": "OpenTSLM, an open source family of time-series language models, is now available in Amazon SageMaker JumpStart. See how Nexthink and Aionic Labs apply it to proactive IT support, then deploy OpenTSLM to a real-time endpoint and fine-tune it on your own data with TimeNet and a SageMaker training job.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T18:06:44+00:00"
+    },
     {
       "id": "93dc07b926a47e377173",
       "company": "Amazon",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA CUDA at 20: How the Platform Transformed Scientific Computing"
-    },
-    {
-      "id": "ad933074e782fb5387e8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "تعلن NVIDIA عن Rubin HPC — وحدة معالجة رسومات جديدة لتسريع العمليات للعلوم والهندسة والتحليلات",
-      "titleOriginal": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "تم الإعلان اليوم في SC26 عن NVIDIA Rubin HPC، وهي وحدة معالجة رسومات جديدة في منصة NVIDIA Vera Rubin مصممة لتسريع المحاكاة ومعالجة البيانات للعلوم والهندسة و",
-      "summaryOriginal": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T11:54:10.847463+00:00",
-  "lastFastCheckAt": "2026-11-17T18:05:14.883870+00:00"
+  "lastFastCheckAt": "2026-11-17T18:10:26.633581+00:00"
 }
