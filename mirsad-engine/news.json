@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T21:33:27.335650+00:00",
-  "checkedAt": "2026-11-17T21:33:27.335650+00:00",
+  "updatedAt": "2026-11-17T21:38:44.536584+00:00",
+  "checkedAt": "2026-11-17T21:38:44.536584+00:00",
   "newestPublishedAt": "2026-11-17T21:14:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -460,6 +460,32 @@
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     },
     {
+      "id": "513ee61a931ffe773493",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "يعلن قسم الإعلام في LVMH عن شراكة استراتيجية مع OpenAI",
+      "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعلن قسم الإعلام في LVMH وOpenAI عن شراكة لدعم الصحافة بالذكاء الاصطناعي وجعل منشوراتها أكثر سهولة من خلال ChatGPT.",
+      "summaryOriginal": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/lvmh-media-division-partnership",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI LVMH’s Media Division announces strategic partnership with OpenAI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T09:00:00+00:00"
+    },
+    {
       "id": "bff5476eefa9c5df1cbd",
       "company": "OpenAI",
       "logoText": "AI",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Science at the Frontier: How scientists use ChatGPT"
-    },
-    {
-      "id": "c458e316d067406eb14c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف ترفع Revolut الطموح دون خفض المستوى المطلوب",
-      "titleOriginal": "How Revolut raises ambition without lowering the bar",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف تستخدم Revolut نماذج OpenAI وCodex لتقليل وقت البرمجة بنسبة 30–60%، وتوسيع نطاق التحقيقات في الجرائم المالية، والابتكار دون المساس بالأمان.",
-      "summaryOriginal": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/business/customer-stories/revolut",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Revolut raises ambition without lowering the bar"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T21:33:27.335650+00:00"
+  "lastFastCheckAt": "2026-11-17T21:38:44.536584+00:00"
 }
