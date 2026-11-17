@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-17T21:08:10.112124+00:00",
-  "checkedAt": "2026-11-17T21:08:10.112124+00:00",
-  "newestPublishedAt": "2026-11-17T20:31:04+00:00",
+  "updatedAt": "2026-11-17T21:13:17.030059+00:00",
+  "checkedAt": "2026-11-17T21:13:17.030059+00:00",
+  "newestPublishedAt": "2026-11-17T21:11:51+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "ea9c8fe48eb4c548d249",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تدعم نقاط نهاية الذكاء الاصطناعي في الوقت الفعلي من Amazon SageMaker الآن التوجيه الذي يراعي ذاكرة التخزين المؤقت KV",
+      "titleOriginal": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "تدعم نقاط نهاية الذكاء الاصطناعي في Amazon SageMaker في الوقت الفعلي الآن التوجيه الواعي بذاكرة التخزين المؤقت KV، وهي استراتيجية جديدة توجه كل طلب إلى المثيل الذي يحتوي على أطول تطابق مخزن مؤقتًا له.",
+      "summaryOriginal": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T21:11:51+00:00"
+    },
     {
       "id": "930aa650e05cfc2afdd0",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
-    },
-    {
-      "id": "231d6e25b614d8e859ee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تتعاون Hugging Face وOpenRouter معًا لتسهيل تشغيل النماذج مفتوحة الأوزان",
-      "titleOriginal": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/openrouter",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-17T20:56:52.647850+00:00",
-  "lastFastCheckAt": "2026-11-17T21:08:10.112124+00:00"
+  "lastFastCheckAt": "2026-11-17T21:13:17.030059+00:00"
 }
