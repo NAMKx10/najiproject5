@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T14:46:42.039004+00:00",
-  "checkedAt": "2026-11-18T14:46:42.039004+00:00",
+  "updatedAt": "2026-11-18T14:51:54.369086+00:00",
+  "checkedAt": "2026-11-18T14:51:54.369086+00:00",
   "newestPublishedAt": "2026-11-18T14:00:31+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -502,6 +502,32 @@
       "searchAliases": "OpenAI Introducing OpenAI for Chile"
     },
     {
+      "id": "fdd3b67d6d1e35fabd63",
+      "company": "Apple",
+      "logoText": "",
+      "type": "إطلاق أو تحديث",
+      "title": "أبل تطلق دراسة بحثية لاستكشاف استخدام الذكاء الاصطناعي في مجال الصحة",
+      "titleOriginal": "Apple launches research study to explore the use of AI for health",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت شركة آبل اليوم عن إطلاق دراسة استخدام الذكاء الاصطناعي في مجال الصحة من آبل في الولايات المتحدة، والتي تتضمن دراسة بحثية افتراضية والتطبيق المرتبط بها.",
+      "summaryOriginal": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+      "sourceLabel": "Apple Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Apple Apple launches research study to explore the use of AI for health",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T01:18:33.934000+00:00"
+    },
+    {
       "id": "623a51ed1a668ffbfad5",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Science at the Frontier: How scientists use ChatGPT"
-    },
-    {
-      "id": "c458e316d067406eb14c",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف ترفع Revolut الطموح دون خفض المستوى المطلوب",
-      "titleOriginal": "How Revolut raises ambition without lowering the bar",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "اكتشف كيف تستخدم Revolut نماذج OpenAI وCodex لتقليل وقت البرمجة بنسبة 30–60%، وتوسيع نطاق التحقيقات في الجرائم المالية، والابتكار دون المساس بالأمان.",
-      "summaryOriginal": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/business/customer-stories/revolut",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Revolut raises ambition without lowering the bar"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T14:46:42.039004+00:00"
+  "lastFastCheckAt": "2026-11-18T14:51:54.369086+00:00"
 }
