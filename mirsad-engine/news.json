@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T23:31:09.500198+00:00",
-  "checkedAt": "2026-11-18T23:31:09.500198+00:00",
+  "updatedAt": "2026-11-18T23:36:01.062688+00:00",
+  "checkedAt": "2026-11-18T23:36:01.062688+00:00",
   "newestPublishedAt": "2026-11-18T23:03:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -600,6 +600,32 @@
       "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
     },
     {
+      "id": "60265622d5cd3e224390",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "يان باك يفتتح أسبوع NVIDIA في SC26 مع دخول العلم عصر الوكلاء",
+      "titleOriginal": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "research",
+      "importance": 86,
+      "summary": "افتتح إيان باك من NVIDIA أسبوع الشركة في SC26 في شيكاغو يوم الاثنين بأدوات جديدة لوكلاء الذكاء الاصطناعي، وبرامج يمكنها تخطيط التجارب وتشغيل التعليمات البرمجية والتحقق من النتائج",
+      "summaryOriginal": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T14:00:10+00:00"
+    },
+    {
       "id": "db023ba03b68065607b2",
       "company": "OpenAI",
       "logoText": "AI",
@@ -750,30 +776,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "31e7b62c9116f8454603",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم GPT-6.2 Astra وSol",
-      "titleOriginal": "Introducing GPT-6.2 Astra and Sol",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "نقدم لكم GPT‑6.2 Astra وSol، مع مخرجات مهنية أفضل، وبرمجة، واستخدام للكمبيوتر، وكفاءة بتكلفة أقل عبر ChatGPT Work وCodex وواجهة برمجة التطبيقات (API).",
-      "summaryOriginal": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing GPT-6.2 Astra and Sol"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T23:31:09.500198+00:00"
+  "lastFastCheckAt": "2026-11-18T23:36:01.062688+00:00"
 }
