@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T19:46:47.634487+00:00",
-  "checkedAt": "2026-11-18T19:46:47.634487+00:00",
+  "updatedAt": "2026-11-18T19:51:50.801024+00:00",
+  "checkedAt": "2026-11-18T19:51:50.801024+00:00",
   "newestPublishedAt": "2026-11-18T19:27:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -618,6 +618,32 @@
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     },
     {
+      "id": "d4b27dd825a046a13697",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تخترع سلسلة توريد البنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
+      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T20:00:37+00:00"
+    },
+    {
       "id": "71915ef40a330028e0d0",
       "company": "OpenAI",
       "logoText": "AI",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T16:00:16+00:00"
-    },
-    {
-      "id": "d731ee200ba345ed3e81",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "CUDA في عامها العشرين: كيف أحدثت المنصة تحولاً في الحوسبة العلمية",
-      "titleOriginal": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "في هذا الأسبوع في SC26، تحتفل NVIDIA بمرور عقدين على CUDA من خلال تكريم الباحثين والمطورين والمهندسين الذين ساعدوا في جعل حوسبة وحدات معالجة الرسومات أساسًا للعلوم الحديثة",
-      "summaryOriginal": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/20-years-cuda",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA CUDA at 20: How the Platform Transformed Scientific Computing",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:11+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T19:46:47.634487+00:00"
+  "lastFastCheckAt": "2026-11-18T19:51:50.801024+00:00"
 }
