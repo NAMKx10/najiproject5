@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T09:11:54.057863+00:00",
-  "checkedAt": "2026-11-18T09:11:54.057863+00:00",
-  "newestPublishedAt": "2026-11-17T23:33:26+00:00",
+  "updatedAt": "2026-11-18T09:16:59.984297+00:00",
+  "checkedAt": "2026-11-18T09:16:59.984297+00:00",
+  "newestPublishedAt": "2026-11-18T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f6965c7d608ba931b023",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تعاون مجموعة فيغارو وOpenAI لتقديم صحافة فيغارو إلى ChatGPT",
+      "titleOriginal": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعاونت مجموعة فيغارو مع OpenAI لنقل صحافة فيغارو إلى ChatGPT من خلال الملخصات والمقتطفات، مع روابط إلى القصص الأصلية.",
+      "summaryOriginal": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T00:00:00+00:00"
+    },
     {
       "id": "74395a887c0eac31b3af",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
-    },
-    {
-      "id": "231d6e25b614d8e859ee",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "تتعاون Hugging Face وOpenRouter معًا لتسهيل تشغيل النماذج مفتوحة الأوزان",
-      "titleOriginal": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/openrouter",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T02:54:33.437614+00:00",
-  "lastFastCheckAt": "2026-11-18T09:11:54.057863+00:00"
+  "lastFastCheckAt": "2026-11-18T09:16:59.984297+00:00"
 }
