@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T21:43:25.777076+00:00",
-  "checkedAt": "2026-11-18T21:43:25.777076+00:00",
-  "newestPublishedAt": "2026-11-18T21:38:22+00:00",
+  "updatedAt": "2026-11-18T21:48:29.666031+00:00",
+  "checkedAt": "2026-11-18T21:48:29.666031+00:00",
+  "newestPublishedAt": "2026-11-18T21:48:19+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8274db06f6a269cc519f",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف تستخدم Airbnb التكلفة لكل مهمة لتشغيل وكلاء البرمجة على Amazon Bedrock",
+      "titleOriginal": "How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تجري Airbnb تقييمات على مهام هندسية حقيقية وتستخدم قابلية مراقبة Amazon Bedrock لاختيار النماذج لوكلاء البرمجة لديها والتحكم في تكاليف الإنتاج. توضح هذه المقالة كيف يتم ذلك",
+      "summaryOriginal": "Airbnb runs evals on real engineering tasks and uses Amazon Bedrock observability to choose models for its coding agents and control production costs. This post shows how cost per task guides model selection, why production spending can differ from eval results, and how to monitor latency, manage quotas, and attribute spend.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Airbnb uses cost per task to operate coding agents on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T21:48:19+00:00"
+    },
     {
       "id": "99d7bb047f137ca5210b",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
-    },
-    {
-      "id": "10235f5007203fe1aa5e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم OpenAI في تشيلي",
-      "titleOriginal": "Introducing OpenAI for Chile",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتعاون OpenAI وحكومة شيلي لدعم اعتماد الذكاء الاصطناعي المسؤول، وبناء مهارات القطاع العام، ومساعدة الشركات الناشئة المحلية على تطوير تطبيقات الذكاء الاصطناعي.",
-      "summaryOriginal": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-openai-for-chile",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing OpenAI for Chile"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T21:43:25.777076+00:00"
+  "lastFastCheckAt": "2026-11-18T21:48:29.666031+00:00"
 }
