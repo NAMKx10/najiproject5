@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T14:57:02.151772+00:00",
-  "checkedAt": "2026-11-18T14:57:02.151772+00:00",
-  "newestPublishedAt": "2026-11-18T14:00:31+00:00",
+  "updatedAt": "2026-11-18T15:02:06.327879+00:00",
+  "checkedAt": "2026-11-18T15:02:06.327879+00:00",
+  "newestPublishedAt": "2026-11-18T15:00:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e40a589bdf7906e9413f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج السلاسل الزمنية في Streamhouse: مجال جديد وحالات استخدام",
+      "titleOriginal": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T15:00:23+00:00"
+    },
     {
       "id": "bd86d00388aef4f8b0e8",
       "company": "NVIDIA",
@@ -502,6 +528,32 @@
       "searchAliases": "OpenAI Introducing OpenAI for Chile"
     },
     {
+      "id": "843c978a7aa6edd6df4b",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "العلم على الحدود: كيف يستخدم العلماء ChatGPT",
+      "titleOriginal": "Science at the Frontier: How scientists use ChatGPT",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "استكشف كيف يستخدم أكثر من 1800 عالم ChatGPT في الأبحاث. اطّلع على النتائج المتعلقة بسير العمل اليومي والإنتاجية المبلغ عنها والتوقعات المتعلقة بالاكتشاف.",
+      "summaryOriginal": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/science-at-the-frontier",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Science at the Frontier: How scientists use ChatGPT",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-16T12:00:00+00:00"
+    },
+    {
       "id": "c458e316d067406eb14c",
       "company": "OpenAI",
       "logoText": "AI",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery"
-    },
-    {
-      "id": "c575f542dc25754ed4f6",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "CUDA في عامها العشرين: كيف أحدثت المنصة تحولاً في الحوسبة العلمية",
-      "titleOriginal": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "هذا الأسبوع في SC26، تحتفل NVIDIA بمرور عقدين على CUDA من خلال تكريم الباحثين والمطورين والمهندسين الذين ساعدوا في جعل حوسبة وحدات معالجة الرسومات أساسًا للعلوم الحديثة",
-      "summaryOriginal": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/20-years-cuda/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA CUDA at 20: How the Platform Transformed Scientific Computing"
-    },
-    {
-      "id": "ad933074e782fb5387e8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "تعلن NVIDIA عن Rubin HPC — وحدة معالجة رسومات جديدة لتسريع العمليات الخاصة بالعلوم والهندسة والتحليلات",
-      "titleOriginal": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "تم الإعلان اليوم في SC26 عن NVIDIA Rubin HPC، وهي وحدة معالجة رسومات جديدة في منصة NVIDIA Vera Rubin مصممة لتسريع المحاكاة ومعالجة البيانات للعلوم والهندسة و",
-      "summaryOriginal": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/rubin-hpc/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T14:57:02.151772+00:00"
+  "lastFastCheckAt": "2026-11-18T15:02:06.327879+00:00"
 }
