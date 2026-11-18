@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T19:26:12.571293+00:00",
-  "checkedAt": "2026-11-18T19:26:12.571293+00:00",
-  "newestPublishedAt": "2026-11-18T19:05:45+00:00",
+  "updatedAt": "2026-11-18T19:36:37.154854+00:00",
+  "checkedAt": "2026-11-18T19:36:37.154854+00:00",
+  "newestPublishedAt": "2026-11-18T19:27:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "092c19a7c54fadd485d9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف أنشأ القسم الاجتماعي اكتشاف الفيديو الواعي بالثقافة",
+      "titleOriginal": "How Social Department built culture-aware video discovery",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "عملت Social Department، وهي نظام تشغيل قائم على الذكاء الاصطناعي للتسويق الترفيهي، مع TrackIt وAWS لبناء QuickSearch: استعلامات ذات إجراء واحد تظهر مشاهد قابلة للمشاركة",
+      "summaryOriginal": "Social Department, an AI operating system for entertainment marketing, worked with TrackIt and AWS to build QuickSearch: single-action queries that surface shareable scenes, quotable lines, memeable frames, and trend-aligned moments across large video libraries, using TwelveLabs models on Amazon Bedrock and Amazon OpenSearch Serverless.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-social-department-built-culture-aware-video-discovery",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Social Department built culture-aware video discovery",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T19:27:56+00:00"
+    },
     {
       "id": "61ec610416b264405f80",
       "company": "Amazon",
@@ -760,35 +786,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T20:00:37+00:00"
-    },
-    {
-      "id": "dc1e32884a697e9f703e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أعمال وشراكات",
-      "title": "تعزيز مكافحة الاعتداء الجنسي على الأطفال عبر الإنترنت من خلال أدوات ودعم جدد",
-      "titleOriginal": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "business",
-      "importance": 82,
-      "summary": "ستساعد الأدوات الجديدة والإرشادات العملية والشراكات على منع الاستغلال الجنسي للأطفال والاعتداء عليهم عبر الإنترنت واكتشافهما والتصدي لهما.",
-      "summaryOriginal": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://openai.com/index/strengthening-online-child-safety",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Strengthening the fight against online child sexual abuse with new tools and support",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T19:26:12.571293+00:00"
+  "lastFastCheckAt": "2026-11-18T19:36:37.154854+00:00"
 }
