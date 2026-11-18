@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T20:22:04.083457+00:00",
-  "checkedAt": "2026-11-18T20:22:04.083457+00:00",
+  "updatedAt": "2026-11-18T20:27:07.120946+00:00",
+  "checkedAt": "2026-11-18T20:27:07.120946+00:00",
   "newestPublishedAt": "2026-11-18T20:13:18+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T19:54:56+00:00"
+    },
+    {
+      "id": "8fc78afc37a015e232a9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "إدارة مخاطر الذكاء الاصطناعي المتطور: من التدريب إلى النشر",
+      "titleOriginal": "Managing frontier AI risk: From training to deployment",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشرح OpenAI كيف تدير مخاطر الذكاء الاصطناعي المتطور من التدريب إلى النشر من خلال مواءمة النماذج، وبيئة الحماية المعزولة، وإجراءات الحماية من الحظر، والرصد.",
+      "summaryOriginal": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/managing-frontier-ai-risk",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Managing frontier AI risk: From training to deployment",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T06:00:00+00:00"
     },
     {
       "id": "b9a0a53d207a60d9570a",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "id": "6d894986d7fa9080ff61",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تعزز لامبدا مرونة وكفاءة مصنع الذكاء الاصطناعي باستخدام تقنية فوتونيكس من إنفيديا",
-      "titleOriginal": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "لتدريب نموذج ذكاء اصطناعي، يجب أن تعمل آلاف وحدات معالجة الرسومات معًا، مما يتطلب شبكة سريعة وفعالة ومرنة. تعمل لامبدا على معالجة جزء الشبكة من اللغز",
-      "summaryOriginal": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/lambda-photonics",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:51+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T20:22:04.083457+00:00"
+  "lastFastCheckAt": "2026-11-18T20:27:07.120946+00:00"
 }
