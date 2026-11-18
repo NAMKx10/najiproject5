@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T23:51:18.716928+00:00",
-  "checkedAt": "2026-11-18T23:51:18.716928+00:00",
+  "updatedAt": "2026-11-18T23:56:20.767871+00:00",
+  "checkedAt": "2026-11-18T23:56:20.767871+00:00",
   "newestPublishedAt": "2026-11-18T23:03:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -294,6 +294,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Research acceleration: The jagged frontier",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T08:00:00+00:00"
+    },
+    {
+      "id": "890052863649be5330ab",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف ساعد قادة شركة سوميتومو لايف الفرق على اعتماد ChatGPT Enterprise",
+      "titleOriginal": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم سوميتومو لايف ChatGPT Enterprise للبحث عن شركات التأمين وإعداد العروض ووضع مسودة التعليمات البرمجية لتحليل الاستثمار. ساعد الاستخدام المبكر من قبل المديرين التنفيذيين على دفع عملية الاعتماد.",
+      "summaryOriginal": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/sumitomo-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -760,30 +786,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Amazon SageMaker AI real-time endpoints now support KV cache aware routing"
-    },
-    {
-      "id": "930aa650e05cfc2afdd0",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "إدارة السجلات واكتشافها باستخدام البيانات التعريفية المشتركة في سجل وكيل AWS",
-      "titleOriginal": "Govern and discover records with common metadata in AWS Agent Registry",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تتيح مخططات البيانات التعريفية المخصصة في AWS Agent Registry للمسؤول تعريف حقول مكتوبة ومُصدّقة يجب أن يحملها كل وكيل وخادم MCP ومهارة. تتبع هذه المقالة",
-      "summaryOriginal": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Govern and discover records with common metadata in AWS Agent Registry"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T23:51:18.716928+00:00"
+  "lastFastCheckAt": "2026-11-18T23:56:20.767871+00:00"
 }
