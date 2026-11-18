@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T18:10:01.588784+00:00",
-  "checkedAt": "2026-11-18T18:10:01.588784+00:00",
+  "updatedAt": "2026-11-18T18:15:07.395383+00:00",
+  "checkedAt": "2026-11-18T18:15:07.395383+00:00",
   "newestPublishedAt": "2026-11-18T15:00:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -145,6 +145,32 @@
       "publishedAt": "2026-11-18T14:00:31+00:00"
     },
     {
+      "id": "f6f3a5c121add4537f31",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "داخل بيئة اختبار Codex",
+      "titleOriginal": "Inside the Codex sandbox",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرّف على كيفية تنفيذ Codex للأوامر على جهازك مع فرض قيود نظام الملفات والشبكة التي تتحكم فيها عبر أنظمة التشغيل macOS وLinux وWindows.",
+      "summaryOriginal": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/inside-the-codex-sandbox",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Inside the Codex sandbox",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T08:00:00+00:00"
+    },
+    {
       "id": "f6965c7d608ba931b023",
       "company": "OpenAI",
       "logoText": "AI",
@@ -237,6 +263,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advancing chip design with OpenAI models",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T00:00:00+00:00"
+    },
+    {
+      "id": "33a0201d2afbe010aa34",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "الإجماع الصامت",
+      "titleOriginal": "The Silent Consensus",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يبحث دين بول، رئيس قسم المستقبلات الاستراتيجية في OpenAI، في الكيفية التي يمكن بها للذكاء الاصطناعي الأكثر قدرة أن يعيد تشكيل المجتمع وكيف يمكن للناس الاحتفاظ بالسيطرة على مؤسساتهم.",
+      "summaryOriginal": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/the-silent-consensus",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The Silent Consensus",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -734,61 +786,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T16:00:16+00:00"
-    },
-    {
-      "id": "d731ee200ba345ed3e81",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "CUDA في عامها العشرين: كيف أحدثت المنصة تحولاً في الحوسبة العلمية",
-      "titleOriginal": "CUDA at 20: How the Platform Transformed Scientific Computing",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "هذا الأسبوع في SC26، تحتفل NVIDIA بمرور عقدين على CUDA من خلال تكريم الباحثين والمطورين والمهندسين الذين ساعدوا في جعل الحوسبة باستخدام وحدات معالجة الرسومات أساسًا للعلوم الحديثة",
-      "summaryOriginal": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/20-years-cuda",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA CUDA at 20: How the Platform Transformed Scientific Computing",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:11+00:00"
-    },
-    {
-      "id": "3755e15af7a92fbb26c8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "تعلن NVIDIA عن Rubin HPC — وحدة معالجة رسومات جديدة لتسريع العمليات في مجالات العلوم والهندسة والتحليلات",
-      "titleOriginal": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "research",
-      "importance": 86,
-      "summary": "تم الإعلان اليوم في مؤتمر SC26 عن NVIDIA Rubin HPC، وهي وحدة معالجة رسومات جديدة في منصة NVIDIA Vera Rubin مصممة لتسريع المحاكاة ومعالجة البيانات لأغراض العلوم والهندسة و",
-      "summaryOriginal": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/rubin-hpc",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:01+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T18:10:01.588784+00:00"
+  "lastFastCheckAt": "2026-11-18T18:15:07.395383+00:00"
 }
