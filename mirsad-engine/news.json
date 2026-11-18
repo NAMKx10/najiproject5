@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T23:20:49.352130+00:00",
-  "checkedAt": "2026-11-18T23:20:49.352130+00:00",
+  "updatedAt": "2026-11-18T23:25:53.115336+00:00",
+  "checkedAt": "2026-11-18T23:25:53.115336+00:00",
   "newestPublishedAt": "2026-11-18T23:03:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -273,6 +273,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T19:54:56+00:00"
+    },
+    {
+      "id": "6092f8be8f0b5c4be5f6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "بحث",
+      "title": "تسريع البحث: الحدود المتعرجة",
+      "titleOriginal": "Research acceleration: The jagged frontier",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "research",
+      "importance": 86,
+      "summary": "تقيس OpenAI كيف تعمل وكالات البرمجة على تسريع أبحاث الذكاء الاصطناعي، وأين يظل أداؤها غير متكافئ، وما الذي يشير إليه هذا فيما يتعلق بالتحسين الذاتي التكراري.",
+      "summaryOriginal": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Research acceleration: The jagged frontier",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T08:00:00+00:00"
     },
     {
       "id": "8fc78afc37a015e232a9",
@@ -740,30 +766,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
-    },
-    {
-      "id": "db023ba03b68065607b2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم ChatGPT للمبيعات",
-      "titleOriginal": "Introducing ChatGPT for Sales",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "استكشف المكون الإضافي الجديد للمبيعات وأكثر من 30 مكونًا إضافيًا جديدًا وموسعًا للشركاء في ChatGPT للبحث عن العملاء المحتملين وإعداد العروض التقديمية وتحديث نظام إدارة علاقات العملاء (CRM) والمضي قدمًا في الصفقات.",
-      "summaryOriginal": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Sales"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T23:20:49.352130+00:00"
+  "lastFastCheckAt": "2026-11-18T23:25:53.115336+00:00"
 }
