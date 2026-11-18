@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T11:39:25.160111+00:00",
-  "checkedAt": "2026-11-18T11:39:25.160111+00:00",
+  "updatedAt": "2026-11-18T11:44:00.965826+00:00",
+  "checkedAt": "2026-11-18T11:44:00.965826+00:00",
   "newestPublishedAt": "2026-11-18T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T00:00:00+00:00"
+      "searchAliases": "OpenAI Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
     },
     {
       "id": "74395a887c0eac31b3af",
@@ -150,7 +145,7 @@
       "dateISO": "2026-11-17",
       "category": "tools",
       "importance": 78,
-      "summary": "نظرًا لأن الوكلاء الإنتاجيين على Amazon Bedrock AgentCore يعالجون حمولات JSON متعددة الميغابايت، فإن تكاليف الرموز المميزة وزمن الاستجابة يرتفعان. تشارك هذه المقالة ثلاث استراتيجيات قابلة للتكوين: التفريغ",
+      "summary": "نظرًا لأن وكلاء الإنتاج على Amazon Bedrock AgentCore يعالجون حمولات JSON التي تبلغ أحجامها عدة ميغابايت، فإن تكاليف الرموز المميزة ووقت الاستجابة يرتفعان. تشارك هذه المقالة ثلاث استراتيجيات قابلة للتكوين: التفريغ",
       "summaryOriginal": "As production agents on Amazon Bedrock AgentCore process multi-megabyte JSON payloads, token costs and latency climb. This post shares three composable strategies: offloading heavy artifacts to Amazon S3, on-demand result paging, and dictionary compaction. Together they cut per-turn token use by up to 71% and latency by up to 80%.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
@@ -171,7 +166,7 @@
       "dateISO": "2026-11-17",
       "category": "models",
       "importance": 92,
-      "summary": "أكبر عامل مؤثر على التكلفة في نظام الذكاء الاصطناعي التوليدي هو ما إذا كنت تستدعي نموذجًا على الإطلاق. تعرّف على كيفية تحديد ما إذا كانت كل خطوة من خطوات سير العمل تحتاج إلى نموذج، وقم بتعيين كل خيار إلى",
+      "summary": "أكبر عامل مؤثر على التكلفة في نظام الذكاء الاصطناعي التوليدي هو ما إذا كنت تستدعي نموذجًا على الإطلاق. تعرّف على كيفية تحديد ما إذا كانت كل خطوة من خطوات سير العمل تحتاج إلى نموذج، وربط كل خيار بـ",
       "summaryOriginal": "The biggest cost lever in a generative AI system is whether you call a model at all. Learn how to decide whether each workflow step needs a model, and map each option to AWS: deterministic code, a constrained decision call, or a right-sized model on Amazon Bedrock.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
@@ -213,7 +208,7 @@
       "dateISO": "2026-11-17",
       "category": "tools",
       "importance": 78,
-      "summary": "تتيح مخططات البيانات التعريفية المخصصة في AWS Agent Registry للمسؤول تعريف حقول مكتوبة ومُصدّقة يجب أن يحتوي عليها كل وكيل وخادم MCP ومهارة. تتبع هذه المقالة",
+      "summary": "تتيح مخططات البيانات التعريفية المخصصة في سجل AWS Agent للمسؤول تعريف حقول مكتوبة ومُتحقَّق من صحتها يجب أن يحملها كل وكيل وخادم MCP ومهارة. تتبع هذه المقالة",
       "summaryOriginal": "Custom metadata schemas in AWS Agent Registry let an administrator define typed, validated fields that every agent, MCP server, and skill must carry. This post follows an MCP record from schema definition through registration, enrichment, approval, and discovery, so teams govern and find resources with one shared set of facts.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/govern-and-discover-records-with-common-metadata-in-aws-agent-registry/",
@@ -234,7 +229,7 @@
       "dateISO": "2026-11-17",
       "category": "tools",
       "importance": 78,
-      "summary": "عندما يتصل وكيل ذكاء اصطناعي على Amazon Bedrock AgentCore بوكالة Snowflake Cortex AI عبر MCP، كيف يتم المصادقة؟ يستعرض هذا المنشور ثلاثة أنماط OAuth اختبرناها على Agent",
+      "summary": "عندما يتصل وكيل ذكاء اصطناعي على Amazon Bedrock AgentCore بوكيل Snowflake Cortex AI عبر MCP، كيف تتم مصادقته؟ يستعرض هذا المنشور ثلاثة أنماط OAuth اختبرناها على Agent",
       "summaryOriginal": "When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can match your organization's identity, audit, and compliance needs.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
@@ -297,7 +292,7 @@
       "dateISO": "2026-11-17",
       "category": "tools",
       "importance": 78,
-      "summary": "يقوم SMART، وهو حزمة تطوير برامج (SDK) مفتوحة المصدر بلغة بايثون ومجموعة أدوات Terraform، بنشر طبقة قناة واتساب الكاملة على حسابك في AWS بأمر واحد. أحضر أي وكيل يعمل على Amazon Be",
+      "summary": "تقوم SMART، وهي مجموعة أدوات تطوير برمجية (SDK) مفتوحة المصدر بلغة Python ومجموعة Terraform، بنشر طبقة قناة WhatsApp الكاملة على حسابك في AWS بأمر واحد. أحضر أي وكيل يعمل على Amazon Be",
       "summaryOriginal": "SMART, an open-source Python SDK and Terraform stack, deploys the full WhatsApp channel layer to your AWS account with one command. Bring any agent that runs on Amazon Bedrock AgentCore, and SMART handles webhook ingestion, media, conversation memory, scheduling, and Meta message templates.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/build-whatsapp-ai-agents-with-amazon-bedrock-agentcore/",
@@ -549,7 +544,7 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "في أول ظهور لها في اختبارات الأداء المعيارية MLPerf، مع نتائج تم الإعلان عنها اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا في مجالات التدريب وما بعد التدريب والاستدلال الوكيل.",
+      "summary": "في أول ظهور لها في اختبارات الأداء المعيارية MLPerf، مع نتائج تم إصدارها اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا عبر التدريب وما بعد التدريب والاستدلال الوكيل.",
       "summaryOriginal": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
@@ -570,7 +565,7 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "بفضل مكتبات NVIDIA CUDA-X الموسعة، بما في ذلك cuPhoton وcuPotential وcuSpa، يستطيع الباحثون فرز كميات هائلة من البيانات لتسريع الأبحاث، بدءًا من الفيزياء الفلكية",
+      "summary": "بفضل مكتبات NVIDIA CUDA-X الموسعة، بما في ذلك cuPhoton وcuPotential وcuSpa، يمكن للباحثين فرز كميات هائلة من البيانات لتسريع الأبحاث، من الفيزياء الفلكية",
       "summaryOriginal": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
@@ -665,27 +660,6 @@
       "searchAliases": "OpenAI How Revolut raises ambition without lowering the bar"
     },
     {
-      "id": "513ee61a931ffe773493",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "يعلن قسم الإعلام في LVMH عن شراكة استراتيجية مع OpenAI",
-      "titleOriginal": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعلن قسم الإعلام في LVMH وOpenAI عن شراكة لدعم الصحافة بالذكاء الاصطناعي وجعل منشوراتها أكثر سهولة من خلال ChatGPT.",
-      "summaryOriginal": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/lvmh-media-division-partnership",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI LVMH’s Media Division announces strategic partnership with OpenAI"
-    },
-    {
       "id": "f2cfabb65614c1a48e11",
       "company": "Apple",
       "logoText": "",
@@ -726,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities"
+    },
+    {
+      "id": "231d6e25b614d8e859ee",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "تتحد Hugging Face وOpenRouter لكي يسهلا تشغيل النماذج مفتوحة الأوزان",
+      "titleOriginal": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "dateLabel": "16 نوفمبر 2026",
+      "dateISO": "2026-11-16",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/openrouter",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Hugging Face and OpenRouter join forces to make open-weight models easy to run"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-18T02:54:33.437614+00:00",
-  "lastFastCheckAt": "2026-11-18T11:39:25.160111+00:00"
+  "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00"
 }
