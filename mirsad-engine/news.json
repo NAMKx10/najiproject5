@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T23:36:01.062688+00:00",
-  "checkedAt": "2026-11-18T23:36:01.062688+00:00",
+  "updatedAt": "2026-11-18T23:41:03.423523+00:00",
+  "checkedAt": "2026-11-18T23:41:03.423523+00:00",
   "newestPublishedAt": "2026-11-18T23:03:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -600,6 +600,32 @@
       "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
     },
     {
+      "id": "31e7b62c9116f8454603",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم GPT-6.2 Astra وSol",
+      "titleOriginal": "Introducing GPT-6.2 Astra and Sol",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "models",
+      "importance": 92,
+      "summary": "نقدم لكم GPT‑6.2 Astra وSol، مع مخرجات احترافية أفضل، ومهارات برمجة واستخدام للكمبيوتر أفضل، وكفاءة أعلى بتكلفة أقل عبر ChatGPT Work وCodex وواجهة برمجة التطبيقات (API).",
+      "summaryOriginal": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Introducing GPT-6.2 Astra and Sol",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-17T17:45:00+00:00"
+    },
+    {
       "id": "60265622d5cd3e224390",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -755,30 +781,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Govern and discover records with common metadata in AWS Agent Registry"
-    },
-    {
-      "id": "068c93516444f1defcc2",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "أنماط OAuth الآمنة لـ Snowflake Cortex AI من خلال Amazon Bedrock AgentCore",
-      "titleOriginal": "Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "عندما يتصل وكيل ذكاء اصطناعي على Amazon Bedrock AgentCore بوكيل Snowflake Cortex AI عبر MCP، كيف يتم المصادقة؟ يستعرض هذا المنشور ثلاثة أنماط OAuth اختبرناها على Agent",
-      "summaryOriginal": "When an AI agent on Amazon Bedrock AgentCore calls Snowflake Cortex AI over MCP, how does it authenticate? This post walks through three OAuth patterns we tested on AgentCore Identity: Snowflake OAuth, three-legged OAuth with a corporate IdP, and two-legged OAuth, so you can match your organization's identity, audit, and compliance needs.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/secure-oauth-patterns-for-snowflake-cortex-ai-through-amazon-bedrock-agentcore/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Secure OAuth patterns for Snowflake Cortex AI through Amazon Bedrock AgentCore"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T23:36:01.062688+00:00"
+  "lastFastCheckAt": "2026-11-18T23:41:03.423523+00:00"
 }
