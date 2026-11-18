@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T21:38:21.175331+00:00",
-  "checkedAt": "2026-11-18T21:38:21.175331+00:00",
-  "newestPublishedAt": "2026-11-18T21:09:24+00:00",
+  "updatedAt": "2026-11-18T21:43:25.777076+00:00",
+  "checkedAt": "2026-11-18T21:43:25.777076+00:00",
+  "newestPublishedAt": "2026-11-18T21:38:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "99d7bb047f137ca5210b",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "تصميم ضوابط الذكاء الاصطناعي المسؤولة لـ Amazon Aurora PostgreSQL",
+      "titleOriginal": "Design responsible AI controls for Amazon Aurora PostgreSQL",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرّف على كيفية جعل إجابات روبوت الدردشة RAG قابلة للتتبع باستخدام Amazon Aurora PostgreSQL وpgvector وAmazon Bedrock Guardrails، وتسجيل مصادر البيانات والدرجات وتتبعات الحواجز الواقية في S",
+      "summaryOriginal": "Learn how to make RAG chatbot answers traceable with Amazon Aurora PostgreSQL, pgvector, and Amazon Bedrock Guardrails, logging sources, scores, and guardrail traces in SQL.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Design responsible AI controls for Amazon Aurora PostgreSQL",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T21:38:22+00:00"
+    },
     {
       "id": "7b7849e563e6f79e31e9",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing OpenAI for Chile"
-    },
-    {
-      "id": "994b39efdaae8a4c94b5",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "Astra for Law رائدة في مجال المعلومات القانونية",
-      "titleOriginal": "Astra for Law leads in legal intelligence",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "احتلت Astra for Law المرتبة الأولى في تقييم الإطلاق الذي شمل 24 مجالًا من مجالات القانون. يمكن الآن لكل عميل من عملاء ChatGPT Enterprise طلب الوصول.",
-      "summaryOriginal": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/astra-law-6-2",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T21:38:21.175331+00:00"
+  "lastFastCheckAt": "2026-11-18T21:43:25.777076+00:00"
 }
