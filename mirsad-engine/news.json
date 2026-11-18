@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T21:07:48.615653+00:00",
-  "checkedAt": "2026-11-18T21:07:48.615653+00:00",
-  "newestPublishedAt": "2026-11-18T20:53:41+00:00",
+  "updatedAt": "2026-11-18T21:12:50.916277+00:00",
+  "checkedAt": "2026-11-18T21:12:50.916277+00:00",
+  "newestPublishedAt": "2026-11-18T21:09:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "7b7849e563e6f79e31e9",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم لوحة تصنيف نماذج Amazon SageMaker JumpStart",
+      "titleOriginal": "Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقارن لوحة المتصدرين لنماذج Amazon SageMaker JumpStart أكثر من 70 نموذجًا أساسيًا جنبًا إلى جنب من حيث الجودة والسرعة والتكلفة، مباشرة في SageMaker Studio. تعرّف على ما هو الرائد",
+      "summaryOriginal": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing the Amazon SageMaker JumpStart Model Leaderboard",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T21:09:24+00:00"
+    },
     {
       "id": "49d5e5c72aabc3cdc309",
       "company": "Amazon",
@@ -720,35 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Astra for Law leads in legal intelligence"
-    },
-    {
-      "id": "d4b27dd825a046a13697",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تخترع سلسلة توريد البنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
-      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
-      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T20:00:37+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T21:07:48.615653+00:00"
+  "lastFastCheckAt": "2026-11-18T21:12:50.916277+00:00"
 }
