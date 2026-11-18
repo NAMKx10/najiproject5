@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T23:00:37.721563+00:00",
-  "checkedAt": "2026-11-18T23:00:37.721563+00:00",
-  "newestPublishedAt": "2026-11-18T21:48:19+00:00",
+  "updatedAt": "2026-11-18T23:05:40.914712+00:00",
+  "checkedAt": "2026-11-18T23:05:40.914712+00:00",
+  "newestPublishedAt": "2026-11-18T23:03:29+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b2364ab7a9b02fdadece",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم استرداد عبء العمل وفحوصات البنية التحتية الموسعة على Amazon SageMaker HyperPod",
+      "titleOriginal": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "قد تتوقف مهام التدريب الكبيرة أو تحسب نتائجًا غير صحيحة حتى عندما تبدو كل عقدة سليمة. تضيف Amazon SageMaker HyperPod الآن استرداد عبء العمل والبنية التحتية الموسعة",
+      "summaryOriginal": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T23:03:29+00:00"
+    },
     {
       "id": "8274db06f6a269cc519f",
       "company": "Amazon",
@@ -735,30 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing ChatGPT for Sales"
-    },
-    {
-      "id": "3048869c76c26eea6d6e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تعزيز الدفاعات السيبرانية لحلف شمال الأطلسي والحلفاء باستخدام الذكاء الاصطناعي",
-      "titleOriginal": "Strengthening NATO and allied cyber defenses with AI",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف تعمل OpenAI مع حلف شمال الأطلسي والوكالات السيبرانية المتحالفة لمساعدة المدافعين الموثوق بهم على اكتشاف الثغرات الأمنية واختبار الإصلاحات وحماية الأنظمة الأساسية.",
-      "summaryOriginal": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T23:00:37.721563+00:00"
+  "lastFastCheckAt": "2026-11-18T23:05:40.914712+00:00"
 }
