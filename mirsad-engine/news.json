@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T17:09:08.682170+00:00",
-  "checkedAt": "2026-11-18T17:09:08.682170+00:00",
+  "updatedAt": "2026-11-18T17:14:14.538400+00:00",
+  "checkedAt": "2026-11-18T17:14:14.538400+00:00",
   "newestPublishedAt": "2026-11-18T15:00:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -211,6 +211,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T00:00:00+00:00"
+    },
+    {
+      "id": "6018b9f99ee366f16d15",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "النهوض بتصميم الرقاقات باستخدام نماذج OpenAI",
+      "titleOriginal": "Advancing chip design with OpenAI models",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "قامت نماذج OpenAI بتحسين الدوائر المستخدمة في رقاقة Jalapeño وتحسين تصميمات نواة RISC‑V، مما يدل على التقدم المحرز في تصميم الرقائق بمساعدة الذكاء الاصطناعي باستخدام GPT‑6 Astra.",
+      "summaryOriginal": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Advancing chip design with OpenAI models",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -760,35 +786,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T16:00:01+00:00"
-    },
-    {
-      "id": "843c978a7aa6edd6df4b",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "العلم على الحدود: كيف يستخدم العلماء ChatGPT",
-      "titleOriginal": "Science at the Frontier: How scientists use ChatGPT",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "استكشف كيف يستخدم أكثر من 1800 عالم ChatGPT في الأبحاث. اطّلع على النتائج المتعلقة بسير العمل اليومي والإنتاجية المبلغ عنها والتوقعات المتعلقة بالاكتشاف.",
-      "summaryOriginal": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/science-at-the-frontier",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Science at the Frontier: How scientists use ChatGPT",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T12:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T17:09:08.682170+00:00"
+  "lastFastCheckAt": "2026-11-18T17:14:14.538400+00:00"
 }
