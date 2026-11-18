@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T18:50:45.972758+00:00",
-  "checkedAt": "2026-11-18T18:50:45.972758+00:00",
-  "newestPublishedAt": "2026-11-18T15:00:23+00:00",
+  "updatedAt": "2026-11-18T18:55:55.149773+00:00",
+  "checkedAt": "2026-11-18T18:55:55.149773+00:00",
+  "newestPublishedAt": "2026-11-18T18:54:08+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "a8b013a6a0789bb69262",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "من إعداد التقارير إلى الاستدلال: تجهيز بيانات المؤسسة لوكلاء الذكاء الاصطناعي",
+      "titleOriginal": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "business",
+      "importance": 82,
+      "summary": "ملخص للاجتماع الافتتاحي لمجموعة مستخدمي AWS Quick في واشنطن العاصمة، حيث استكشف قادة البيانات كيفية تجهيز بيانات المؤسسات لوكلاء الذكاء الاصطناعي. ويغطي ما هو جديد في AWS Quick، Finan",
+      "summaryOriginal": "A recap of the inaugural AWS Quick User Group DC meetup, where data leaders explored getting enterprise data ready for AI agents. It covers what's new in AWS Quick, Financial Independence Group's AI analytics journey, and hands-on app and no-code flow building.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T18:54:08+00:00"
+    },
+    {
+      "id": "a267c323a225938925dd",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "لماذا تستغرق مهمة الضبط الدقيق وقتًا أطول مما تشير إليه معدلات FLOPs",
+      "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T18:53:43+00:00"
+    },
     {
       "id": "e40a589bdf7906e9413f",
       "company": "Hugging Face",
@@ -734,61 +786,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T16:00:51+00:00"
-    },
-    {
-      "id": "6c4b9ae57b327bac8d98",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تتفوق في تدريب MLPerf ونقاط النهاية مع ظهور فيرا روبين بأداء رائد",
-      "titleOriginal": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "في أول اختباراتها المعيارية في MLPerf، مع نشر النتائج اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا عبر التدريب وما بعد التدريب والاستدلال الوكيل.",
-      "summaryOriginal": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:25+00:00"
-    },
-    {
-      "id": "2256197ec7d2529ac3d2",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "توفر مكتبات NVIDIA CUDA-X للوكلاء الأدوات اللازمة لتسريع الاكتشاف العلمي",
-      "titleOriginal": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "بفضل مكتبات NVIDIA CUDA-X الموسعة، بما في ذلك cuPhoton وcuPotential وcuSpa، يمكن للباحثين فرز كميات هائلة من البيانات لتسريع البحث، من الفيزياء الفلكية",
-      "summaryOriginal": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:16+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T18:50:45.972758+00:00"
+  "lastFastCheckAt": "2026-11-18T18:55:55.149773+00:00"
 }
