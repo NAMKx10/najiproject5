@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T20:12:00.988264+00:00",
-  "checkedAt": "2026-11-18T20:12:00.988264+00:00",
-  "newestPublishedAt": "2026-11-18T19:54:56+00:00",
+  "updatedAt": "2026-11-18T20:17:09.280747+00:00",
+  "checkedAt": "2026-11-18T20:17:09.280747+00:00",
+  "newestPublishedAt": "2026-11-18T20:13:18+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b223269ee6b271941f2d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Amazon",
+      "titleOriginal": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "Learn how Salesforce uses the cross-Region inference router in Amazon SageMaker AI to turn fragmented Regional capacity into reliable model serving. Salesforce adds capacity securely across Regions and accounts while keeping its data residency commitments, and sees per request where each call was served and why.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T20:13:18+00:00"
+    },
     {
       "id": "17685818fe6ec2203a12",
       "company": "Hugging Face",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T16:00:51+00:00"
-    },
-    {
-      "id": "6c4b9ae57b327bac8d98",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "NVIDIA تتفوق في تدريب MLPerf ونقاط النهاية مع ظهور فيرا روبين بأداء رائد",
-      "titleOriginal": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "في أول ظهور لها في اختبارات الأداء المعيارية MLPerf، مع نتائج تم الإعلان عنها اليوم، تقدم منصة NVIDIA Vera Rubin أداءً رائدًا عبر التدريب وما بعد التدريب والاستدلال الوكيل.",
-      "summaryOriginal": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:25+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T20:12:00.988264+00:00"
+  "lastFastCheckAt": "2026-11-18T20:17:09.280747+00:00"
 }
