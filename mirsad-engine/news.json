@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T19:00:53.744144+00:00",
-  "checkedAt": "2026-11-18T19:00:53.744144+00:00",
-  "newestPublishedAt": "2026-11-18T18:58:42+00:00",
+  "updatedAt": "2026-11-18T19:06:03.473125+00:00",
+  "checkedAt": "2026-11-18T19:06:03.473125+00:00",
+  "newestPublishedAt": "2026-11-18T19:05:45+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "61ec610416b264405f80",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من Amazon",
+      "titleOriginal": "Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Amazon عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in that model, with the VPC Lattice resource gateway in the network account so every hop crosses the firewall.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Connect Amazon Bedrock AgentCore Gateway to private APIs in a hub-and-spoke network with centralized inspection",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T19:05:45+00:00"
+    },
     {
       "id": "25a3d0375f8b8be11ffa",
       "company": "Amazon",
@@ -760,35 +786,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "id": "71915ef40a330028e0d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي للعلماء",
-      "titleOriginal": "Broadening access to AI for scientists",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "نحن بصدد توسيع برنامج ChatGPT للباحثين الأكاديميين لنقدم لـ 200,000 باحث في جميع أنحاء العالم إمكانية الوصول المجاني إلى نماذجنا الرائدة.",
-      "summaryOriginal": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Broadening access to AI for scientists",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T11:44:00.965826+00:00",
-  "lastFastCheckAt": "2026-11-18T19:00:53.744144+00:00"
+  "lastFastCheckAt": "2026-11-18T19:06:03.473125+00:00"
 }
