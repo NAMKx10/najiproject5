@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T20:52:39.548907+00:00",
-  "checkedAt": "2026-11-18T20:52:39.548907+00:00",
-  "newestPublishedAt": "2026-11-18T20:13:18+00:00",
+  "updatedAt": "2026-11-18T20:57:40.913900+00:00",
+  "checkedAt": "2026-11-18T20:57:40.913900+00:00",
+  "newestPublishedAt": "2026-11-18T20:53:41+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "49d5e5c72aabc3cdc309",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "دعم هيئة إصدار الشهادات الخاصة في Amazon Bedrock AgentCore Identity",
+      "titleOriginal": "Private certificate authority support in Amazon Bedrock AgentCore Identity",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تدعم Amazon Bedrock AgentCore Identity الآن جهات إصدار الشهادات الخاصة (CAs)، حتى تتمكن وكالاتك من الاتصال بموفري الهوية المستضافين ذاتيًا الذين يستخدمون جهة إصدار شهادات خاصة.",
+      "summaryOriginal": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs), so your agents can connect to self-hosted identity providers that use a private CA. This post shows how to issue an IdP certificate with AWS Private CA, configure a credential provider to trust it, rotate the CA, and protect the certificate.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Private certificate authority support in Amazon Bedrock AgentCore Identity",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T20:53:41+00:00"
+    },
     {
       "id": "b223269ee6b271941f2d",
       "company": "Amazon",
@@ -720,35 +746,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-16T20:00:37+00:00"
-    },
-    {
-      "id": "71915ef40a330028e0d0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي للعلماء",
-      "titleOriginal": "Broadening access to AI for scientists",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "نحن بصدد توسيع برنامج ChatGPT للباحثين الأكاديميين لنقدم لـ 200,000 باحث في جميع أنحاء العالم إمكانية الوصول المجاني إلى نماذجنا الرائدة.",
-      "summaryOriginal": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Broadening access to AI for scientists",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T17:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T20:52:39.548907+00:00"
+  "lastFastCheckAt": "2026-11-18T20:57:40.913900+00:00"
 }
