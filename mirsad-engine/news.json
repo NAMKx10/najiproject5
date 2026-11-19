@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T16:13:34.984685+00:00",
-  "checkedAt": "2026-11-19T16:13:34.984685+00:00",
-  "newestPublishedAt": "2026-11-19T00:15:58+00:00",
+  "updatedAt": "2026-11-19T16:18:50.432951+00:00",
+  "checkedAt": "2026-11-19T16:18:50.432951+00:00",
+  "newestPublishedAt": "2026-11-19T16:13:51+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e7142fcf63986858d520",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "استخدام تجزئة وحدة معالجة الرسومات NVIDIA Run:ai على Amazon EKS",
+      "titleOriginal": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرّف على كيفية تشغيل وحدتي Kubernetes Pods مقيدتين بالذاكرة على وحدة معالجة رسومات NVIDIA A10G واحدة باستخدام NVIDIA Run:ai GPU Fractioning مفتوحة المصدر على Amazon EKS. يقوم هذا الشرح التفصيلي بإنشاء c",
+      "summaryOriginal": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod GPU-memory contracts with enforcement and metrics.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T16:13:51+00:00"
+    },
     {
       "id": "74c7dc9edaa6665177aa",
       "company": "Amazon",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
-    },
-    {
-      "id": "d4b27dd825a046a13697",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف تخترع سلسلة التوريد للبنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
-      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "تقود ديب شوكويست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
-      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T20:00:37+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T16:13:34.984685+00:00"
+  "lastFastCheckAt": "2026-11-19T16:18:50.432951+00:00"
 }
