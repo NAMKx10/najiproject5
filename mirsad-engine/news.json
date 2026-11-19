@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T01:32:29.230019+00:00",
-  "checkedAt": "2026-11-19T01:32:29.230019+00:00",
+  "updatedAt": "2026-11-19T01:37:34.257935+00:00",
+  "checkedAt": "2026-11-19T01:37:34.257935+00:00",
   "newestPublishedAt": "2026-11-19T00:15:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -702,33 +702,33 @@
       "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
     },
     {
-      "id": "6d894986d7fa9080ff61",
+      "id": "d4b27dd825a046a13697",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
-      "title": "تعزز لامبدا مرونة وكفاءة مصنع الذكاء الاصطناعي باستخدام تقنية الفوتونيات من إنفيديا",
-      "titleOriginal": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "title": "كيف تبتكر سلسلة التوريد للبنية التحتية للذكاء الاصطناعي الأكثر تقدمًا في العالم المستقبل",
+      "titleOriginal": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
       "dateLabel": "16 نوفمبر 2026",
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "لتدريب نموذج ذكاء اصطناعي، يجب أن تعمل آلاف وحدات معالجة الرسومات معًا، مما يتطلب شبكة سريعة وفعالة ومرنة. تعمل لامبدا على معالجة جزء الشبكة من اللغز",
-      "summaryOriginal": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "summary": "تقود ديب شوكويست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/lambda-photonics",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-11-16T16:00:51+00:00"
+      "publishedAt": "2026-11-16T20:00:37+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T01:30:15.370770+00:00",
-  "lastFastCheckAt": "2026-11-19T01:32:29.230019+00:00"
+  "lastFastCheckAt": "2026-11-19T01:37:34.257935+00:00"
 }
