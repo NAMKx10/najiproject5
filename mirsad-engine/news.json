@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T18:45:46.660334+00:00",
-  "checkedAt": "2026-11-19T18:45:46.660334+00:00",
-  "newestPublishedAt": "2026-11-19T18:26:22+00:00",
+  "updatedAt": "2026-11-19T18:50:50.048045+00:00",
+  "checkedAt": "2026-11-19T18:50:50.048045+00:00",
+  "newestPublishedAt": "2026-11-19T18:48:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fd724e2f750da2d5ef21",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "تحسين اقتصاديات الذكاء الاصطناعي على Amazon Bedrock من خلال النهج المتسلسل لشركة Accenture",
+      "titleOriginal": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "business",
+      "importance": 82,
+      "summary": "مع قيام الشركات بتوسيع نطاق الذكاء الاصطناعي على Amazon Bedrock، قد يزداد إنفاق الرموز المميزة حتى مع انخفاض أسعار الرموز المميزة. يتناول هذا المنشور ستة عوامل تحسين قابلة للتكوين، ويوضح كيف",
+      "summaryOriginal": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T18:48:55+00:00"
+    },
     {
       "id": "fad4f7396619ed676bd8",
       "company": "Amazon",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
-    },
-    {
-      "id": "6d894986d7fa9080ff61",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "تعزز لامبدا مرونة وكفاءة مصنع الذكاء الاصطناعي باستخدام تقنية فوتونيكس من إنفيديا",
-      "titleOriginal": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "dateLabel": "16 نوفمبر 2026",
-      "dateISO": "2026-11-16",
-      "category": "models",
-      "importance": 92,
-      "summary": "لتدريب نموذج ذكاء اصطناعي، يجب أن تعمل آلاف وحدات معالجة الرسومات معًا، مما يتطلب شبكة سريعة وفعالة ومرنة. تعمل لامبدا على معالجة جزء الشبكة من اللغز",
-      "summaryOriginal": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/lambda-photonics",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T16:00:51+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T18:45:46.660334+00:00"
+  "lastFastCheckAt": "2026-11-19T18:50:50.048045+00:00"
 }
