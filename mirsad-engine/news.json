@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T17:24:39.805893+00:00",
-  "checkedAt": "2026-11-19T17:24:39.805893+00:00",
-  "newestPublishedAt": "2026-11-19T16:41:35+00:00",
+  "updatedAt": "2026-11-19T17:29:30.455971+00:00",
+  "checkedAt": "2026-11-19T17:29:30.455971+00:00",
+  "newestPublishedAt": "2026-11-19T17:28:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "efd5fd98bf5cfde8947d",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "PolyAI Dialog-RSN-1 متاح الآن على Amazon SageMaker JumpStart",
+      "titleOriginal": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "يتوفر PolyAI Dialog-RSN-1، وهو نموذج استدلال تم إنشاؤه للحوار المعقد في الوقت الفعلي، اليوم على AWS Marketplace وAmazon SageMaker JumpStart. اكتشفه، وقيّمه",
+      "summaryOriginal": "PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T17:28:47+00:00"
+    },
     {
       "id": "f052fbc54dcb7500e2ad",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
-    },
-    {
-      "id": "db023ba03b68065607b2",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "مستجد جديد من OpenAI",
-      "titleOriginal": "Introducing ChatGPT for Sales",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Sales"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T17:24:39.805893+00:00"
+  "lastFastCheckAt": "2026-11-19T17:29:30.455971+00:00"
 }
