@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T09:28:37.663933+00:00",
-  "checkedAt": "2026-11-19T09:28:37.663933+00:00",
+  "updatedAt": "2026-11-19T09:31:09.169861+00:00",
+  "checkedAt": "2026-11-19T09:31:09.169861+00:00",
   "newestPublishedAt": "2026-11-19T00:15:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -124,7 +124,7 @@
       "dateISO": "2026-11-18",
       "category": "business",
       "importance": 82,
-      "summary": "يتم دعم محرك البحث العصبي من Exa بواسطة قاعدة بيانات متجهية داخلية، لذلك فإن الاقتصاديات الوحدوية لتضمين عشرات المليارات من مستندات الويب تدفع الأعمال. يجب أن يوضح هذا المنشور",
+      "summary": "يتم دعم محرك البحث العصبي من Exa بواسطة قاعدة بيانات متجهة داخلية، لذلك فإن الاقتصاد الوحدوي لتضمين عشرات المليارات من مستندات الويب يدفع الأعمال التجارية. يجب أن يوضح هذا المنشور",
       "summaryOriginal": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
       "source": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
@@ -145,7 +145,7 @@
       "dateISO": "2026-11-18",
       "category": "models",
       "importance": 92,
-      "summary": "قد تتعطل مهام التدريب الكبيرة أو تحسب نتائجًا غير صحيحة حتى عندما تبدو كل عقدة سليمة. تضيف Amazon SageMaker HyperPod الآن استرداد عبء العمل والبنية التحتية الموسعة",
+      "summary": "قد تتوقف مهام التدريب الكبيرة أو تحسب نتائج خاطئة حتى عندما تبدو كل عقدة سليمة. تضيف Amazon SageMaker HyperPod الآن ميزة استرداد عبء العمل والبنية التحتية الموسعة",
       "summaryOriginal": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
@@ -166,7 +166,7 @@
       "dateISO": "2026-11-18",
       "category": "models",
       "importance": 92,
-      "summary": "تقارن لوحة المتصدرين لنماذج Amazon SageMaker JumpStart أكثر من 70 نموذجًا أساسيًا جنبًا إلى جنب من حيث الجودة والسرعة والتكلفة، مباشرةً في SageMaker Studio. تعرّف على ما هو الرائد",
+      "summary": "تقارن لوحة المتصدرين لنماذج Amazon SageMaker JumpStart أكثر من 70 نموذجًا أساسيًا جنبًا إلى جنب من حيث الجودة والسرعة والتكلفة، مباشرة في SageMaker Studio. تعرّف على ما هو الرائد",
       "summaryOriginal": "The Amazon SageMaker JumpStart Model Leaderboard compares 70+ foundation models side by side on quality, speed, and cost, directly in SageMaker Studio. Learn what the leaderboard shows, how AWS benchmarks models, and how to go from a shortlist to a deployed model.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
@@ -208,7 +208,7 @@
       "dateISO": "2026-11-18",
       "category": "tools",
       "importance": 78,
-      "summary": "تعرّف على كيفية جعل إجابات روبوت الدردشة RAG قابلة للتتبع باستخدام Amazon Aurora PostgreSQL وpgvector وAmazon Bedrock Guardrails، وتسجيل مصادر البيانات والدرجات وتتبعات الحواجز الواقية في S",
+      "summary": "تعرّف على كيفية جعل إجابات روبوت الدردشة RAG قابلة للتتبع باستخدام Amazon Aurora PostgreSQL وpgvector وAmazon Bedrock Guardrails، وتسجيل مصادر السجلات والدرجات وتتبعات الحواجز الواقية في S",
       "summaryOriginal": "Learn how to make RAG chatbot answers traceable with Amazon Aurora PostgreSQL, pgvector, and Amazon Bedrock Guardrails, logging sources, scores, and guardrail traces in SQL.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
@@ -229,7 +229,7 @@
       "dateISO": "2026-11-18",
       "category": "tools",
       "importance": 78,
-      "summary": "تدعم Amazon Bedrock AgentCore Identity الآن جهات إصدار الشهادات الخاصة (CAs)، حتى تتمكن وكالاتك من الاتصال بموفري الهوية المستضافين ذاتيًا الذين يستخدمون جهة إصدار شهادات خاصة.",
+      "summary": "تدعم Amazon Bedrock AgentCore Identity الآن جهات إصدار الشهادات الخاصة (CAs)، بحيث يمكن لوكلائك الاتصال بموفري الهوية المستضافين ذاتيًا الذين يستخدمون جهة إصدار شهادات خاصة.",
       "summaryOriginal": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs), so your agents can connect to self-hosted identity providers that use a private CA. This post shows how to issue an IdP certificate with AWS Private CA, configure a credential provider to trust it, rotate the CA, and protect the certificate.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
@@ -313,7 +313,7 @@
       "dateISO": "2026-11-18",
       "category": "models",
       "importance": 92,
-      "summary": "تدير العديد من الشركات نموذج شبكة مركزي: تمتلك حساب واحد كل سحابة خاصة افتراضية (VPC) ويقوم جدار حماية مركزي بفحص كل حركة المرور. يعرض هذا المنشور نموذجًا تم اختباره للاتصال",
+      "summary": "تدير العديد من المؤسسات نموذج شبكة مركزي: تمتلك حساب واحد كل سحابة خاصة افتراضية (VPC) ويقوم جدار حماية مركزي بفحص كل حركة المرور. يعرض هذا المنشور نموذجًا تم اختباره للاتصال",
       "summaryOriginal": "Many enterprises run a centralized network model: one account owns every VPC and a central firewall inspects all traffic. This post shows a tested pattern for connecting Amazon Bedrock AgentCore Gateway to private APIs and MCP servers in that model, with the VPC Lattice resource gateway in the network account so every hop crosses the firewall.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-gateway-to-private-apis-in-a-hub-and-spoke-network-with-centralized-inspection/",
@@ -376,7 +376,7 @@
       "dateISO": "2026-11-18",
       "category": "models",
       "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على جهاز مخصص",
+      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على",
       "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
@@ -702,7 +702,7 @@
       "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
     },
     {
-      "id": "d4b27dd825a046a13697",
+      "id": "a64f29595959f22ac7e3",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -712,23 +712,17 @@
       "dateISO": "2026-11-16",
       "category": "models",
       "importance": 92,
-      "summary": "تقود ديب شوكويست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
+      "summary": "تقود ديب شوكوست العمليات في NVIDIA، وتشرف على سلسلة التوريد والتصنيع وراء منصات الذكاء الاصطناعي الخاصة بها. يلخص هذا الوصف الوظيفة، لكنه لا يبدأ في",
       "summaryOriginal": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+      "source": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-16T20:00:37+00:00"
+      "searchAliases": "NVIDIA How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-19T01:30:15.370770+00:00",
-  "lastFastCheckAt": "2026-11-19T09:28:37.663933+00:00"
+  "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00"
 }
