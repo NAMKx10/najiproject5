@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T00:11:30.256357+00:00",
-  "checkedAt": "2026-11-19T00:11:30.256357+00:00",
-  "newestPublishedAt": "2026-11-18T23:58:22+00:00",
+  "updatedAt": "2026-11-19T00:16:33.805612+00:00",
+  "checkedAt": "2026-11-19T00:16:33.805612+00:00",
+  "newestPublishedAt": "2026-11-19T00:15:58+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "d8d15b5d2a8d6c3d6dd3",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الضبط الدقيق الكامل (FFT) على تخصيص النموذج غير الخادمي من SageMaker AI",
+      "titleOriginal": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "يدعم تخصيص النموذج بدون خادم من Amazon SageMaker AI الآن الضبط الدقيق الكامل (FFT). يبحث هذا المنشور في الحالات التي يتفوق فيها الضبط الدقيق الكامل (FFT) على LoRA عبر المعايير الرئيسية، ويدرس",
+      "summaryOriginal": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T00:15:58+00:00"
+    },
     {
       "id": "3430abf6acea5185b0d5",
       "company": "Amazon",
@@ -770,30 +796,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Reducing token costs and latency in Amazon Bedrock AgentCore JSON workloads"
-    },
-    {
-      "id": "c3d9db08ef6ac0e88787",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "خفض تكاليف الذكاء الاصطناعي التوليدي: البرمجة للقواعد، والنماذج للحكم",
-      "titleOriginal": "Cut generative AI costs: Code for rules, models for judgment",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "أكبر عامل مؤثر على التكلفة في نظام الذكاء الاصطناعي التوليدي هو ما إذا كنت تستدعي نموذجًا على الإطلاق. تعرّف على كيفية تحديد ما إذا كانت كل خطوة من خطوات سير العمل تحتاج إلى نموذج، وقم بتعيين كل خيار إلى",
-      "summaryOriginal": "The biggest cost lever in a generative AI system is whether you call a model at all. Learn how to decide whether each workflow step needs a model, and map each option to AWS: deterministic code, a constrained decision call, or a right-sized model on Amazon Bedrock.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Cut generative AI costs: Code for rules, models for judgment"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-19T00:11:30.256357+00:00"
+  "lastFastCheckAt": "2026-11-19T00:16:33.805612+00:00"
 }
