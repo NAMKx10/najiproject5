@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T18:55:53.378527+00:00",
-  "checkedAt": "2026-11-19T18:55:53.378527+00:00",
+  "updatedAt": "2026-11-19T18:58:22.733409+00:00",
+  "checkedAt": "2026-11-19T18:58:22.733409+00:00",
   "newestPublishedAt": "2026-11-19T18:48:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-19T18:48:55+00:00"
+    },
+    {
+      "id": "98cdb0248880b96c9434",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "إطلاق أو تحديث",
+      "title": "إلى الأومنيفيرس: كيف يحول المطورون الأفكار إلى محاكاة باستخدام وكلاء الذكاء الاصطناعي المتقدمين",
+      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعني تحويل فكرة المحاكاة إلى تطبيق عملي تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
+      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T17:00:35+00:00"
     },
     {
       "id": "fad4f7396619ed676bd8",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
-    },
-    {
-      "id": "3048869c76c26eea6d6e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تعزيز الدفاعات السيبرانية لحلف شمال الأطلسي والحلفاء باستخدام الذكاء الاصطناعي",
-      "titleOriginal": "Strengthening NATO and allied cyber defenses with AI",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف تعمل OpenAI مع حلف شمال الأطلسي والوكالات السيبرانية المتحالفة لمساعدة المدافعين الموثوق بهم على اكتشاف الثغرات الأمنية واختبار الإصلاحات وحماية الأنظمة الأساسية.",
-      "summaryOriginal": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T18:55:53.378527+00:00"
+  "lastFastCheckAt": "2026-11-19T18:58:22.733409+00:00"
 }
