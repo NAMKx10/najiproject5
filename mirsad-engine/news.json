@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T18:25:19.778134+00:00",
-  "checkedAt": "2026-11-19T18:25:19.778134+00:00",
-  "newestPublishedAt": "2026-11-19T18:20:54+00:00",
+  "updatedAt": "2026-11-19T18:30:26.300728+00:00",
+  "checkedAt": "2026-11-19T18:30:26.300728+00:00",
+  "newestPublishedAt": "2026-11-19T18:26:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "78ba7b530e0404713821",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "من التعلم إلى قائمة المتصدرين: كيف قامت سيسكو بتطوير مهارات 1200 مهندس في مجال الذكاء الاصطناعي الفعال مع AWS AI League",
+      "titleOriginal": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "tools",
+      "importance": 78,
+      "summary": "استخدمت Cisco وAWS فعاليتي Cisco Transformation Fest وAWS AI League لتحويل التعلم العملي للذكاء الاصطناعي إلى ثقافة بناء. فاز مهندس من سيسكو ببطولة AWS AI League العالمية لعام 2025",
+      "summaryOriginal": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your own league.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T18:26:22+00:00"
+    },
     {
       "id": "fba00d2c7307f25976df",
       "company": "Amazon",
@@ -730,30 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "research",
-      "importance": 86,
-      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي وسلامته تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T18:25:19.778134+00:00"
+  "lastFastCheckAt": "2026-11-19T18:30:26.300728+00:00"
 }
