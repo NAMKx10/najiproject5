@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T18:20:16.941346+00:00",
-  "checkedAt": "2026-11-19T18:20:16.941346+00:00",
-  "newestPublishedAt": "2026-11-19T18:14:36+00:00",
+  "updatedAt": "2026-11-19T18:25:19.778134+00:00",
+  "checkedAt": "2026-11-19T18:25:19.778134+00:00",
+  "newestPublishedAt": "2026-11-19T18:20:54+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fba00d2c7307f25976df",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "حافظ على استمرار تشغيل الاستدلال من خلال نقص القدرات الإقليمية مع توجيه الاستدلال عبر المناطق في Amazon SageMaker AI",
+      "titleOriginal": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يوفر لك توجيه الاستدلال عبر المناطق في Amazon SageMaker AI لمسار استدعاء واحد لتطبيقك عبر نقاط النهاية ومكونات الاستدلال التي تقوم بتشغيلها بالفعل، في منطقة واحدة أو",
+      "summaryOriginal": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T18:20:54+00:00"
+    },
     {
       "id": "711ef6802743f21e35d5",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "d5e3572e3c63e12f6762",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "مستجد تقني",
-      "title": "الطرح العام الأولي لأسعار أنثروبيك",
-      "titleOriginal": "Anthropic prices initial public offering",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "حددت شركة أنثروبيك، بي بي سي اليوم سعر طرحها الأولي العام لأسهمها العادية من الفئة أ.",
-      "summaryOriginal": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Anthropic prices initial public offering"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T18:20:16.941346+00:00"
+  "lastFastCheckAt": "2026-11-19T18:25:19.778134+00:00"
 }
