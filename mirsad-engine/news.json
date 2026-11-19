@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-18T23:56:20.767871+00:00",
-  "checkedAt": "2026-11-18T23:56:20.767871+00:00",
-  "newestPublishedAt": "2026-11-18T23:03:29+00:00",
+  "updatedAt": "2026-11-19T00:01:26.786773+00:00",
+  "checkedAt": "2026-11-19T00:01:26.786773+00:00",
+  "newestPublishedAt": "2026-11-18T23:58:22+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "3430abf6acea5185b0d5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "تعمل Exa على زيادة إنتاجية التضمين بنسبة 50% لفهرسة مليارات المستندات على رقاقات الذكاء الاصطناعي من AWS",
+      "titleOriginal": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "business",
+      "importance": 82,
+      "summary": "يتم دعم محرك البحث العصبي من Exa بواسطة قاعدة بيانات متجهة داخلية، لذلك فإن الاقتصاديات الوحدوية لتضمين عشرات المليارات من مستندات الويب هي ما يدفع الأعمال. يجب أن يوضح هذا المنشور",
+      "summaryOriginal": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T23:58:22+00:00"
+    },
     {
       "id": "b2364ab7a9b02fdadece",
       "company": "Amazon",
@@ -765,30 +791,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Cut generative AI costs: Code for rules, models for judgment"
-    },
-    {
-      "id": "52a58522c3720753b04b",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تدعم نقاط نهاية الذكاء الاصطناعي في الوقت الفعلي من Amazon SageMaker الآن التوجيه الذي يراعي ذاكرة التخزين المؤقت KV",
-      "titleOriginal": "Amazon SageMaker AI real-time endpoints now support KV cache aware routing",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "تدعم نقاط نهاية الذكاء الاصطناعي في الوقت الفعلي من Amazon SageMaker الآن التوجيه الواعي بذاكرة التخزين المؤقت KV، وهي استراتيجية جديدة توجه كل طلب إلى المثيل الذي يحتوي على أطول تطابق مخزن مؤقتًا له.",
-      "summaryOriginal": "Amazon SageMaker AI real-time endpoints now support KV cache-aware routing, a new strategy that routes each request to the instance holding the longest cached match for its prompt. Learn how it works, when to use it compared with prefix-aware routing, and how to enable, invoke, and verify it on single model and inference component endpoints.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker AI real-time endpoints now support KV cache aware routing"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-18T19:37:46.200440+00:00",
-  "lastFastCheckAt": "2026-11-18T23:56:20.767871+00:00"
+  "lastFastCheckAt": "2026-11-19T00:01:26.786773+00:00"
 }
