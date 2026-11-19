@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T21:23:00.872179+00:00",
-  "checkedAt": "2026-11-19T21:23:00.872179+00:00",
-  "newestPublishedAt": "2026-11-19T20:01:06+00:00",
+  "updatedAt": "2026-11-19T21:28:15.964165+00:00",
+  "checkedAt": "2026-11-19T21:28:15.964165+00:00",
+  "newestPublishedAt": "2026-11-19T21:23:20+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b7d11621537a43f66a80",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "داخل Amazon Connect Talent: علم المقابلات المنظمة بالذكاء الاصطناعي",
+      "titleOriginal": "Inside Amazon Connect Talent: The science of structured AI interviews",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "research",
+      "importance": 86,
+      "summary": "بالنسبة للمؤسسات التي توظف مئات أو آلاف الأشخاص، تمثل كل مقابلة التحدي نفسه: كيف تمنح المرشحين فرصة متسقة لإظهار",
+      "summaryOriginal": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed to make informed hiring decisions? Structured behavioral interviews offer a research-backed approach to this challenge. They use consistent, job-related questions and clear scoring criteria […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Inside Amazon Connect Talent: The science of structured AI interviews",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T21:23:20+00:00"
+    },
     {
       "id": "38809805a2d7b9e6abe5",
       "company": "Amazon",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Announcements"
-    },
-    {
-      "id": "d5e3572e3c63e12f6762",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "مستجد تقني",
-      "title": "الطرح العام الأولي لأسعار أنثروبيك",
-      "titleOriginal": "Anthropic prices initial public offering",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "حددت شركة Anthropic، PBC اليوم سعر طرحها الأولي العام لأسهمها العادية من الفئة أ.",
-      "summaryOriginal": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Anthropic prices initial public offering"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T21:23:00.872179+00:00"
+  "lastFastCheckAt": "2026-11-19T21:28:15.964165+00:00"
 }
