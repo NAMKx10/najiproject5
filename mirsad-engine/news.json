@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T22:16:14.744157+00:00",
-  "checkedAt": "2026-11-19T22:16:14.744157+00:00",
-  "newestPublishedAt": "2026-11-19T21:28:18+00:00",
+  "updatedAt": "2026-11-19T22:21:08.513312+00:00",
+  "checkedAt": "2026-11-19T22:21:08.513312+00:00",
+  "newestPublishedAt": "2026-11-19T22:20:23+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "a01b8af7defa95163e23",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "كيف تدير مجموعة BMW مئات الوكلاء عبر آلاف المطورين",
+      "titleOriginal": "How the BMW Group governs hundreds of agents across thousands of developers",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "business",
+      "importance": 82,
+      "summary": "عندما يخدم مئات الوكلاء آلاف المطورين، لا يمكن أن تكون الحوكمة أمرًا ثانويًا. تشارك مجموعة BMW الممارسات والأنماط التي تستخدمها فرق البحث والتطوير لديها للقيام بعمليات البناء،",
+      "summaryOriginal": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How the BMW Group governs hundreds of agents across thousands of developers",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T22:20:23+00:00"
+    },
+    {
+      "id": "c0468f2b6bd02fd170c6",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "أدر أعمال البيع بأكملها في AWS Quick",
+      "titleOriginal": "Run your whole selling business in AWS Quick",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "business",
+      "importance": 82,
+      "summary": "لا يحتاج معظم البائعين إلى منتج آخر للذكاء الاصطناعي للتعلم. إنهم بحاجة إلى جمع الأدوات والمعلومات التي يستخدمونها بالفعل، حتى يتمكنوا من معرفة ما يحدث في أعمالهم.",
+      "summaryOriginal": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Run your whole selling business in AWS Quick",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T22:16:22+00:00"
+    },
     {
       "id": "b89472090de82d65ae63",
       "company": "Amazon",
@@ -709,51 +761,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Advancing chip design with OpenAI models"
-    },
-    {
-      "id": "d5f10bbd6a8d0734dbf8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "180B معلمة، 32 غيغابايت من ذاكرة الوصول العشوائي (RAM): دفع استنتاج MoE إلى أقصى حد باستخدام المحولات",
-      "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/moe-expert-streaming",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
-    },
-    {
-      "id": "86028e38b752658d29cf",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "Rumble-2-Flash: نموذج كلام مفتوح بحجم 0.5 مليار لأكثر من 40 لغة",
-      "titleOriginal": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/rumble-2-flash",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T22:16:14.744157+00:00"
+  "lastFastCheckAt": "2026-11-19T22:21:08.513312+00:00"
 }
