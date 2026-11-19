@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T18:10:08.911313+00:00",
-  "checkedAt": "2026-11-19T18:10:08.911313+00:00",
-  "newestPublishedAt": "2026-11-19T17:28:47+00:00",
+  "updatedAt": "2026-11-19T18:15:32.029425+00:00",
+  "checkedAt": "2026-11-19T18:15:32.029425+00:00",
+  "newestPublishedAt": "2026-11-19T18:14:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "711ef6802743f21e35d5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "حماية استدعاءات أداة الوكيل باستخدام Skyflow وبوابة AgentCore من Amazon Bedrock",
+      "titleOriginal": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرّف على كيفية قيام Skyflow وAmazon Bedrock AgentCore Gateway بإبعاد البيانات الحساسة عن الأدوات التي تستدعيها وكلاء الذكاء الاصطناعي لديك. يتم إضافة Skyflow كأداة اعتراض بوابة، وتعمل على إخفاء هوية البيانات",
+      "summaryOriginal": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T18:14:36+00:00"
+    },
     {
       "id": "efd5fd98bf5cfde8947d",
       "company": "Amazon",
@@ -720,35 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic prices initial public offering"
-    },
-    {
-      "id": "31e7b62c9116f8454603",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم GPT-6.2 Astra وSol",
-      "titleOriginal": "Introducing GPT-6.2 Astra and Sol",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "نقدم لكم GPT‑6.2 Astra وSol، مع مخرجات احترافية أفضل، وبرمجة، واستخدام الكمبيوتر، وكفاءة بتكلفة أقل عبر ChatGPT Work وCodex وواجهة برمجة التطبيقات (API).",
-      "summaryOriginal": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing GPT-6.2 Astra and Sol",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-17T17:45:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T18:10:08.911313+00:00"
+  "lastFastCheckAt": "2026-11-19T18:15:32.029425+00:00"
 }
