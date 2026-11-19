@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T21:28:15.964165+00:00",
-  "checkedAt": "2026-11-19T21:28:15.964165+00:00",
-  "newestPublishedAt": "2026-11-19T21:23:20+00:00",
+  "updatedAt": "2026-11-19T21:30:37.741144+00:00",
+  "checkedAt": "2026-11-19T21:30:37.741144+00:00",
+  "newestPublishedAt": "2026-11-19T21:28:18+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "b89472090de82d65ae63",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "بحث",
+      "title": "يكتشف Amazon SageMaker AI الآن انحراف زمن الاستجابة ووحدات معالجة الرسومات الخاملة وعمليات التحسين الفائتة في نقاط نهاية الاستدلال الخاصة بك",
+      "titleOriginal": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "research",
+      "importance": 86,
+      "summary": "يراقب Amazon SageMaker AI الآن نقاط نهاية استنتاج الذكاء الاصطناعي التوليدي بشكل افتراضي ويخبرك عندما قد يؤدي التغيير إلى تحسين الأداء أو خفض التكلفة. ويتتبع زمن الاستجابة،",
+      "summaryOriginal": "Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost. It tracks latency, GPU utilization, and serving configuration, then sends a finding through AWS Health with a one-click path to benchmark alternatives in SageMaker Studio before you apply any change.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T21:28:18+00:00"
+    },
     {
       "id": "b7d11621537a43f66a80",
       "company": "Amazon",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "research",
-      "importance": 86,
-      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي والسلامة تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T21:28:15.964165+00:00"
+  "lastFastCheckAt": "2026-11-19T21:30:37.741144+00:00"
 }
