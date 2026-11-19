@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T16:38:46.314897+00:00",
-  "checkedAt": "2026-11-19T16:38:46.314897+00:00",
-  "newestPublishedAt": "2026-11-19T16:13:51+00:00",
+  "updatedAt": "2026-11-19T16:43:49.634404+00:00",
+  "checkedAt": "2026-11-19T16:43:49.634404+00:00",
+  "newestPublishedAt": "2026-11-19T16:41:35+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f052fbc54dcb7500e2ad",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم قابلية مراقبة البنية التحتية المحسنة في Amazon SageMaker HyperPod",
+      "titleOriginal": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتكم على تشخيص مشكلات تدريب وحدات معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتحليل من أجل",
+      "summaryOriginal": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T16:41:35+00:00"
+    },
     {
       "id": "e7142fcf63986858d520",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Introducing ChatGPT for Sales"
-    },
-    {
-      "id": "3048869c76c26eea6d6e",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "تعزيز الدفاعات السيبرانية لحلف شمال الأطلسي والحلفاء باستخدام الذكاء الاصطناعي",
-      "titleOriginal": "Strengthening NATO and allied cyber defenses with AI",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "tools",
-      "importance": 78,
-      "summary": "كيف تعمل OpenAI مع حلف شمال الأطلسي والوكالات السيبرانية المتحالفة لمساعدة المدافعين الموثوق بهم على العثور على نقاط الضعف واختبار الإصلاحات وحماية الأنظمة الأساسية.",
-      "summaryOriginal": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Strengthening NATO and allied cyber defenses with AI"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T16:38:46.314897+00:00"
+  "lastFastCheckAt": "2026-11-19T16:43:49.634404+00:00"
 }
