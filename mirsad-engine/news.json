@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T20:17:06.685308+00:00",
-  "checkedAt": "2026-11-19T20:17:06.685308+00:00",
+  "updatedAt": "2026-11-19T20:22:10.165966+00:00",
+  "checkedAt": "2026-11-19T20:22:10.165966+00:00",
   "newestPublishedAt": "2026-11-19T20:01:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -16,9 +16,9 @@
     {
       "company": "Microsoft",
       "kind": "feed-fast",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: 525 Server Error: <none> for url: https://blogs.microsoft.com/feed/"
+      "ok": true,
+      "items": 6,
+      "error": null
     },
     {
       "company": "NVIDIA",
@@ -745,5 +745,5 @@
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T20:17:06.685308+00:00"
+  "lastFastCheckAt": "2026-11-19T20:22:10.165966+00:00"
 }
