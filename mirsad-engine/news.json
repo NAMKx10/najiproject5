@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T17:39:50.943412+00:00",
-  "checkedAt": "2026-11-19T17:39:50.943412+00:00",
+  "updatedAt": "2026-11-19T17:44:51.220535+00:00",
+  "checkedAt": "2026-11-19T17:44:51.220535+00:00",
   "newestPublishedAt": "2026-11-19T17:28:47+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -169,6 +169,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-19T16:13:51+00:00"
+    },
+    {
+      "id": "f86b76b3c863b8b763e0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف يحافظ مصنع الأداء التابع لشركة OpenAI على سرعة ChatGPT",
+      "titleOriginal": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "تعرّف على كيفية إنشاء OpenAI لـ Performance Factory، وهو نظام من سير العمل المدعومة بتقنية Codex التي تعثر على مشكلات الأداء وتصلحها للمساعدة في الحفاظ على سرعة ChatGPT.",
+      "summaryOriginal": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T08:00:00+00:00"
     },
     {
       "id": "74c7dc9edaa6665177aa",
@@ -696,59 +722,33 @@
       "searchAliases": "Anthropic Anthropic prices initial public offering"
     },
     {
-      "id": "60265622d5cd3e224390",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "يان باك يفتتح أسبوع NVIDIA في SC26 مع دخول العلم عصر العوامل",
-      "titleOriginal": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "research",
-      "importance": 86,
-      "summary": "افتتح إيان باك من NVIDIA أسبوع الشركة في SC26 في شيكاغو يوم الاثنين بأدوات جديدة لوكلاء الذكاء الاصطناعي، وبرامج يمكنها تخطيط التجارب وتشغيل الأكواد والتحقق من النتائج",
-      "summaryOriginal": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ian-buck-sc26",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-17T14:00:10+00:00"
-    },
-    {
-      "id": "db023ba03b68065607b2",
+      "id": "31e7b62c9116f8454603",
       "company": "OpenAI",
       "logoText": "AI",
       "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم ChatGPT للمبيعات",
-      "titleOriginal": "Introducing ChatGPT for Sales",
+      "title": "نقدم لكم GPT-6.2 Astra وSol",
+      "titleOriginal": "Introducing GPT-6.2 Astra and Sol",
       "dateLabel": "17 نوفمبر 2026",
       "dateISO": "2026-11-17",
       "category": "models",
       "importance": 92,
-      "summary": "استكشف المكون الإضافي الجديد للمبيعات وأكثر من 30 مكونًا إضافيًا جديدًا وموسعًا للشركاء في ChatGPT للبحث عن العملاء المحتملين وإعداد العروض التقديمية وتحديث نظام إدارة علاقات العملاء (CRM) والمضي قدمًا في الصفقات.",
-      "summaryOriginal": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "summary": "نقدم لكم GPT‑6.2 Astra وSol، مع مخرجات احترافية أفضل، وبرمجة، واستخدام الكمبيوتر، وكفاءة بتكلفة أقل عبر ChatGPT Work وCodex وواجهة برمجة التطبيقات (API).",
+      "summaryOriginal": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Introducing ChatGPT for Sales",
+      "searchAliases": "OpenAI Introducing GPT-6.2 Astra and Sol",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-11-17T08:00:00+00:00"
+      "publishedAt": "2026-11-17T17:45:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T09:31:09.169861+00:00",
-  "lastFastCheckAt": "2026-11-19T17:39:50.943412+00:00"
+  "lastFastCheckAt": "2026-11-19T17:44:51.220535+00:00"
 }
