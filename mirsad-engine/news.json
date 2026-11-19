@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-19T19:56:51.754829+00:00",
-  "checkedAt": "2026-11-19T19:56:51.754829+00:00",
-  "newestPublishedAt": "2026-11-19T19:53:32+00:00",
+  "updatedAt": "2026-11-19T20:01:57.532854+00:00",
+  "checkedAt": "2026-11-19T20:01:57.532854+00:00",
+  "newestPublishedAt": "2026-11-19T20:01:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "38809805a2d7b9e6abe5",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تضيف أداة Amazon Bedrock AgentCore الإعدادات الافتراضية لأداة Strands والأدوات المضمنة وخطافات دورة الحياة",
+      "titleOriginal": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "models",
+      "importance": 92,
+      "summary": "يعمل إطار عمل Amazon Bedrock AgentCore الآن على إطار عمل Strands مفتوح المصدر، مما يوفر نموذجًا موصى به، وإعدادات افتراضية موجهة نحو المهام، وتخزينًا مؤقتًا تلقائيًا للمطالبات، وتعاونًا استباقيًا",
+      "summaryOriginal": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at defined points in the agent loop.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T20:01:06+00:00"
+    },
     {
       "id": "06c856c96d73dc68342c",
       "company": "Amazon",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic prices initial public offering"
-    },
-    {
-      "id": "31e7b62c9116f8454603",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "نقدم لكم GPT-6.2 Astra وSol",
-      "titleOriginal": "Introducing GPT-6.2 Astra and Sol",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "models",
-      "importance": 92,
-      "summary": "نقدم لكم GPT‑6.2 Astra وSol، مع مخرجات مهنية أفضل، وبرمجة، واستخدام الكمبيوتر، وكفاءة بتكلفة أقل عبر ChatGPT Work وCodex وواجهة برمجة التطبيقات (API).",
-      "summaryOriginal": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Introducing GPT-6.2 Astra and Sol"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-19T19:56:51.754829+00:00"
+  "lastFastCheckAt": "2026-11-19T20:01:57.532854+00:00"
 }
