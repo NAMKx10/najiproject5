@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T18:21:25.287322+00:00",
-  "checkedAt": "2026-11-20T18:21:25.287322+00:00",
-  "newestPublishedAt": "2026-11-20T00:34:07+00:00",
+  "updatedAt": "2026-11-20T18:26:19.603057+00:00",
+  "checkedAt": "2026-11-20T18:26:19.603057+00:00",
+  "newestPublishedAt": "2026-11-20T18:24:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "f052fbc54dcb7500e2ad",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم قابلية مراقبة البنية التحتية المحسنة في Amazon SageMaker HyperPod",
+      "titleOriginal": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتك على تشخيص مشكلات تدريب وحدة معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتنميط من أجل",
+      "summaryOriginal": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T18:24:06+00:00"
+    },
     {
       "id": "9707b6c0aa3e1ce4f9f4",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
-    },
-    {
-      "id": "86028e38b752658d29cf",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "Rumble-2-Flash: نموذج كلام مفتوح بحجم 0.5 مليار لأكثر من 40 لغة",
-      "titleOriginal": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/rumble-2-flash",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T18:21:25.287322+00:00"
+  "lastFastCheckAt": "2026-11-20T18:26:19.603057+00:00"
 }
