@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T00:12:40.406976+00:00",
-  "checkedAt": "2026-11-20T00:12:40.406976+00:00",
+  "updatedAt": "2026-11-20T00:17:44.144473+00:00",
+  "checkedAt": "2026-11-20T00:17:44.144473+00:00",
   "newestPublishedAt": "2026-11-19T23:02:16+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -573,6 +573,32 @@
       "publishedAt": "2026-11-19T00:00:00+00:00"
     },
     {
+      "id": "e3f6dae780c5a8a71648",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "نشر Daybreak Red",
+      "titleOriginal": "Deploying Daybreak Red",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "policy",
+      "importance": 88,
+      "summary": "استكشف بنية مرجعية للتحقيقات الأمنية الخاضعة للإشراف مع Daybreak Red، بما في ذلك ضوابط السلامة والإعداد والمراقبة.",
+      "summaryOriginal": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/business/learn/deploying-daybreak-red",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Deploying Daybreak Red",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-19T00:00:00+00:00"
+    },
+    {
       "id": "17685818fe6ec2203a12",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -805,30 +831,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T06:00:00+00:00"
-    },
-    {
-      "id": "e62232addcee918dcfac",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "أعمال وشراكات",
-      "title": "تعمل Exa على زيادة إنتاجية التضمين بنسبة 50% لفهرسة مليارات المستندات على رقاقات الذكاء الاصطناعي من AWS",
-      "titleOriginal": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "business",
-      "importance": 82,
-      "summary": "يتم دعم محرك البحث العصبي من Exa بواسطة قاعدة بيانات متجهة داخلية، لذلك فإن الاقتصاديات الوحدوية لتضمين عشرات المليارات من مستندات الويب تدفع الأعمال.",
-      "summaryOriginal": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a 47% gain in performance and cost per million documents.",
-      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-20T00:12:40.406976+00:00"
+  "lastFastCheckAt": "2026-11-20T00:17:44.144473+00:00"
 }
