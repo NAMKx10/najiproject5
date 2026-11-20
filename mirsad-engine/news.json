@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T22:35:10.304771+00:00",
-  "checkedAt": "2026-11-20T22:35:10.304771+00:00",
-  "newestPublishedAt": "2026-11-20T20:22:00+00:00",
+  "updatedAt": "2026-11-20T22:40:11.932636+00:00",
+  "checkedAt": "2026-11-20T22:40:11.932636+00:00",
+  "newestPublishedAt": "2026-11-20T22:35:24+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4cc7cb69db1d2e49affb",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم Amazon SageMaker HyperPod Global Inference Gateway: نقطة نهاية واحدة عبر المناطق والمجموعات",
+      "titleOriginal": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مُدارة تقوم بتوجيه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
+      "summaryOriginal": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T22:35:24+00:00"
+    },
     {
       "id": "e1b42ce11e69c887ea25",
       "company": "Amazon",
@@ -750,35 +776,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T15:00:23+00:00"
-    },
-    {
-      "id": "bd86d00388aef4f8b0e8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "أجهزة الكمبيوتر المكتبية المدمجة NVIDIA RTX Spark متاحة الآن",
-      "titleOriginal": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على",
-      "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T14:00:31+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T22:35:10.304771+00:00"
+  "lastFastCheckAt": "2026-11-20T22:40:11.932636+00:00"
 }
