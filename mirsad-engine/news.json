@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T19:06:50.878993+00:00",
-  "checkedAt": "2026-11-20T19:06:50.878993+00:00",
+  "updatedAt": "2026-11-20T19:11:54.679077+00:00",
+  "checkedAt": "2026-11-20T19:11:54.679077+00:00",
   "newestPublishedAt": "2026-11-20T18:24:06+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -222,6 +222,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement"
+    },
+    {
+      "id": "cb47cf726d975ecfad23",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "هل يمكن للذكاء الاصطناعي أن يساعد العلماء على تحديد الأدوية المرشحة الواعدة؟",
+      "titleOriginal": "Can AI help scientists identify promising drug candidates?",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "يقيم MedChemBench مدى جودة نماذج الذكاء الاصطناعي في تفسير البنى الجزيئية، والاستدلال من الأدلة التجريبية، واختيار المركبات في المراحل المبكرة من اكتشاف الأدوية.",
+      "summaryOriginal": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-medchembench",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Can AI help scientists identify promising drug candidates?",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T00:00:00+00:00"
     },
     {
       "id": "cc98692eaee08198c8d2",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Managing frontier AI risk: From training to deployment"
-    },
-    {
-      "id": "d5f10bbd6a8d0734dbf8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "180B من المعلمات، 32 غيغابايت من ذاكرة الوصول العشوائي (RAM): دفع استنتاج نموذج الخبراء المتعدد (MoE) إلى أقصى حد باستخدام المحولات",
-      "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/moe-expert-streaming",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T19:06:50.878993+00:00"
+  "lastFastCheckAt": "2026-11-20T19:11:54.679077+00:00"
 }
