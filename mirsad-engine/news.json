@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T20:33:12.054070+00:00",
-  "checkedAt": "2026-11-20T20:33:12.054070+00:00",
+  "updatedAt": "2026-11-20T20:38:16.621760+00:00",
+  "checkedAt": "2026-11-20T20:38:16.621760+00:00",
   "newestPublishedAt": "2026-11-20T20:22:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -648,6 +648,58 @@
       "searchAliases": "OpenAI Get started with Daybreak Blue"
     },
     {
+      "id": "17685818fe6ec2203a12",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "DaisyRose-27B: دفع حدود كفاءة ما بعد التدريب",
+      "titleOriginal": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T19:54:56+00:00"
+    },
+    {
+      "id": "a267c323a225938925dd",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "لماذا تستغرق مهمة الضبط الدقيق وقتًا أطول مما تشير إليه عمليات FLOPs",
+      "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T18:53:43+00:00"
+    },
+    {
       "id": "e40a589bdf7906e9413f",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -724,61 +776,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T10:00:00+00:00"
-    },
-    {
-      "id": "890052863649be5330ab",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف ساعد قادة شركة سوميتومو لايف الفرق على اعتماد ChatGPT Enterprise",
-      "titleOriginal": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم سوميتومو لايف ChatGPT Enterprise للبحث عن شركات التأمين وإعداد العروض ووضع مسودة التعليمات البرمجية لتحليل الاستثمار. ساعد الاستخدام المبكر من قبل المديرين التنفيذيين على دفع عملية الاعتماد.",
-      "summaryOriginal": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/business/customer-stories/sumitomo-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T08:00:00+00:00"
-    },
-    {
-      "id": "6092f8be8f0b5c4be5f6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تسريع البحث: الحدود المتعرجة",
-      "titleOriginal": "Research acceleration: The jagged frontier",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقيس OpenAI كيف تُسرّع وكالات البرمجة أبحاث الذكاء الاصطناعي، وأين يظل أداؤها غير متكافئ، وما الذي يشير إليه هذا بشأن التحسين الذاتي التكراري.",
-      "summaryOriginal": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Research acceleration: The jagged frontier",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T08:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T20:33:12.054070+00:00"
+  "lastFastCheckAt": "2026-11-20T20:38:16.621760+00:00"
 }
