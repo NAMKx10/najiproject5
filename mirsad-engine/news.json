@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T23:05:38.281166+00:00",
-  "checkedAt": "2026-11-20T23:05:38.281166+00:00",
-  "newestPublishedAt": "2026-11-20T22:35:24+00:00",
+  "updatedAt": "2026-11-20T23:10:40.089219+00:00",
+  "checkedAt": "2026-11-20T23:10:40.089219+00:00",
+  "newestPublishedAt": "2026-11-20T23:07:03+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5bd0f9e4a2c6d46ddf84",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "تقديم إضافات المجموعات المُدارة من أجل إمكانية المراقبة وإدارة المستخدمين في Amazon SageMaker HyperPod Slurm",
+      "titleOriginal": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "توفر Amazon SageMaker HyperPod الآن إضافات مجموعات مدارة للرصد وإدارة المستخدمين، مما يوفر تكوينًا إعلانيًا قائمًا على واجهة برمجة التطبيقات ووحدة التحكم إلى",
+      "summaryOriginal": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T23:07:03+00:00"
+    },
     {
       "id": "4cc7cb69db1d2e49affb",
       "company": "Amazon",
@@ -750,35 +776,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T18:53:43+00:00"
-    },
-    {
-      "id": "e40a589bdf7906e9413f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج السلاسل الزمنية في Streamhouse: مجال جديد وحالات استخدام",
-      "titleOriginal": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T15:00:23+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T23:05:38.281166+00:00"
+  "lastFastCheckAt": "2026-11-20T23:10:40.089219+00:00"
 }
