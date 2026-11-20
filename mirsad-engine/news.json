@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T19:32:19.802747+00:00",
-  "checkedAt": "2026-11-20T19:32:19.802747+00:00",
+  "updatedAt": "2026-11-20T19:37:33.602092+00:00",
+  "checkedAt": "2026-11-20T19:37:33.602092+00:00",
   "newestPublishedAt": "2026-11-20T19:28:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-20T18:24:06+00:00"
+    },
+    {
+      "id": "f927139d9de6de3804f6",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "مستجد جديد من OpenAI",
+      "titleOriginal": "Combatting adversarial distillation",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت OpenAI عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/combatting-adversarial-distillation",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Combatting adversarial distillation",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T10:00:00+00:00"
     },
     {
       "id": "9707b6c0aa3e1ce4f9f4",
@@ -715,30 +741,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
-    },
-    {
-      "id": "f6f3a5c121add4537f31",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "داخل بيئة Codex الآمنة",
-      "titleOriginal": "Inside the Codex sandbox",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرّف على كيفية تنفيذ Codex للأوامر على جهازك مع فرض قيود نظام الملفات والشبكة التي تتحكم فيها عبر أنظمة التشغيل macOS وLinux وWindows.",
-      "summaryOriginal": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/inside-the-codex-sandbox",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Inside the Codex sandbox"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T19:32:19.802747+00:00"
+  "lastFastCheckAt": "2026-11-20T19:37:33.602092+00:00"
 }
