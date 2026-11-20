@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T00:53:19.219163+00:00",
-  "checkedAt": "2026-11-20T00:53:19.219163+00:00",
+  "updatedAt": "2026-11-20T00:55:50.513346+00:00",
+  "checkedAt": "2026-11-20T00:55:50.513346+00:00",
   "newestPublishedAt": "2026-11-20T00:34:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -93,7 +93,7 @@
   ],
   "items": [
     {
-      "id": "3376cada5cc63f575665",
+      "id": "9707b6c0aa3e1ce4f9f4",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -103,23 +103,18 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "تستعرض هذه الدفعة الثانية 13 إطلاقًا آخر لاستنتاج الذكاء الاصطناعي من Amazon SageMaker من عام 2026، والتي تشمل توصيات التكوين، وملاءمة المزيد من النماذج على كل وحدة معالجة رسومات، وتقديم",
+      "summary": "تستعرض هذه الدفعة الثانية 13 إطلاقًا آخر لاستدلال الذكاء الاصطناعي من Amazon SageMaker من عام 2026، والتي تشمل توصيات التكوين، وملاءمة المزيد من النماذج على كل وحدة معالجة رسومات، وتقديم",
       "summaryOriginal": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 launches in review, part 2",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-20T00:34:07+00:00"
+      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 launches in review, part 2"
     },
     {
-      "id": "9f9506e080c5c45412f8",
+      "id": "c22ad69e8ae9220cb2c1",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -129,23 +124,18 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "يضيف Kimi Code CLI الإصدار 2.7.0 مزودًا أصليًا من Amazon Bedrock، بحيث يمكنك ربط وكيل البرمجة مفتوح المصدر بنماذج مثل Kimi K3.1 Pro باستخدام بيانات اعتماد AWS القياسية الخاصة بك",
+      "summary": "يضيف Kimi Code CLI v2.7.0 مزودًا أصليًا من Amazon Bedrock، بحيث يمكنك ربط وكيل البرمجة مفتوح المصدر بنماذج مثل Kimi K3.1 Pro باستخدام بيانات اعتماد AWS القياسية الخاصة بك",
       "summaryOriginal": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Use Kimi Code CLI with models on Amazon Bedrock",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-20T00:33:30+00:00"
+      "searchAliases": "Amazon Use Kimi Code CLI with models on Amazon Bedrock"
     },
     {
-      "id": "5ee0131510944c24e86a",
+      "id": "cc98692eaee08198c8d2",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -158,20 +148,15 @@
       "summary": "تدعم مدفوعات Amazon Bedrock AgentCore الآن AWS Marketplace، بحيث يمكن للوكلاء اكتشاف وشراء المنتجات وواجهات برمجة التطبيقات (APIs) والبيانات والمحتوى التي تدعم x402 والدفع بالدولار الأمريكي على منصة المطورين.",
       "summaryOriginal": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with sources.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments",
+      "source": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T23:02:16+00:00"
+      "searchAliases": "Amazon Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments"
     },
     {
-      "id": "a01b8af7defa95163e23",
+      "id": "3c512171a2d0812f336e",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -184,20 +169,15 @@
       "summary": "عندما يخدم مئات الوكلاء آلاف المطورين، لا يمكن أن تكون الحوكمة أمرًا ثانويًا. تشارك مجموعة BMW الممارسات والأنماط التي تستخدمها فرق البحث والتطوير لديها للقيام بعمليات البناء،",
       "summaryOriginal": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon How the BMW Group governs hundreds of agents across thousands of developers",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T22:20:23+00:00"
+      "searchAliases": "Amazon How the BMW Group governs hundreds of agents across thousands of developers"
     },
     {
-      "id": "c0468f2b6bd02fd170c6",
+      "id": "7584746ab8d20174e723",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -210,20 +190,15 @@
       "summary": "لا يحتاج معظم البائعين إلى منتج آخر للذكاء الاصطناعي للتعلم. إنهم بحاجة إلى جمع الأدوات والمعلومات التي يستخدمونها بالفعل، حتى يتمكنوا من معرفة ما يحدث في أعمالهم.",
       "summaryOriginal": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick",
+      "source": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Run your whole selling business in AWS Quick",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T22:16:22+00:00"
+      "searchAliases": "Amazon Run your whole selling business in AWS Quick"
     },
     {
-      "id": "b89472090de82d65ae63",
+      "id": "b469ea0f118a0c1538c0",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -236,20 +211,15 @@
       "summary": "يراقب Amazon SageMaker AI الآن نقاط نهاية استنتاج الذكاء الاصطناعي التوليدي بشكل افتراضي ويخبرك عندما قد يؤدي التغيير إلى تحسين الأداء أو خفض التكلفة. ويتتبع زمن الاستجابة،",
       "summaryOriginal": "Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost. It tracks latency, GPU utilization, and serving configuration, then sends a finding through AWS Health with a one-click path to benchmark alternatives in SageMaker Studio before you apply any change.",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T21:28:18+00:00"
+      "searchAliases": "Amazon Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints"
     },
     {
-      "id": "b7d11621537a43f66a80",
+      "id": "ae29fd7e4e4576bef17b",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "بحث",
@@ -262,20 +232,15 @@
       "summary": "بالنسبة للمؤسسات التي توظف مئات أو آلاف الأشخاص، تمثل كل مقابلة التحدي نفسه: كيف تمنح المرشحين فرصة متسقة لإظهار",
       "summaryOriginal": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed to make informed hiring decisions? Structured behavioral interviews offer a research-backed approach to this challenge. They use consistent, job-related questions and clear scoring criteria […]",
       "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews",
+      "source": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Inside Amazon Connect Talent: The science of structured AI interviews",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T21:23:20+00:00"
+      "searchAliases": "Amazon Inside Amazon Connect Talent: The science of structured AI interviews"
     },
     {
-      "id": "38809805a2d7b9e6abe5",
+      "id": "db992790de8babefb673",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -285,23 +250,18 @@
       "dateISO": "2026-11-19",
       "category": "models",
       "importance": 92,
-      "summary": "يعمل إطار عمل Amazon Bedrock AgentCore الآن على إطار عمل Strands مفتوح المصدر، مما يوفر نموذجًا موصى به، وإعدادات افتراضية موجهة نحو المهام، وتخزينًا مؤقتًا تلقائيًا للمطالبات، وتعاونًا استباقيًا",
+      "summary": "يعمل إطار عمل Amazon Bedrock AgentCore الآن على إطار عمل Strands مفتوح المصدر، مما يوفر نموذجًا موصى به، وإعدادات افتراضية موجهة نحو المهام، وتخزينًا مؤقتًا تلقائيًا للمطالبات، وتنسيقًا استباقيًا",
       "summaryOriginal": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at defined points in the agent loop.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T20:01:06+00:00"
+      "searchAliases": "Amazon Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks"
     },
     {
-      "id": "06c856c96d73dc68342c",
+      "id": "e283fa8fd954cf964a32",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "إطلاق أو تحديث",
@@ -314,20 +274,15 @@
       "summary": "أصبح استنساخ الصوت في Amazon Polly متاحًا الآن بشكل عام. امنح Amazon Polly بضع دقائق من التسجيلات من متحدث موافق، وسيقوم بإنشاء صوت مخصص يقرأ",
       "summaryOriginal": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven languages.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Amazon Polly launches voice cloning: A unique voice for your brand",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T19:53:32+00:00"
+      "searchAliases": "Amazon Amazon Polly launches voice cloning: A unique voice for your brand"
     },
     {
-      "id": "fd724e2f750da2d5ef21",
+      "id": "94104f03461997dad97b",
       "company": "Amazon",
       "logoText": "AWS",
       "type": "أعمال وشراكات",
@@ -337,23 +292,18 @@
       "dateISO": "2026-11-19",
       "category": "business",
       "importance": 82,
-      "summary": "مع قيام الشركات بتوسيع نطاق الذكاء الاصطناعي على Amazon Bedrock، قد يزداد إنفاق الرموز المميزة حتى مع انخفاض أسعار الرموز المميزة. يتناول هذا المنشور ستة عوامل تحسين قابلة للتكوين، ويوضح كيف",
+      "summary": "مع قيام الشركات بتوسيع نطاق الذكاء الاصطناعي على Amazon Bedrock، قد يزداد إنفاق الرموز المميزة حتى مع انخفاض أسعار الرموز المميزة. يستعرض هذا المنشور ستة عوامل تحسين قابلة للتكوين، ويُظهر كيف أن شركة أكسنتشر",
       "summaryOriginal": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.",
       "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach",
+      "source": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
       "sourceLabel": "AWS Machine Learning Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Amazon Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T18:48:55+00:00"
+      "searchAliases": "Amazon Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach"
     },
     {
-      "id": "98cdb0248880b96c9434",
+      "id": "17ff82eab5b698cdfceb",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -366,143 +316,12 @@
       "summary": "يعني تحويل فكرة المحاكاة إلى تطبيق عملي تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
       "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T17:00:35+00:00"
-    },
-    {
-      "id": "fad4f7396619ed676bd8",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "من التعلم إلى قائمة المتصدرين: كيف قامت سيسكو بتطوير مهارات 1200 مهندس في مجال الذكاء الاصطناعي الفعال مع AWS AI League",
-      "titleOriginal": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "tools",
-      "importance": 78,
-      "summary": "استخدمت Cisco وAWS فعاليتي Cisco Transformation Fest وAWS AI League لتحويل التعلم العملي للذكاء الاصطناعي إلى ثقافة بناء. فاز مهندس من سيسكو ببطولة AWS AI League العالمية لعام 2025",
-      "summaryOriginal": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your own league.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League"
-    },
-    {
-      "id": "ca44aae67615a441b955",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "حافظ على استمرار تشغيل الاستدلال من خلال نقص القدرات الإقليمية مع توجيه الاستدلال عبر المناطق في Amazon SageMaker AI",
-      "titleOriginal": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يوفر لك توجيه الاستدلال عبر المناطق في Amazon SageMaker AI لمُسْتَخدِمك مسار استدعاء واحد عبر نقاط النهاية ومكونات الاستدلال التي تقوم بتشغيلها بالفعل، في منطقة واحدة أو",
-      "summaryOriginal": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI"
-    },
-    {
-      "id": "64dd1b9028968178bc87",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "حماية استدعاءات أداة الوكيل باستخدام Skyflow وبوابة AgentCore من Amazon Bedrock",
-      "titleOriginal": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرّف على كيفية قيام Skyflow وAmazon Bedrock AgentCore Gateway بإبعاد البيانات الحساسة عن الأدوات التي تستدعيها وكلاء الذكاء الاصطناعي لديك. يتم إضافة Skyflow كمعترض بوابة، وهو يعمل على إخفاء هوية البيانات",
-      "summaryOriginal": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway"
-    },
-    {
-      "id": "f11ac39b3567d77dbeac",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "PolyAI Dialog-RSN-1 متاح الآن على Amazon SageMaker JumpStart",
-      "titleOriginal": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "يتوفر PolyAI Dialog-RSN-1، وهو نموذج استدلال مصمم للحوار المعقد في الوقت الفعلي، اليوم على AWS Marketplace وAmazon SageMaker JumpStart. اكتشفه، وقيّمه",
-      "summaryOriginal": "PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart"
-    },
-    {
-      "id": "22633d8aa7d1713cb564",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "تقديم قابلية مراقبة البنية التحتية المحسنة في Amazon SageMaker HyperPod",
-      "titleOriginal": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتكم على تشخيص مشكلات تدريب وحدة معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتحليل الشخصي من أجل",
-      "summaryOriginal": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod"
-    },
-    {
-      "id": "e14f063f1daa1b550636",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "مستجد تقني",
-      "title": "استخدام تجزئة وحدة معالجة الرسومات NVIDIA Run:ai على Amazon EKS",
-      "titleOriginal": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرّف على كيفية تشغيل وحدتي Kubernetes Pods مقيدتين بالذاكرة على وحدة معالجة رسومات NVIDIA A10G واحدة باستخدام NVIDIA Run:ai GPU Fractioning مفتوحة المصدر على Amazon EKS. يقوم هذا الشرح التفصيلي بإنشاء ج",
-      "summaryOriginal": "Learn how to run two memory-bounded Kubernetes Pods on a single NVIDIA A10G GPU using open-source NVIDIA Run:ai GPU Fractioning on Amazon EKS. This walkthrough builds a custom Amazon Linux 2023 image, installs KAI Scheduler and the GPU Fractioning Operator, and validates per-Pod GPU-memory contracts with enforcement and metrics.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Using NVIDIA Run:ai GPU Fractioning on Amazon EKS"
+      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     },
     {
       "id": "f86b76b3c863b8b763e0",
@@ -526,51 +345,25 @@
       "searchAliases": "OpenAI How OpenAI’s Performance Factory keeps ChatGPT fast"
     },
     {
-      "id": "74c7dc9edaa6665177aa",
-      "company": "Amazon",
-      "logoText": "AWS",
-      "type": "إطلاق أو تحديث",
-      "title": "الضبط الدقيق الكامل (FFT) على تخصيص النموذج غير الخادمي من SageMaker AI",
-      "titleOriginal": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "يدعم تخصيص النموذج بدون خادم من Amazon SageMaker AI الآن الضبط الدقيق الكامل (FFT). يبحث هذا المنشور في الحالات التي يتفوق فيها الضبط الدقيق الكامل (FFT) على LoRA عبر المعايير الرئيسية، ويدرس",
-      "summaryOriginal": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows how to get started.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
-      "sourceLabel": "AWS Machine Learning Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Amazon Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization"
-    },
-    {
-      "id": "777ef9aa734050c0b7f5",
+      "id": "e3f6dae780c5a8a71648",
       "company": "OpenAI",
       "logoText": "AI",
       "type": "أمان وسياسات",
-      "title": "استكشاف المكون الإضافي Codex Security",
-      "titleOriginal": "Explore the Codex Security Plugin",
+      "title": "نشر Daybreak Red",
+      "titleOriginal": "Deploying Daybreak Red",
       "dateLabel": "19 نوفمبر 2026",
       "dateISO": "2026-11-19",
       "category": "policy",
       "importance": 88,
-      "summary": "شاهد عرضًا توضيحيًا للمكون الإضافي Codex Security وشاهد سير العمل قيد التنفيذ، بدءًا من البدء وحتى مراجعة النتائج الموضحة في التسجيل.",
-      "summaryOriginal": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "summary": "استكشف بنية مرجعية للتحقيقات الأمنية الخاضعة للإشراف مع Daybreak Red، بما في ذلك ضوابط السلامة والإعداد والمراقبة.",
+      "summaryOriginal": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "https://openai.com/business/learn/deploying-daybreak-red",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Explore the Codex Security Plugin",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T00:00:00+00:00"
+      "searchAliases": "OpenAI Deploying Daybreak Red"
     },
     {
       "id": "16af40845a325f0716b2",
@@ -591,12 +384,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI See PR scans in action",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T00:00:00+00:00"
+      "searchAliases": "OpenAI See PR scans in action"
+    },
+    {
+      "id": "777ef9aa734050c0b7f5",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أمان وسياسات",
+      "title": "استكشاف المكون الإضافي Codex Security",
+      "titleOriginal": "Explore the Codex Security Plugin",
+      "dateLabel": "19 نوفمبر 2026",
+      "dateISO": "2026-11-19",
+      "category": "policy",
+      "importance": 88,
+      "summary": "شاهد عرضًا توضيحيًا للمكون الإضافي Codex Security وشاهد سير العمل قيد التنفيذ، بدءًا من البدء وحتى مراجعة النتائج الموضحة في التسجيل.",
+      "summaryOriginal": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
+      "source": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Explore the Codex Security Plugin"
     },
     {
       "id": "5340d0124bdcc858d3ad",
@@ -617,38 +426,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Get started with Daybreak Blue",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T00:00:00+00:00"
-    },
-    {
-      "id": "e3f6dae780c5a8a71648",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "أمان وسياسات",
-      "title": "نشر Daybreak Red",
-      "titleOriginal": "Deploying Daybreak Red",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "policy",
-      "importance": 88,
-      "summary": "استكشف بنية مرجعية للتحقيقات الأمنية الخاضعة للإشراف مع Daybreak Red، بما في ذلك ضوابط السلامة والإعداد والمراقبة.",
-      "summaryOriginal": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "why": "قد يؤثر في الأمان أو الخصوصية أو القواعد المنظمة لاستخدام الذكاء الاصطناعي.",
-      "source": "https://openai.com/business/learn/deploying-daybreak-red",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Deploying Daybreak Red",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-19T00:00:00+00:00"
+      "searchAliases": "OpenAI Get started with Daybreak Blue"
     },
     {
       "id": "17685818fe6ec2203a12",
@@ -669,12 +447,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T19:54:56+00:00"
+      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
     },
     {
       "id": "a267c323a225938925dd",
@@ -695,12 +468,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T18:53:43+00:00"
+      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say"
     },
     {
       "id": "e40a589bdf7906e9413f",
@@ -721,15 +489,10 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T15:00:23+00:00"
+      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
     },
     {
-      "id": "bd86d00388aef4f8b0e8",
+      "id": "87992692d845b1607495",
       "company": "NVIDIA",
       "logoText": "NV",
       "type": "إطلاق أو تحديث",
@@ -739,20 +502,15 @@
       "dateISO": "2026-11-18",
       "category": "models",
       "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على",
+      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية مدمجة جديدة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على جهاز مخصص",
       "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
+      "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "sourceLabel": "NVIDIA Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T14:00:31+00:00"
+      "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now"
     },
     {
       "id": "33a0201d2afbe010aa34",
@@ -773,38 +531,28 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI The Silent Consensus",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T10:00:00+00:00"
+      "searchAliases": "OpenAI The Silent Consensus"
     },
     {
-      "id": "f6f3a5c121add4537f31",
+      "id": "6092f8be8f0b5c4be5f6",
       "company": "OpenAI",
       "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "داخل بيئة Codex الآمنة",
-      "titleOriginal": "Inside the Codex sandbox",
+      "type": "بحث",
+      "title": "تسريع البحث: الحدود المتعرجة",
+      "titleOriginal": "Research acceleration: The jagged frontier",
       "dateLabel": "18 نوفمبر 2026",
       "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "تعرّف على كيفية تنفيذ Codex للأوامر على جهازك مع فرض قيود نظام الملفات والشبكة التي تتحكم فيها عبر أنظمة التشغيل macOS وLinux وWindows.",
-      "summaryOriginal": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/inside-the-codex-sandbox",
+      "category": "research",
+      "importance": 86,
+      "summary": "تقيس OpenAI كيف تعمل وكالات البرمجة على تسريع أبحاث الذكاء الاصطناعي، وأين يظل أداؤها غير متكافئ، وما الذي يشير إليه هذا فيما يتعلق بالتحسين الذاتي التكراري.",
+      "summaryOriginal": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/research-acceleration-jagged-frontier",
       "sourceLabel": "OpenAI",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI Inside the Codex sandbox",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T08:00:00+00:00"
+      "searchAliases": "OpenAI Research acceleration: The jagged frontier"
     },
     {
       "id": "890052863649be5330ab",
@@ -825,15 +573,156 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T08:00:00+00:00"
+      "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
+    },
+    {
+      "id": "f6f3a5c121add4537f31",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "داخل بيئة Codex الآمنة",
+      "titleOriginal": "Inside the Codex sandbox",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "تعرّف على كيفية تنفيذ Codex للأوامر على جهازك مع فرض قيود نظام الملفات والشبكة التي تتحكم فيها عبر أنظمة التشغيل macOS وLinux وWindows.",
+      "summaryOriginal": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/inside-the-codex-sandbox",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Inside the Codex sandbox"
+    },
+    {
+      "id": "8fc78afc37a015e232a9",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "إدارة مخاطر الذكاء الاصطناعي المتطور: من التدريب إلى النشر",
+      "titleOriginal": "Managing frontier AI risk: From training to deployment",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تشرح OpenAI كيف تدير مخاطر الذكاء الاصط구나عي المتطور من التدريب إلى النشر من خلال مواءمة النموذج، وبيئة الاختبار المعزولة، وإجراءات الحماية من الحظر، والرصد.",
+      "summaryOriginal": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/managing-frontier-ai-risk",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Managing frontier AI risk: From training to deployment"
+    },
+    {
+      "id": "d5f10bbd6a8d0734dbf8",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "180B من المعلمات، 32 غيغابايت من ذاكرة الوصول العشوائي (RAM): دفع استنتاج نموذج الخبراء المتعدد (MoE) إلى أقصى حد باستخدام المحولات",
+      "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/moe-expert-streaming",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
+    },
+    {
+      "id": "86028e38b752658d29cf",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "Rumble-2-Flash: نموذج كلام مفتوح بحجم 0.5 مليار لأكثر من 40 لغة",
+      "titleOriginal": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/rumble-2-flash",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "research",
+      "importance": 86,
+      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي والسلامة تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
+    },
+    {
+      "id": "d5e3572e3c63e12f6762",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "مستجد تقني",
+      "title": "الطرح العام الأولي لأسعار أنثروبيك",
+      "titleOriginal": "Anthropic prices initial public offering",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "حددت شركة Anthropic، PBC اليوم سعر طرحها الأولي العام لأسهمها العادية من الفئة أ.",
+      "summaryOriginal": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Anthropic prices initial public offering"
+    },
+    {
+      "id": "f2839f13e162ceb9adb2",
+      "company": "NVIDIA",
+      "logoText": "NV",
+      "type": "بحث",
+      "title": "يان باك يفتتح أسبوع NVIDIA في SC26 مع دخول العلم عصر العوامل",
+      "titleOriginal": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "dateLabel": "17 نوفمبر 2026",
+      "dateISO": "2026-11-17",
+      "category": "research",
+      "importance": 86,
+      "summary": "افتتح إيان باك من NVIDIA أسبوع الشركة في SC26 في شيكاغو يوم الاثنين بأدوات جديدة لوكلاء الذكاء الاصطناعي، وبرامج يمكنها تخطيط التجارب وتشغيل التعليمات البرمجية والتحقق من النتائج",
+      "summaryOriginal": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "sourceLabel": "NVIDIA Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-20T00:53:19.219163+00:00"
+  "lastDeepCheckAt": "2026-11-20T00:55:50.513346+00:00"
 }
