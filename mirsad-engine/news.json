@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T19:27:25.241923+00:00",
-  "checkedAt": "2026-11-20T19:27:25.241923+00:00",
-  "newestPublishedAt": "2026-11-20T18:24:06+00:00",
+  "updatedAt": "2026-11-20T19:32:19.802747+00:00",
+  "checkedAt": "2026-11-20T19:32:19.802747+00:00",
+  "newestPublishedAt": "2026-11-20T19:28:56+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8f00b8c387fcfad638dc",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "كيف تقوم مجموعة ستاندرد بنك بأتمتة تقييم مخاطر الذكاء الاصطناعي للذكاء الاصطناعي التوليدي",
+      "titleOriginal": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "tools",
+      "importance": 78,
+      "summary": "قامت مجموعة ستاندرد بنك بأتمتة الأدلة التي تقف وراء بوابات الموافقة على الذكاء الاصطناعي التوليدي. بالتعاون مع الخدمات الاحترافية من AWS، أنشأ البنك تقييمًا في حسابه الخاص على AWS",
+      "summaryOriginal": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon How Standard Bank Group automates AI risk assessment for generative AI",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T19:28:56+00:00"
+    },
     {
       "id": "f052fbc54dcb7500e2ad",
       "company": "Amazon",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Inside the Codex sandbox"
-    },
-    {
-      "id": "8fc78afc37a015e232a9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "إدارة مخاطر الذكاء الاصطناعي المتطور: من التدريب إلى النشر",
-      "titleOriginal": "Managing frontier AI risk: From training to deployment",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشرح OpenAI كيف تدير مخاطر الذكاء الاصط구나عي المتطور من التدريب إلى النشر من خلال مواءمة النموذج، وبيئة الاختبار المعزولة، وإجراءات الحماية من الحظر، والرصد.",
-      "summaryOriginal": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/managing-frontier-ai-risk",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Managing frontier AI risk: From training to deployment"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T19:27:25.241923+00:00"
+  "lastFastCheckAt": "2026-11-20T19:32:19.802747+00:00"
 }
