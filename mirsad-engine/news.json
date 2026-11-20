@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T13:37:07.053476+00:00",
-  "checkedAt": "2026-11-20T13:37:07.053476+00:00",
+  "updatedAt": "2026-11-20T13:42:10.431367+00:00",
+  "checkedAt": "2026-11-20T13:42:10.431367+00:00",
   "newestPublishedAt": "2026-11-20T00:34:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -133,6 +133,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Use Kimi Code CLI with models on Amazon Bedrock"
+    },
+    {
+      "id": "8931ab124b04ddca1e26",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم لكم محولات حزام الأمان: قوموا بتكييف طرازكم المفضل مع حزام الأمان الخاص بكم لتحسين الأداء والتكلفة",
+      "titleOriginal": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T00:00:00+00:00"
     },
     {
       "id": "cc98692eaee08198c8d2",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic prices initial public offering"
-    },
-    {
-      "id": "f2839f13e162ceb9adb2",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "بحث",
-      "title": "يان باك يفتتح أسبوع NVIDIA في SC26 مع دخول العلم عصر العوامل",
-      "titleOriginal": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
-      "dateLabel": "17 نوفمبر 2026",
-      "dateISO": "2026-11-17",
-      "category": "research",
-      "importance": 86,
-      "summary": "افتتح إيان باك من NVIDIA أسبوع الشركة في SC26 في شيكاغو يوم الاثنين بأدوات جديدة لوكلاء الذكاء الاصطناعي، وبرامج يمكنها تخطيط التجارب وتشغيل التعليمات البرمجية والتحقق من النتائج",
-      "summaryOriginal": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T08:33:57.219901+00:00",
-  "lastFastCheckAt": "2026-11-20T13:37:07.053476+00:00"
+  "lastFastCheckAt": "2026-11-20T13:42:10.431367+00:00"
 }
