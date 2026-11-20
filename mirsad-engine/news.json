@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T20:17:51.729531+00:00",
-  "checkedAt": "2026-11-20T20:17:51.729531+00:00",
-  "newestPublishedAt": "2026-11-20T19:28:56+00:00",
+  "updatedAt": "2026-11-20T20:23:06.918304+00:00",
+  "checkedAt": "2026-11-20T20:23:06.918304+00:00",
+  "newestPublishedAt": "2026-11-20T20:22:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "e1b42ce11e69c887ea25",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "الإعلان عن Amazon Textract Insights: الذكاء الاصطناعي التوليدي القابل للتحقق للمستندات",
+      "titleOriginal": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "نعلن عن الإتاحة العامة لخدمة Amazon Textract Insights، وهي ميزة جديدة للذكاء الاصطناعي التوليدي في Amazon Textract. صف الحقول التي تحتاجها بلغة طبيعية، وأرسلها",
+      "summaryOriginal": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T20:22:00+00:00"
+    },
     {
       "id": "8f00b8c387fcfad638dc",
       "company": "Amazon",
@@ -622,6 +648,32 @@
       "searchAliases": "OpenAI Get started with Daybreak Blue"
     },
     {
+      "id": "890052863649be5330ab",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "كيف ساعد قادة شركة سوميتومو لايف الفرق على اعتماد ChatGPT Enterprise",
+      "titleOriginal": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم سوميتومو لايف ChatGPT Enterprise للبحث عن شركات التأمين وإعداد العروض ووضع مسودة التعليمات البرمجية لتحليل الاستثمار. ساعد الاستخدام المبكر من قبل المديرين التنفيذيين على دفع عملية الاعتماد.",
+      "summaryOriginal": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/sumitomo-life",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T08:00:00+00:00"
+    },
+    {
       "id": "17685818fe6ec2203a12",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -704,51 +756,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now"
-    },
-    {
-      "id": "33a0201d2afbe010aa34",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "الإجماع الصامت",
-      "titleOriginal": "The Silent Consensus",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يدرس دين بول، رئيس قسم المستقبل الاستراتيجي في OpenAI، كيف يمكن للذكاء الاصطناعي الأكثر قدرة أن يعيد تشكيل المجتمع وكيف يمكن للناس الاحتفاظ بالسيطرة على مؤسساتهم.",
-      "summaryOriginal": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/the-silent-consensus",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Silent Consensus"
-    },
-    {
-      "id": "6092f8be8f0b5c4be5f6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تسريع البحث: الحدود المتعرجة",
-      "titleOriginal": "Research acceleration: The jagged frontier",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقيس OpenAI كيف تعمل وكالات البرمجة على تسريع أبحاث الذكاء الاصطناعي، وأين يظل أداؤها غير متكافئ، وما الذي يشير إليه هذا فيما يتعلق بالتحسين الذاتي التكراري.",
-      "summaryOriginal": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Research acceleration: The jagged frontier"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T17:18:47.628403+00:00",
-  "lastFastCheckAt": "2026-11-20T20:17:51.729531+00:00"
+  "lastFastCheckAt": "2026-11-20T20:23:06.918304+00:00"
 }
