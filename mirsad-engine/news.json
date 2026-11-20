@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-20T00:33:03.390351+00:00",
-  "checkedAt": "2026-11-20T00:33:03.390351+00:00",
-  "newestPublishedAt": "2026-11-19T23:02:16+00:00",
+  "updatedAt": "2026-11-20T00:38:07.662851+00:00",
+  "checkedAt": "2026-11-20T00:38:07.662851+00:00",
+  "newestPublishedAt": "2026-11-20T00:34:07+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,58 @@
     }
   ],
   "items": [
+    {
+      "id": "3376cada5cc63f575665",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استنتاج Amazon SageMaker: مراجعة عمليات الإطلاق لعام 2026، الجزء 2",
+      "titleOriginal": "Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستعرض هذه الدفعة الثانية 13 إطلاقًا آخر لاستنتاج الذكاء الاصطناعي من Amazon SageMaker من عام 2026، والتي تشمل توصيات التكوين، وملاءمة المزيد من النماذج على كل وحدة معالجة رسومات، وتقديم",
+      "summaryOriginal": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Amazon SageMaker Inference: 2026 launches in review, part 2",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T00:34:07+00:00"
+    },
+    {
+      "id": "9f9506e080c5c45412f8",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "استخدام واجهة سطر الأوامر لـ Kimi Code مع النماذج على Amazon Bedrock",
+      "titleOriginal": "Use Kimi Code CLI with models on Amazon Bedrock",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "models",
+      "importance": 92,
+      "summary": "يضيف Kimi Code CLI الإصدار 2.7.0 مزودًا أصليًا من Amazon Bedrock، بحيث يمكنك ربط وكيل البرمجة مفتوح المصدر بنماذج مثل Kimi K3.1 Pro باستخدام بيانات اعتماد AWS القياسية الخاصة بك",
+      "summaryOriginal": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Use Kimi Code CLI with models on Amazon Bedrock",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-20T00:33:30+00:00"
+    },
     {
       "id": "5ee0131510944c24e86a",
       "company": "Amazon",
@@ -779,61 +831,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T08:00:00+00:00"
-    },
-    {
-      "id": "6092f8be8f0b5c4be5f6",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "بحث",
-      "title": "تسريع البحث: الحدود المتعرجة",
-      "titleOriginal": "Research acceleration: The jagged frontier",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "research",
-      "importance": 86,
-      "summary": "تقيس OpenAI كيف تعمل وكالات البرمجة على تسريع أبحاث الذكاء الاصطناعي، وأين يظل أداؤها غير متكافئ، وما الذي يشير إليه هذا فيما يتعلق بالتحسين الذاتي التكراري.",
-      "summaryOriginal": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Research acceleration: The jagged frontier",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T08:00:00+00:00"
-    },
-    {
-      "id": "8fc78afc37a015e232a9",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "إدارة مخاطر الذكاء الاصطناعي المتطور: من التدريب إلى النشر",
-      "titleOriginal": "Managing frontier AI risk: From training to deployment",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تشرح OpenAI كيف تدير مخاطر الذكاء الاصطناعي المتطور من التدريب إلى النشر من خلال مواءمة النماذج، وبيئة الحماية المعزولة، وإجراءات الحماية من الحظر، والرصد.",
-      "summaryOriginal": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/managing-frontier-ai-risk",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI Managing frontier AI risk: From training to deployment",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T06:00:00+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-19T18:40:52.669671+00:00",
-  "lastFastCheckAt": "2026-11-20T00:33:03.390351+00:00"
+  "lastFastCheckAt": "2026-11-20T00:38:07.662851+00:00"
 }
