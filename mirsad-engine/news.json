@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-21T01:22:39.533437+00:00",
-  "checkedAt": "2026-11-21T01:22:39.533437+00:00",
+  "updatedAt": "2026-11-21T01:27:39.970144+00:00",
+  "checkedAt": "2026-11-21T01:27:39.970144+00:00",
   "newestPublishedAt": "2026-11-21T01:06:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -628,6 +628,32 @@
       "searchAliases": "OpenAI Deploying Daybreak Red"
     },
     {
+      "id": "e40a589bdf7906e9413f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "إطلاق أو تحديث",
+      "title": "نماذج السلاسل الزمنية في Streamhouse: مجال جديد وحالات استخدام",
+      "titleOriginal": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "models",
+      "importance": 92,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T15:00:23+00:00"
+    },
+    {
       "id": "bd86d00388aef4f8b0e8",
       "company": "NVIDIA",
       "logoText": "NV",
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
-    },
-    {
-      "id": "a267c323a225938925dd",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "لماذا تستغرق مهمة الضبط الدقيق وقتًا أطول مما تشير إليه عمليات FLOPs",
-      "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T23:21:52.568247+00:00",
-  "lastFastCheckAt": "2026-11-21T01:22:39.533437+00:00"
+  "lastFastCheckAt": "2026-11-21T01:27:39.970144+00:00"
 }
