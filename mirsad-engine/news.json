@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-21T00:11:33.399413+00:00",
-  "checkedAt": "2026-11-21T00:11:33.399413+00:00",
-  "newestPublishedAt": "2026-11-20T23:07:03+00:00",
+  "updatedAt": "2026-11-21T00:16:34.620543+00:00",
+  "checkedAt": "2026-11-21T00:16:34.620543+00:00",
+  "newestPublishedAt": "2026-11-21T00:14:26+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "19cab5f31d3ed2f6032e",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "مستجد تقني",
+      "title": "قلل تكلفة النموذج اللغوي الكبير (LLM) المستضاف ذاتيًا وزمن الاستجابة باستخدام مهارة وكيل التخزين المؤقت للقيم والمفاتيح (KV) الموزع",
+      "titleOriginal": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "dateLabel": "21 نوفمبر 2026",
+      "dateISO": "2026-11-21",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع المال لإعادة حساب السياق نفسه في كل دور. يمكن للتخزين المؤقت الموزع للمفاتيح والقيم (KV) باستخدام Amazon ElastiCache أن يقلل من تكلفة الاستدلال بنسبة تصل إلى 40% و",
+      "summaryOriginal": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-21T00:14:26+00:00"
+    },
     {
       "id": "85f97504983d365d502e",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
-    },
-    {
-      "id": "d5f10bbd6a8d0734dbf8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "180B معلمات، 32 غيغابايت من ذاكرة الوصول العشوائي (RAM): دفع استنتاج MoE إلى أقصى حد باستخدام المحولات",
-      "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/moe-expert-streaming",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T23:21:52.568247+00:00",
-  "lastFastCheckAt": "2026-11-21T00:11:33.399413+00:00"
+  "lastFastCheckAt": "2026-11-21T00:16:34.620543+00:00"
 }
