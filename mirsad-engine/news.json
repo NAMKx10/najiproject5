@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-21T01:02:20.337877+00:00",
-  "checkedAt": "2026-11-21T01:02:20.337877+00:00",
-  "newestPublishedAt": "2026-11-21T00:14:26+00:00",
+  "updatedAt": "2026-11-21T01:07:16.549115+00:00",
+  "checkedAt": "2026-11-21T01:07:16.549115+00:00",
+  "newestPublishedAt": "2026-11-21T01:06:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "50e76134cf8993dff8f7",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "أعمال وشراكات",
+      "title": "الجديد في AWS Quick: تدفقات أكثر قدرة، وتجربة ويب محدثة، ووُكلاء يعملون معًا",
+      "titleOriginal": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "dateLabel": "21 نوفمبر 2026",
+      "dateISO": "2026-11-21",
+      "category": "business",
+      "importance": 82,
+      "summary": "AWS Quick هي مساحة عمل الذكاء الاصطناعي المصممة للعمل فقط. نُصدر اليوم تحديثات تساعد فريقك على إنجاز المزيد: إنشاء وتشغيل تدفقات العمليات التجارية في الدردشة، وتصنيفها",
+      "summaryOriginal": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-21T01:06:42+00:00"
+    },
     {
       "id": "19cab5f31d3ed2f6032e",
       "company": "Amazon",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Silent Consensus"
-    },
-    {
-      "id": "890052863649be5330ab",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف ساعد قادة شركة سوميتومو لايف الفرق على اعتماد ChatGPT Enterprise",
-      "titleOriginal": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تستخدم سوميتومو لايف ChatGPT Enterprise للبحث عن شركات التأمين وإعداد العروض وصياغة التعليمات البرمجية لتحليل الاستثمار. ساعد الاستخدام المبكر من قبل المديرين التنفيذيين على دفع عملية الاعتماد.",
-      "summaryOriginal": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/business/customer-stories/sumitomo-life",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-20T23:21:52.568247+00:00",
-  "lastFastCheckAt": "2026-11-21T01:02:20.337877+00:00"
+  "lastFastCheckAt": "2026-11-21T01:07:16.549115+00:00"
 }
