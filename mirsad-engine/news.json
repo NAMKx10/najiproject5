@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-22T00:19:20.537101+00:00",
-  "checkedAt": "2026-11-22T00:19:20.537101+00:00",
+  "updatedAt": "2026-11-22T00:20:49.490618+00:00",
+  "checkedAt": "2026-11-22T00:20:49.490618+00:00",
   "newestPublishedAt": "2026-11-21T01:06:42+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -124,7 +124,7 @@
       "dateISO": "2026-11-21",
       "category": "tools",
       "importance": 78,
-      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع المال لإعادة حساب السياق نفسه في كل دور. يمكن للتخزين المؤقت الموزع للمفاتيح والقيم (KV) باستخدام Amazon ElastiCache أن يقلل من تكلفة الاستدلال بنسبة تصل إلى 40% و",
+      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع مقابل إعادة حساب السياق نفسه في كل دور. يمكن للتخزين المؤقت الموزع للمفاتيح والقيم (KV) باستخدام Amazon ElastiCache أن يقلل من تكلفة الاستدلال بنسبة تصل إلى 40% و",
       "summaryOriginal": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
@@ -166,7 +166,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مُدارة توجه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
+      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مُدارة واحدة تقوم بتوجيه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
       "summaryOriginal": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
@@ -187,7 +187,7 @@
       "dateISO": "2026-11-20",
       "category": "tools",
       "importance": 78,
-      "summary": "قامت مجموعة ستاندرد بنك بأتمتة الأدلة التي تقف وراء بوابات الموافقة على الذكاء الاصطناعي التوليدي. بالتعاون مع الخدمات الاحترافية من AWS، أنشأ البنك تقييمًا في حساب AWS الخاص به",
+      "summary": "قامت مجموعة ستاندرد بنك بأتمتة الأدلة التي تستند إليها بوابات الموافقة على الذكاء الاصطناعي التوليدي. بالتعاون مع الخدمات الاحترافية من AWS، أنشأ البنك تقييمًا في حساب AWS الخاص به",
       "summaryOriginal": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
@@ -229,7 +229,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتك في تشخيص مشكلات تدريب وحدة معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتنميط من أجل",
+      "summary": "توفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتك في تشخيص مشكلات تدريب وحدات معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتحليل من أجل",
       "summaryOriginal": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
@@ -649,7 +649,7 @@
       "dateISO": "2026-11-18",
       "category": "models",
       "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على",
+      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على جهاز مخصص",
       "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
@@ -724,6 +724,5 @@
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-21T20:06:38.983289+00:00",
-  "lastFastCheckAt": "2026-11-22T00:19:20.537101+00:00"
+  "lastDeepCheckAt": "2026-11-22T00:20:49.490618+00:00"
 }
