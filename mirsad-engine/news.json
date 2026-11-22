@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-22T17:47:53.759815+00:00",
-  "checkedAt": "2026-11-22T17:47:53.759815+00:00",
+  "updatedAt": "2026-11-22T17:52:56.527970+00:00",
+  "checkedAt": "2026-11-22T17:52:56.527970+00:00",
   "newestPublishedAt": "2026-11-22T01:59:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Amazon Meta ads is now available in AWS Quick"
+    },
+    {
+      "id": "eab0ff871b65d3e96dd0",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "الغموض والذكاء",
+      "titleOriginal": "Perplexity and Intelligence",
+      "dateLabel": "22 نوفمبر 2026",
+      "dateISO": "2026-11-22",
+      "category": "models",
+      "importance": 92,
+      "summary": "كيف تقيس الحيرة التقدم في نماذج الذكاء الاصطناعي، ولماذا قد تساعد المطورين على وضع نهج مشترك لتقييم القدرات الناشئة.",
+      "summaryOriginal": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/perplexity-and-intelligence",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Perplexity and Intelligence",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-22T00:00:00+00:00"
     },
     {
       "id": "594463a5ad0f86cee82a",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
-    },
-    {
-      "id": "d5f10bbd6a8d0734dbf8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "180 مليار معلمة، 32 غيغابايت من ذاكرة الوصول العشوائي (RAM): دفع استنتاج نموذج الخبراء المتعدد (MoE) إلى أقصى حد باستخدام المحولات",
-      "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/moe-expert-streaming",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-22T15:42:09.820664+00:00",
-  "lastFastCheckAt": "2026-11-22T17:47:53.759815+00:00"
+  "lastFastCheckAt": "2026-11-22T17:52:56.527970+00:00"
 }
