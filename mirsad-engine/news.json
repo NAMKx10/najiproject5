@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T17:17:30.578289+00:00",
-  "checkedAt": "2026-11-23T17:17:30.578289+00:00",
-  "newestPublishedAt": "2026-11-23T00:00:00+00:00",
+  "updatedAt": "2026-11-23T17:22:30.349198+00:00",
+  "checkedAt": "2026-11-23T17:22:30.349198+00:00",
+  "newestPublishedAt": "2026-11-23T17:20:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "5eb077d6e567ce503b2f",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "RoboTrack: تتبع النقاط للتحكم الآلي في العالم الحقيقي",
+      "titleOriginal": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "dateLabel": "23 نوفمبر 2026",
+      "dateISO": "2026-11-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/robotrack",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face RoboTrack: Point tracking for real-world robotic manipulation",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-23T17:20:37+00:00"
+    },
     {
       "id": "400545bcdedfe7b9b764",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now"
-    },
-    {
-      "id": "33a0201d2afbe010aa34",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "مستجد تقني",
-      "title": "الإجماع الصامت",
-      "titleOriginal": "The Silent Consensus",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "يدرس دين بول، رئيس قسم المستقبل الاستراتيجي في OpenAI، كيف يمكن للذكاء الاصطناعي الأكثر قدرة أن يعيد تشكيل المجتمع وكيف يمكن للناس الاحتفاظ بالسيطرة على مؤسساتهم.",
-      "summaryOriginal": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://openai.com/index/the-silent-consensus",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI The Silent Consensus"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T10:47:52.671591+00:00",
-  "lastFastCheckAt": "2026-11-23T17:17:30.578289+00:00"
+  "lastFastCheckAt": "2026-11-23T17:22:30.349198+00:00"
 }
