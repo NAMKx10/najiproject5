@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T19:34:36.037005+00:00",
-  "checkedAt": "2026-11-23T19:34:36.037005+00:00",
+  "updatedAt": "2026-11-23T19:39:24.064692+00:00",
+  "checkedAt": "2026-11-23T19:39:24.064692+00:00",
   "newestPublishedAt": "2026-11-23T17:20:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -117,6 +117,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-23T17:20:37+00:00"
+    },
+    {
+      "id": "39b098ce704e5d3ab9fd",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "أعمال وشراكات",
+      "title": "الذكاء المتصل للشؤون القانونية الداخلية",
+      "titleOriginal": "Connected intelligence for in-house legal",
+      "dateLabel": "23 نوفمبر 2026",
+      "dateISO": "2026-11-23",
+      "category": "business",
+      "importance": 82,
+      "summary": "شاهد ستايسي وانغ وكريغ بروني من OpenAI، وماري أوكارول من LECG، وريتشارد سيغال من كولي يستكشفون كيف يمكن للذكاء الاصطناعي أن يساعد الفرق القانونية الداخلية على ربط سياق الأعمال،",
+      "summaryOriginal": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "why": "يعكس توسع استخدام الذكاء الاصطناعي في الشركات والخدمات العملية.",
+      "source": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Connected intelligence for in-house legal",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-23T08:00:00+00:00"
     },
     {
       "id": "400545bcdedfe7b9b764",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T15:00:23+00:00"
-    },
-    {
-      "id": "bd86d00388aef4f8b0e8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "أجهزة الكمبيوتر المكتبية المدمجة NVIDIA RTX Spark متوفرة الآن",
-      "titleOriginal": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على جهاز مخصص",
-      "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T14:00:31+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T10:47:52.671591+00:00",
-  "lastFastCheckAt": "2026-11-23T19:34:36.037005+00:00"
+  "lastFastCheckAt": "2026-11-23T19:39:24.064692+00:00"
 }
