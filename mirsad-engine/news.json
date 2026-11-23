@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T17:22:30.349198+00:00",
-  "checkedAt": "2026-11-23T17:22:30.349198+00:00",
+  "updatedAt": "2026-11-23T17:27:32.638103+00:00",
+  "checkedAt": "2026-11-23T17:27:32.638103+00:00",
   "newestPublishedAt": "2026-11-23T17:20:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -649,6 +649,32 @@
       "searchAliases": "OpenAI Explore the Codex Security Plugin"
     },
     {
+      "id": "33a0201d2afbe010aa34",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "مستجد تقني",
+      "title": "الإجماع الصامت",
+      "titleOriginal": "The Silent Consensus",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "يبحث دين بول، رئيس قسم المستقبلات الاستراتيجية في OpenAI، في كيفية قدرة الذكاء الاصطناعي الأكثر كفاءة على إعادة تشكيل المجتمع وكيف يمكن للناس الاحتفاظ بالسيطرة على مؤسساتهم.",
+      "summaryOriginal": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://openai.com/index/the-silent-consensus",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI The Silent Consensus",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T10:00:00+00:00"
+    },
+    {
       "id": "17685818fe6ec2203a12",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
-    },
-    {
-      "id": "87992692d845b1607495",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "أجهزة الكمبيوتر المكتبية المدمجة NVIDIA RTX Spark متوفرة الآن",
-      "titleOriginal": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة ومدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على",
-      "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T10:47:52.671591+00:00",
-  "lastFastCheckAt": "2026-11-23T17:22:30.349198+00:00"
+  "lastFastCheckAt": "2026-11-23T17:27:32.638103+00:00"
 }
