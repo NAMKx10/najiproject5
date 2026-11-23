@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T21:15:50.236951+00:00",
-  "checkedAt": "2026-11-23T21:15:50.236951+00:00",
+  "updatedAt": "2026-11-23T21:21:00.177814+00:00",
+  "checkedAt": "2026-11-23T21:21:00.177814+00:00",
   "newestPublishedAt": "2026-11-23T17:20:37+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -138,6 +138,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI Connected intelligence for in-house legal",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-23T08:00:00+00:00"
+    },
+    {
+      "id": "e46317e06d98fbbea5e7",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تساعد Richpanel الشركات على أتمتة 50% من الدعم في 30 يومًا",
+      "titleOriginal": "Richpanel helps companies automate 50% of support in 30 days",
+      "dateLabel": "23 نوفمبر 2026",
+      "dateISO": "2026-11-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تستخدم Richpanel GPT-6 Astra وGPT-6.1 Sol لتزويد وكلاء الدعم العاملين بالذكاء الاصطناعي بالأدوات والإجراءات، وGPT-6 Luna لمحادثاتهم.",
+      "summaryOriginal": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Richpanel helps companies automate 50% of support in 30 days",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T18:53:43+00:00"
-    },
-    {
-      "id": "e40a589bdf7906e9413f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج السلاسل الزمنية في Streamhouse: مجال جديد وحالات استخدام",
-      "titleOriginal": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T15:00:23+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T10:47:52.671591+00:00",
-  "lastFastCheckAt": "2026-11-23T21:15:50.236951+00:00"
+  "lastFastCheckAt": "2026-11-23T21:21:00.177814+00:00"
 }
