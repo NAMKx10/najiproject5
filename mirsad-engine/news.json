@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T22:52:24.125466+00:00",
-  "checkedAt": "2026-11-23T22:52:24.125466+00:00",
+  "updatedAt": "2026-11-23T22:57:20.957894+00:00",
+  "checkedAt": "2026-11-23T22:57:20.957894+00:00",
   "newestPublishedAt": "2026-11-23T21:20:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -660,6 +660,32 @@
       "searchAliases": "OpenAI Get started with Daybreak Blue"
     },
     {
+      "id": "17685818fe6ec2203a12",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "DaisyRose-27B: توسيع آفاق كفاءة ما بعد التدريب",
+      "titleOriginal": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T19:54:56+00:00"
+    },
+    {
       "id": "a267c323a225938925dd",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T15:00:23+00:00"
-    },
-    {
-      "id": "bd86d00388aef4f8b0e8",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "أجهزة الكمبيوتر المكتبية المدمجة NVIDIA RTX Spark متوفرة الآن",
-      "titleOriginal": "NVIDIA RTX Spark Compact Desktops Out Now",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "تتوفر اليوم أجهزة كمبيوتر مكتبية جديدة مدمجة من NVIDIA RTX Spark من ASUS وDell وMSI، مما يوفر وكلاء الذكاء الاصطناعي المحليين وإنشاء الصور ومقاطع الفيديو وضبط النماذج بدقة على",
-      "summaryOriginal": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA NVIDIA RTX Spark Compact Desktops Out Now",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T14:00:31+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T22:39:38.242765+00:00",
-  "lastFastCheckAt": "2026-11-23T22:52:24.125466+00:00"
+  "lastFastCheckAt": "2026-11-23T22:57:20.957894+00:00"
 }
