@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T22:16:40.151194+00:00",
-  "checkedAt": "2026-11-23T22:16:40.151194+00:00",
-  "newestPublishedAt": "2026-11-23T17:20:37+00:00",
+  "updatedAt": "2026-11-23T22:21:50.719228+00:00",
+  "checkedAt": "2026-11-23T22:21:50.719228+00:00",
+  "newestPublishedAt": "2026-11-23T21:20:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "abf95077897dd087cad1",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تقدم OpenAI وCisco منصة Shirudo",
+      "titleOriginal": "OpenAI and Cisco introduce Shirudo",
+      "dateLabel": "23 نوفمبر 2026",
+      "dateISO": "2026-11-23",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم OpenAI وسيسكو Shirudo، وهي بيئة تشغيل مفتوحة المصدر لنظام التشغيل Linux. وهو يساعد الفرق على حماية الأنظمة العاملة أثناء طرح التصحيحات.",
+      "summaryOriginal": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/introducing-shirudo",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI OpenAI and Cisco introduce Shirudo",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-23T21:20:00+00:00"
+    },
     {
       "id": "5eb077d6e567ce503b2f",
       "company": "Hugging Face",
@@ -725,35 +751,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T19:54:56+00:00"
-    },
-    {
-      "id": "a267c323a225938925dd",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "لماذا تستغرق مهمة الضبط الدقيق وقتًا أطول مما تشير إليه معدلات FLOPs",
-      "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T18:53:43+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T10:47:52.671591+00:00",
-  "lastFastCheckAt": "2026-11-23T22:16:40.151194+00:00"
+  "lastFastCheckAt": "2026-11-23T22:21:50.719228+00:00"
 }
