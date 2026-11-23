@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-23T13:58:38.849393+00:00",
-  "checkedAt": "2026-11-23T13:58:38.849393+00:00",
-  "newestPublishedAt": "2026-11-22T01:59:13+00:00",
+  "updatedAt": "2026-11-23T14:03:41.215926+00:00",
+  "checkedAt": "2026-11-23T14:03:41.215926+00:00",
+  "newestPublishedAt": "2026-11-23T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "400545bcdedfe7b9b764",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "كيفية بناء تقييم فعال والحفاظ عليه",
+      "titleOriginal": "How to build and maintain an agentic evaluation",
+      "dateLabel": "23 نوفمبر 2026",
+      "dateISO": "2026-11-23",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/agentic-evals",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face How to build and maintain an agentic evaluation",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-23T00:00:00+00:00"
+    },
     {
       "id": "ea339376f13db4d000aa",
       "company": "Amazon",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI The Silent Consensus"
-    },
-    {
-      "id": "d5f10bbd6a8d0734dbf8",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "180B معلمات، 32 غيغابايت من ذاكرة الوصول العشوائي (RAM): دفع استدلال MoE إلى أقصى حد باستخدام المحولات",
-      "titleOriginal": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/moe-expert-streaming",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T10:47:52.671591+00:00",
-  "lastFastCheckAt": "2026-11-23T13:58:38.849393+00:00"
+  "lastFastCheckAt": "2026-11-23T14:03:41.215926+00:00"
 }
