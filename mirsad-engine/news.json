@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-24T04:57:42.092060+00:00",
-  "checkedAt": "2026-11-24T04:57:42.092060+00:00",
-  "newestPublishedAt": "2026-11-23T21:20:00+00:00",
+  "updatedAt": "2026-11-24T05:02:35.325730+00:00",
+  "checkedAt": "2026-11-24T05:02:35.325730+00:00",
+  "newestPublishedAt": "2026-11-24T05:01:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "8e56cc80d8375e12edf0",
+      "company": "Amazon",
+      "logoText": "AWS",
+      "type": "إطلاق أو تحديث",
+      "title": "نقدم واجهة برمجة التطبيقات (API) للوصول الموثوق به من Amazon Bedrock مع ضمانات Enterprise Frontier من Anthropic وضوابط بيانات المؤسسات",
+      "titleOriginal": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "dateLabel": "24 نوفمبر 2026",
+      "dateISO": "2026-11-24",
+      "category": "models",
+      "importance": 92,
+      "summary": "تقدم Amazon Bedrock الآن واجهة برمجة تطبيقات لبرنامج الوصول الموثوق: مكان واحد لاكتشاف برامج مزودي النماذج وطلبها والتسجيل فيها. العرضان الأولان، في المعاينة العامة،",
+      "summaryOriginal": "Amazon Bedrock now offers a trusted access program API: one place to discover, request, and enroll in model provider programs. The first two offerings, in public preview, are Anthropic's Enterprise Frontier Safeguards (EFS) and Enterprise Data Controls (EDC), which give you control over your data when you use Claude Fable models.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls",
+      "sourceLabel": "AWS Machine Learning Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Amazon Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-24T05:01:14+00:00"
+    },
     {
       "id": "abf95077897dd087cad1",
       "company": "OpenAI",
@@ -710,35 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T18:53:43+00:00"
-    },
-    {
-      "id": "e40a589bdf7906e9413f",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "إطلاق أو تحديث",
-      "title": "نماذج السلاسل الزمنية في Streamhouse: مجال جديد وحالات استخدام",
-      "titleOriginal": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "models",
-      "importance": 92,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T15:00:23+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-23T22:39:38.242765+00:00",
-  "lastFastCheckAt": "2026-11-24T04:57:42.092060+00:00"
+  "lastFastCheckAt": "2026-11-24T05:02:35.325730+00:00"
 }
