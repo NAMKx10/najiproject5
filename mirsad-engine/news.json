@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-24T21:20:09.561660+00:00",
-  "checkedAt": "2026-11-24T21:20:09.561660+00:00",
+  "updatedAt": "2026-11-24T21:25:12.483873+00:00",
+  "checkedAt": "2026-11-24T21:25:12.483873+00:00",
   "newestPublishedAt": "2026-11-24T16:34:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "4e91a435392b0917c268",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تُظهر نماذج GPT-6 قدرات تصميم البروتين الجوهرية",
+      "titleOriginal": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "dateLabel": "24 نوفمبر 2026",
+      "dateISO": "2026-11-24",
+      "category": "models",
+      "importance": 92,
+      "summary": "تصمم نماذج GPT-6 هياكل البروتين وتسلسلاته باستخدام المنطق والترميز. وجدت الاختبارات المعملية أدلة على الارتباط عبر خمسة أهداف.",
+      "summaryOriginal": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-24T13:00:00+00:00"
+    },
     {
       "id": "e4e8d96b8d6f7c20acd0",
       "company": "OpenAI",
@@ -720,30 +746,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "f86b76b3c863b8b763e0",
-      "company": "OpenAI",
-      "logoText": "AI",
-      "type": "إطلاق أو تحديث",
-      "title": "كيف يحافظ مصنع الأداء التابع لشركة OpenAI على سرعة ChatGPT",
-      "titleOriginal": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "تعرّف على كيفية إنشاء OpenAI لـ Performance Factory، وهو نظام من سير العمل المدعومة بتقنية Codex التي تعثر على مشكلات الأداء وتصلحها للمساعدة في الحفاظ على سرعة ChatGPT.",
-      "summaryOriginal": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "sourceLabel": "OpenAI",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "OpenAI How OpenAI’s Performance Factory keeps ChatGPT fast"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-24T18:21:18.849646+00:00",
-  "lastFastCheckAt": "2026-11-24T21:20:09.561660+00:00"
+  "lastFastCheckAt": "2026-11-24T21:25:12.483873+00:00"
 }
