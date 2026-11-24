@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-24T23:01:27.892257+00:00",
-  "checkedAt": "2026-11-24T23:01:27.892257+00:00",
+  "updatedAt": "2026-11-24T23:06:42.019756+00:00",
+  "checkedAt": "2026-11-24T23:06:42.019756+00:00",
   "newestPublishedAt": "2026-11-24T16:34:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -258,6 +258,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "OpenAI How iFood scales coding agents across 15,000 repositories",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "d5d195b160a8ea552731",
+      "company": "OpenAI",
+      "logoText": "AI",
+      "type": "إطلاق أو تحديث",
+      "title": "تساعد Clay فرق المبيعات على تحقيق النجاح باستخدام Codex وChatGPT",
+      "titleOriginal": "Clay helps sales teams win with Codex and ChatGPT",
+      "dateLabel": "24 نوفمبر 2026",
+      "dateISO": "2026-11-24",
+      "category": "models",
+      "importance": 92,
+      "summary": "تساعد عمليات تكامل ChatGPT وCodex مستخدمي Clay على البحث عن الصفقات وتحويل البيانات إلى استراتيجيات دخول السوق، مع تعامل نماذج GPT-6 مع الاستدلال.",
+      "summaryOriginal": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
+      "source": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "sourceLabel": "OpenAI",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "OpenAI Clay helps sales teams win with Codex and ChatGPT",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
@@ -725,30 +751,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement"
-    },
-    {
-      "id": "17ff82eab5b698cdfceb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "إلى الأومنيفيرس: كيف يحول المطورون الأفكار إلى محاكاة باستخدام وكلاء الذكاء الاصطناعي المتقدمين",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعني تحويل فكرة المحاكاة إلى تطبيق عملي تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-24T18:21:18.849646+00:00",
-  "lastFastCheckAt": "2026-11-24T23:01:27.892257+00:00"
+  "lastFastCheckAt": "2026-11-24T23:06:42.019756+00:00"
 }
