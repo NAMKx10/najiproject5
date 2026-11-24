@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-24T06:33:58.968795+00:00",
-  "checkedAt": "2026-11-24T06:33:58.968795+00:00",
+  "updatedAt": "2026-11-24T06:38:53.388073+00:00",
+  "checkedAt": "2026-11-24T06:38:53.388073+00:00",
   "newestPublishedAt": "2026-11-24T05:01:14+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -660,6 +660,32 @@
       "searchAliases": "OpenAI Get started with Daybreak Blue"
     },
     {
+      "id": "a267c323a225938925dd",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "لماذا تستغرق مهمة الضبط الدقيق وقتًا أطول مما تشير إليه عمليات FLOPs",
+      "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
+      "dateLabel": "18 نوفمبر 2026",
+      "dateISO": "2026-11-18",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-18T18:53:43+00:00"
+    },
+    {
       "id": "e40a589bdf7906e9413f",
       "company": "Hugging Face",
       "logoText": "HF",
@@ -710,30 +736,9 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-18T14:00:31+00:00"
-    },
-    {
-      "id": "17685818fe6ec2203a12",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "DaisyRose-27B: توسيع آفاق كفاءة ما بعد التدريب",
-      "titleOriginal": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-24T06:26:19.160923+00:00",
-  "lastFastCheckAt": "2026-11-24T06:33:58.968795+00:00"
+  "lastFastCheckAt": "2026-11-24T06:38:53.388073+00:00"
 }
