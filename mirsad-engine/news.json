@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-24T18:20:43.418972+00:00",
-  "checkedAt": "2026-11-24T18:20:43.418972+00:00",
+  "updatedAt": "2026-11-24T18:21:18.849646+00:00",
+  "checkedAt": "2026-11-24T18:21:18.849646+00:00",
   "newestPublishedAt": "2026-11-24T16:34:13+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-24T16:34:13+00:00"
+      "searchAliases": "Hugging Face Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton"
     },
     {
       "id": "e98d7ebb537630456f88",
@@ -255,7 +250,7 @@
       "dateISO": "2026-11-22",
       "category": "tools",
       "importance": 78,
-      "summary": "يحتوي AWS Quick الآن على موصل ذكاء اصطناعي لإعلانات Meta. يمكن لمعلني Meta استخدام اللغة الطبيعية في Quick لإنشاء الحملات وإدارتها وتحليلها مع البقاء على اتصال بـ Meta",
+      "summary": "يحتوي AWS Quick الآن على موصل ذكاء اصطناعي لإعلانات Meta. يمكن للمعلنين على منصة ميتا استخدام اللغة الطبيعية في Quick لإنشاء الحملات وإدارتها وتحليلها مع البقاء على اتصال بمنصة ميتا",
       "summaryOriginal": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
@@ -318,7 +313,7 @@
       "dateISO": "2026-11-21",
       "category": "tools",
       "importance": 78,
-      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع مقابل إعادة حساب السياق نفسه في كل دور. يمكن للتخزين المؤقت الموزع لمفاتيح القيم (KV) باستخدام Amazon ElastiCache أن يقلل من تكلفة الاستدلال بنسبة تصل إلى 40% و",
+      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع مقابل إعادة حساب السياق نفسه في كل دور. يمكن للتخزين المؤقت الموزع للمفاتيح والقيم (KV) باستخدام Amazon ElastiCache أن يقلل من تكلفة الاستدلال بنسبة تصل إلى 40% و",
       "summaryOriginal": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
@@ -339,7 +334,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "توفر Amazon SageMaker HyperPod الآن امتدادات مجموعات مدارة للرصد وإدارة المستخدمين، مما يوفر تكوينًا إعلانيًا يعتمد على واجهة برمجة التطبيقات ووحدة التحكم إلى",
+      "summary": "توفر Amazon SageMaker HyperPod الآن إضافات مجموعات مدارة للقدرة على الملاحظة وإدارة المستخدمين، مما يوفر تكوينًا إعلاميًا يعتمد على واجهة برمجة التطبيقات ووحدة التحكم إلى",
       "summaryOriginal": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
@@ -360,7 +355,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مُدارة واحدة تقوم بتوجيه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
+      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مدارة واحدة توجه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
       "summaryOriginal": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
@@ -381,7 +376,7 @@
       "dateISO": "2026-11-20",
       "category": "tools",
       "importance": 78,
-      "summary": "قامت مجموعة ستاندرد بنك بأتمتة الأدلة التي تستند إليها بوابات الموافقة على الذكاء الاصطناعي التوليدي. بالتعاون مع الخدمات الاحترافية من AWS، أنشأ البنك تقييمًا في حسابه الخاص على AWS",
+      "summary": "قامت مجموعة ستاندرد بنك بأتمتة الأدلة التي تقف وراء بوابات الموافقة على الذكاء الاصطناعي التوليدي. بالتعاون مع الخدمات الاحترافية من AWS، أنشأ البنك تقييمًا في حسابه الخاص على AWS",
       "summaryOriginal": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
@@ -423,7 +418,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتكم على تشخيص مشكلات تدريب وحدات معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص وتحديد الخصائص من أجل",
+      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتكم على تشخيص مشكلات تدريب وحدات معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتحليل من أجل",
       "summaryOriginal": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
@@ -591,7 +586,7 @@
       "dateISO": "2026-11-20",
       "category": "tools",
       "importance": 78,
-      "summary": "أعلنت شركة Anthropic، PBC اليوم عن إغلاق طرحها العام الأولي لما مجموعه 1,127,000,000 سهم من أسهمها العادية من الفئة أ بسعر طرح عام قدره",
+      "summary": "أعلنت شركة أنثروبيك، بي بي سي اليوم عن إغلاق طرحها العام الأولي لما مجموعه 1,127,000,000 سهم من أسهمها العادية من الفئة أ بسعر طرح عام قدره",
       "summaryOriginal": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://www.anthropic.com/news/ipo-close",
@@ -704,12 +699,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T19:54:56+00:00"
+      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
     },
     {
       "id": "a267c323a225938925dd",
@@ -730,15 +720,9 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T18:53:43+00:00"
+      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-24T06:26:19.160923+00:00",
-  "lastFastCheckAt": "2026-11-24T18:20:43.418972+00:00"
+  "lastDeepCheckAt": "2026-11-24T18:21:18.849646+00:00"
 }
