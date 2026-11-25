@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-25T18:47:54.141189+00:00",
-  "checkedAt": "2026-11-25T18:47:54.141189+00:00",
-  "newestPublishedAt": "2026-11-25T10:22:09+00:00",
+  "updatedAt": "2026-11-25T18:52:58.549588+00:00",
+  "checkedAt": "2026-11-25T18:52:58.549588+00:00",
+  "newestPublishedAt": "2026-11-25T18:52:55+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "daf13e6e4a5b36e4533b",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "أين يضع العلماء الخط الفاصل لوكلاء الذكاء الاصطناعي",
+      "titleOriginal": "Where scientists draw the line on AI agents",
+      "dateLabel": "25 نوفمبر 2026",
+      "dateISO": "2026-11-25",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Where scientists draw the line on AI agents",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-25T18:52:55+00:00"
+    },
     {
       "id": "b95c4fcb790677441355",
       "company": "Hugging Face",
@@ -705,30 +731,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement"
-    },
-    {
-      "id": "17ff82eab5b698cdfceb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "إلى الأومنيفيرس: كيف يحول المطورون الأفكار إلى محاكاة باستخدام وكلاء الذكاء الاصطناعي المتطورين",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعني تحويل فكرة المحاكاة إلى تطبيق عملي تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف كما هو مخطط له. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-25T12:57:46.597443+00:00",
-  "lastFastCheckAt": "2026-11-25T18:47:54.141189+00:00"
+  "lastFastCheckAt": "2026-11-25T18:52:58.549588+00:00"
 }
