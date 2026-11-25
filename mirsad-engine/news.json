@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-25T17:06:27.305852+00:00",
-  "checkedAt": "2026-11-25T17:06:27.305852+00:00",
+  "updatedAt": "2026-11-25T17:11:30.410626+00:00",
+  "checkedAt": "2026-11-25T17:11:30.410626+00:00",
   "newestPublishedAt": "2026-11-25T10:22:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -112,6 +112,32 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face An Indic Voice Agent with CUGA"
+    },
+    {
+      "id": "6616aa59349e00cea00c",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "استدلال Hill-climbing Inkling 2 Mini على بطاقة RTX PRO 6000 واحدة",
+      "titleOriginal": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "dateLabel": "25 نوفمبر 2026",
+      "dateISO": "2026-11-25",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-25T00:00:00+00:00"
     },
     {
       "id": "d6726e2977659ed02ec9",
@@ -700,35 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
-    },
-    {
-      "id": "17685818fe6ec2203a12",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "DaisyRose-27B: دفع حدود كفاءة ما بعد التدريب",
-      "titleOriginal": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "dateLabel": "18 نوفمبر 2026",
-      "dateISO": "2026-11-18",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-18T19:54:56+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-25T12:57:46.597443+00:00",
-  "lastFastCheckAt": "2026-11-25T17:06:27.305852+00:00"
+  "lastFastCheckAt": "2026-11-25T17:11:30.410626+00:00"
 }
