@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-25T13:02:39.051943+00:00",
-  "checkedAt": "2026-11-25T13:02:39.051943+00:00",
+  "updatedAt": "2026-11-25T13:07:17.796123+00:00",
+  "checkedAt": "2026-11-25T13:07:17.796123+00:00",
   "newestPublishedAt": "2026-11-25T10:22:09+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -702,12 +702,12 @@
       "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     },
     {
-      "id": "a267c323a225938925dd",
+      "id": "17685818fe6ec2203a12",
       "company": "Hugging Face",
       "logoText": "HF",
       "type": "مستجد تقني",
-      "title": "لماذا تستغرق مهمة الضبط الدقيق وقتًا أطول مما تشير إليه معدلات FLOPs",
-      "titleOriginal": "Why your fine-tuning job takes longer than the FLOPs say",
+      "title": "DaisyRose-27B: دفع حدود كفاءة ما بعد التدريب",
+      "titleOriginal": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "dateLabel": "18 نوفمبر 2026",
       "dateISO": "2026-11-18",
       "category": "tools",
@@ -715,20 +715,20 @@
       "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
       "summaryOriginal": "",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
       "sourceLabel": "Hugging Face Blog",
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Why your fine-tuning job takes longer than the FLOPs say",
+      "searchAliases": "Hugging Face DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "collector": "github-fast",
       "collectors": [
         "github-fast"
       ],
-      "publishedAt": "2026-11-18T18:53:43+00:00"
+      "publishedAt": "2026-11-18T19:54:56+00:00"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-25T12:57:46.597443+00:00",
-  "lastFastCheckAt": "2026-11-25T13:02:39.051943+00:00"
+  "lastFastCheckAt": "2026-11-25T13:07:17.796123+00:00"
 }
