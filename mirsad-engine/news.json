@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-26T05:02:51.407702+00:00",
-  "checkedAt": "2026-11-26T05:02:51.407702+00:00",
-  "newestPublishedAt": "2026-11-25T18:52:55+00:00",
+  "updatedAt": "2026-11-26T05:07:53.241366+00:00",
+  "checkedAt": "2026-11-26T05:07:53.241366+00:00",
+  "newestPublishedAt": "2026-11-26T05:05:36+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "fe9e45b9ef43d790c89d",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "الاستفادة من Nemotron 3.5 Parse: البيانات المفتوحة والضبط الدقيق والاستدلال الأسرع",
+      "titleOriginal": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "dateLabel": "26 نوفمبر 2026",
+      "dateISO": "2026-11-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-26T05:05:36+00:00"
+    },
     {
       "id": "daf13e6e4a5b36e4533b",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Anthropic Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement"
-    },
-    {
-      "id": "17ff82eab5b698cdfceb",
-      "company": "NVIDIA",
-      "logoText": "NV",
-      "type": "إطلاق أو تحديث",
-      "title": "إلى الأومنيفيرس: كيف يحول المطورون الأفكار إلى محاكاة باستخدام وكلاء الذكاء الاصطناعي المتقدمين",
-      "titleOriginal": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "dateLabel": "19 نوفمبر 2026",
-      "dateISO": "2026-11-19",
-      "category": "models",
-      "importance": 92,
-      "summary": "يعني تحويل فكرة المحاكاة إلى تطبيق عملي تجميع الأصول، وربط الفيزياء والعرض، والتحقق من أن المشهد يتصرف على النحو المنشود. المطور",
-      "summaryOriginal": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
-      "source": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-      "sourceLabel": "NVIDIA Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "NVIDIA Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-26T04:25:32.028746+00:00",
-  "lastFastCheckAt": "2026-11-26T05:02:51.407702+00:00"
+  "lastFastCheckAt": "2026-11-26T05:07:53.241366+00:00"
 }
