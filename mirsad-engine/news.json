@@ -1,49 +1,49 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-26T14:29:40.704868+00:00",
-  "checkedAt": "2026-11-26T14:29:40.704868+00:00",
+  "updatedAt": "2026-11-26T14:30:22.852900+00:00",
+  "checkedAt": "2026-11-26T14:30:22.852900+00:00",
   "newestPublishedAt": "2026-11-26T11:37:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
     {
       "company": "OpenAI",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Microsoft",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 6,
       "error": null
     },
     {
       "company": "NVIDIA",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Amazon",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
     },
     {
       "company": "Apple",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 5,
       "error": null
     },
     {
       "company": "Hugging Face",
-      "kind": "feed-fast",
+      "kind": "feed",
       "ok": true,
       "items": 10,
       "error": null
@@ -111,12 +111,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-26T11:37:17+00:00"
+      "searchAliases": "Hugging Face Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
     },
     {
       "id": "fe9e45b9ef43d790c89d",
@@ -137,12 +132,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-26T05:05:36+00:00"
+      "searchAliases": "Hugging Face Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
     },
     {
       "id": "eecf88ab5db386e359b6",
@@ -163,12 +153,7 @@
       "badge": "موثق من المصدر الرسمي",
       "verified": true,
       "isNew": false,
-      "searchAliases": "Hugging Face Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "collector": "github-fast",
-      "collectors": [
-        "github-fast"
-      ],
-      "publishedAt": "2026-11-26T00:00:00+00:00"
+      "searchAliases": "Hugging Face Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
     },
     {
       "id": "daf13e6e4a5b36e4533b",
@@ -232,27 +217,6 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000"
-    },
-    {
-      "id": "d6726e2977659ed02ec9",
-      "company": "Hugging Face",
-      "logoText": "HF",
-      "type": "مستجد تقني",
-      "title": "تجنب العقبات باستخدام Microduck: سير عمل Sim2Real مع Isaac Lab وNewton",
-      "titleOriginal": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "dateLabel": "24 نوفمبر 2026",
-      "dateISO": "2026-11-24",
-      "category": "tools",
-      "importance": 78,
-      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
-      "summaryOriginal": "",
-      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
-      "source": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "sourceLabel": "Hugging Face Blog",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Hugging Face Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton"
     },
     {
       "id": "4e91a435392b0917c268",
@@ -538,7 +502,7 @@
       "dateISO": "2026-11-21",
       "category": "tools",
       "importance": 78,
-      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع مقابل إعادة حساب السياق نفسه في كل دور. يمكن أن يؤدي التخزين المؤقت الموزع للقيم والمفاتيح (KV) باستخدام Amazon ElastiCache إلى خفض تكلفة الاستدلال بنسبة تصل إلى 40% و",
+      "summary": "يعني الاستضافة الذاتية لنماذج اللغة الكبيرة (LLMs) على وحدات معالجة الرسومات (GPUs) دفع مقابل إعادة حساب السياق نفسه في كل دورة. يمكن للتخزين المؤقت الموزع للقيم والمفاتيح (KV) باستخدام Amazon ElastiCache أن يقلل من تكلفة الاستدلال بنسبة تصل إلى 40% و",
       "summaryOriginal": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
       "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
@@ -559,7 +523,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "توفر Amazon SageMaker HyperPod الآن إضافات مجموعات مدارة للرصد وإدارة المستخدمين، مما يوفر تكوينًا إعلانيًا قائمًا على واجهة برمجة التطبيقات ووحدة التحكم إلى",
+      "summary": "توفر Amazon SageMaker HyperPod الآن إضافات مجموعات مدارة للرصد وإدارة المستخدمين، مما يوفر تكوينًا إعلاميًا وقائمًا على واجهة برمجة التطبيقات ووحدة التحكم إلى",
       "summaryOriginal": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
@@ -580,7 +544,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مدارة واحدة توجه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
+      "summary": "تقدم Amazon SageMaker HyperPod بوابة الاستدلال العالمية، وهي نقطة نهاية مُدارة واحدة توجه طلبات الاستدلال عبر مجموعات HyperPod الخاصة بك في منطقة واحدة أو عبر",
       "summaryOriginal": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
@@ -643,7 +607,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتكم على تشخيص مشكلات تدريب وحدات معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتنميط من أجل",
+      "summary": "يوفر Amazon SageMaker HyperPod الآن قابلية مراقبة محسنة لمساعدتكم على تشخيص مشكلات تدريب وحدة معالجة الرسومات (GPU) بشكل أسرع. وهو يجمع بين قدرات التشخيص والتحليل لـ",
       "summaryOriginal": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
@@ -685,7 +649,7 @@
       "dateISO": "2026-11-20",
       "category": "models",
       "importance": 92,
-      "summary": "تستعرض هذه الدفعة الثانية 13 إطلاقًا آخر لاستنتاج الذكاء الاصطناعي من Amazon SageMaker من عام 2026، والتي تشمل توصيات التكوين، وملاءمة المزيد من النماذج على كل وحدة معالجة رسومات، وتقديم",
+      "summary": "تستعرض هذه الدفعة الثانية 13 إطلاقًا آخر لاستدلال الذكاء الاصطناعي من Amazon SageMaker من عام 2026، والتي تشمل توصيات التكوين، وملاءمة المزيد من النماذج على كل وحدة معالجة رسومات، وتقديم",
       "summaryOriginal": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
       "why": "قد يغيّر قدرات الأدوات أو طريقة استخدامها، لذلك يستحق المتابعة من المصدر الرسمي.",
       "source": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
@@ -736,9 +700,29 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
+    },
+    {
+      "id": "b628f90659f5543457bd",
+      "company": "Anthropic",
+      "logoText": "A",
+      "type": "بحث",
+      "title": "الإعلانات",
+      "titleOriginal": "Announcements",
+      "dateLabel": "20 نوفمبر 2026",
+      "dateISO": "2026-11-20",
+      "category": "research",
+      "importance": 86,
+      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي وسلامته تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
+      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
+      "source": "https://www.anthropic.com/news/announcements",
+      "sourceLabel": "Anthropic Newsroom",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
-  "lastDeepCheckAt": "2026-11-26T04:25:32.028746+00:00",
-  "lastFastCheckAt": "2026-11-26T14:29:40.704868+00:00"
+  "lastDeepCheckAt": "2026-11-26T14:30:22.852900+00:00"
 }
