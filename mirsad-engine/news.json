@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-26T12:48:12.248813+00:00",
-  "checkedAt": "2026-11-26T12:48:12.248813+00:00",
+  "updatedAt": "2026-11-26T12:53:21.542059+00:00",
+  "checkedAt": "2026-11-26T12:53:21.542059+00:00",
   "newestPublishedAt": "2026-11-26T11:37:17+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
@@ -143,6 +143,32 @@
         "github-fast"
       ],
       "publishedAt": "2026-11-26T05:05:36+00:00"
+    },
+    {
+      "id": "eecf88ab5db386e359b6",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مستجد جديد من Hugging Face",
+      "titleOriginal": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "dateLabel": "26 نوفمبر 2026",
+      "dateISO": "2026-11-26",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/training-swarms",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-26T00:00:00+00:00"
     },
     {
       "id": "daf13e6e4a5b36e4533b",
@@ -710,30 +736,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "20 نوفمبر 2026",
-      "dateISO": "2026-11-20",
-      "category": "research",
-      "importance": 86,
-      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي والسلامة تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-26T04:25:32.028746+00:00",
-  "lastFastCheckAt": "2026-11-26T12:48:12.248813+00:00"
+  "lastFastCheckAt": "2026-11-26T12:53:21.542059+00:00"
 }
