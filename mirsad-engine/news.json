@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-27T11:58:12.220352+00:00",
-  "checkedAt": "2026-11-27T11:58:12.220352+00:00",
-  "newestPublishedAt": "2026-11-26T11:37:17+00:00",
+  "updatedAt": "2026-11-27T12:03:26.581315+00:00",
+  "checkedAt": "2026-11-27T12:03:26.581315+00:00",
+  "newestPublishedAt": "2026-11-27T00:00:00+00:00",
   "sourcePolicy": "official-only",
   "engine": "mirsad-github-v2",
   "sourceHealth": [
@@ -92,6 +92,32 @@
     }
   ],
   "items": [
+    {
+      "id": "118dff371c4140a21c41",
+      "company": "Hugging Face",
+      "logoText": "HF",
+      "type": "مستجد تقني",
+      "title": "مستجد جديد من Hugging Face",
+      "titleOriginal": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "dateLabel": "27 نوفمبر 2026",
+      "dateISO": "2026-11-27",
+      "category": "tools",
+      "importance": 78,
+      "summary": "أعلنت Hugging Face عن مستجد جديد مرتبط بالذكاء الاصطناعي. يمكن فتح المصدر الرسمي للاطلاع على التفاصيل الكاملة.",
+      "summaryOriginal": "",
+      "why": "مستجد رسمي قد يكون مفيدًا لفهم اتجاهات منتجات وتقنيات الذكاء الاصطناعي.",
+      "source": "https://huggingface.co/blog/video-trainium3",
+      "sourceLabel": "Hugging Face Blog",
+      "badge": "موثق من المصدر الرسمي",
+      "verified": true,
+      "isNew": false,
+      "searchAliases": "Hugging Face Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "collector": "github-fast",
+      "collectors": [
+        "github-fast"
+      ],
+      "publishedAt": "2026-11-27T00:00:00+00:00"
+    },
     {
       "id": "e88ea14466ef3b90f7dc",
       "company": "Hugging Face",
@@ -700,30 +726,9 @@
       "verified": true,
       "isNew": false,
       "searchAliases": "Hugging Face Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
-    },
-    {
-      "id": "b628f90659f5543457bd",
-      "company": "Anthropic",
-      "logoText": "A",
-      "type": "بحث",
-      "title": "الإعلانات",
-      "titleOriginal": "Announcements",
-      "dateLabel": "20 نوفمبر 2026",
-      "dateISO": "2026-11-20",
-      "category": "research",
-      "importance": 86,
-      "summary": "Anthropic هي شركة للبحث في مجال الذكاء الاصطناعي وسلامته تعمل على إنشاء أنظمة ذكاء اصطناعي موثوقة وقابلة للتفسير وقابلة للتوجيه.",
-      "summaryOriginal": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "why": "يوضح اتجاهًا بحثيًا أو نتيجة قد تؤثر في تطور تقنيات الذكاء الاصطناعي.",
-      "source": "https://www.anthropic.com/news/announcements",
-      "sourceLabel": "Anthropic Newsroom",
-      "badge": "موثق من المصدر الرسمي",
-      "verified": true,
-      "isNew": false,
-      "searchAliases": "Anthropic Announcements"
     }
   ],
   "collectorMode": "github-fast+deep",
   "lastDeepCheckAt": "2026-11-27T05:22:46.687980+00:00",
-  "lastFastCheckAt": "2026-11-27T11:58:12.220352+00:00"
+  "lastFastCheckAt": "2026-11-27T12:03:26.581315+00:00"
 }
